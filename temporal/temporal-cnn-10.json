@@ -1,0 +1,277 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "lit up",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was under way",
+                "pos": [
+                    20,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "west",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reported",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are some highlighted reports",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "listed",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shared",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-10",
+    "sents": [
+        [
+            "Twitter",
+            "lit",
+            "up",
+            "Friday",
+            "with",
+            "dramatic",
+            "reports",
+            "from",
+            "confused",
+            "and",
+            "terrified",
+            "residents",
+            "of",
+            "suburban",
+            "Boston",
+            ",",
+            "where",
+            "a",
+            "massive",
+            "manhunt",
+            "was",
+            "under",
+            "way",
+            "for",
+            "a",
+            "suspect",
+            "in",
+            "Monday",
+            "'s",
+            "Boston",
+            "Marathon",
+            "bombings",
+            "."
+        ],
+        [
+            "Residents",
+            "of",
+            "Watertown",
+            ",",
+            "just",
+            "west",
+            "of",
+            "Boston",
+            ",",
+            "reported",
+            "seeing",
+            "hordes",
+            "of",
+            "police",
+            "officers",
+            ",",
+            "many",
+            "with",
+            "automatic",
+            "weapons",
+            ",",
+            "combing",
+            "streets",
+            ",",
+            "yards",
+            "and",
+            "alleys",
+            "while",
+            "helicopters",
+            "buzzed",
+            "overhead",
+            "."
+        ],
+        [
+            "Here",
+            "are",
+            "some",
+            "highlighted",
+            "reports",
+            "from",
+            "a",
+            "city",
+            "under",
+            "lockdown",
+            ",",
+            "listed",
+            "from",
+            "newest",
+            "to",
+            "oldest",
+            "."
+        ],
+        [
+            "(",
+            "All",
+            "information",
+            "shared",
+            "in",
+            "these",
+            "tweets",
+            "could",
+            "not",
+            "be",
+            "immediately",
+            "verified",
+            "by",
+            "CNN",
+            ".",
+            ")"
+        ],
+        [
+            "If",
+            "you",
+            "ca",
+            "n't",
+            "see",
+            "these",
+            "embedded",
+            "tweets",
+            "and",
+            "photos",
+            "below",
+            ",",
+            "click",
+            "here",
+            "."
+        ],
+        [
+            "."
+        ]
+    ]
+}

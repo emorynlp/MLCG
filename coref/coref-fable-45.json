@@ -1,0 +1,503 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "sting",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "desired",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "her wish",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Jupiter",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Jupiter",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Jupiter",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the power",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the power",
+                "pos": [
+                    30,
+                    32
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "her sting",
+                "pos": [
+                    37,
+                    39
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A BEE",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The Bee",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "a little spiteful insect",
+                "pos": [
+                    10,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    49,
+                    50
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Ill",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-45",
+    "sents": [
+        [
+            "A",
+            "BEE",
+            "made",
+            "Jupiter",
+            "a",
+            "present",
+            "of",
+            "a",
+            "pot",
+            "of",
+            "honey",
+            ",",
+            "which",
+            "was",
+            "so",
+            "kindly",
+            "taken",
+            "that",
+            "he",
+            "bade",
+            "her",
+            "ask",
+            "what",
+            "she",
+            "would",
+            "in",
+            "exchange",
+            "."
+        ],
+        [
+            "The",
+            "Bee",
+            ",",
+            "who",
+            "was",
+            "nursing",
+            "a",
+            "private",
+            "spite",
+            "for",
+            "the",
+            "loss",
+            "of",
+            "some",
+            "of",
+            "her",
+            "winter",
+            "\u2019s",
+            "store",
+            ",",
+            "desired",
+            "of",
+            "Jupiter",
+            "that",
+            "wherever",
+            "she",
+            "should",
+            "set",
+            "her",
+            "sting",
+            "it",
+            "might",
+            "be",
+            "mortal",
+            "."
+        ],
+        [
+            "Jupiter",
+            "was",
+            "loath",
+            "to",
+            "leave",
+            "mankind",
+            "at",
+            "the",
+            "mercy",
+            "of",
+            "a",
+            "little",
+            "spiteful",
+            "insect",
+            ",",
+            "and",
+            "was",
+            "annoyed",
+            "at",
+            "the",
+            "ill",
+            "nature",
+            "shown",
+            "in",
+            "her",
+            "wish",
+            "."
+        ],
+        [
+            "He",
+            "said",
+            ",",
+            "therefore",
+            ",",
+            "that",
+            "while",
+            ",",
+            "for",
+            "his",
+            "promise",
+            "\u2019s",
+            "sake",
+            ",",
+            "he",
+            "would",
+            "give",
+            "her",
+            "the",
+            "power",
+            "to",
+            "harm",
+            ",",
+            "she",
+            "must",
+            "be",
+            "careful",
+            "how",
+            "she",
+            "used",
+            "the",
+            "power",
+            ",",
+            "for",
+            "where",
+            "she",
+            "planted",
+            "her",
+            "sting",
+            ",",
+            "she",
+            "would",
+            "leave",
+            "it",
+            ",",
+            "and",
+            "would",
+            "thereby",
+            "risk",
+            "her",
+            "own",
+            "life",
+            "."
+        ],
+        [
+            "Ill",
+            "will",
+            "often",
+            "does",
+            "greater",
+            "harm",
+            "to",
+            "the",
+            "one",
+            "who",
+            "acts",
+            "from",
+            "it",
+            "than",
+            "to",
+            "the",
+            "one",
+            "on",
+            "whom",
+            "it",
+            "falls",
+            "."
+        ]
+    ]
+}

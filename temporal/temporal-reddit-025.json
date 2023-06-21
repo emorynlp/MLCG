@@ -1,0 +1,327 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "remember",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a accessible website",
+                "pos": [
+                    14,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s the digital equivalent",
+                "pos": [
+                    31,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s a ton of ads",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pop ups",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "blocks",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "obstructs",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m just saddened",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "see",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a simple and helpful service",
+                "pos": [
+                    7,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "become",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-025",
+    "sents": [
+        [
+            "Younger",
+            "Zoomers",
+            "might",
+            "not",
+            "catch",
+            "my",
+            "drift",
+            "here",
+            "but",
+            "damn",
+            "I",
+            "remember",
+            "when",
+            "easybib",
+            "was",
+            "a",
+            "accessible",
+            "website",
+            "with",
+            "literally",
+            "two",
+            "buttons",
+            "\u201c",
+            "cite",
+            "\u201d",
+            "and",
+            "\u201c",
+            "search",
+            "\u201d",
+            "Now",
+            "it",
+            "\u2019s",
+            "the",
+            "digital",
+            "equivalent",
+            "of",
+            "a",
+            "magazine",
+            "tabloid",
+            "."
+        ],
+        [
+            "There",
+            "\u2019s",
+            "a",
+            "ton",
+            "of",
+            "ads",
+            "everywhere",
+            ",",
+            "a",
+            "bunch",
+            "of",
+            "annoying",
+            "pop",
+            "ups",
+            ",",
+            "a",
+            "lot",
+            "of",
+            "text",
+            "all",
+            "around",
+            "the",
+            "site",
+            "that",
+            "blocks",
+            "and",
+            "obstructs",
+            "everything",
+            "."
+        ],
+        [
+            "I",
+            "also",
+            "now",
+            "have",
+            "to",
+            "watch",
+            "a",
+            "30",
+            "second",
+            "ad",
+            "JUST",
+            "TO",
+            "CITE",
+            "A",
+            "SOURCE",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "just",
+            "saddened",
+            "to",
+            "see",
+            "what",
+            "was",
+            "a",
+            "simple",
+            "and",
+            "helpful",
+            "service",
+            "now",
+            "become",
+            "a",
+            "monstrosity",
+            "of",
+            "web",
+            "design",
+            "."
+        ]
+    ]
+}

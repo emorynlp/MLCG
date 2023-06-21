@@ -1,0 +1,279 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "boasted",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave out",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "filled",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-09",
+    "sents": [
+        [
+            "A",
+            "DRUM",
+            "once",
+            "boasted",
+            "to",
+            "a",
+            "Vase",
+            "of",
+            "Sweet",
+            "Herbs",
+            "in",
+            "this",
+            "way",
+            ":",
+            "\u201c",
+            "Listen",
+            "to",
+            "me",
+            "!"
+        ],
+        [
+            "My",
+            "voice",
+            "is",
+            "loud",
+            "and",
+            "can",
+            "be",
+            "heard",
+            "far",
+            "off",
+            "."
+        ],
+        [
+            "I",
+            "stir",
+            "the",
+            "hearts",
+            "of",
+            "men",
+            "so",
+            "that",
+            "when",
+            "they",
+            "hear",
+            "my",
+            "bold",
+            "roaring",
+            "they",
+            "march",
+            "out",
+            "bravely",
+            "to",
+            "battle",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Vase",
+            "spoke",
+            "no",
+            "words",
+            ",",
+            "but",
+            "gave",
+            "out",
+            "a",
+            "fine",
+            ",",
+            "sweet",
+            "perfume",
+            ",",
+            "which",
+            "filled",
+            "the",
+            "air",
+            "and",
+            "seemed",
+            "to",
+            "say",
+            ":",
+            "\u201c",
+            "I",
+            "can",
+            "not",
+            "speak",
+            ",",
+            "and",
+            "it",
+            "is",
+            "not",
+            "well",
+            "to",
+            "be",
+            "proud",
+            ",",
+            "but",
+            "I",
+            "am",
+            "full",
+            "of",
+            "good",
+            "things",
+            "that",
+            "are",
+            "hidden",
+            "within",
+            "me",
+            ",",
+            "and",
+            "that",
+            "gladly",
+            "come",
+            "forth",
+            "to",
+            "give",
+            "cheer",
+            "and",
+            "comfort",
+            "."
+        ],
+        [
+            "People",
+            "are",
+            "drawn",
+            "to",
+            "me",
+            "in",
+            "their",
+            "need",
+            ",",
+            "and",
+            "they",
+            "remember",
+            "me",
+            "afterward",
+            "with",
+            "gratitude",
+            "."
+        ],
+        [
+            "But",
+            "you",
+            "have",
+            "nothing",
+            "in",
+            "you",
+            "but",
+            "noise",
+            ",",
+            "and",
+            "you",
+            "must",
+            "be",
+            "struck",
+            "to",
+            "make",
+            "you",
+            "give",
+            "that",
+            "out",
+            "."
+        ],
+        [
+            "I",
+            "would",
+            "not",
+            "boast",
+            "so",
+            "much",
+            "if",
+            "I",
+            "were",
+            "you",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

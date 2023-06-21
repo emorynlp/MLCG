@@ -1,0 +1,326 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "write a post",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the community",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I figured that people on this sub probably have the sauce",
+                "pos": [
+                    7,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "So",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you want to contribute",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": ",",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "please share the school name along with the general application rate and CS / Engineering rate , and your source",
+                "pos": [
+                    7,
+                    27
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-070",
+    "sents": [
+        [
+            "A",
+            "lot",
+            "of",
+            "students",
+            "build",
+            "school",
+            "lists",
+            "based",
+            "on",
+            "\"",
+            "safety",
+            "\"",
+            "schools",
+            "that",
+            "are",
+            "n't",
+            "actually",
+            "safe",
+            "at",
+            "all",
+            "."
+        ],
+        [
+            "E.g.",
+            ",",
+            "UW",
+            "'s",
+            "non-resident",
+            "admissions",
+            "rate",
+            "is",
+            "a",
+            "51%",
+            "."
+        ],
+        [
+            "Safe",
+            ",",
+            "right",
+            "?"
+        ],
+        [
+            "Well",
+            ",",
+            "their",
+            "non-resident",
+            "CS",
+            "admissions",
+            "%",
+            "is",
+            ",",
+            "[",
+            "according",
+            "to",
+            "their",
+            "own",
+            "breakdowns",
+            "]",
+            "(",
+            "https://admit.washington.edu/apply/freshman/by-the-numbers/),",
+            "4%",
+            "."
+        ],
+        [
+            "Uh",
+            "."
+        ],
+        [
+            "I",
+            "would",
+            "really",
+            "like",
+            "to",
+            "write",
+            "a",
+            "post",
+            "for",
+            "the",
+            "community",
+            "about",
+            "the",
+            "**actual**",
+            "admissions",
+            "rates",
+            "for",
+            "popular",
+            "faux",
+            "-",
+            "safety",
+            "CS",
+            "(",
+            "and",
+            "potentially",
+            "engineering",
+            ")",
+            "programs",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "starting",
+            "the",
+            "research",
+            "process",
+            "but",
+            "I",
+            "figured",
+            "that",
+            "people",
+            "on",
+            "this",
+            "sub",
+            "probably",
+            "have",
+            "the",
+            "sauce",
+            "."
+        ],
+        [
+            "So",
+            "if",
+            "you",
+            "want",
+            "to",
+            "contribute",
+            ",",
+            "please",
+            "share",
+            "the",
+            "school",
+            "name",
+            "along",
+            "with",
+            "the",
+            "general",
+            "application",
+            "rate",
+            "and",
+            "CS",
+            "/",
+            "Engineering",
+            "rate",
+            ",",
+            "and",
+            "your",
+            "source",
+            "!"
+        ],
+        [
+            "Thank",
+            "you",
+            "!"
+        ],
+        [
+            "**Others",
+            "I",
+            "can",
+            "think",
+            "of",
+            "in",
+            "this",
+            "somewhat",
+            "deceptive",
+            "category*",
+            "*:",
+            "Maryland",
+            "College",
+            "Park",
+            ",",
+            "Wisconsin",
+            "Madison",
+            ",",
+            "Purdue",
+            ",",
+            "WPI/RPI",
+            ",",
+            "Umass",
+            "Amherst",
+            "."
+        ]
+    ]
+}

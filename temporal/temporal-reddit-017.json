@@ -1,0 +1,203 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "'m curious",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been looking at",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s always my state school",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-017",
+    "sents": [
+        [
+            "I",
+            "'m",
+            "curious",
+            ",",
+            "what",
+            "are",
+            "your",
+            "safety",
+            "schools",
+            "?"
+        ],
+        [
+            "I",
+            "'m",
+            "not",
+            "looking",
+            "to",
+            "go",
+            "to",
+            "a",
+            "T20",
+            ",",
+            "but",
+            "most",
+            "of",
+            "the",
+            "colleges",
+            "I",
+            "want",
+            "to",
+            "go",
+            "to",
+            "have",
+            "a",
+            "15",
+            "-",
+            "25%",
+            "acceptance",
+            "rate",
+            ",",
+            "and",
+            ",",
+            "while",
+            "I",
+            "'d",
+            "like",
+            "to",
+            "think",
+            "of",
+            "myself",
+            "as",
+            "a",
+            "good",
+            "student",
+            "and",
+            "a",
+            "good",
+            "fit",
+            "for",
+            "those",
+            "schools",
+            ",",
+            "there",
+            "'s",
+            "no",
+            "guarantee",
+            "for",
+            "anything",
+            "."
+        ],
+        [
+            "(",
+            "Mostly",
+            "been",
+            "looking",
+            "at",
+            "smaller",
+            "liberal",
+            "arts",
+            "colleges",
+            ".",
+            ")"
+        ],
+        [
+            "While",
+            "there",
+            "'s",
+            "always",
+            "my",
+            "state",
+            "school",
+            ",",
+            "I",
+            "'m",
+            "not",
+            "keen",
+            "on",
+            "going",
+            "there",
+            "."
+        ],
+        [
+            "So",
+            ",",
+            "A2C",
+            ",",
+            "what",
+            "do",
+            "your",
+            "safeties",
+            "look",
+            "like",
+            "?"
+        ]
+    ]
+}

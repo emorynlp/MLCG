@@ -1,0 +1,184 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "they",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "make",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "them 3 hours long",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-059",
+    "sents": [
+        [
+            "I",
+            "wish",
+            "I",
+            "was",
+            "making",
+            "this",
+            "up",
+            "."
+        ],
+        [
+            "First",
+            "our",
+            "classes",
+            "were",
+            "90",
+            "minutes",
+            "long",
+            ",",
+            "and",
+            "that",
+            "was",
+            "probably",
+            "the",
+            "perfect",
+            "lenght",
+            "honestly",
+            "."
+        ],
+        [
+            "Then",
+            "they",
+            "decided",
+            "to",
+            "make",
+            "them",
+            "3",
+            "hours",
+            "long",
+            "."
+        ],
+        [
+            "Okay",
+            ",",
+            "it",
+            "was",
+            "already",
+            "rough",
+            ",",
+            "but",
+            "I",
+            "could",
+            "handle",
+            "it",
+            "."
+        ],
+        [
+            "But",
+            "now",
+            "they",
+            "decided",
+            "that",
+            "our",
+            "economy",
+            "class",
+            "with",
+            "be",
+            "in",
+            "10",
+            "hour",
+            "blocks",
+            "."
+        ],
+        [
+            "10",
+            "HOURS",
+            "!"
+        ],
+        [
+            "Wo",
+            "thought",
+            "that",
+            "s",
+            "a",
+            "good",
+            "idea",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "no",
+            "idea",
+            "how",
+            "I",
+            "am",
+            "supposed",
+            "to",
+            "pay",
+            "attention",
+            "to",
+            "one",
+            "thing",
+            "for",
+            "that",
+            "long",
+            "."
+        ],
+        [
+            "Not",
+            "to",
+            "mention",
+            "there",
+            "is",
+            "only",
+            "one",
+            "break",
+            "during",
+            "those",
+            "10",
+            "hours",
+            "(",
+            "30",
+            "minutes",
+            "in",
+            "the",
+            "afternoon",
+            ")",
+            "."
+        ]
+    ]
+}

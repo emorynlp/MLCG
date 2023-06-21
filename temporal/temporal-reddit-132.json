@@ -1,0 +1,313 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "approached",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wants",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knows",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m a US citizen",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "go",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-132",
+    "sents": [
+        [
+            "So",
+            "basically",
+            ",",
+            "my",
+            "pops",
+            "approached",
+            "me",
+            "and",
+            "wants",
+            "to",
+            "help",
+            "me",
+            "with",
+            "my",
+            "college",
+            "apps",
+            "through",
+            "his",
+            "pretty",
+            "extensive",
+            "web",
+            "of",
+            "connections",
+            "."
+        ],
+        [
+            "He",
+            "knows",
+            "directly",
+            ",",
+            "or",
+            "through",
+            "good",
+            "friends",
+            "/",
+            "his",
+            "own",
+            "partners",
+            ",",
+            "trustees",
+            "at",
+            "some",
+            "of",
+            "the",
+            "top",
+            "LACs",
+            "."
+        ],
+        [
+            "Should",
+            "I",
+            "let",
+            "him",
+            "do",
+            "this",
+            "?"
+        ],
+        [
+            "Aside",
+            "from",
+            "the",
+            "ethics",
+            "of",
+            "this",
+            ",",
+            "would",
+            "this",
+            "help",
+            "my",
+            "app",
+            "in",
+            "any",
+            "beneficial",
+            "way",
+            "?"
+        ],
+        [
+            "Or",
+            "would",
+            "it",
+            "even",
+            "piss",
+            "off",
+            "the",
+            "admissions",
+            "officers",
+            "that",
+            "I",
+            "'m",
+            "in",
+            "a",
+            "sense",
+            "trying",
+            "to",
+            "backdoor",
+            "my",
+            "way",
+            "into",
+            "their",
+            "colleges",
+            "?"
+        ],
+        [
+            "I",
+            "'m",
+            "a",
+            "US",
+            "citizen",
+            "but",
+            "go",
+            "to",
+            "school",
+            "abroad",
+            "in",
+            "Europe",
+            ",",
+            "I",
+            "have",
+            "a",
+            "decent",
+            "app",
+            "that",
+            "'s",
+            "probably",
+            "somewhat",
+            "competitive",
+            "(",
+            "36",
+            "ACT",
+            "not",
+            "like",
+            "that",
+            "matters",
+            "at",
+            "all",
+            "anymore",
+            "lmao",
+            ")",
+            "."
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "&",
+            "#x200B",
+            ";",
+            "Thanks",
+            ",",
+            "and",
+            "sorry",
+            "if",
+            "this",
+            "comes",
+            "off",
+            "as",
+            "pretentious",
+            ",",
+            "I",
+            "just",
+            "want",
+            "to",
+            "get",
+            "into",
+            "college",
+            "."
+        ]
+    ]
+}

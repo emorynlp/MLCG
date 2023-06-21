@@ -1,0 +1,217 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m in",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m really conflicted",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-148",
+    "sents": [
+        [
+            "So",
+            "I",
+            "know",
+            "that",
+            "this",
+            "is",
+            "a",
+            "bit",
+            "odd",
+            "to",
+            "say",
+            "on",
+            "the",
+            "subreddit",
+            ",",
+            "but",
+            "I",
+            "want",
+            "to",
+            "see",
+            "which",
+            "one",
+            "is",
+            "more",
+            "valued",
+            "at",
+            "a",
+            "college",
+            "perspective",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "in",
+            "both",
+            "Model",
+            "UN",
+            "and",
+            "Speech",
+            "(",
+            "and",
+            "DECA",
+            "but",
+            "it",
+            "\u2019s",
+            "not",
+            "that",
+            "important",
+            "in",
+            "this",
+            "story",
+            ")",
+            ",",
+            "and",
+            "both",
+            "MUN",
+            "and",
+            "Speech",
+            "have",
+            "two",
+            "really",
+            "important",
+            "tournaments",
+            "on",
+            "the",
+            "same",
+            "day",
+            "."
+        ],
+        [
+            "NHSMIN",
+            "and",
+            "the",
+            "states",
+            "qualifier",
+            "for",
+            "speech",
+            "to",
+            "be",
+            "exact",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "really",
+            "conflicted",
+            "on",
+            "which",
+            "one",
+            "I",
+            "should",
+            "go",
+            "to",
+            "."
+        ],
+        [
+            "Could",
+            "I",
+            "get",
+            "some",
+            "advice",
+            "on",
+            "which",
+            "one",
+            "seems",
+            "more",
+            "important",
+            "?"
+        ]
+    ]
+}

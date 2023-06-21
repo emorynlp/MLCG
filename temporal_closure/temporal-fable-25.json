@@ -1,0 +1,758 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "determined",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was made",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "choose",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knowing",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wishing",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "searched",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fallen",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stuck",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "arrived",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "assembled",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "proposed",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seeing",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were indignant",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "plucking",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "left",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-25",
+    "sents": [
+        [
+            "JUPITER",
+            "having",
+            "determined",
+            ",",
+            "it",
+            "is",
+            "said",
+            ",",
+            "to",
+            "appoint",
+            "a",
+            "sovereign",
+            "over",
+            "the",
+            "birds",
+            ",",
+            "proclamation",
+            "was",
+            "made",
+            "that",
+            "on",
+            "a",
+            "certain",
+            "day",
+            "the",
+            "candidates",
+            "should",
+            "present",
+            "themselves",
+            "before",
+            "him",
+            ",",
+            "and",
+            "he",
+            "would",
+            "choose",
+            "the",
+            "most",
+            "beautiful",
+            "to",
+            "be",
+            "king",
+            "."
+        ],
+        [
+            "The",
+            "Jackdaw",
+            ",",
+            "knowing",
+            "his",
+            "own",
+            "ugliness",
+            ",",
+            "yet",
+            "wishing",
+            "to",
+            "rule",
+            "over",
+            "the",
+            "birds",
+            ",",
+            "searched",
+            "through",
+            "woods",
+            "and",
+            "fields",
+            "for",
+            "feathers",
+            "which",
+            "had",
+            "fallen",
+            "from",
+            "the",
+            "wings",
+            "of",
+            "his",
+            "companions",
+            ",",
+            "and",
+            "stuck",
+            "them",
+            "all",
+            "over",
+            "his",
+            "body",
+            "."
+        ],
+        [
+            "When",
+            "the",
+            "appointed",
+            "day",
+            "arrived",
+            ",",
+            "and",
+            "the",
+            "birds",
+            "had",
+            "assembled",
+            ",",
+            "the",
+            "Jackdaw",
+            "made",
+            "his",
+            "appearance",
+            "in",
+            "his",
+            "many",
+            "-",
+            "feathered",
+            "finery",
+            ",",
+            "and",
+            "Jupiter",
+            "proposed",
+            "to",
+            "make",
+            "him",
+            "king",
+            "."
+        ],
+        [
+            "Upon",
+            "seeing",
+            "this",
+            ",",
+            "the",
+            "other",
+            "birds",
+            "were",
+            "indignant",
+            ",",
+            "and",
+            "each",
+            "plucking",
+            "from",
+            "the",
+            "Jackdaw",
+            "his",
+            "own",
+            "kind",
+            "of",
+            "feathers",
+            ",",
+            "they",
+            "left",
+            "the",
+            "proposed",
+            "king",
+            "a",
+            "plain",
+            "Jackdaw",
+            "with",
+            "no",
+            "claim",
+            "to",
+            "superior",
+            "beauty",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Twitter lit up Friday",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "with",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "dramatic reports from confused and terrified residents of suburban Boston",
+                "pos": [
+                    5,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "a massive manhunt was under way",
+                "pos": [
+                    17,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a suspect in Monday 's Boston Marathon bombings",
+                "pos": [
+                    24,
+                    32
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "you ca n't see these embedded tweets and photos below",
+                "pos": [
+                    1,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "click here",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-10",
+    "sents": [
+        [
+            "Twitter",
+            "lit",
+            "up",
+            "Friday",
+            "with",
+            "dramatic",
+            "reports",
+            "from",
+            "confused",
+            "and",
+            "terrified",
+            "residents",
+            "of",
+            "suburban",
+            "Boston",
+            ",",
+            "where",
+            "a",
+            "massive",
+            "manhunt",
+            "was",
+            "under",
+            "way",
+            "for",
+            "a",
+            "suspect",
+            "in",
+            "Monday",
+            "'s",
+            "Boston",
+            "Marathon",
+            "bombings",
+            "."
+        ],
+        [
+            "Residents",
+            "of",
+            "Watertown",
+            ",",
+            "just",
+            "west",
+            "of",
+            "Boston",
+            ",",
+            "reported",
+            "seeing",
+            "hordes",
+            "of",
+            "police",
+            "officers",
+            ",",
+            "many",
+            "with",
+            "automatic",
+            "weapons",
+            ",",
+            "combing",
+            "streets",
+            ",",
+            "yards",
+            "and",
+            "alleys",
+            "while",
+            "helicopters",
+            "buzzed",
+            "overhead",
+            "."
+        ],
+        [
+            "Here",
+            "are",
+            "some",
+            "highlighted",
+            "reports",
+            "from",
+            "a",
+            "city",
+            "under",
+            "lockdown",
+            ",",
+            "listed",
+            "from",
+            "newest",
+            "to",
+            "oldest",
+            "."
+        ],
+        [
+            "(",
+            "All",
+            "information",
+            "shared",
+            "in",
+            "these",
+            "tweets",
+            "could",
+            "not",
+            "be",
+            "immediately",
+            "verified",
+            "by",
+            "CNN",
+            ".",
+            ")"
+        ],
+        [
+            "If",
+            "you",
+            "ca",
+            "n't",
+            "see",
+            "these",
+            "embedded",
+            "tweets",
+            "and",
+            "photos",
+            "below",
+            ",",
+            "click",
+            "here",
+            "."
+        ],
+        [
+            "."
+        ]
+    ]
+}

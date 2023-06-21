@@ -1,0 +1,173 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I know",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I saw the deferral letter",
+                "pos": [
+                    3,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-093",
+    "sents": [
+        [
+            "I",
+            "know",
+            "you",
+            "all",
+            "were",
+            "wondering",
+            "what",
+            "happened",
+            "to",
+            "him",
+            "."
+        ],
+        [
+            "He",
+            "lied",
+            "about",
+            "getting",
+            "accepted",
+            "to",
+            "Columbia",
+            "ED",
+            "when",
+            "he",
+            "really",
+            "got",
+            "deferred",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "because",
+            "I",
+            "saw",
+            "the",
+            "deferral",
+            "letter",
+            "."
+        ],
+        [
+            "https://www.reddit.com/r/ApplyingToCollege/comments/mkws6q/currently_fearing_for_the_boy_at_my_school_who/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+            "Well",
+            ",",
+            "today",
+            "I",
+            "saw",
+            "mom",
+            "\u2019s",
+            "Facebook",
+            "."
+        ],
+        [
+            "And",
+            "HOLY",
+            "SHIT",
+            "HE",
+            "GOT",
+            "ACCEPTED\ud83e\udd73",
+            "She",
+            "posted",
+            "his",
+            "acceptance",
+            "letter",
+            "and",
+            "reaction",
+            "video",
+            "."
+        ],
+        [
+            "As",
+            "soon",
+            "as",
+            "he",
+            "opened",
+            "the",
+            "letter",
+            "and",
+            "saw",
+            "congratulations",
+            ",",
+            "he",
+            "started",
+            "crying",
+            "and",
+            "his",
+            "mom",
+            "and",
+            "dad",
+            "started",
+            "screaming",
+            "."
+        ],
+        [
+            "His",
+            "grandma",
+            "was",
+            "also",
+            "there",
+            "and",
+            "started",
+            "sobbing",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "actually",
+            "so",
+            "cute\ud83e\udd7a",
+            "I",
+            "\u2019m",
+            "really",
+            "relieved",
+            "and",
+            "happy",
+            "for",
+            "him\ud83d\ude0a"
+        ]
+    ]
+}

@@ -1,0 +1,425 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "been something of a worrywart",
+                "pos": [
+                    4,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been saving up",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "make",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "encouraging",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heard",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "claim",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was really surprising",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "come from",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m expecting",
+                "pos": [
+                    34,
+                    36
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m pretty sure",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "paying for",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-113",
+    "sents": [
+        [
+            "So",
+            "I",
+            "'ve",
+            "always",
+            "been",
+            "something",
+            "of",
+            "a",
+            "worrywart",
+            "and",
+            "I",
+            "'ve",
+            "been",
+            "saving",
+            "up",
+            "all",
+            "the",
+            "money",
+            "that",
+            "I",
+            "make",
+            "from",
+            "my",
+            "job",
+            "for",
+            "college",
+            "and",
+            "emergency",
+            "purposes",
+            "."
+        ],
+        [
+            "My",
+            "mom",
+            "keeps",
+            "encouraging",
+            "me",
+            "to",
+            "spend",
+            "it",
+            ",",
+            "though",
+            ",",
+            "because",
+            "apparently",
+            "once",
+            "the",
+            "college",
+            "sees",
+            "that",
+            "I",
+            "have",
+            "money",
+            "in",
+            "my",
+            "account",
+            ",",
+            "they",
+            "'ll",
+            "want",
+            "to",
+            "take",
+            "all",
+            "of",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "'ve",
+            "always",
+            "heard",
+            "people",
+            "claim",
+            "that",
+            "teens",
+            "should",
+            "start",
+            "saving",
+            "up",
+            "for",
+            "college",
+            "so",
+            "this",
+            "was",
+            "really",
+            "surprising",
+            "to",
+            "hear",
+            "-",
+            "is",
+            "it",
+            "true",
+            "that",
+            "it",
+            "'s",
+            "basically",
+            "useless",
+            "to",
+            "save",
+            "up",
+            "money",
+            "for",
+            "college",
+            "in",
+            "advance",
+            "?"
+        ],
+        [
+            "Also",
+            ",",
+            "not",
+            "sure",
+            "if",
+            "this",
+            "is",
+            "relevant",
+            "or",
+            "not",
+            "but",
+            "I",
+            "come",
+            "from",
+            "a",
+            "low",
+            "-",
+            "income",
+            "family",
+            "-",
+            "we",
+            "do",
+            "n't",
+            "have",
+            "any",
+            "income",
+            "aside",
+            "from",
+            "child",
+            "support",
+            "and",
+            "alimony",
+            "so",
+            "I",
+            "'m",
+            "expecting",
+            "to",
+            "receive",
+            "some",
+            "sort",
+            "of",
+            "financial",
+            "aid",
+            "from",
+            "colleges",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "pretty",
+            "sure",
+            "my",
+            "brother",
+            "had",
+            "money",
+            "in",
+            "his",
+            "bank",
+            "account",
+            "but",
+            "he",
+            "was",
+            "able",
+            "to",
+            "go",
+            "to",
+            "college",
+            "for",
+            "free",
+            ",",
+            "aside",
+            "from",
+            "paying",
+            "for",
+            "health",
+            "insurance",
+            "."
+        ]
+    ]
+}

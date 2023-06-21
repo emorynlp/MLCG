@@ -1,0 +1,294 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the Dog was not hungry",
+                "pos": [
+                    9,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "was not in haste to end the sport",
+                "pos": [
+                    17,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "killing the Hare",
+                "pos": [
+                    26,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a friend",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "why do you bite me so",
+                "pos": [
+                    4,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "an enemy",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "why do you caress me",
+                "pos": [
+                    5,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "means",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-27",
+    "sents": [
+        [
+            "A",
+            "DOG",
+            "once",
+            "gave",
+            "chase",
+            "to",
+            "a",
+            "Hare",
+            "."
+        ],
+        [
+            "Having",
+            "not",
+            "long",
+            "since",
+            "made",
+            "a",
+            "good",
+            "meal",
+            ",",
+            "the",
+            "Dog",
+            "was",
+            "not",
+            "hungry",
+            ",",
+            "and",
+            "so",
+            "was",
+            "not",
+            "in",
+            "haste",
+            "to",
+            "end",
+            "the",
+            "sport",
+            "by",
+            "killing",
+            "the",
+            "Hare",
+            "."
+        ],
+        [
+            "At",
+            "times",
+            "he",
+            "would",
+            "snap",
+            "at",
+            "his",
+            "prey",
+            ",",
+            "and",
+            "at",
+            "times",
+            "play",
+            "with",
+            "him",
+            "and",
+            "lick",
+            "him",
+            "with",
+            "his",
+            "tongue",
+            ",",
+            "till",
+            "at",
+            "last",
+            "the",
+            "bewildered",
+            "Hare",
+            "cried",
+            ":",
+            "\u201c",
+            "Pray",
+            "tell",
+            "me",
+            ",",
+            "are",
+            "you",
+            "an",
+            "enemy",
+            "or",
+            "a",
+            "friend",
+            "?"
+        ],
+        [
+            "If",
+            "a",
+            "friend",
+            ",",
+            "why",
+            "do",
+            "you",
+            "bite",
+            "me",
+            "so",
+            "?"
+        ],
+        [
+            "and",
+            "if",
+            "an",
+            "enemy",
+            ",",
+            "why",
+            "do",
+            "you",
+            "caress",
+            "me",
+            "?",
+            "\u201d"
+        ],
+        [
+            "No",
+            "one",
+            "can",
+            "trust",
+            "a",
+            "person",
+            "who",
+            "is",
+            "neither",
+            "the",
+            "one",
+            "thing",
+            "nor",
+            "the",
+            "other",
+            "."
+        ]
+    ]
+}

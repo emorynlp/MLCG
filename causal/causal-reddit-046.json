@@ -1,0 +1,415 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The first time I dropped out",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I was done with school , done with my course , I hated the uni , hated the cohort and it was a really passive aggressive way of rebelling against my parents",
+                "pos": [
+                    8,
+                    40
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The second time I dropped out",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I changed courses , but realized that",
+                "pos": [
+                    8,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "we had to write essays in a certain way",
+                "pos": [
+                    15,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "obtain grades",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I 'm stupid or entitled",
+                "pos": [
+                    6,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "dropping out of a top college",
+                "pos": [
+                    12,
+                    18
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I do n't think it 's that hard to get in",
+                "pos": [
+                    19,
+                    30
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because of",
+                "pos": [
+                    30,
+                    32
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the range of test scores",
+                "pos": [
+                    32,
+                    37
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-046",
+    "sents": [
+        [
+            "I",
+            "dropped",
+            "out",
+            "of",
+            "the",
+            "same",
+            "college",
+            "twice",
+            "."
+        ],
+        [
+            "It",
+            "'s",
+            "a",
+            "top",
+            "tier",
+            "college",
+            "but",
+            "I",
+            "hated",
+            "it",
+            "."
+        ],
+        [
+            "The",
+            "first",
+            "time",
+            "I",
+            "dropped",
+            "out",
+            "was",
+            "because",
+            "I",
+            "was",
+            "done",
+            "with",
+            "school",
+            ",",
+            "done",
+            "with",
+            "my",
+            "course",
+            ",",
+            "I",
+            "hated",
+            "the",
+            "uni",
+            ",",
+            "hated",
+            "the",
+            "cohort",
+            "and",
+            "it",
+            "was",
+            "a",
+            "really",
+            "passive",
+            "aggressive",
+            "way",
+            "of",
+            "rebelling",
+            "against",
+            "my",
+            "parents",
+            "."
+        ],
+        [
+            "The",
+            "second",
+            "time",
+            "I",
+            "dropped",
+            "out",
+            "was",
+            "because",
+            "I",
+            "changed",
+            "courses",
+            ",",
+            "but",
+            "realized",
+            "that",
+            "we",
+            "had",
+            "to",
+            "write",
+            "essays",
+            "in",
+            "a",
+            "certain",
+            "way",
+            "to",
+            "obtain",
+            "grades",
+            "."
+        ],
+        [
+            "That",
+            "is",
+            "n't",
+            "the",
+            "college",
+            "education",
+            "I",
+            "imagined",
+            "or",
+            "signed",
+            "up",
+            "for",
+            "."
+        ],
+        [
+            "That",
+            "is",
+            "\\",
+            "[",
+            "insert",
+            "a",
+            "suitable",
+            "word\\",
+            "]",
+            "."
+        ],
+        [
+            "(",
+            "Censorship",
+            "?",
+            ")"
+        ],
+        [
+            "A",
+            "lot",
+            "of",
+            "people",
+            "tell",
+            "me",
+            "I",
+            "'m",
+            "stupid",
+            "or",
+            "entitled",
+            "for",
+            "dropping",
+            "out",
+            "of",
+            "a",
+            "top",
+            "college",
+            "-",
+            "I",
+            "do",
+            "n't",
+            "think",
+            "it",
+            "'s",
+            "that",
+            "hard",
+            "to",
+            "get",
+            "in",
+            "because",
+            "of",
+            "the",
+            "range",
+            "of",
+            "test",
+            "scores",
+            "."
+        ],
+        [
+            "Was",
+            "I",
+            "being",
+            "petty",
+            "or",
+            "dumb",
+            "about",
+            "it",
+            "?"
+        ]
+    ]
+}

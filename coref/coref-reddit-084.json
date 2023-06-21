@@ -1,0 +1,266 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The Admissions Committee",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Committee",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "your",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "international financial assistance",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Fin Aid",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-084",
+    "sents": [
+        [
+            ">",
+            "The",
+            "Admissions",
+            "Committee",
+            "has",
+            "completed",
+            "a",
+            "careful",
+            "evaluation",
+            "of",
+            "your",
+            "application",
+            "for",
+            "admission",
+            "to",
+            "Lehigh",
+            "."
+        ],
+        [
+            "I",
+            "regret",
+            "to",
+            "inform",
+            "you",
+            "that",
+            ",",
+            "although",
+            "the",
+            "Committee",
+            "was",
+            "impressed",
+            "with",
+            "your",
+            "academic",
+            "credentials",
+            ",",
+            "we",
+            "are",
+            "unable",
+            "to",
+            "offer",
+            "you",
+            "admission",
+            "."
+        ],
+        [
+            "The",
+            "demand",
+            "for",
+            "international",
+            "financial",
+            "assistance",
+            "exceeds",
+            "the",
+            "amount",
+            "available",
+            "to",
+            "award",
+            "and",
+            "so",
+            "financial",
+            "aid",
+            "needs",
+            "become",
+            "an",
+            "important",
+            "factor",
+            "when",
+            "considering",
+            "international",
+            "applicants",
+            "."
+        ],
+        [
+            "Had",
+            "more",
+            "funding",
+            "been",
+            "available",
+            ",",
+            "we",
+            "would",
+            "have",
+            "been",
+            "able",
+            "to",
+            "extend",
+            "an",
+            "offer",
+            "of",
+            "admission",
+            "to",
+            "you",
+            "."
+        ],
+        [
+            "what",
+            "does",
+            "this",
+            "even",
+            "f\\*",
+            "mean",
+            "??"
+        ],
+        [
+            "my",
+            "application",
+            "went",
+            "through",
+            "till",
+            "Fin",
+            "Aid",
+            "??"
+        ]
+    ]
+}

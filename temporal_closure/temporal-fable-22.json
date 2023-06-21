@@ -1,0 +1,407 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lying",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "brought",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "laid",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "raised",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tried",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "killed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-22",
+    "sents": [
+        [
+            "ONE",
+            "wintry",
+            "day",
+            "a",
+            "Farmer",
+            "found",
+            "a",
+            "Snake",
+            "lying",
+            "on",
+            "the",
+            "frozen",
+            "ground",
+            ",",
+            "quite",
+            "stiff",
+            "and",
+            "nearly",
+            "dead",
+            "with",
+            "cold",
+            "."
+        ],
+        [
+            "In",
+            "a",
+            "fit",
+            "of",
+            "compassion",
+            "the",
+            "Farmer",
+            "brought",
+            "him",
+            "carefully",
+            "to",
+            "his",
+            "house",
+            ",",
+            "and",
+            "laid",
+            "him",
+            "near",
+            "the",
+            "fire",
+            "."
+        ],
+        [
+            "But",
+            "as",
+            "soon",
+            "as",
+            "the",
+            "Snake",
+            "began",
+            "to",
+            "feel",
+            "the",
+            "pleasant",
+            "warmth",
+            ",",
+            "he",
+            "raised",
+            "his",
+            "head",
+            "and",
+            "tried",
+            "to",
+            "bite",
+            "his",
+            "kind",
+            "friend",
+            "."
+        ],
+        [
+            "\u201c",
+            "Oh",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Farmer",
+            ",",
+            "\u201c",
+            "is",
+            "that",
+            "the",
+            "way",
+            "you",
+            "repay",
+            "me",
+            "for",
+            "my",
+            "trouble",
+            "?"
+        ],
+        [
+            "You",
+            "are",
+            "a",
+            "venomous",
+            "creature",
+            ",",
+            "I",
+            "am",
+            "sure",
+            ",",
+            "and",
+            "the",
+            "sooner",
+            "you",
+            "die",
+            "the",
+            "better",
+            ".",
+            "\u201d"
+        ],
+        [
+            "And",
+            "he",
+            "killed",
+            "him",
+            "with",
+            "one",
+            "blow",
+            "of",
+            "his",
+            "stick",
+            "."
+        ]
+    ]
+}

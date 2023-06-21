@@ -1,0 +1,378 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "he would choose the most beautiful",
+                "pos": [
+                    33,
+                    39
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "be king",
+                "pos": [
+                    40,
+                    42
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "searched through woods and fields",
+                "pos": [
+                    16,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "feathers which had fallen",
+                "pos": [
+                    22,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "from",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the wings of his companions",
+                "pos": [
+                    27,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Jupiter",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "make",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "him king",
+                "pos": [
+                    29,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Upon",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "seeing this",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the other birds were indignant",
+                "pos": [
+                    4,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause|effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-25",
+    "sents": [
+        [
+            "JUPITER",
+            "having",
+            "determined",
+            ",",
+            "it",
+            "is",
+            "said",
+            ",",
+            "to",
+            "appoint",
+            "a",
+            "sovereign",
+            "over",
+            "the",
+            "birds",
+            ",",
+            "proclamation",
+            "was",
+            "made",
+            "that",
+            "on",
+            "a",
+            "certain",
+            "day",
+            "the",
+            "candidates",
+            "should",
+            "present",
+            "themselves",
+            "before",
+            "him",
+            ",",
+            "and",
+            "he",
+            "would",
+            "choose",
+            "the",
+            "most",
+            "beautiful",
+            "to",
+            "be",
+            "king",
+            "."
+        ],
+        [
+            "The",
+            "Jackdaw",
+            ",",
+            "knowing",
+            "his",
+            "own",
+            "ugliness",
+            ",",
+            "yet",
+            "wishing",
+            "to",
+            "rule",
+            "over",
+            "the",
+            "birds",
+            ",",
+            "searched",
+            "through",
+            "woods",
+            "and",
+            "fields",
+            "for",
+            "feathers",
+            "which",
+            "had",
+            "fallen",
+            "from",
+            "the",
+            "wings",
+            "of",
+            "his",
+            "companions",
+            ",",
+            "and",
+            "stuck",
+            "them",
+            "all",
+            "over",
+            "his",
+            "body",
+            "."
+        ],
+        [
+            "When",
+            "the",
+            "appointed",
+            "day",
+            "arrived",
+            ",",
+            "and",
+            "the",
+            "birds",
+            "had",
+            "assembled",
+            ",",
+            "the",
+            "Jackdaw",
+            "made",
+            "his",
+            "appearance",
+            "in",
+            "his",
+            "many",
+            "-",
+            "feathered",
+            "finery",
+            ",",
+            "and",
+            "Jupiter",
+            "proposed",
+            "to",
+            "make",
+            "him",
+            "king",
+            "."
+        ],
+        [
+            "Upon",
+            "seeing",
+            "this",
+            ",",
+            "the",
+            "other",
+            "birds",
+            "were",
+            "indignant",
+            ",",
+            "and",
+            "each",
+            "plucking",
+            "from",
+            "the",
+            "Jackdaw",
+            "his",
+            "own",
+            "kind",
+            "of",
+            "feathers",
+            ",",
+            "they",
+            "left",
+            "the",
+            "proposed",
+            "king",
+            "a",
+            "plain",
+            "Jackdaw",
+            "with",
+            "no",
+            "claim",
+            "to",
+            "superior",
+            "beauty",
+            "."
+        ]
+    ]
+}

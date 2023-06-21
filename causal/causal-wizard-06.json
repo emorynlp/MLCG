@@ -1,0 +1,238 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The men , Dorothy thought , were about as old as Uncle Henry",
+                "pos": [
+                    0,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "two of them had beards",
+                "pos": [
+                    15,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-06",
+    "sents": [
+        [
+            "Three",
+            "were",
+            "men",
+            "and",
+            "one",
+            "a",
+            "woman",
+            ",",
+            "and",
+            "all",
+            "were",
+            "oddly",
+            "dressed",
+            "."
+        ],
+        [
+            "They",
+            "wore",
+            "round",
+            "hats",
+            "that",
+            "rose",
+            "to",
+            "a",
+            "small",
+            "point",
+            "a",
+            "foot",
+            "above",
+            "their",
+            "heads",
+            ",",
+            "with",
+            "little",
+            "bells",
+            "around",
+            "the",
+            "brims",
+            "that",
+            "tinkled",
+            "sweetly",
+            "as",
+            "they",
+            "moved",
+            "."
+        ],
+        [
+            "The",
+            "hats",
+            "of",
+            "the",
+            "men",
+            "were",
+            "blue",
+            ";",
+            "the",
+            "little",
+            "woman",
+            "'",
+            "s",
+            "hat",
+            "was",
+            "white",
+            ",",
+            "and",
+            "she",
+            "wore",
+            "a",
+            "white",
+            "gown",
+            "that",
+            "hung",
+            "in",
+            "pleats",
+            "from",
+            "her",
+            "shoulders",
+            "."
+        ],
+        [
+            "Over",
+            "it",
+            "were",
+            "sprinkled",
+            "little",
+            "stars",
+            "that",
+            "glistened",
+            "in",
+            "the",
+            "sun",
+            "like",
+            "diamonds",
+            "."
+        ],
+        [
+            "The",
+            "men",
+            "were",
+            "dressed",
+            "in",
+            "blue",
+            ",",
+            "of",
+            "the",
+            "same",
+            "shade",
+            "as",
+            "their",
+            "hats",
+            ",",
+            "and",
+            "wore",
+            "well",
+            "-",
+            "polished",
+            "boots",
+            "with",
+            "a",
+            "deep",
+            "roll",
+            "of",
+            "blue",
+            "at",
+            "the",
+            "tops",
+            "."
+        ],
+        [
+            "The",
+            "men",
+            ",",
+            "Dorothy",
+            "thought",
+            ",",
+            "were",
+            "about",
+            "as",
+            "old",
+            "as",
+            "Uncle",
+            "Henry",
+            ",",
+            "for",
+            "two",
+            "of",
+            "them",
+            "had",
+            "beards",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "little",
+            "woman",
+            "was",
+            "doubtless",
+            "much",
+            "older",
+            "."
+        ],
+        [
+            "Her",
+            "face",
+            "was",
+            "covered",
+            "with",
+            "wrinkles",
+            ",",
+            "her",
+            "hair",
+            "was",
+            "nearly",
+            "white",
+            ",",
+            "and",
+            "she",
+            "walked",
+            "rather",
+            "stiffly",
+            "."
+        ]
+    ]
+}

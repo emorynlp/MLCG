@@ -1,0 +1,166 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the wind shrieked so loudly all about her",
+                "pos": [
+                    21,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "she nearly became deaf",
+                "pos": [
+                    30,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-03",
+    "sents": [
+        [
+            "Hour",
+            "after",
+            "hour",
+            "passed",
+            "away",
+            ",",
+            "and",
+            "slowly",
+            "Dorothy",
+            "got",
+            "over",
+            "her",
+            "fright",
+            ";",
+            "but",
+            "she",
+            "felt",
+            "quite",
+            "lonely",
+            ",",
+            "and",
+            "the",
+            "wind",
+            "shrieked",
+            "so",
+            "loudly",
+            "all",
+            "about",
+            "her",
+            "that",
+            "she",
+            "nearly",
+            "became",
+            "deaf",
+            "."
+        ],
+        [
+            "At",
+            "first",
+            "she",
+            "had",
+            "wondered",
+            "if",
+            "she",
+            "would",
+            "be",
+            "dashed",
+            "to",
+            "pieces",
+            "when",
+            "the",
+            "house",
+            "fell",
+            "again",
+            ";",
+            "but",
+            "as",
+            "the",
+            "hours",
+            "passed",
+            "and",
+            "nothing",
+            "terrible",
+            "happened",
+            ",",
+            "she",
+            "stopped",
+            "worrying",
+            "and",
+            "resolved",
+            "to",
+            "wait",
+            "calmly",
+            "and",
+            "see",
+            "what",
+            "the",
+            "future",
+            "would",
+            "bring",
+            "."
+        ],
+        [
+            "At",
+            "last",
+            "she",
+            "crawled",
+            "over",
+            "the",
+            "swaying",
+            "floor",
+            "to",
+            "her",
+            "bed",
+            ",",
+            "and",
+            "lay",
+            "down",
+            "upon",
+            "it",
+            ";",
+            "and",
+            "Toto",
+            "followed",
+            "and",
+            "lay",
+            "down",
+            "beside",
+            "her",
+            "."
+        ]
+    ]
+}

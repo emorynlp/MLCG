@@ -1,0 +1,199 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "you",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "stop",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "the tide",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-24",
+    "sents": [
+        [
+            "The",
+            "U.S.",
+            "Agriculture",
+            "Department",
+            "probably",
+            "will",
+            "not",
+            "offer",
+            "a",
+            "two",
+            "dlr",
+            "per",
+            "bushel",
+            "bonus",
+            "payment",
+            "to",
+            "corn",
+            "farmers",
+            "for",
+            "any",
+            "erodible",
+            "cropland",
+            "they",
+            "enrolled",
+            "in",
+            "the",
+            "conservation",
+            "reserve",
+            "program",
+            "last",
+            "year",
+            ",",
+            "an",
+            "aide",
+            "to",
+            "USDA",
+            "Secretary",
+            "Richard",
+            "Lyng",
+            "said",
+            "."
+        ],
+        [
+            "Sen.",
+            "Charles",
+            "Grassley",
+            "(",
+            "R",
+            "-",
+            "Iowa",
+            ")",
+            "said",
+            "yesterday",
+            "that",
+            "Lyng",
+            "had",
+            "indicated",
+            "he",
+            "would",
+            "consider",
+            "giving",
+            "those",
+            "farmers",
+            "the",
+            "same",
+            "two",
+            "dlr",
+            "bonus",
+            "offered",
+            "corn",
+            "farmers",
+            "who",
+            "are",
+            "signing",
+            "up",
+            "for",
+            "the",
+            "1987",
+            "program",
+            "this",
+            "month",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "aide",
+            "to",
+            "Lyng",
+            "said",
+            "it",
+            "was",
+            "doubtful",
+            "that",
+            "the",
+            "department",
+            "would",
+            "offer",
+            "a",
+            "retroactive",
+            "bonus",
+            "to",
+            "farmers",
+            "who",
+            "enrolled",
+            "land",
+            "in",
+            "the",
+            "10",
+            "-",
+            "year",
+            "conservation",
+            "reserve",
+            "last",
+            "year",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "are",
+            "you",
+            "going",
+            "to",
+            "stop",
+            "the",
+            "tide",
+            ",",
+            "\"",
+            "he",
+            "said",
+            ",",
+            "referring",
+            "to",
+            "demands",
+            "that",
+            "would",
+            "follow",
+            "from",
+            "other",
+            "commodity",
+            "groups",
+            "."
+        ]
+    ]
+}

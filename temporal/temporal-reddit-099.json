@@ -1,0 +1,216 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "seen",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be a weird bonding experience",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "make",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is your roommate",
+                "pos": [
+                    28,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "think",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-099",
+    "sents": [
+        [
+            "The",
+            "dude",
+            "has",
+            "only",
+            "seen",
+            "them",
+            "in",
+            "cartoons",
+            "most",
+            "likely",
+            ",",
+            "So",
+            "if",
+            "he",
+            "wants",
+            "to",
+            "chill",
+            "in",
+            "the",
+            "quad",
+            "for",
+            "an",
+            "hour",
+            "while",
+            "you",
+            "drink",
+            "coffee",
+            "and",
+            "and",
+            "talk",
+            "to",
+            "the",
+            "random",
+            "guy",
+            "about",
+            "2",
+            "'",
+            "away",
+            "from",
+            "you",
+            "guys",
+            "sitting",
+            "in",
+            "a",
+            "hammock",
+            "attached",
+            "to",
+            "said",
+            "tree",
+            "you",
+            "'re",
+            "leaning",
+            "against",
+            "you",
+            "'re",
+            "leaning",
+            "against",
+            "go",
+            "for",
+            "it",
+            "."
+        ],
+        [
+            "It",
+            "will",
+            "be",
+            "a",
+            "weird",
+            "bonding",
+            "experience",
+            "but",
+            "you",
+            "will",
+            "make",
+            "a",
+            "very",
+            "good",
+            "friend",
+            "from",
+            "both",
+            "the",
+            "guy",
+            "and",
+            "the",
+            "hammock",
+            "and",
+            "and",
+            "the",
+            "AUS",
+            "SIE",
+            "who",
+            "is",
+            "your",
+            "roommate",
+            "Because",
+            "he",
+            "will",
+            "think",
+            "it",
+            "'s",
+            "awesome",
+            "that",
+            "you",
+            "went",
+            "squirrel",
+            "watching",
+            "with",
+            "him",
+            "."
+        ]
+    ]
+}

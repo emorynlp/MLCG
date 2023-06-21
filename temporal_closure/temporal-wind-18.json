@@ -1,0 +1,250 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felt",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "mentioned",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "put off",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-18",
+    "sents": [
+        [
+            "The",
+            "Mole",
+            "had",
+            "long",
+            "wanted",
+            "to",
+            "make",
+            "the",
+            "acquaintance",
+            "of",
+            "the",
+            "Badger",
+            "."
+        ],
+        [
+            "He",
+            "seemed",
+            ",",
+            "by",
+            "all",
+            "accounts",
+            ",",
+            "to",
+            "be",
+            "such",
+            "an",
+            "important",
+            "personage",
+            "and",
+            ",",
+            "though",
+            "rarely",
+            "visible",
+            ",",
+            "to",
+            "make",
+            "his",
+            "unseen",
+            "influence",
+            "felt",
+            "by",
+            "everybody",
+            "about",
+            "the",
+            "place",
+            "."
+        ],
+        [
+            "But",
+            "whenever",
+            "the",
+            "Mole",
+            "mentioned",
+            "his",
+            "wish",
+            "to",
+            "the",
+            "Water",
+            "Rat",
+            "he",
+            "always",
+            "found",
+            "himself",
+            "put",
+            "off",
+            "."
+        ],
+        [
+            "\"",
+            "It",
+            "'s",
+            "all",
+            "right",
+            ",",
+            "\"",
+            "the",
+            "Rat",
+            "would",
+            "say",
+            "."
+        ],
+        [
+            "\"",
+            "Badger",
+            "'ll",
+            "turn",
+            "up",
+            "some",
+            "day",
+            "or",
+            "other",
+            "\u2014",
+            "he",
+            "'s",
+            "always",
+            "turning",
+            "up\u2014and",
+            "then",
+            "I",
+            "'ll",
+            "introduce",
+            "you",
+            "."
+        ],
+        [
+            "The",
+            "best",
+            "of",
+            "fellows",
+            "!",
+            "But",
+            "you",
+            "must",
+            "not",
+            "only",
+            "take",
+            "him",
+            "AS",
+            "you",
+            "find",
+            "him",
+            ",",
+            "but",
+            "WHEN",
+            "you",
+            "find",
+            "him",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

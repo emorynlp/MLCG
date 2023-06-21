@@ -1,0 +1,272 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was in",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Came back",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am now in",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are applying for",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-005",
+    "sents": [
+        [
+            "I",
+            "want",
+            "to",
+            "know",
+            "in",
+            "short",
+            "terms",
+            "am",
+            "I",
+            "fucked",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "in",
+            "a",
+            "group",
+            "home",
+            "through",
+            "freshman",
+            "year",
+            "high",
+            "school",
+            "but",
+            "had",
+            "good",
+            "grades",
+            "on",
+            "online",
+            "school",
+            "."
+        ],
+        [
+            "Came",
+            "back",
+            "to",
+            "town",
+            ",",
+            "mostly",
+            "bad",
+            "grades",
+            "and",
+            "a",
+            "lot",
+            "of",
+            "absences",
+            "/",
+            "some",
+            "trouble",
+            "for",
+            "the",
+            "rest",
+            "of",
+            "high",
+            "school",
+            "but",
+            "I",
+            "do",
+            "n\u2019t",
+            "think",
+            "I",
+            "\u2019ve",
+            "been",
+            "suspended",
+            "or",
+            "expelled",
+            "from",
+            "any",
+            "high",
+            "school",
+            "I",
+            "went",
+            "to",
+            "."
+        ],
+        [
+            "No",
+            "felony",
+            "\u2019s",
+            "on",
+            "my",
+            "record",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "now",
+            "in",
+            "my",
+            "senior",
+            "year",
+            "people",
+            "around",
+            "me",
+            "are",
+            "applying",
+            "for",
+            "colleges",
+            ",",
+            "should",
+            "I",
+            "even",
+            "bother",
+            "or",
+            "does",
+            "any",
+            "of",
+            "this",
+            "disqualify",
+            "me",
+            "?"
+        ]
+    ]
+}

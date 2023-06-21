@@ -1,0 +1,262 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "cut",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "The reduction",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "The price reduction",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a company spokeswoman",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Diamond Shamrock Corp",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the copany",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "company",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Diamond",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "U.S. oil companies",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "its contract prices",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its contract",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-19",
+    "sents": [
+        [
+            "Diamond",
+            "Shamrock",
+            "Corp",
+            "said",
+            "that",
+            "effective",
+            "today",
+            "it",
+            "had",
+            "cut",
+            "its",
+            "contract",
+            "prices",
+            "for",
+            "crude",
+            "oil",
+            "by",
+            "1.50",
+            "dlrs",
+            "a",
+            "barrel",
+            "."
+        ],
+        [
+            "The",
+            "reduction",
+            "brings",
+            "its",
+            "posted",
+            "price",
+            "for",
+            "West",
+            "Texas",
+            "Intermediate",
+            "to",
+            "16.00",
+            "dlrs",
+            "a",
+            "barrel",
+            ",",
+            "the",
+            "copany",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "price",
+            "reduction",
+            "today",
+            "was",
+            "made",
+            "in",
+            "the",
+            "light",
+            "of",
+            "falling",
+            "oil",
+            "product",
+            "prices",
+            "and",
+            "a",
+            "weak",
+            "crude",
+            "oil",
+            "market",
+            ",",
+            "\"",
+            "a",
+            "company",
+            "spokeswoman",
+            "said",
+            "."
+        ],
+        [
+            "Diamond",
+            "is",
+            "the",
+            "latest",
+            "in",
+            "a",
+            "line",
+            "of",
+            "U.S.",
+            "oil",
+            "companies",
+            "that",
+            "have",
+            "cut",
+            "its",
+            "contract",
+            ",",
+            "or",
+            "posted",
+            ",",
+            "prices",
+            "over",
+            "the",
+            "last",
+            "two",
+            "days",
+            "citing",
+            "weak",
+            "oil",
+            "markets",
+            "."
+        ]
+    ]
+}

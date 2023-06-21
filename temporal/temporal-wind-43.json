@@ -1,0 +1,641 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was a pretty sight",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "met",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "flung",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lit",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stood",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "round",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thrust",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "jigging",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "glanced",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sniggering",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sniffing",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "applying",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "opened",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "carried",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was just saying",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "uprose",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "singing",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "composed",
+                "pos": [
+                    51,
+                    52
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were fallow",
+                "pos": [
+                    55,
+                    57
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "held",
+                "pos": [
+                    58,
+                    59
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "handed down",
+                "pos": [
+                    72,
+                    74
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 18,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 19,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 20,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 19,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 20,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 15,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-43",
+    "sents": [
+        [
+            "It",
+            "was",
+            "a",
+            "pretty",
+            "sight",
+            ",",
+            "and",
+            "a",
+            "seasonable",
+            "one",
+            ",",
+            "that",
+            "met",
+            "their",
+            "eyes",
+            "when",
+            "they",
+            "flung",
+            "the",
+            "door",
+            "open",
+            "."
+        ],
+        [
+            "In",
+            "the",
+            "fore-court",
+            ",",
+            "lit",
+            "by",
+            "the",
+            "dim",
+            "rays",
+            "of",
+            "a",
+            "horn",
+            "lantern",
+            ",",
+            "some",
+            "eight",
+            "or",
+            "ten",
+            "little",
+            "fieldmice",
+            "stood",
+            "in",
+            "a",
+            "semicircle",
+            ",",
+            "red",
+            "worsted",
+            "comforters",
+            "round",
+            "their",
+            "throats",
+            ",",
+            "their",
+            "fore-paws",
+            "thrust",
+            "deep",
+            "into",
+            "their",
+            "pockets",
+            ",",
+            "their",
+            "feet",
+            "jigging",
+            "for",
+            "warmth",
+            "."
+        ],
+        [
+            "With",
+            "bright",
+            "beady",
+            "eyes",
+            "they",
+            "glanced",
+            "shyly",
+            "at",
+            "each",
+            "other",
+            ",",
+            "sniggering",
+            "a",
+            "little",
+            ",",
+            "sniffing",
+            "and",
+            "applying",
+            "coat",
+            "-",
+            "sleeves",
+            "a",
+            "good",
+            "deal",
+            "."
+        ],
+        [
+            "As",
+            "the",
+            "door",
+            "opened",
+            ",",
+            "one",
+            "of",
+            "the",
+            "elder",
+            "ones",
+            "that",
+            "carried",
+            "the",
+            "lantern",
+            "was",
+            "just",
+            "saying",
+            ",",
+            "\"",
+            "Now",
+            "then",
+            ",",
+            "one",
+            ",",
+            "two",
+            ",",
+            "three",
+            "!",
+            "\"",
+            "and",
+            "forthwith",
+            "their",
+            "shrill",
+            "little",
+            "voices",
+            "uprose",
+            "on",
+            "the",
+            "air",
+            ",",
+            "singing",
+            "one",
+            "of",
+            "the",
+            "old",
+            "-",
+            "time",
+            "carols",
+            "that",
+            "their",
+            "forefathers",
+            "composed",
+            "in",
+            "fields",
+            "that",
+            "were",
+            "fallow",
+            "and",
+            "held",
+            "by",
+            "frost",
+            ",",
+            "or",
+            "when",
+            "snow",
+            "-",
+            "bound",
+            "in",
+            "chimney",
+            "corners",
+            ",",
+            "and",
+            "handed",
+            "down",
+            "to",
+            "be",
+            "sung",
+            "in",
+            "the",
+            "miry",
+            "street",
+            "to",
+            "lamp",
+            "-",
+            "lit",
+            "windows",
+            "at",
+            "Yule",
+            "-",
+            "time",
+            "."
+        ]
+    ]
+}

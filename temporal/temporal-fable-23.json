@@ -1,0 +1,327 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "floating",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked at",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "left",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lived",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "washed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came near",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-23",
+    "sents": [
+        [
+            "A",
+            "RAVEN",
+            "saw",
+            "a",
+            "snowy",
+            "Swan",
+            "floating",
+            "on",
+            "the",
+            "lake",
+            "."
+        ],
+        [
+            "\u201c",
+            "No",
+            "wonder",
+            "the",
+            "Swan",
+            "is",
+            "so",
+            "white",
+            ",",
+            "\u201d",
+            "thought",
+            "the",
+            "Raven",
+            ",",
+            "as",
+            "he",
+            "looked",
+            "at",
+            "his",
+            "own",
+            "black",
+            "feathers",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "dare",
+            "say",
+            "_I_",
+            "should",
+            "be",
+            ",",
+            "if",
+            "I",
+            "were",
+            "all",
+            "the",
+            "time",
+            "washing",
+            "myself",
+            "."
+        ],
+        [
+            "I",
+            "believe",
+            "I",
+            "\u2019ll",
+            "try",
+            "it",
+            ".",
+            "\u201d"
+        ],
+        [
+            "Then",
+            "he",
+            "left",
+            "his",
+            "home",
+            ",",
+            "where",
+            "he",
+            "always",
+            "found",
+            "plenty",
+            "to",
+            "eat",
+            ",",
+            "and",
+            "came",
+            "and",
+            "lived",
+            "by",
+            "the",
+            "lake",
+            "."
+        ],
+        [
+            "He",
+            "washed",
+            "himself",
+            "from",
+            "morning",
+            "till",
+            "night",
+            ",",
+            "but",
+            "he",
+            "grew",
+            "no",
+            "whiter",
+            ";",
+            "and",
+            ",",
+            "as",
+            "he",
+            "found",
+            "nothing",
+            "to",
+            "eat",
+            ",",
+            "he",
+            "came",
+            "near",
+            "dying",
+            "for",
+            "want",
+            "of",
+            "food",
+            "."
+        ]
+    ]
+}

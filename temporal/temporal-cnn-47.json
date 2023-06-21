@@ -1,0 +1,324 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "voted",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is the leader of the opposition Patriotic Front",
+                "pos": [
+                    1,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "a major critic of China 's investment",
+                "pos": [
+                    10,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took part",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "peaceful",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-47",
+    "sents": [
+        [
+            "Zambia",
+            "'s",
+            "incumbent",
+            "president",
+            "bowed",
+            "out",
+            "with",
+            "\"",
+            "grace",
+            "and",
+            "honor",
+            "\"",
+            "Friday",
+            "after",
+            "election",
+            "results",
+            "showed",
+            "his",
+            "main",
+            "challenger",
+            "had",
+            "won",
+            ",",
+            "his",
+            "party",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "people",
+            "of",
+            "Zambia",
+            "have",
+            "spoken",
+            "and",
+            "we",
+            "must",
+            "listen",
+            ",",
+            "\"",
+            "outgoing",
+            "President",
+            "Rupiah",
+            "Banda",
+            "said",
+            "on",
+            "the",
+            "website",
+            "of",
+            "his",
+            "Movement",
+            "for",
+            "Multiparty",
+            "Democracy",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "time",
+            "now",
+            "is",
+            "for",
+            "maturity",
+            ",",
+            "for",
+            "composure",
+            "and",
+            "for",
+            "compassion",
+            ".",
+            "\""
+        ],
+        [
+            "Zambians",
+            "voted",
+            "Tuesday",
+            "in",
+            "the",
+            "presidential",
+            "election",
+            "."
+        ],
+        [
+            "The",
+            "incoming",
+            "president",
+            ",",
+            "Michael",
+            "Sata",
+            ",",
+            "will",
+            "be",
+            "sworn",
+            "in",
+            "Friday",
+            ",",
+            "party",
+            "officials",
+            "said",
+            "."
+        ],
+        [
+            "Sata",
+            "is",
+            "the",
+            "leader",
+            "of",
+            "the",
+            "opposition",
+            "Patriotic",
+            "Front",
+            "and",
+            "a",
+            "major",
+            "critic",
+            "of",
+            "China",
+            "'s",
+            "investment",
+            "in",
+            "the",
+            "nation",
+            "."
+        ],
+        [
+            "Ten",
+            "candidates",
+            "took",
+            "part",
+            "in",
+            "the",
+            "presidential",
+            "race",
+            "."
+        ],
+        [
+            "Zambia",
+            "has",
+            "remained",
+            "relatively",
+            "peaceful",
+            "amid",
+            "unrest",
+            "in",
+            "neighboring",
+            "Zimbabwe",
+            "and",
+            "the",
+            "Democratic",
+            "Republic",
+            "of",
+            "the",
+            "Congo",
+            "."
+        ]
+    ]
+}

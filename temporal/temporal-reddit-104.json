@@ -1,0 +1,474 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "went",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "studying",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "studied",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "switched",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "failed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "realized",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "learn",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hear",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "suggest",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "failing",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m 25",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "need",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m realizing",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-104",
+    "sents": [
+        [
+            "I",
+            "went",
+            "to",
+            "university",
+            "studying",
+            "aerospace",
+            "engineering",
+            ",",
+            "and",
+            "I",
+            "took",
+            "advantage",
+            "of",
+            "all",
+            "of",
+            "the",
+            "resources",
+            "available",
+            "to",
+            "me",
+            "and",
+            "studied",
+            "for",
+            "countless",
+            "hours",
+            "only",
+            "to",
+            "fail",
+            "my",
+            "classes",
+            "anyways",
+            "."
+        ],
+        [
+            "I",
+            "then",
+            "switched",
+            "majors",
+            "to",
+            "cinematic",
+            "studies",
+            "and",
+            "only",
+            "found",
+            "that",
+            "slightly",
+            "easier",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "failed",
+            "2-3",
+            "of",
+            "my",
+            "classes",
+            "and",
+            "realized",
+            "that",
+            "it",
+            "was",
+            "going",
+            "to",
+            "be",
+            "an",
+            "uphill",
+            "battle",
+            "and",
+            "that",
+            "I",
+            "might",
+            "fail",
+            "out",
+            "of",
+            "school",
+            "anyways",
+            "."
+        ],
+        [
+            "Then",
+            "I",
+            "went",
+            "to",
+            "learn",
+            "a",
+            "trade",
+            "(",
+            "electrician",
+            ")",
+            "because",
+            "I",
+            "hear",
+            "people",
+            "suggest",
+            "this",
+            "option",
+            "for",
+            "those",
+            "who",
+            "are",
+            "unable",
+            "to",
+            "complete",
+            "college",
+            ",",
+            "but",
+            "found",
+            "that",
+            "it",
+            "was",
+            "n\u2019t",
+            "simple",
+            "either",
+            "and",
+            "ended",
+            "up",
+            "failing",
+            "multiple",
+            "times",
+            "with",
+            "that",
+            "route",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "25",
+            "and",
+            "I",
+            "need",
+            "to",
+            "figure",
+            "out",
+            "something",
+            "to",
+            "do",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "live",
+            "a",
+            "destitute",
+            "life",
+            ",",
+            "but",
+            "I",
+            "\u2019m",
+            "realizing",
+            "that",
+            "I",
+            "\u2019m",
+            "not",
+            "very",
+            "intelligent",
+            "."
+        ]
+    ]
+}

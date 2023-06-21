@@ -1,0 +1,475 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the candidates",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the other birds",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the candidates",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "themselves",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "feathers",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the birds",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the birds",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the birds",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "JUPITER",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Jupiter",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "proposed",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "each",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the other birds",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The Jackdaw",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Jackdaw",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Jackdaw",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the proposed king",
+                "pos": [
+                    24,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-25",
+    "sents": [
+        [
+            "JUPITER",
+            "having",
+            "determined",
+            ",",
+            "it",
+            "is",
+            "said",
+            ",",
+            "to",
+            "appoint",
+            "a",
+            "sovereign",
+            "over",
+            "the",
+            "birds",
+            ",",
+            "proclamation",
+            "was",
+            "made",
+            "that",
+            "on",
+            "a",
+            "certain",
+            "day",
+            "the",
+            "candidates",
+            "should",
+            "present",
+            "themselves",
+            "before",
+            "him",
+            ",",
+            "and",
+            "he",
+            "would",
+            "choose",
+            "the",
+            "most",
+            "beautiful",
+            "to",
+            "be",
+            "king",
+            "."
+        ],
+        [
+            "The",
+            "Jackdaw",
+            ",",
+            "knowing",
+            "his",
+            "own",
+            "ugliness",
+            ",",
+            "yet",
+            "wishing",
+            "to",
+            "rule",
+            "over",
+            "the",
+            "birds",
+            ",",
+            "searched",
+            "through",
+            "woods",
+            "and",
+            "fields",
+            "for",
+            "feathers",
+            "which",
+            "had",
+            "fallen",
+            "from",
+            "the",
+            "wings",
+            "of",
+            "his",
+            "companions",
+            ",",
+            "and",
+            "stuck",
+            "them",
+            "all",
+            "over",
+            "his",
+            "body",
+            "."
+        ],
+        [
+            "When",
+            "the",
+            "appointed",
+            "day",
+            "arrived",
+            ",",
+            "and",
+            "the",
+            "birds",
+            "had",
+            "assembled",
+            ",",
+            "the",
+            "Jackdaw",
+            "made",
+            "his",
+            "appearance",
+            "in",
+            "his",
+            "many",
+            "-",
+            "feathered",
+            "finery",
+            ",",
+            "and",
+            "Jupiter",
+            "proposed",
+            "to",
+            "make",
+            "him",
+            "king",
+            "."
+        ],
+        [
+            "Upon",
+            "seeing",
+            "this",
+            ",",
+            "the",
+            "other",
+            "birds",
+            "were",
+            "indignant",
+            ",",
+            "and",
+            "each",
+            "plucking",
+            "from",
+            "the",
+            "Jackdaw",
+            "his",
+            "own",
+            "kind",
+            "of",
+            "feathers",
+            ",",
+            "they",
+            "left",
+            "the",
+            "proposed",
+            "king",
+            "a",
+            "plain",
+            "Jackdaw",
+            "with",
+            "no",
+            "claim",
+            "to",
+            "superior",
+            "beauty",
+            "."
+        ]
+    ]
+}

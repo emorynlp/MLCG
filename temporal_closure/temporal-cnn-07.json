@@ -1,0 +1,436 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "carrying",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "interrupted",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "standing",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "received",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shows",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "holding",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "turning",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shouting",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "mentioning",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "confirmed",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-07",
+    "sents": [
+        [
+            "A",
+            "man",
+            "carrying",
+            "a",
+            "Mexican",
+            "flag",
+            "interrupted",
+            "Wednesday",
+            "'s",
+            "Nobel",
+            "Peace",
+            "Prize",
+            "ceremony",
+            ",",
+            "standing",
+            "steps",
+            "away",
+            "from",
+            "Malala",
+            "Yousafzai",
+            "as",
+            "she",
+            "received",
+            "her",
+            "award",
+            "."
+        ],
+        [
+            "Video",
+            "of",
+            "the",
+            "event",
+            "in",
+            "Oslo",
+            ",",
+            "Norway",
+            ",",
+            "shows",
+            "a",
+            "young",
+            "man",
+            "with",
+            "a",
+            "camera",
+            "around",
+            "his",
+            "neck",
+            "holding",
+            "a",
+            "Mexican",
+            "flag",
+            "on",
+            "the",
+            "stage",
+            "just",
+            "a",
+            "few",
+            "feet",
+            "from",
+            "Yousafzai",
+            "."
+        ],
+        [
+            "He",
+            "can",
+            "be",
+            "seen",
+            "turning",
+            "toward",
+            "the",
+            "17",
+            "-",
+            "year",
+            "-",
+            "old",
+            "Nobel",
+            "Laureate",
+            "and",
+            "heard",
+            "shouting",
+            "\"",
+            "Please",
+            "Malala",
+            "\"",
+            "and",
+            "mentioning",
+            "Mexico",
+            "."
+        ],
+        [
+            "Oslo",
+            "police",
+            "said",
+            "the",
+            "Mexican",
+            "citizen",
+            "was",
+            "not",
+            "a",
+            "guest",
+            "at",
+            "the",
+            "ceremony",
+            "and",
+            "had",
+            "managed",
+            "to",
+            "go",
+            "through",
+            "security",
+            "checkpoints",
+            "."
+        ],
+        [
+            "He",
+            "was",
+            "not",
+            "carrying",
+            "a",
+            "weapon",
+            ",",
+            "the",
+            "police",
+            "spokesman",
+            "said",
+            "."
+        ],
+        [
+            "Mexico",
+            "'s",
+            "Foreign",
+            "Ministry",
+            "confirmed",
+            "in",
+            "a",
+            "statement",
+            "that",
+            "Norwegian",
+            "police",
+            "had",
+            "detained",
+            "a",
+            "Mexican",
+            "citizen",
+            "after",
+            "an",
+            "interruption",
+            "during",
+            "the",
+            "ceremony",
+            "."
+        ],
+        [
+            "He",
+            "remains",
+            "in",
+            "custody",
+            ",",
+            "the",
+            "foreign",
+            "ministry",
+            "said",
+            "."
+        ]
+    ]
+}

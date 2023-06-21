@@ -1,0 +1,314 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "hearing",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was much pleased",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wished",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "replied",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "decided",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "died",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "do",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "doing",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-15",
+    "sents": [
+        [
+            "A",
+            "MULE",
+            ",",
+            "hearing",
+            "some",
+            "Grasshoppers",
+            "chirping",
+            ",",
+            "was",
+            "much",
+            "pleased",
+            "with",
+            "the",
+            "sound",
+            ",",
+            "and",
+            "wished",
+            "that",
+            "he",
+            "could",
+            "make",
+            "such",
+            "sweet",
+            "music",
+            "."
+        ],
+        [
+            "\u201c",
+            "What",
+            "sort",
+            "of",
+            "food",
+            "do",
+            "you",
+            "eat",
+            ",",
+            "\u201d",
+            "said",
+            "he",
+            "to",
+            "the",
+            "Grasshoppers",
+            ",",
+            "\u201c",
+            "that",
+            "your",
+            "voices",
+            "are",
+            "so",
+            "charming",
+            "?",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Grasshoppers",
+            "replied",
+            ",",
+            "\u201c",
+            "We",
+            "live",
+            "upon",
+            "dew",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Mule",
+            "then",
+            "decided",
+            "that",
+            "he",
+            "too",
+            "would",
+            "live",
+            "upon",
+            "dew",
+            "."
+        ],
+        [
+            "And",
+            "in",
+            "a",
+            "short",
+            "time",
+            "he",
+            "died",
+            "of",
+            "hunger",
+            ",",
+            "just",
+            "from",
+            "trying",
+            "to",
+            "do",
+            "what",
+            "he",
+            "saw",
+            "others",
+            "doing",
+            ",",
+            "without",
+            "first",
+            "learning",
+            "their",
+            "reason",
+            "for",
+            "it",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "My eyes",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "sleepy",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "event"
+            },
+            {
+                "name": "this feeling",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "event"
+            },
+            {
+                "name": "sleepy",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-094",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "a",
+            "4th",
+            "year",
+            "PhD",
+            "student",
+            "and",
+            "I",
+            "\u2019m",
+            "pretty",
+            "behind",
+            "on",
+            "the",
+            "milestones",
+            "(",
+            "according",
+            "to",
+            "the",
+            "program",
+            "anyways",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "need",
+            "to",
+            "read",
+            "this",
+            "one",
+            "article",
+            ",",
+            "but",
+            "it",
+            "\u2019s",
+            "been",
+            "a",
+            "few",
+            "weeks",
+            "and",
+            "I",
+            "\u2019ve",
+            "only",
+            "read",
+            "a",
+            "few",
+            "pages",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "sound",
+            "like",
+            "I",
+            "whine",
+            ",",
+            "but",
+            "I",
+            "\u2019m",
+            "so",
+            "so",
+            "tired",
+            "."
+        ],
+        [
+            "My",
+            "eyes",
+            "are",
+            "heavy",
+            "and",
+            "it",
+            "\u2019s",
+            "hard",
+            "to",
+            "make",
+            "them",
+            "focus",
+            "on",
+            "anything",
+            "."
+        ],
+        [
+            "It",
+            "\u2019s",
+            "not",
+            "that",
+            "hard",
+            "of",
+            "a",
+            "reading",
+            ",",
+            "I",
+            "\u2019m",
+            "just",
+            "so",
+            "sleepy",
+            "."
+        ],
+        [
+            "How",
+            "do",
+            "you",
+            "deal",
+            "with",
+            "this",
+            "feeling",
+            "?"
+        ],
+        [
+            "Grad",
+            "school",
+            "does",
+            "n\u2019t",
+            "care",
+            "if",
+            "I",
+            "\u2019m",
+            "sleepy",
+            "."
+        ],
+        [
+            "I",
+            "need",
+            "to",
+            "work",
+            "."
+        ]
+    ]
+}

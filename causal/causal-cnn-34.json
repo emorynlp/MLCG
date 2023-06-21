@@ -1,0 +1,378 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Argentina 's David Nalbandian and Eduardo Schwank kept Argentina 's Davis Cup dreams alive",
+                "pos": [
+                    0,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they thrashed Spain 's Feliciano Lopez and Fernando Verdasco in the doubles rubber 6-4 6-2 6-3 in Seville on Saturday",
+                "pos": [
+                    15,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Trailing 2-0",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "Friday 's singles matches",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Argentina had to win Saturday 's only rubber",
+                "pos": [
+                    8,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "stop",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "Spain from claiming their fifth win in the competition",
+                "pos": [
+                    18,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they win both singles rubbers on Sunday",
+                "pos": [
+                    6,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they will become the first team in 72 years to win the David Cup from 2-0 down",
+                "pos": [
+                    13,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-34",
+    "sents": [
+        [
+            "Argentina",
+            "'s",
+            "David",
+            "Nalbandian",
+            "and",
+            "Eduardo",
+            "Schwank",
+            "kept",
+            "Argentina",
+            "'s",
+            "Davis",
+            "Cup",
+            "dreams",
+            "alive",
+            "after",
+            "they",
+            "thrashed",
+            "Spain",
+            "'s",
+            "Feliciano",
+            "Lopez",
+            "and",
+            "Fernando",
+            "Verdasco",
+            "in",
+            "the",
+            "doubles",
+            "rubber",
+            "6-4",
+            "6-2",
+            "6-3",
+            "in",
+            "Seville",
+            "on",
+            "Saturday",
+            "."
+        ],
+        [
+            "Trailing",
+            "2-0",
+            "after",
+            "Friday",
+            "'s",
+            "singles",
+            "matches",
+            ",",
+            "Argentina",
+            "had",
+            "to",
+            "win",
+            "Saturday",
+            "'s",
+            "only",
+            "rubber",
+            "to",
+            "stop",
+            "Spain",
+            "from",
+            "claiming",
+            "their",
+            "fifth",
+            "win",
+            "in",
+            "the",
+            "competition",
+            "."
+        ],
+        [
+            "Fighting",
+            "Ferrer",
+            "give",
+            "Spain",
+            "commanding",
+            "lead",
+            "Nalbandian",
+            "and",
+            "Schwank",
+            "never",
+            "looked",
+            "in",
+            "any",
+            "trouble",
+            "throughout",
+            "the",
+            "match",
+            ",",
+            "breaking",
+            "in",
+            "the",
+            "fifth",
+            "game",
+            "of",
+            "the",
+            "first",
+            "set",
+            "before",
+            "racing",
+            "into",
+            "a",
+            "4-0",
+            "lead",
+            "in",
+            "the",
+            "second",
+            "."
+        ],
+        [
+            "Spain",
+            "'s",
+            "only",
+            "two",
+            "chances",
+            "to",
+            "break",
+            "came",
+            "in",
+            "the",
+            "sixth",
+            "game",
+            "of",
+            "the",
+            "third",
+            "set",
+            "but",
+            "both",
+            "times",
+            "Nalbandian",
+            "denied",
+            "them",
+            "."
+        ],
+        [
+            "Argentina",
+            "now",
+            "trail",
+            "Spain",
+            "2-1.",
+            "If",
+            "they",
+            "win",
+            "both",
+            "singles",
+            "rubbers",
+            "on",
+            "Sunday",
+            "they",
+            "will",
+            "become",
+            "the",
+            "first",
+            "team",
+            "in",
+            "72",
+            "years",
+            "to",
+            "win",
+            "the",
+            "David",
+            "Cup",
+            "from",
+            "2-0",
+            "down",
+            "."
+        ],
+        [
+            "Juan",
+            "Martin",
+            "Del",
+            "Potro",
+            "will",
+            "face",
+            "Rafael",
+            "Nadal",
+            "in",
+            "the",
+            "first",
+            "singles",
+            "match",
+            "while",
+            "Nalbadian",
+            "is",
+            "scheduled",
+            "to",
+            "face",
+            "David",
+            "Ferrer",
+            "."
+        ]
+    ]
+}

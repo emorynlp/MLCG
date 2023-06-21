@@ -1,0 +1,245 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "you \u2019re lying to yourself",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you justify your bragging",
+                "pos": [
+                    6,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "telling people they \u2019ll get off the waitlist",
+                "pos": [
+                    11,
+                    19
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you decline your offer",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "does n\u2019t mean someone is getting off the waitlist",
+                "pos": [
+                    6,
+                    15
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "means",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-037",
+    "sents": [
+        [
+            "i",
+            "\u2019m",
+            "tired",
+            "of",
+            "seeing",
+            "these",
+            "posts",
+            "."
+        ],
+        [
+            "You",
+            "are",
+            "bragging",
+            "."
+        ],
+        [
+            "that",
+            "\u2019s",
+            "all",
+            "you",
+            "are",
+            "doing",
+            "."
+        ],
+        [
+            "celebrate",
+            "where",
+            "you",
+            "choose",
+            "to",
+            "go",
+            ",",
+            "do",
+            "n\u2019t",
+            "list",
+            "all",
+            "the",
+            "schools",
+            "you",
+            "got",
+            "into",
+            "for",
+            "the",
+            "clout",
+            "."
+        ],
+        [
+            "there",
+            "\u2019s",
+            "no",
+            "benefit",
+            "you",
+            "or",
+            "anyone",
+            "else",
+            "gets",
+            "from",
+            "u",
+            "posting",
+            "that",
+            "info",
+            ",",
+            "it",
+            "\u2019s",
+            "just",
+            "feeding",
+            "your",
+            "ego",
+            "."
+        ],
+        [
+            "that",
+            "\u2019s",
+            "just",
+            "boastful",
+            "."
+        ],
+        [
+            "you",
+            "\u2019re",
+            "lying",
+            "to",
+            "yourself",
+            "if",
+            "you",
+            "justify",
+            "your",
+            "bragging",
+            "by",
+            "telling",
+            "people",
+            "they",
+            "\u2019ll",
+            "get",
+            "off",
+            "the",
+            "waitlist",
+            "."
+        ],
+        [
+            "just",
+            "because",
+            "you",
+            "decline",
+            "your",
+            "offer",
+            "does",
+            "n\u2019t",
+            "mean",
+            "someone",
+            "is",
+            "getting",
+            "off",
+            "the",
+            "waitlist",
+            "."
+        ],
+        [
+            "waitlist",
+            "acceptances",
+            "are",
+            "not",
+            "1:1",
+            "to",
+            "declined",
+            "offers",
+            "."
+        ]
+    ]
+}

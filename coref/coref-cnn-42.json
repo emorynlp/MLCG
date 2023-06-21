@@ -1,0 +1,298 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "HBO",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "HBO",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Eastbound and Down",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the cult hit",
+                "pos": [
+                    40,
+                    43
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the fourth and final season",
+                "pos": [
+                    7,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the eight - episode season",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The upcoming fourth season",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Kenny Powers",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Kenny",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "North Carolina",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "North Carolina",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-42",
+    "sents": [
+        [
+            "(",
+            "EW.com",
+            ")",
+            "--",
+            "HBO",
+            "will",
+            "bow",
+            "the",
+            "fourth",
+            "and",
+            "final",
+            "season",
+            "of",
+            "\"",
+            "Eastbound",
+            "and",
+            "Down",
+            "\"",
+            "on",
+            "Sept.",
+            "29",
+            "."
+        ],
+        [
+            "Production",
+            "on",
+            "the",
+            "eight",
+            "-",
+            "episode",
+            "season",
+            "will",
+            "start",
+            "Friday",
+            "in",
+            "North",
+            "Carolina",
+            "."
+        ],
+        [
+            "The",
+            "single",
+            "-",
+            "camera",
+            "comedy",
+            "stars",
+            "Kenny",
+            "Powers",
+            "as",
+            "a",
+            "former",
+            "major",
+            "league",
+            "pitcher",
+            "."
+        ],
+        [
+            "The",
+            "third",
+            "season",
+            "concluded",
+            "in",
+            "April",
+            "2012",
+            "and",
+            "was",
+            "thought",
+            "to",
+            "be",
+            "its",
+            "last",
+            ",",
+            "though",
+            "HBO",
+            "convinced",
+            "star",
+            "Danny",
+            "McBride",
+            "and",
+            "executive",
+            "producers",
+            "Jody",
+            "Hill",
+            ",",
+            "Will",
+            "Ferrell",
+            ",",
+            "Chris",
+            "Henchy",
+            "and",
+            "Adam",
+            "McKay",
+            "to",
+            "create",
+            "more",
+            "episodes",
+            "of",
+            "the",
+            "cult",
+            "hit",
+            "."
+        ],
+        [
+            "The",
+            "upcoming",
+            "fourth",
+            "season",
+            "picks",
+            "up",
+            "the",
+            "action",
+            "several",
+            "years",
+            "later",
+            "and",
+            "finds",
+            "Kenny",
+            "living",
+            "the",
+            "American",
+            "Dream",
+            "with",
+            "his",
+            "family",
+            "in",
+            "North",
+            "Carolina",
+            "."
+        ],
+        [
+            "See",
+            "the",
+            "original",
+            "article",
+            "at",
+            "EW.com",
+            "."
+        ],
+        [
+            "CLICK",
+            "HERE",
+            "to",
+            "Try",
+            "2",
+            "RISK",
+            "FREE",
+            "issues",
+            "of",
+            "Entertainment",
+            "Weekly",
+            "\u00a9",
+            "2011",
+            "Entertainment",
+            "Weekly",
+            "and",
+            "Time",
+            "Inc.",
+            "All",
+            "rights",
+            "reserved",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,470 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "hopped",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heard",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "watched",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "disappeared",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "laughing",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dressed",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "filled",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knotting",
+                "pos": [
+                    45,
+                    46
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tying",
+                "pos": [
+                    53,
+                    54
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "formed",
+                "pos": [
+                    70,
+                    71
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "scrambled out",
+                "pos": [
+                    79,
+                    81
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "slid",
+                "pos": [
+                    82,
+                    83
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "taking",
+                "pos": [
+                    90,
+                    91
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "marched off",
+                "pos": [
+                    98,
+                    100
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "whistling",
+                "pos": [
+                    102,
+                    103
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-47",
+    "sents": [
+        [
+            "The",
+            "Toad",
+            ",",
+            "who",
+            "had",
+            "hopped",
+            "lightly",
+            "out",
+            "of",
+            "bed",
+            "as",
+            "soon",
+            "as",
+            "he",
+            "heard",
+            "the",
+            "key",
+            "turned",
+            "in",
+            "the",
+            "lock",
+            ",",
+            "watched",
+            "him",
+            "eagerly",
+            "from",
+            "the",
+            "window",
+            "till",
+            "he",
+            "disappeared",
+            "down",
+            "the",
+            "carriage",
+            "-",
+            "drive",
+            "."
+        ],
+        [
+            "Then",
+            ",",
+            "laughing",
+            "heartily",
+            ",",
+            "he",
+            "dressed",
+            "as",
+            "quickly",
+            "as",
+            "possible",
+            "in",
+            "the",
+            "smartest",
+            "suit",
+            "he",
+            "could",
+            "lay",
+            "hands",
+            "on",
+            "at",
+            "the",
+            "moment",
+            ",",
+            "filled",
+            "his",
+            "pockets",
+            "with",
+            "cash",
+            "which",
+            "he",
+            "took",
+            "from",
+            "a",
+            "small",
+            "drawer",
+            "in",
+            "the",
+            "dressing",
+            "-",
+            "table",
+            ",",
+            "and",
+            "next",
+            ",",
+            "knotting",
+            "the",
+            "sheets",
+            "from",
+            "his",
+            "bed",
+            "together",
+            "and",
+            "tying",
+            "one",
+            "end",
+            "of",
+            "the",
+            "improvised",
+            "rope",
+            "round",
+            "the",
+            "central",
+            "mullion",
+            "of",
+            "the",
+            "handsome",
+            "Tudor",
+            "window",
+            "which",
+            "formed",
+            "such",
+            "a",
+            "feature",
+            "of",
+            "his",
+            "bedroom",
+            ",",
+            "he",
+            "scrambled",
+            "out",
+            ",",
+            "slid",
+            "lightly",
+            "to",
+            "the",
+            "ground",
+            ",",
+            "and",
+            ",",
+            "taking",
+            "the",
+            "opposite",
+            "direction",
+            "to",
+            "the",
+            "Rat",
+            ",",
+            "marched",
+            "off",
+            "lightheartedly",
+            ",",
+            "whistling",
+            "a",
+            "merry",
+            "tune",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "is horrendous",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "confused",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is always confused about",
+                "pos": [
+                    17,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "confused",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "calls",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knows",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are the ones",
+                "pos": [
+                    35,
+                    38
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-105",
+    "sents": [
+        [
+            "My",
+            "Dad",
+            "is",
+            "horrendous",
+            "with",
+            "pronunciations",
+            ",",
+            "he",
+            "gets",
+            "really",
+            "confused",
+            "between",
+            "the",
+            "UCs",
+            "and",
+            "USC",
+            ",",
+            "is",
+            "always",
+            "confused",
+            "about",
+            "which",
+            "one",
+            "is",
+            "public",
+            "and",
+            "which",
+            "one",
+            "is",
+            "private",
+            "."
+        ],
+        [
+            "He",
+            "gets",
+            "particularly",
+            "confused",
+            "between",
+            "UCSC",
+            "and",
+            "USC",
+            "and",
+            "now",
+            "calls",
+            "all",
+            "the",
+            "UCs",
+            "\"",
+            "USC",
+            "X",
+            "\"",
+            "eg.",
+            "USC",
+            "Berkeley",
+            ",",
+            "USC",
+            "Davis",
+            ",",
+            "etc.",
+            "The",
+            "only",
+            "schools",
+            "he",
+            "consistently",
+            "knows",
+            "how",
+            "to",
+            "pronounce",
+            "are",
+            "the",
+            "ones",
+            "that",
+            "have",
+            "a",
+            "major",
+            "city",
+            "in",
+            "their",
+            "name",
+            "+",
+            "college",
+            "/",
+            "university",
+            "(",
+            "eg.",
+            "Boston",
+            "University",
+            ",",
+            "NYU",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "even",
+            "know",
+            "what",
+            "came",
+            "out",
+            "of",
+            "his",
+            "mouth",
+            "when",
+            "he",
+            "saw",
+            "Ursinus",
+            "College",
+            "on",
+            "Naviance",
+            "."
+        ],
+        [
+            "What",
+            "'s",
+            "the",
+            "weirdest",
+            "pronunciation",
+            "you",
+            "have",
+            "heard",
+            "of",
+            "a",
+            "school",
+            "and",
+            "the",
+            "story",
+            "behind",
+            "it",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,368 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "he was so pleased",
+                "pos": [
+                    19,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he wept tears of joy",
+                "pos": [
+                    24,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy had to wipe every tear carefully from his face with her apron",
+                "pos": [
+                    31,
+                    44
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    45,
+                    46
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "his joints would not be rusted",
+                "pos": [
+                    46,
+                    52
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "her own tears fell thick and fast",
+                "pos": [
+                    4,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "at",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the joy of meeting her old friend again",
+                "pos": [
+                    12,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he wiped his eyes so often with the tip of his tail",
+                "pos": [
+                    5,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it became quite wet",
+                "pos": [
+                    18,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he was obliged to go out into the courtyard and hold it in the sun",
+                "pos": [
+                    24,
+                    39
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "till",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 2,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "it dried",
+                "pos": [
+                    40,
+                    42
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-29",
+    "sents": [
+        [
+            "When",
+            ",",
+            "at",
+            "last",
+            ",",
+            "he",
+            "walked",
+            "into",
+            "Dorothy",
+            "'",
+            "s",
+            "room",
+            "and",
+            "thanked",
+            "her",
+            "for",
+            "rescuing",
+            "him",
+            ",",
+            "he",
+            "was",
+            "so",
+            "pleased",
+            "that",
+            "he",
+            "wept",
+            "tears",
+            "of",
+            "joy",
+            ",",
+            "and",
+            "Dorothy",
+            "had",
+            "to",
+            "wipe",
+            "every",
+            "tear",
+            "carefully",
+            "from",
+            "his",
+            "face",
+            "with",
+            "her",
+            "apron",
+            ",",
+            "so",
+            "his",
+            "joints",
+            "would",
+            "not",
+            "be",
+            "rusted",
+            "."
+        ],
+        [
+            "At",
+            "the",
+            "same",
+            "time",
+            "her",
+            "own",
+            "tears",
+            "fell",
+            "thick",
+            "and",
+            "fast",
+            "at",
+            "the",
+            "joy",
+            "of",
+            "meeting",
+            "her",
+            "old",
+            "friend",
+            "again",
+            ",",
+            "and",
+            "these",
+            "tears",
+            "did",
+            "not",
+            "need",
+            "to",
+            "be",
+            "wiped",
+            "away",
+            "."
+        ],
+        [
+            "As",
+            "for",
+            "the",
+            "Lion",
+            ",",
+            "he",
+            "wiped",
+            "his",
+            "eyes",
+            "so",
+            "often",
+            "with",
+            "the",
+            "tip",
+            "of",
+            "his",
+            "tail",
+            "that",
+            "it",
+            "became",
+            "quite",
+            "wet",
+            ",",
+            "and",
+            "he",
+            "was",
+            "obliged",
+            "to",
+            "go",
+            "out",
+            "into",
+            "the",
+            "courtyard",
+            "and",
+            "hold",
+            "it",
+            "in",
+            "the",
+            "sun",
+            "till",
+            "it",
+            "dried",
+            "."
+        ]
+    ]
+}

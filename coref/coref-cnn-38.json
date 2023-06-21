@@ -1,0 +1,379 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a police station",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the police station",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Sohail Khalid",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Khalid",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The Pakistani Taliban",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Pakistani Taliban",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the militant group",
+                "pos": [
+                    28,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Approximately 10 militants",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The militants",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the militant group",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "an early Wednesday morning attack",
+                "pos": [
+                    7,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the predawn attack",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The attack",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Wednesday morning 's attack",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "reports",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "reports",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Ehsanullah Ehsan",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Ehsan",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "CNN",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "CNN",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-38",
+    "sents": [
+        [
+            "The",
+            "Pakistani",
+            "Taliban",
+            "has",
+            "claimed",
+            "responsibility",
+            "for",
+            "an",
+            "early",
+            "Wednesday",
+            "morning",
+            "attack",
+            "on",
+            "a",
+            "police",
+            "station",
+            "that",
+            "killed",
+            "two",
+            "officers",
+            "and",
+            "injured",
+            "seven",
+            "others",
+            ",",
+            "a",
+            "spokesman",
+            "for",
+            "the",
+            "militant",
+            "group",
+            "told",
+            "CNN",
+            "."
+        ],
+        [
+            "Approximately",
+            "10",
+            "militants",
+            "charged",
+            "the",
+            "police",
+            "station",
+            ",",
+            "tossed",
+            "grenades",
+            "and",
+            "then",
+            "opened",
+            "fire",
+            "in",
+            "the",
+            "predawn",
+            "attack",
+            ",",
+            "said",
+            "senior",
+            "police",
+            "official",
+            "Sohail",
+            "Khalid",
+            "."
+        ],
+        [
+            "The",
+            "militants",
+            "escaped",
+            "after",
+            "an",
+            "hour",
+            "-",
+            "long",
+            "firefight",
+            "with",
+            "police",
+            ",",
+            "Khalid",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "attack",
+            "took",
+            "place",
+            "in",
+            "Dera",
+            "Ismail",
+            "Khan",
+            ",",
+            "a",
+            "district",
+            "that",
+            "sits",
+            "next",
+            "to",
+            "Pakistan",
+            "'s",
+            "militant",
+            "-",
+            "plagued",
+            "tribal",
+            "region",
+            "along",
+            "the",
+            "Afghan",
+            "border",
+            "."
+        ],
+        [
+            "It",
+            "comes",
+            "one",
+            "day",
+            "after",
+            "Pakistani",
+            "Taliban",
+            "spokesman",
+            "Ehsanullah",
+            "Ehsan",
+            "denied",
+            "reports",
+            "that",
+            "the",
+            "militant",
+            "group",
+            "had",
+            "declared",
+            "a",
+            "cease",
+            "-",
+            "fire",
+            "while",
+            "holding",
+            "peace",
+            "talks",
+            "with",
+            "the",
+            "government",
+            "."
+        ],
+        [
+            "Wednesday",
+            "morning",
+            "'s",
+            "attack",
+            "was",
+            "proof",
+            "that",
+            "reports",
+            "of",
+            "the",
+            "cease",
+            "-",
+            "fire",
+            "were",
+            "false",
+            ",",
+            "Ehsan",
+            "told",
+            "CNN",
+            "by",
+            "phone",
+            "."
+        ]
+    ]
+}

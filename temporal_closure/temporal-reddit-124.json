@@ -1,0 +1,353 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was buying",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "excited",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be living",
+                "pos": [
+                    28,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    49,
+                    50
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m thinking",
+                "pos": [
+                    70,
+                    72
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s just bumming me out",
+                "pos": [
+                    82,
+                    87
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-124",
+    "sents": [
+        [
+            "Last",
+            "year",
+            "at",
+            "this",
+            "time",
+            ",",
+            "I",
+            "was",
+            "buying",
+            "dorm",
+            "decor",
+            "and",
+            "getting",
+            "excited",
+            "."
+        ],
+        [
+            "This",
+            "year",
+            "does",
+            "n't",
+            "even",
+            "feel",
+            "like",
+            "I",
+            "'ll",
+            "be",
+            "on",
+            "campus",
+            "even",
+            "though",
+            "my",
+            "school",
+            "said",
+            "we",
+            "'re",
+            "for",
+            "sure",
+            "going",
+            "back",
+            "(",
+            "especially",
+            "cause",
+            "I",
+            "'ll",
+            "be",
+            "living",
+            "in",
+            "a",
+            "house",
+            "on",
+            "campus",
+            "instead",
+            "of",
+            "dorms",
+            ")",
+            ",",
+            "so",
+            "I",
+            "know",
+            "I",
+            "'m",
+            "super",
+            "unprepared",
+            "and",
+            "I",
+            "feel",
+            "like",
+            "my",
+            "room",
+            "wo",
+            "n't",
+            "even",
+            "be",
+            "cute",
+            "and",
+            "instead",
+            "of",
+            "\"",
+            "what",
+            "color",
+            "pillows",
+            "should",
+            "I",
+            "buy",
+            "\"",
+            "I",
+            "'m",
+            "thinking",
+            "\"",
+            "what",
+            "color",
+            "masks",
+            "should",
+            "I",
+            "bring",
+            "\"",
+            "and",
+            "it",
+            "'s",
+            "just",
+            "bumming",
+            "me",
+            "out",
+            "."
+        ]
+    ]
+}

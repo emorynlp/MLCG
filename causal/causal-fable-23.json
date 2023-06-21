@@ -1,0 +1,207 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "as",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he found nothing to eat",
+                "pos": [
+                    17,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he came near dying",
+                "pos": [
+                    23,
+                    27
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "want of food",
+                "pos": [
+                    28,
+                    31
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-23",
+    "sents": [
+        [
+            "A",
+            "RAVEN",
+            "saw",
+            "a",
+            "snowy",
+            "Swan",
+            "floating",
+            "on",
+            "the",
+            "lake",
+            "."
+        ],
+        [
+            "\u201c",
+            "No",
+            "wonder",
+            "the",
+            "Swan",
+            "is",
+            "so",
+            "white",
+            ",",
+            "\u201d",
+            "thought",
+            "the",
+            "Raven",
+            ",",
+            "as",
+            "he",
+            "looked",
+            "at",
+            "his",
+            "own",
+            "black",
+            "feathers",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "dare",
+            "say",
+            "_I_",
+            "should",
+            "be",
+            ",",
+            "if",
+            "I",
+            "were",
+            "all",
+            "the",
+            "time",
+            "washing",
+            "myself",
+            "."
+        ],
+        [
+            "I",
+            "believe",
+            "I",
+            "\u2019ll",
+            "try",
+            "it",
+            ".",
+            "\u201d"
+        ],
+        [
+            "Then",
+            "he",
+            "left",
+            "his",
+            "home",
+            ",",
+            "where",
+            "he",
+            "always",
+            "found",
+            "plenty",
+            "to",
+            "eat",
+            ",",
+            "and",
+            "came",
+            "and",
+            "lived",
+            "by",
+            "the",
+            "lake",
+            "."
+        ],
+        [
+            "He",
+            "washed",
+            "himself",
+            "from",
+            "morning",
+            "till",
+            "night",
+            ",",
+            "but",
+            "he",
+            "grew",
+            "no",
+            "whiter",
+            ";",
+            "and",
+            ",",
+            "as",
+            "he",
+            "found",
+            "nothing",
+            "to",
+            "eat",
+            ",",
+            "he",
+            "came",
+            "near",
+            "dying",
+            "for",
+            "want",
+            "of",
+            "food",
+            "."
+        ]
+    ]
+}

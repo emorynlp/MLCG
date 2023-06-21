@@ -1,0 +1,289 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A PRICKLY Porcupine came wandering along one day , looking",
+                "pos": [
+                    0,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "_"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a place to live",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you do not like it here",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you can go away",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-39",
+    "sents": [
+        [
+            "A",
+            "PRICKLY",
+            "Porcupine",
+            "came",
+            "wandering",
+            "along",
+            "one",
+            "day",
+            ",",
+            "looking",
+            "for",
+            "a",
+            "place",
+            "to",
+            "live",
+            "."
+        ],
+        [
+            "He",
+            "found",
+            "a",
+            "family",
+            "of",
+            "Snakes",
+            "in",
+            "a",
+            "warm",
+            "cave",
+            ",",
+            "and",
+            "asked",
+            "them",
+            "to",
+            "let",
+            "him",
+            "share",
+            "their",
+            "shelter",
+            "."
+        ],
+        [
+            "The",
+            "Snakes",
+            "consented",
+            ",",
+            "though",
+            "much",
+            "against",
+            "their",
+            "will",
+            ",",
+            "and",
+            "the",
+            "Porcupine",
+            "crept",
+            "into",
+            "their",
+            "home",
+            "."
+        ],
+        [
+            "But",
+            "it",
+            "was",
+            "not",
+            "long",
+            "before",
+            "they",
+            "found",
+            "that",
+            "his",
+            "sharp",
+            "quills",
+            "stuck",
+            "into",
+            "them",
+            "and",
+            "hurt",
+            "them",
+            ",",
+            "and",
+            "they",
+            "wished",
+            "they",
+            "had",
+            "never",
+            "let",
+            "him",
+            "in",
+            "."
+        ],
+        [
+            "\u201c",
+            "Dear",
+            "Porcupine",
+            ",",
+            "please",
+            "go",
+            "away",
+            ",",
+            "\u201d",
+            "they",
+            "said",
+            ";",
+            "\u201c",
+            "you",
+            "are",
+            "so",
+            "large",
+            "and",
+            "so",
+            "prickly",
+            ".",
+            "\u201d"
+        ],
+        [
+            "But",
+            "the",
+            "Porcupine",
+            "was",
+            "very",
+            "rude",
+            ",",
+            "and",
+            "said",
+            ":",
+            "\u201c",
+            "Oh",
+            ",",
+            "no",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "do",
+            "not",
+            "like",
+            "it",
+            "here",
+            ",",
+            "you",
+            "can",
+            "go",
+            "away",
+            "."
+        ],
+        [
+            "I",
+            "find",
+            "it",
+            "very",
+            "comfortable",
+            ".",
+            "\u201d"
+        ],
+        [
+            "It",
+            "was",
+            "too",
+            "late",
+            "that",
+            "the",
+            "Snakes",
+            "learned",
+            "that",
+            "it",
+            "is",
+            "easier",
+            "to",
+            "keep",
+            "an",
+            "intruder",
+            "out",
+            "than",
+            "to",
+            "compel",
+            "him",
+            "to",
+            "go",
+            "when",
+            "you",
+            "have",
+            "once",
+            "let",
+            "him",
+            "in",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,365 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "am 22 years old",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "graduated",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "started",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been really down",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sickens",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "think of",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "miss",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was in",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "do",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is sit",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-055",
+    "sents": [
+        [
+            "I",
+            "am",
+            "22",
+            "years",
+            "old",
+            ",",
+            "graduated",
+            "college",
+            "in",
+            "May",
+            ",",
+            "and",
+            "started",
+            "a",
+            "full",
+            "time",
+            "job",
+            "a",
+            "month",
+            "ago",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "been",
+            "really",
+            "down",
+            "about",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "like",
+            "I",
+            "have",
+            "no",
+            "freedom",
+            "anymore",
+            "with",
+            "my",
+            "job",
+            "and",
+            "all",
+            "I",
+            "do",
+            "is",
+            "work",
+            "."
+        ],
+        [
+            "It",
+            "sickens",
+            "me",
+            "to",
+            "think",
+            "that",
+            "I",
+            "have",
+            "to",
+            "work",
+            "the",
+            "rest",
+            "of",
+            "my",
+            "life",
+            "now",
+            "."
+        ],
+        [
+            "How",
+            "do",
+            "people",
+            "do",
+            "it",
+            "?"
+        ],
+        [
+            "Every",
+            "day",
+            "I",
+            "think",
+            "of",
+            "an",
+            "alternate",
+            "way",
+            "to",
+            "make",
+            "money",
+            "besides",
+            "the",
+            "traditional",
+            "job",
+            "."
+        ],
+        [
+            "I",
+            "miss",
+            "all",
+            "my",
+            "friends",
+            "and",
+            "how",
+            "life",
+            "was",
+            "in",
+            "college",
+            "."
+        ],
+        [
+            "All",
+            "I",
+            "do",
+            "now",
+            "is",
+            "sit",
+            "at",
+            "a",
+            "desk",
+            "for",
+            "8",
+            "hours",
+            "."
+        ],
+        [
+            "What",
+            "kind",
+            "of",
+            "life",
+            "is",
+            "that",
+            "?"
+        ],
+        [
+            "What",
+            "do",
+            "others",
+            "do",
+            "right",
+            "out",
+            "of",
+            "college",
+            "and",
+            "how",
+            "are",
+            "you",
+            "feeling",
+            "?"
+        ]
+    ]
+}

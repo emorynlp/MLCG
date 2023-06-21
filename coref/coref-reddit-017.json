@@ -1,0 +1,268 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "most of the colleges",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "those schools",
+                "pos": [
+                    47,
+                    49
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my state school",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "there",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "your",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "your safety schools",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "your safeties",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-017",
+    "sents": [
+        [
+            "I",
+            "'m",
+            "curious",
+            ",",
+            "what",
+            "are",
+            "your",
+            "safety",
+            "schools",
+            "?"
+        ],
+        [
+            "I",
+            "'m",
+            "not",
+            "looking",
+            "to",
+            "go",
+            "to",
+            "a",
+            "T20",
+            ",",
+            "but",
+            "most",
+            "of",
+            "the",
+            "colleges",
+            "I",
+            "want",
+            "to",
+            "go",
+            "to",
+            "have",
+            "a",
+            "15",
+            "-",
+            "25%",
+            "acceptance",
+            "rate",
+            ",",
+            "and",
+            ",",
+            "while",
+            "I",
+            "'d",
+            "like",
+            "to",
+            "think",
+            "of",
+            "myself",
+            "as",
+            "a",
+            "good",
+            "student",
+            "and",
+            "a",
+            "good",
+            "fit",
+            "for",
+            "those",
+            "schools",
+            ",",
+            "there",
+            "'s",
+            "no",
+            "guarantee",
+            "for",
+            "anything",
+            "."
+        ],
+        [
+            "(",
+            "Mostly",
+            "been",
+            "looking",
+            "at",
+            "smaller",
+            "liberal",
+            "arts",
+            "colleges",
+            ".",
+            ")"
+        ],
+        [
+            "While",
+            "there",
+            "'s",
+            "always",
+            "my",
+            "state",
+            "school",
+            ",",
+            "I",
+            "'m",
+            "not",
+            "keen",
+            "on",
+            "going",
+            "there",
+            "."
+        ],
+        [
+            "So",
+            ",",
+            "A2C",
+            ",",
+            "what",
+            "do",
+            "your",
+            "safeties",
+            "look",
+            "like",
+            "?"
+        ]
+    ]
+}

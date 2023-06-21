@@ -1,0 +1,552 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s just garbage",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s all",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "moved",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sucks",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "miss",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s so hard",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stressed",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "questioning",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "needed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-088",
+    "sents": [
+        [
+            "It",
+            "\u2019s",
+            "just",
+            "garbage",
+            "."
+        ],
+        [
+            "That",
+            "\u2019s",
+            "all",
+            "."
+        ],
+        [
+            "I",
+            "moved",
+            "to",
+            "the",
+            "other",
+            "side",
+            "of",
+            "the",
+            "country",
+            "to",
+            "start",
+            "a",
+            "life",
+            "sciences",
+            "PhD",
+            "and",
+            "i",
+            "know",
+            "I",
+            "\u2019m",
+            "lucky",
+            "to",
+            "have",
+            "funding",
+            ",",
+            "a",
+            "stipend",
+            ",",
+            "etc.",
+            "but",
+            "everything",
+            "just",
+            "really",
+            "sucks",
+            "right",
+            "now",
+            "."
+        ],
+        [
+            "I",
+            "miss",
+            "my",
+            "friends",
+            "and",
+            "it",
+            "\u2019s",
+            "so",
+            "hard",
+            "to",
+            "make",
+            "new",
+            "ones",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "like",
+            "I",
+            "do",
+            "n\u2019t",
+            "learn",
+            "well",
+            "through",
+            "zoom",
+            "classes",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "wanted",
+            "this",
+            "for",
+            "so",
+            "long",
+            "but",
+            "now",
+            "I",
+            "\u2019m",
+            "just",
+            "unmotivated",
+            ",",
+            "stressed",
+            ",",
+            "and",
+            "questioning",
+            "every",
+            "decision",
+            "that",
+            "got",
+            "me",
+            "here",
+            "."
+        ],
+        [
+            "Just",
+            "needed",
+            "to",
+            "complain",
+            "that",
+            "\u2019s",
+            "all",
+            "."
+        ]
+    ]
+}

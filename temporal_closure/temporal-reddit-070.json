@@ -1,0 +1,329 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "build",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is a 51%",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is , [ according to their own breakdowns ] ( https://admit.washington.edu/apply/freshman/by-the-numbers/), 4%",
+                "pos": [
+                    7,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m starting",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "figured",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-070",
+    "sents": [
+        [
+            "A",
+            "lot",
+            "of",
+            "students",
+            "build",
+            "school",
+            "lists",
+            "based",
+            "on",
+            "\"",
+            "safety",
+            "\"",
+            "schools",
+            "that",
+            "are",
+            "n't",
+            "actually",
+            "safe",
+            "at",
+            "all",
+            "."
+        ],
+        [
+            "E.g.",
+            ",",
+            "UW",
+            "'s",
+            "non-resident",
+            "admissions",
+            "rate",
+            "is",
+            "a",
+            "51%",
+            "."
+        ],
+        [
+            "Safe",
+            ",",
+            "right",
+            "?"
+        ],
+        [
+            "Well",
+            ",",
+            "their",
+            "non-resident",
+            "CS",
+            "admissions",
+            "%",
+            "is",
+            ",",
+            "[",
+            "according",
+            "to",
+            "their",
+            "own",
+            "breakdowns",
+            "]",
+            "(",
+            "https://admit.washington.edu/apply/freshman/by-the-numbers/),",
+            "4%",
+            "."
+        ],
+        [
+            "Uh",
+            "."
+        ],
+        [
+            "I",
+            "would",
+            "really",
+            "like",
+            "to",
+            "write",
+            "a",
+            "post",
+            "for",
+            "the",
+            "community",
+            "about",
+            "the",
+            "**actual**",
+            "admissions",
+            "rates",
+            "for",
+            "popular",
+            "faux",
+            "-",
+            "safety",
+            "CS",
+            "(",
+            "and",
+            "potentially",
+            "engineering",
+            ")",
+            "programs",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "starting",
+            "the",
+            "research",
+            "process",
+            "but",
+            "I",
+            "figured",
+            "that",
+            "people",
+            "on",
+            "this",
+            "sub",
+            "probably",
+            "have",
+            "the",
+            "sauce",
+            "."
+        ],
+        [
+            "So",
+            "if",
+            "you",
+            "want",
+            "to",
+            "contribute",
+            ",",
+            "please",
+            "share",
+            "the",
+            "school",
+            "name",
+            "along",
+            "with",
+            "the",
+            "general",
+            "application",
+            "rate",
+            "and",
+            "CS",
+            "/",
+            "Engineering",
+            "rate",
+            ",",
+            "and",
+            "your",
+            "source",
+            "!"
+        ],
+        [
+            "Thank",
+            "you",
+            "!"
+        ],
+        [
+            "**Others",
+            "I",
+            "can",
+            "think",
+            "of",
+            "in",
+            "this",
+            "somewhat",
+            "deceptive",
+            "category*",
+            "*:",
+            "Maryland",
+            "College",
+            "Park",
+            ",",
+            "Wisconsin",
+            "Madison",
+            ",",
+            "Purdue",
+            ",",
+            "WPI/RPI",
+            ",",
+            "Umass",
+            "Amherst",
+            "."
+        ]
+    ]
+}

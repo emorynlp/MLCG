@@ -1,0 +1,301 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "We live",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "upon",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "dew",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he too would live",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "upon",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "dew",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he died of hunger",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "from",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "trying to do what he saw others doing , without first learning",
+                "pos": [
+                    12,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "their reason",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-15",
+    "sents": [
+        [
+            "A",
+            "MULE",
+            ",",
+            "hearing",
+            "some",
+            "Grasshoppers",
+            "chirping",
+            ",",
+            "was",
+            "much",
+            "pleased",
+            "with",
+            "the",
+            "sound",
+            ",",
+            "and",
+            "wished",
+            "that",
+            "he",
+            "could",
+            "make",
+            "such",
+            "sweet",
+            "music",
+            "."
+        ],
+        [
+            "\u201c",
+            "What",
+            "sort",
+            "of",
+            "food",
+            "do",
+            "you",
+            "eat",
+            ",",
+            "\u201d",
+            "said",
+            "he",
+            "to",
+            "the",
+            "Grasshoppers",
+            ",",
+            "\u201c",
+            "that",
+            "your",
+            "voices",
+            "are",
+            "so",
+            "charming",
+            "?",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Grasshoppers",
+            "replied",
+            ",",
+            "\u201c",
+            "We",
+            "live",
+            "upon",
+            "dew",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Mule",
+            "then",
+            "decided",
+            "that",
+            "he",
+            "too",
+            "would",
+            "live",
+            "upon",
+            "dew",
+            "."
+        ],
+        [
+            "And",
+            "in",
+            "a",
+            "short",
+            "time",
+            "he",
+            "died",
+            "of",
+            "hunger",
+            ",",
+            "just",
+            "from",
+            "trying",
+            "to",
+            "do",
+            "what",
+            "he",
+            "saw",
+            "others",
+            "doing",
+            ",",
+            "without",
+            "first",
+            "learning",
+            "their",
+            "reason",
+            "for",
+            "it",
+            "."
+        ]
+    ]
+}

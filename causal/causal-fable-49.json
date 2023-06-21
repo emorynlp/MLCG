@@ -1,0 +1,520 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "whose joints had become stiff",
+                "pos": [
+                    3,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "with",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "age",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "A STAG , whose joints had become stiff with age , was at great pains to gather an abundant supply of food \u2014 enough , as he thought",
+                "pos": [
+                    0,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "_"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the remainder of his days",
+                "pos": [
+                    30,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they now came often , and in great numbers",
+                "pos": [
+                    10,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "call upon him and wish him good luck",
+                "pos": [
+                    21,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "them welcome in a hospitable manner",
+                "pos": [
+                    2,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the poor Stag died",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "from",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "want of the food which his friends had eaten for him",
+                "pos": [
+                    24,
+                    35
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Before",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "doing a thing",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it is well sometimes to consider , \u201c",
+                "pos": [
+                    5,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "What",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "every one should do it",
+                "pos": [
+                    15,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 17,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 18,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 20,
+            "t": 19,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-49",
+    "sents": [
+        [
+            "A",
+            "STAG",
+            ",",
+            "whose",
+            "joints",
+            "had",
+            "become",
+            "stiff",
+            "with",
+            "age",
+            ",",
+            "was",
+            "at",
+            "great",
+            "pains",
+            "to",
+            "gather",
+            "an",
+            "abundant",
+            "supply",
+            "of",
+            "food",
+            "\u2014",
+            "enough",
+            ",",
+            "as",
+            "he",
+            "thought",
+            ",",
+            "for",
+            "the",
+            "remainder",
+            "of",
+            "his",
+            "days",
+            "."
+        ],
+        [
+            "He",
+            "stretched",
+            "himself",
+            "beside",
+            "it",
+            ",",
+            "in",
+            "a",
+            "quiet",
+            ",",
+            "sunny",
+            "corner",
+            "of",
+            "his",
+            "pasture",
+            ",",
+            "and",
+            "now",
+            "dozing",
+            ",",
+            "now",
+            "nibbling",
+            ",",
+            "was",
+            "passing",
+            "a",
+            "happy",
+            "old",
+            "age",
+            "."
+        ],
+        [
+            "He",
+            "had",
+            "been",
+            "a",
+            "favorite",
+            "among",
+            "his",
+            "companions",
+            ",",
+            "and",
+            "they",
+            "now",
+            "came",
+            "often",
+            ",",
+            "and",
+            "in",
+            "great",
+            "numbers",
+            ",",
+            "to",
+            "call",
+            "upon",
+            "him",
+            "and",
+            "wish",
+            "him",
+            "good",
+            "luck",
+            "."
+        ],
+        [
+            "He",
+            "made",
+            "them",
+            "welcome",
+            "in",
+            "a",
+            "hospitable",
+            "manner",
+            ",",
+            "and",
+            "each",
+            ",",
+            "as",
+            "often",
+            "as",
+            "he",
+            "came",
+            ",",
+            "helped",
+            "himself",
+            "to",
+            "a",
+            "little",
+            "of",
+            "the",
+            "food",
+            "so",
+            "abundantly",
+            "provided",
+            "."
+        ],
+        [
+            "The",
+            "end",
+            "of",
+            "the",
+            "matter",
+            "was",
+            ",",
+            "that",
+            "the",
+            "poor",
+            "Stag",
+            "died",
+            ",",
+            "not",
+            "so",
+            "much",
+            "from",
+            "either",
+            "sickness",
+            "or",
+            "old",
+            "age",
+            "as",
+            "from",
+            "want",
+            "of",
+            "the",
+            "food",
+            "which",
+            "his",
+            "friends",
+            "had",
+            "eaten",
+            "for",
+            "him",
+            "."
+        ],
+        [
+            "Before",
+            "doing",
+            "a",
+            "thing",
+            ",",
+            "it",
+            "is",
+            "well",
+            "sometimes",
+            "to",
+            "consider",
+            ",",
+            "\u201c",
+            "What",
+            "if",
+            "every",
+            "one",
+            "should",
+            "do",
+            "it",
+            "?",
+            "\u201d"
+        ]
+    ]
+}

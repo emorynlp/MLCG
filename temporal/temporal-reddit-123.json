@@ -1,0 +1,434 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "is my mom \u2019s friend \u2019s son",
+                "pos": [
+                    4,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s now on",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "rejected",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s freaking 22 years old",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is STILL obsessed",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was top of his class",
+                "pos": [
+                    12,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "obsessing over",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "applying",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "woke me up",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 10,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "on hold",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 11,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reliving",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 11,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s planning",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 12,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-123",
+    "sents": [
+        [
+            "Y\u2019all",
+            "I",
+            "\u2019m",
+            "not",
+            "joking",
+            "."
+        ],
+        [
+            "This",
+            "person",
+            "in",
+            "question",
+            "is",
+            "my",
+            "mom",
+            "\u2019s",
+            "friend",
+            "\u2019s",
+            "son",
+            "from",
+            "China",
+            "."
+        ],
+        [
+            "He",
+            "\u2019s",
+            "now",
+            "on",
+            "his",
+            "FIFTH",
+            "GAP",
+            "YEAR",
+            "after",
+            "getting",
+            "rejected",
+            "from",
+            "all",
+            "Ivies",
+            "again",
+            "."
+        ],
+        [
+            "He",
+            "\u2019s",
+            "freaking",
+            "22",
+            "years",
+            "old",
+            "now",
+            "or",
+            "something",
+            "."
+        ],
+        [
+            "His",
+            "family",
+            "is",
+            "STILL",
+            "obsessed",
+            "with",
+            "him",
+            "going",
+            "to",
+            "HYPSM",
+            "because",
+            "he",
+            "was",
+            "top",
+            "of",
+            "his",
+            "class",
+            "in",
+            "high",
+            "school",
+            "."
+        ],
+        [
+            "He",
+            "has",
+            "had",
+            "no",
+            "job",
+            ",",
+            "no",
+            "schooling",
+            ",",
+            "no",
+            "anything",
+            "since",
+            "then",
+            "except",
+            "obsessing",
+            "over",
+            "applying",
+            "to",
+            "colleges",
+            "every",
+            "year",
+            "."
+        ],
+        [
+            "Only",
+            "Ivies",
+            "and",
+            "a",
+            "handful",
+            "of",
+            "T10s",
+            "."
+        ],
+        [
+            "Every",
+            "."
+        ],
+        [
+            "Year",
+            "."
+        ],
+        [
+            "I",
+            "thought",
+            "I",
+            "\u2019ve",
+            "been",
+            "obsessed",
+            ",",
+            "but",
+            "it",
+            "\u2019s",
+            "nothing",
+            "compared",
+            "to",
+            "this",
+            "."
+        ],
+        [
+            "Really",
+            "woke",
+            "me",
+            "up",
+            "to",
+            "the",
+            "toxicity",
+            "of",
+            "Ivy",
+            "obsession",
+            "."
+        ],
+        [
+            "He",
+            "\u2019s",
+            "literally",
+            "put",
+            "his",
+            "life",
+            "on",
+            "hold",
+            "and",
+            "reliving",
+            "every",
+            "admissions",
+            "cycle",
+            "like",
+            "it",
+            "\u2019s",
+            "Groundhog",
+            "Day",
+            "."
+        ],
+        [
+            "And",
+            "he",
+            "\u2019s",
+            "planning",
+            "on",
+            "doing",
+            "it",
+            "again",
+            "!!"
+        ]
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A DOE , blind in one eye , used to graze as near as she could to the edge of a cliff",
+                "pos": [
+                    0,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "she might keep her blind eye to the water",
+                "pos": [
+                    25,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to which I had come",
+                "pos": [
+                    40,
+                    45
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    45,
+                    46
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "safety",
+                "pos": [
+                    46,
+                    47
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-26",
+    "sents": [
+        [
+            "A",
+            "DOE",
+            ",",
+            "blind",
+            "in",
+            "one",
+            "eye",
+            ",",
+            "used",
+            "to",
+            "graze",
+            "as",
+            "near",
+            "as",
+            "she",
+            "could",
+            "to",
+            "the",
+            "edge",
+            "of",
+            "a",
+            "cliff",
+            ",",
+            "so",
+            "that",
+            "she",
+            "might",
+            "keep",
+            "her",
+            "blind",
+            "eye",
+            "to",
+            "the",
+            "water",
+            ",",
+            "while",
+            "with",
+            "the",
+            "other",
+            "she",
+            "kept",
+            "watch",
+            "against",
+            "the",
+            "approach",
+            "of",
+            "hunters",
+            "or",
+            "hounds",
+            "on",
+            "the",
+            "shore",
+            "."
+        ],
+        [
+            "Some",
+            "boatmen",
+            "sailing",
+            "by",
+            "saw",
+            "her",
+            "standing",
+            "thus",
+            "on",
+            "the",
+            "edge",
+            "of",
+            "a",
+            "cliff",
+            ",",
+            "and",
+            "finding",
+            "that",
+            "she",
+            "did",
+            "not",
+            "perceive",
+            "their",
+            "approach",
+            ",",
+            "they",
+            "came",
+            "very",
+            "close",
+            ",",
+            "and",
+            "taking",
+            "aim",
+            ",",
+            "shot",
+            "her",
+            "."
+        ],
+        [
+            "Finding",
+            "herself",
+            "wounded",
+            ",",
+            "she",
+            "said",
+            ",",
+            "\u201c",
+            "O",
+            "unhappy",
+            "creature",
+            "that",
+            "I",
+            "am",
+            ",",
+            "to",
+            "take",
+            "such",
+            "care",
+            "as",
+            "I",
+            "did",
+            "against",
+            "the",
+            "dangers",
+            "of",
+            "the",
+            "land",
+            ",",
+            "and",
+            "then",
+            ",",
+            "after",
+            "all",
+            ",",
+            "to",
+            "find",
+            "this",
+            "seashore",
+            ",",
+            "to",
+            "which",
+            "I",
+            "had",
+            "come",
+            "for",
+            "safety",
+            ",",
+            "so",
+            "much",
+            "more",
+            "perilous",
+            "!",
+            "\u201d"
+        ]
+    ]
+}

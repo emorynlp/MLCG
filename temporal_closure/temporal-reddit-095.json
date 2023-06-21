@@ -1,0 +1,398 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sent",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "conducting",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hope",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "anticipate",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "read",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "come back",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-095",
+    "sents": [
+        [
+            "i",
+            "had",
+            "my",
+            "upenn",
+            "interview",
+            "at",
+            "the",
+            "end",
+            "of",
+            "january",
+            ",",
+            "and",
+            "she",
+            "sent",
+            "me",
+            "this",
+            "follow",
+            "-",
+            "up",
+            "email",
+            "about",
+            "a",
+            "week",
+            "ago",
+            ":",
+            ">",
+            "After",
+            "conducting",
+            "several",
+            "interviews",
+            ",",
+            "I",
+            "just",
+            "wanted",
+            "to",
+            "tell",
+            "you",
+            "how",
+            "much",
+            "yours",
+            "stood",
+            "out",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "Your",
+            "interview",
+            "made",
+            "me",
+            "feel",
+            "inspired",
+            "and",
+            "hopeful",
+            "for",
+            "the",
+            "next",
+            "generation",
+            "."
+        ],
+        [
+            "I",
+            "gave",
+            "you",
+            "the",
+            "highest",
+            "possible",
+            "scoring",
+            "in",
+            "my",
+            "recommendation",
+            "and",
+            "really",
+            "hope",
+            "that",
+            "you",
+            "are",
+            "able",
+            "to",
+            "fulfill",
+            "all",
+            "of",
+            "your",
+            "hopes",
+            "and",
+            "dreams",
+            "whether",
+            "it",
+            "is",
+            "at",
+            "Penn",
+            "or",
+            "elsewhere",
+            "."
+        ],
+        [
+            "I",
+            "anticipate",
+            "reading",
+            "about",
+            "you",
+            "in",
+            "the",
+            "future",
+            "as",
+            "the",
+            "next",
+            "great",
+            "\\",
+            "[",
+            "insert",
+            "future",
+            "job",
+            "aspiration\\",
+            "]",
+            "!"
+        ],
+        [
+            "i",
+            "almost",
+            "cried",
+            "the",
+            "first",
+            "time",
+            "i",
+            "read",
+            "it",
+            ",",
+            "and",
+            "now",
+            "i",
+            "come",
+            "back",
+            "to",
+            "this",
+            "email",
+            "every",
+            "time",
+            "i",
+            "feel",
+            "down",
+            "about",
+            "myself",
+            "."
+        ],
+        [
+            "shoutout",
+            "to",
+            "my",
+            "amazing",
+            "penn",
+            "interviewer",
+            ",",
+            "you",
+            "a",
+            "real",
+            "one",
+            "<3"
+        ]
+    ]
+}

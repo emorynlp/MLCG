@@ -1,0 +1,275 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Given",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it 's one of the class I have the most difficulty with",
+                "pos": [
+                    2,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I was very proud of all my work and was expecting an excellent grade",
+                "pos": [
+                    15,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because of",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I feel a bit ashamed ( even if I was on my own ) & childish",
+                "pos": [
+                    7,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it seems like such a middle / high school thing to do",
+                "pos": [
+                    24,
+                    36
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-103",
+    "sents": [
+        [
+            "So",
+            "I",
+            "'ve",
+            "worked",
+            "really",
+            "really",
+            "hard",
+            "on",
+            "assignment",
+            "."
+        ],
+        [
+            "Given",
+            "that",
+            "it",
+            "'s",
+            "one",
+            "of",
+            "the",
+            "class",
+            "I",
+            "have",
+            "the",
+            "most",
+            "difficulty",
+            "with",
+            ",",
+            "I",
+            "was",
+            "very",
+            "proud",
+            "of",
+            "all",
+            "my",
+            "work",
+            "and",
+            "was",
+            "expecting",
+            "an",
+            "excellent",
+            "grade",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "a",
+            "bad",
+            "grade",
+            "(",
+            "barely",
+            "passed",
+            ")",
+            "and",
+            "cried",
+            "because",
+            "of",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "'ve",
+            "calmed",
+            "down",
+            "now",
+            ",",
+            "but",
+            "I",
+            "feel",
+            "a",
+            "bit",
+            "ashamed",
+            "(",
+            "even",
+            "if",
+            "I",
+            "was",
+            "on",
+            "my",
+            "own",
+            ")",
+            "&",
+            "childish",
+            "because",
+            "it",
+            "seems",
+            "like",
+            "such",
+            "a",
+            "middle",
+            "/",
+            "high",
+            "school",
+            "thing",
+            "to",
+            "do",
+            "."
+        ],
+        [
+            "Is",
+            "it",
+            "something",
+            "you",
+            "still",
+            "do",
+            "?"
+        ],
+        [
+            "I",
+            "had",
+            "n't",
+            "done",
+            "it",
+            "in",
+            "a",
+            "very",
+            "long",
+            "time",
+            "(",
+            "maybe",
+            "not",
+            "since",
+            "my",
+            "first",
+            "year",
+            "in",
+            "college",
+            ")"
+        ]
+    ]
+}

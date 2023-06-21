@@ -1,0 +1,446 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "Im a 20 M",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "majoring",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m on",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finished",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been doing",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m going",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "commute",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been overly stressed",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "started off",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dropped",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felt",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is appreciated",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 10,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-117",
+    "sents": [
+        [
+            "Im",
+            "a",
+            "20",
+            "M",
+            "majoring",
+            "in",
+            "business",
+            "I",
+            "\u2019m",
+            "on",
+            "my",
+            "second",
+            "year",
+            "and",
+            "I",
+            "just",
+            "finished",
+            "my",
+            "3rd",
+            "semester",
+            "overall",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "been",
+            "doing",
+            "very",
+            "bad",
+            "from",
+            "the",
+            "start",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "have",
+            "n\u2019t",
+            "felt",
+            "motivated",
+            "but",
+            "I",
+            "do",
+            "n\u2019t",
+            "wan",
+            "na",
+            "give",
+            "up",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "I",
+            "\u2019m",
+            "not",
+            "stupid",
+            "I",
+            "just",
+            "do",
+            "n\u2019t",
+            "really",
+            "care",
+            "."
+        ],
+        [
+            "At",
+            "the",
+            "rate",
+            "I",
+            "\u2019m",
+            "going",
+            "I",
+            "\u2019ll",
+            "have",
+            "to",
+            "retake",
+            "multiple",
+            "classes",
+            "in",
+            "order",
+            "to",
+            "move",
+            "forward",
+            "(",
+            "mainly",
+            "because",
+            "I",
+            "did",
+            "n\u2019t",
+            "put",
+            "any",
+            "effort",
+            "into",
+            "my",
+            "gen",
+            "ed",
+            "courses",
+            ")",
+            "."
+        ],
+        [
+            "How",
+            "do",
+            "I",
+            "start",
+            "to",
+            "change",
+            "?"
+        ],
+        [
+            "I",
+            "currently",
+            "commute",
+            ",",
+            "should",
+            "I",
+            "try",
+            "to",
+            "move",
+            "on",
+            "campus",
+            "at",
+            "a",
+            "different",
+            "school",
+            "so",
+            "that",
+            "I",
+            "can",
+            "be",
+            "in",
+            "a",
+            "new",
+            "environment",
+            "?"
+        ],
+        [
+            "Should",
+            "I",
+            "take",
+            "a",
+            "break",
+            "?"
+        ],
+        [
+            "Every",
+            "semester",
+            "I",
+            "\u2019ve",
+            "been",
+            "overly",
+            "stressed",
+            "trying",
+            "to",
+            "balance",
+            "work",
+            "and",
+            "school",
+            "."
+        ],
+        [
+            "I",
+            "started",
+            "off",
+            "the",
+            "year",
+            "with",
+            "5",
+            "classes",
+            "and",
+            "dropped",
+            "to",
+            "4",
+            ",",
+            "but",
+            "even",
+            "that",
+            "felt",
+            "like",
+            "too",
+            "much",
+            "."
+        ],
+        [
+            "Any",
+            "advice",
+            "is",
+            "appreciated"
+        ]
+    ]
+}

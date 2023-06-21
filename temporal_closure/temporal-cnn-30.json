@@ -1,0 +1,401 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "reopened",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sent",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tumbling",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "severed",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "carry",
+                "pos": [
+                    49,
+                    50
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went up",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "announced",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "posted",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "showing",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "working through",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-30",
+    "sents": [
+        [
+            "A",
+            "new",
+            "permanent",
+            "span",
+            "over",
+            "Washington",
+            "state",
+            "'s",
+            "Skagit",
+            "River",
+            "reopened",
+            "Sunday",
+            ",",
+            "some",
+            "four",
+            "months",
+            "after",
+            "a",
+            "bridge",
+            "collapse",
+            "on",
+            "Interstate",
+            "5.",
+            "The",
+            "bridge",
+            "'s",
+            "failure",
+            "in",
+            "late",
+            "May",
+            "sent",
+            "cars",
+            "tumbling",
+            "into",
+            "the",
+            "river",
+            "and",
+            "severed",
+            "the",
+            "state",
+            "'s",
+            "main",
+            "artery",
+            "to",
+            "Canada",
+            ",",
+            "on",
+            "which",
+            "trucks",
+            "carry",
+            "an",
+            "estimated",
+            "$",
+            "13.9",
+            "billion",
+            "annually",
+            "in",
+            "cargo",
+            "."
+        ],
+        [
+            "A",
+            "temporary",
+            "span",
+            "went",
+            "up",
+            "within",
+            "a",
+            "few",
+            "weeks",
+            "."
+        ],
+        [
+            "NTSB",
+            ":",
+            "'",
+            "Boom",
+            ",",
+            "'",
+            "then",
+            "shudder",
+            ",",
+            "first",
+            "sign",
+            "of",
+            "problem",
+            "on",
+            "bridge",
+            "Roughly",
+            "70,000",
+            "vehicles",
+            "a",
+            "day",
+            "travel",
+            "on",
+            "Interstate",
+            "5",
+            "over",
+            "the",
+            "bridge",
+            ",",
+            "said",
+            "the",
+            "state",
+            "Department",
+            "of",
+            "Transportation",
+            ",",
+            "which",
+            "announced",
+            "the",
+            "reopening",
+            "on",
+            "its",
+            "Facebook",
+            "page",
+            "."
+        ],
+        [
+            "It",
+            "posted",
+            "a",
+            "time",
+            "-",
+            "lapse",
+            "video",
+            ",",
+            "showing",
+            "crews",
+            "working",
+            "through",
+            "the",
+            "night",
+            "to",
+            "put",
+            "the",
+            "new",
+            "span",
+            "in",
+            "place",
+            "."
+        ],
+        [
+            "Bearing",
+            "down",
+            ":",
+            "How",
+            "safe",
+            "is",
+            "that",
+            "bridge",
+            "you",
+            "'re",
+            "driving",
+            "over",
+            "?"
+        ]
+    ]
+}

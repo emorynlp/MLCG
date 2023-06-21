@@ -1,0 +1,352 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "referring",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fell",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-41",
+    "sents": [
+        [
+            "The",
+            "French",
+            "inflation",
+            "rate",
+            "is",
+            "expected",
+            "to",
+            "show",
+            "a",
+            "substantial",
+            "improvement",
+            "in",
+            "February",
+            "after",
+            "January",
+            "'s",
+            "very",
+            "high",
+            "0.9",
+            "pct",
+            "monthly",
+            "rate",
+            ",",
+            "Finance",
+            "Minister",
+            "Edouard",
+            "Balladur",
+            "said",
+            "."
+        ],
+        [
+            "He",
+            "told",
+            "a",
+            "French",
+            "television",
+            "interviewer",
+            "that",
+            "half",
+            "of",
+            "the",
+            "high",
+            "January",
+            "rise",
+            ",",
+            "which",
+            "took",
+            "year",
+            "on",
+            "year",
+            "inflation",
+            "that",
+            "month",
+            "to",
+            "three",
+            "pct",
+            ",",
+            "was",
+            "due",
+            "to",
+            "higher",
+            "oil",
+            "prices",
+            "."
+        ],
+        [
+            "\"",
+            "Now",
+            ",",
+            "taking",
+            "account",
+            "of",
+            "this",
+            "inflation",
+            "index",
+            ",",
+            "our",
+            "forecast",
+            "for",
+            "price",
+            "rises",
+            "this",
+            "year",
+            "is",
+            "two",
+            "and",
+            "a",
+            "half",
+            "pct",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "Balladur",
+            "said",
+            "the",
+            "upward",
+            "revision",
+            "of",
+            "the",
+            "inflation",
+            "target",
+            ",",
+            "which",
+            "the",
+            "government",
+            "had",
+            "initially",
+            "set",
+            "at",
+            "two",
+            "pct",
+            "for",
+            "this",
+            "year",
+            ",",
+            "should",
+            "not",
+            "affect",
+            "wage",
+            "expectations",
+            "for",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "\"",
+            "There",
+            "is",
+            "no",
+            "reason",
+            "to",
+            "envisage",
+            "a",
+            "change",
+            "in",
+            "our",
+            "wage",
+            "policy",
+            ",",
+            "\"",
+            "he",
+            "said",
+            ",",
+            "referring",
+            "to",
+            "the",
+            "government",
+            "'s",
+            "aim",
+            "of",
+            "holding",
+            "public",
+            "sector",
+            "wage",
+            "increases",
+            "to",
+            "three",
+            "pct",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "Price",
+            "inflation",
+            "last",
+            "year",
+            "fell",
+            "to",
+            "2.1",
+            "pct",
+            "from",
+            "4.7",
+            "pct",
+            "in",
+            "1985",
+            "."
+        ]
+    ]
+}

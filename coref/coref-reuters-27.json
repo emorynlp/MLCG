@@ -1,0 +1,348 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "four MD - 11 jets",
+                "pos": [
+                    10,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the first MD - 11",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Four of these",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "options",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the options",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "signed",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "the purchase",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "McDonnell Douglas Corp",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The company",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "McDonnell Douglas",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "McDonnell Douglas",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Korean Air",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Korean Air",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Korean Airlines",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "six MD - 82s",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "these",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 8,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reuters-27",
+    "sents": [
+        [
+            "McDonnell",
+            "Douglas",
+            "Corp",
+            "said",
+            "Korean",
+            "Air",
+            "signed",
+            "formal",
+            "orders",
+            "for",
+            "four",
+            "MD",
+            "-",
+            "11",
+            "jets",
+            "with",
+            "options",
+            "to",
+            "buy",
+            "four",
+            "more",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "said",
+            "if",
+            "the",
+            "options",
+            "are",
+            "exercised",
+            ",",
+            "the",
+            "purchase",
+            "will",
+            "total",
+            "about",
+            "one",
+            "billion",
+            "dlrs",
+            "."
+        ],
+        [
+            "McDonnell",
+            "Douglas",
+            "said",
+            "on",
+            "December",
+            "30",
+            "that",
+            "Korean",
+            "Air",
+            "was",
+            "among",
+            "the",
+            "initial",
+            "12",
+            "customers",
+            "that",
+            "placed",
+            "orders",
+            "and",
+            "options",
+            "for",
+            "92",
+            "aircraft",
+            "valued",
+            "at",
+            "about",
+            "nine",
+            "billion",
+            "dlrs",
+            "."
+        ],
+        [
+            "Delivery",
+            "of",
+            "the",
+            "first",
+            "MD",
+            "-",
+            "11",
+            "is",
+            "scheduled",
+            "for",
+            "the",
+            "summer",
+            "of",
+            "1990",
+            "."
+        ],
+        [
+            "Korean",
+            "Airlines",
+            "currently",
+            "operates",
+            "four",
+            "McDonnell",
+            "Douglas",
+            "DC",
+            "-",
+            "10",
+            "jets",
+            "."
+        ],
+        [
+            "In",
+            "1985",
+            ",",
+            "it",
+            "ordered",
+            "six",
+            "MD",
+            "-",
+            "82s",
+            "valued",
+            "at",
+            "about",
+            "150",
+            "mln",
+            "dlrs",
+            "."
+        ],
+        [
+            "Four",
+            "of",
+            "these",
+            "are",
+            "in",
+            "service",
+            "and",
+            "two",
+            "will",
+            "be",
+            "delivered",
+            "this",
+            "year",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,340 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "opened",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stopped",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "followed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was prompted",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "contributed",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-21",
+    "sents": [
+        [
+            "A",
+            "major",
+            "bridge",
+            "between",
+            "Detroit",
+            ",",
+            "and",
+            "Windsor",
+            ",",
+            "Ontario",
+            ",",
+            "reopened",
+            "early",
+            "Tuesday",
+            "after",
+            "a",
+            "bomb",
+            "threat",
+            "shut",
+            "it",
+            "down",
+            "for",
+            "more",
+            "than",
+            "five",
+            "hours",
+            ",",
+            "police",
+            "said",
+            "."
+        ],
+        [
+            "Authorities",
+            "closed",
+            "the",
+            "Ambassador",
+            "Bridge",
+            "after",
+            "a",
+            "bomb",
+            "threat",
+            "was",
+            "received",
+            "around",
+            "7:15",
+            "p.m.",
+            ",",
+            "according",
+            "to",
+            "Sgt.",
+            "Eren",
+            "Stephens",
+            ",",
+            "a",
+            "Detroit",
+            "police",
+            "spokeswoman",
+            "."
+        ],
+        [
+            "It",
+            "finally",
+            "opened",
+            "at",
+            "1",
+            "a.m.",
+            "after",
+            "bomb",
+            "-",
+            "sniffing",
+            "dogs",
+            "\"",
+            "did",
+            "not",
+            "detect",
+            "or",
+            "find",
+            "a",
+            "bomb",
+            "or",
+            "suspicious",
+            "device",
+            ".",
+            "\""
+        ],
+        [
+            "The",
+            "U.S.",
+            "Coast",
+            "Guard",
+            "stopped",
+            "all",
+            "maritime",
+            "traffic",
+            "below",
+            "the",
+            "bridge",
+            "during",
+            "the",
+            "incident",
+            "."
+        ],
+        [
+            "The",
+            "Ambassador",
+            "Bridge",
+            "is",
+            "the",
+            "busiest",
+            "commercial",
+            "international",
+            "crossing",
+            "in",
+            "North",
+            "America",
+            "with",
+            "more",
+            "than",
+            "10,000",
+            "commercial",
+            "vehicles",
+            "crossing",
+            "the",
+            "bridge",
+            "on",
+            "a",
+            "typical",
+            "weekday",
+            ",",
+            "according",
+            "to",
+            "the",
+            "bridge",
+            "'s",
+            "official",
+            "website",
+            "."
+        ],
+        [
+            "More",
+            "than",
+            "25%",
+            "of",
+            "all",
+            "commercial",
+            "goods",
+            "between",
+            "Canada",
+            "and",
+            "the",
+            "United",
+            "States",
+            "cross",
+            "the",
+            "Ambassador",
+            "Bridge",
+            ",",
+            "the",
+            "website",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "closing",
+            "followed",
+            "last",
+            "Thursday",
+            "'s",
+            "closing",
+            "of",
+            "the",
+            "Detroit",
+            "-",
+            "Windsor",
+            "Tunnel",
+            ",",
+            "which",
+            "also",
+            "was",
+            "prompted",
+            "by",
+            "a",
+            "bomb",
+            "threat",
+            "."
+        ],
+        [
+            "CNN",
+            "'s",
+            "Rick",
+            "Martin",
+            "and",
+            "Julia",
+            "Greenberg",
+            "contributed",
+            "to",
+            "this",
+            "report"
+        ]
+    ]
+}

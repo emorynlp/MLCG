@@ -1,0 +1,321 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "performed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a failure",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "feeling",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "doc-situation"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-016",
+    "sents": [
+        [
+            "Hey",
+            "y\u2019all",
+            ",",
+            "so",
+            "I",
+            "started",
+            "college",
+            "in",
+            "the",
+            "18",
+            "-",
+            "19",
+            "academic",
+            "year",
+            "."
+        ],
+        [
+            "I",
+            "performed",
+            "very",
+            "poorly",
+            "due",
+            "to",
+            "irresponsibility",
+            ",",
+            "and",
+            "it",
+            "hurt",
+            "me",
+            "bad",
+            "."
+        ],
+        [
+            "Here",
+            "I",
+            "am",
+            "in",
+            "what",
+            "now",
+            "should",
+            "be",
+            "my",
+            "senior",
+            "year",
+            ",",
+            "and",
+            "due",
+            "to",
+            "my",
+            "past",
+            "failures",
+            "and",
+            "some",
+            "part",
+            "time",
+            "semesters",
+            "/",
+            "changing",
+            "majors",
+            "early",
+            "in",
+            "college",
+            "I",
+            "still",
+            "have",
+            "2",
+            "years",
+            "remaining",
+            "after",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "like",
+            "such",
+            "a",
+            "failure",
+            ",",
+            "watching",
+            "my",
+            "friends",
+            "all",
+            "about",
+            "to",
+            "graduate",
+            "and",
+            "I",
+            "just",
+            "wan",
+            "na",
+            "get",
+            "out",
+            "into",
+            "my",
+            "field",
+            ",",
+            "get",
+            "married",
+            ",",
+            "and",
+            "stop",
+            "feeling",
+            "like",
+            "this",
+            "."
+        ],
+        [
+            "Please",
+            "tell",
+            "me",
+            "I",
+            "\u2019m",
+            "not",
+            "alone",
+            "in",
+            "this"
+        ]
+    ]
+}

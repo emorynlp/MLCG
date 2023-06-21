@@ -1,0 +1,350 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Six gay men were shot dead",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "members of their tribe",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "In",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the most recent attack",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "two men were killed Thursday in Sadr City area of Baghdad",
+                "pos": [
+                    6,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The shootings came",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "a tribal meeting was held and the members decided to go after the victims",
+                "pos": [
+                    4,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The official declined to be identified",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he is not authorized to speak to the media",
+                "pos": [
+                    7,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-27",
+    "sents": [
+        [
+            "Six",
+            "gay",
+            "men",
+            "were",
+            "shot",
+            "dead",
+            "by",
+            "members",
+            "of",
+            "their",
+            "tribe",
+            "in",
+            "two",
+            "separate",
+            "incidents",
+            "in",
+            "the",
+            "past",
+            "10",
+            "days",
+            ",",
+            "an",
+            "official",
+            "with",
+            "Iraq",
+            "'s",
+            "Interior",
+            "ministry",
+            "said",
+            "."
+        ],
+        [
+            "In",
+            "the",
+            "most",
+            "recent",
+            "attack",
+            ",",
+            "two",
+            "men",
+            "were",
+            "killed",
+            "Thursday",
+            "in",
+            "Sadr",
+            "City",
+            "area",
+            "of",
+            "Baghdad",
+            "after",
+            "they",
+            "were",
+            "disowned",
+            "by",
+            "relatives",
+            ",",
+            "the",
+            "official",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "shootings",
+            "came",
+            "after",
+            "a",
+            "tribal",
+            "meeting",
+            "was",
+            "held",
+            "and",
+            "the",
+            "members",
+            "decided",
+            "to",
+            "go",
+            "after",
+            "the",
+            "victims",
+            "."
+        ],
+        [
+            "On",
+            "March",
+            "26",
+            ",",
+            "four",
+            "additional",
+            "men",
+            "were",
+            "fatally",
+            "shot",
+            "in",
+            "the",
+            "same",
+            "city",
+            ",",
+            "the",
+            "official",
+            "said",
+            ",",
+            "adding",
+            "that",
+            "the",
+            "victims",
+            "had",
+            "also",
+            "been",
+            "disowned",
+            "by",
+            "their",
+            "relatives",
+            "."
+        ],
+        [
+            "The",
+            "official",
+            "declined",
+            "to",
+            "be",
+            "identified",
+            "because",
+            "he",
+            "is",
+            "not",
+            "authorized",
+            "to",
+            "speak",
+            "to",
+            "the",
+            "media",
+            "."
+        ],
+        [
+            "Witnesses",
+            "told",
+            "CNN",
+            "that",
+            "a",
+            "Sadr",
+            "City",
+            "cafe",
+            ",",
+            "which",
+            "was",
+            "a",
+            "popular",
+            "gathering",
+            "spot",
+            "for",
+            "gays",
+            ",",
+            "was",
+            "also",
+            "set",
+            "on",
+            "fire",
+            "."
+        ]
+    ]
+}

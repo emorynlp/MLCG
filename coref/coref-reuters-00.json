@@ -1,0 +1,211 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "one delegate",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "export quotas",
+                "pos": [
+                    33,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "quotas",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "quotas",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The 54 member contact group",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "delegates",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Delegates",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reuters-00",
+    "sents": [
+        [
+            "Coffee",
+            "quota",
+            "talks",
+            "at",
+            "the",
+            "International",
+            "Coffee",
+            "Organization",
+            "council",
+            "meeting",
+            "here",
+            "continued",
+            "this",
+            "afternoon",
+            ",",
+            "but",
+            "producers",
+            "and",
+            "consumers",
+            "still",
+            "had",
+            "not",
+            "reached",
+            "common",
+            "ground",
+            "on",
+            "the",
+            "key",
+            "issue",
+            "of",
+            "how",
+            "to",
+            "estimate",
+            "export",
+            "quotas",
+            ",",
+            "delegates",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "54",
+            "member",
+            "contact",
+            "group",
+            "was",
+            "examining",
+            "a",
+            "Colombian",
+            "proposal",
+            "to",
+            "resume",
+            "quotas",
+            "April",
+            "1",
+            "under",
+            "the",
+            "ad",
+            "hoc",
+            "system",
+            "used",
+            "historically",
+            ",",
+            "with",
+            "a",
+            "pledge",
+            "to",
+            "meet",
+            "again",
+            "in",
+            "September",
+            "to",
+            "discuss",
+            "how",
+            "quotas",
+            "would",
+            "be",
+            "worked",
+            "out",
+            "in",
+            "the",
+            "future",
+            ",",
+            "they",
+            "said",
+            "."
+        ],
+        [
+            "Delegates",
+            "would",
+            "not",
+            "speculate",
+            "on",
+            "the",
+            "prospects",
+            "for",
+            "agreement",
+            "at",
+            "this",
+            "time",
+            "."
+        ],
+        [
+            "\"",
+            "Anything",
+            "could",
+            "happen",
+            ",",
+            "\"",
+            "one",
+            "delegate",
+            "said",
+            "."
+        ]
+    ]
+}

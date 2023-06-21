@@ -1,0 +1,305 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "stopped",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "look at them",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "What a foolish creature you were",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "hatch those eggs",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-14",
+    "sents": [
+        [
+            "A",
+            "HEN",
+            "who",
+            "had",
+            "no",
+            "nest",
+            "of",
+            "her",
+            "own",
+            "found",
+            "some",
+            "eggs",
+            ",",
+            "and",
+            ",",
+            "in",
+            "the",
+            "kindness",
+            "of",
+            "her",
+            "heart",
+            ",",
+            "thought",
+            "she",
+            "would",
+            "take",
+            "care",
+            "of",
+            "them",
+            ",",
+            "and",
+            "keep",
+            "them",
+            "warm",
+            "."
+        ],
+        [
+            "But",
+            "they",
+            "were",
+            "the",
+            "eggs",
+            "of",
+            "a",
+            "viper",
+            ";",
+            "and",
+            "by",
+            "and",
+            "by",
+            "the",
+            "little",
+            "snakes",
+            "began",
+            "to",
+            "come",
+            "out",
+            "of",
+            "the",
+            "shell",
+            "."
+        ],
+        [
+            "A",
+            "Swallow",
+            ",",
+            "who",
+            "was",
+            "passing",
+            ",",
+            "stopped",
+            "to",
+            "look",
+            "at",
+            "them",
+            "."
+        ],
+        [
+            "\u201c",
+            "What",
+            "a",
+            "foolish",
+            "creature",
+            "you",
+            "were",
+            ",",
+            "to",
+            "hatch",
+            "those",
+            "eggs",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Swallow",
+            "."
+        ],
+        [
+            "\u201c",
+            "Do",
+            "n\u2019t",
+            "you",
+            "know",
+            "that",
+            "as",
+            "soon",
+            "as",
+            "the",
+            "little",
+            "snakes",
+            "grow",
+            "big",
+            "enough",
+            ",",
+            "they",
+            "will",
+            "bite",
+            "some",
+            "one",
+            "\u2014",
+            "probably",
+            "_you_",
+            "first",
+            "of",
+            "all",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Then",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Hen",
+            ",",
+            "as",
+            "she",
+            "stood",
+            "on",
+            "one",
+            "leg",
+            "and",
+            "looked",
+            "at",
+            "the",
+            "ugly",
+            "little",
+            "snakes",
+            ",",
+            "first",
+            "with",
+            "one",
+            "eye",
+            "and",
+            "then",
+            "with",
+            "the",
+            "other",
+            ",",
+            "\u201c",
+            "you",
+            "think",
+            "I",
+            "have",
+            "done",
+            "more",
+            "harm",
+            "than",
+            "good",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "I",
+            "certainly",
+            "do",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Swallow",
+            ",",
+            "as",
+            "she",
+            "flew",
+            "away",
+            "."
+        ],
+        [
+            "\u201c",
+            "Good",
+            "judgment",
+            "is",
+            "better",
+            "than",
+            "thoughtless",
+            "kindness",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

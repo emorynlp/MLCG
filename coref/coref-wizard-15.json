@@ -1,0 +1,403 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "dance",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the people",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "all the people",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "watched",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "watching",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the dancing",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the rich Munchkin",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Boq",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Boq",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a room",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The sheets",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-wizard-15",
+    "sents": [
+        [
+            "Dorothy",
+            "ate",
+            "a",
+            "hearty",
+            "supper",
+            "and",
+            "was",
+            "waited",
+            "upon",
+            "by",
+            "the",
+            "rich",
+            "Munchkin",
+            "himself",
+            ",",
+            "whose",
+            "name",
+            "was",
+            "Boq",
+            "."
+        ],
+        [
+            "Then",
+            "she",
+            "sat",
+            "upon",
+            "a",
+            "settee",
+            "and",
+            "watched",
+            "the",
+            "people",
+            "dance",
+            "."
+        ],
+        [
+            "Dorothy",
+            "did",
+            "not",
+            "know",
+            "what",
+            "to",
+            "say",
+            "to",
+            "this",
+            ",",
+            "for",
+            "all",
+            "the",
+            "people",
+            "seemed",
+            "to",
+            "think",
+            "her",
+            "a",
+            "witch",
+            ",",
+            "and",
+            "she",
+            "knew",
+            "very",
+            "well",
+            "she",
+            "was",
+            "only",
+            "an",
+            "ordinary",
+            "little",
+            "girl",
+            "who",
+            "had",
+            "come",
+            "by",
+            "the",
+            "chance",
+            "of",
+            "a",
+            "cyclone",
+            "into",
+            "a",
+            "strange",
+            "land",
+            "."
+        ],
+        [
+            "When",
+            "she",
+            "had",
+            "tired",
+            "watching",
+            "the",
+            "dancing",
+            ",",
+            "Boq",
+            "led",
+            "her",
+            "into",
+            "the",
+            "house",
+            ",",
+            "where",
+            "he",
+            "gave",
+            "her",
+            "a",
+            "room",
+            "with",
+            "a",
+            "pretty",
+            "bed",
+            "in",
+            "it",
+            "."
+        ],
+        [
+            "The",
+            "sheets",
+            "were",
+            "made",
+            "of",
+            "blue",
+            "cloth",
+            ",",
+            "and",
+            "Dorothy",
+            "slept",
+            "soundly",
+            "in",
+            "them",
+            "till",
+            "morning",
+            ",",
+            "with",
+            "Toto",
+            "curled",
+            "up",
+            "on",
+            "the",
+            "blue",
+            "rug",
+            "beside",
+            "her",
+            "."
+        ]
+    ]
+}

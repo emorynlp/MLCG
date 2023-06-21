@@ -1,0 +1,507 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "decided",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m older",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m thinking about",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "old",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m interested",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Edit",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m actually 23",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "turn",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "transfer",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be 25",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-147",
+    "sents": [
+        [
+            "I",
+            "did",
+            "n\u2019t",
+            "go",
+            "to",
+            "college",
+            "right",
+            "after",
+            "high",
+            "school",
+            ",",
+            "and",
+            "decided",
+            "to",
+            "work",
+            "and",
+            "save",
+            "up",
+            "money",
+            "instead",
+            "."
+        ],
+        [
+            "Now",
+            "I",
+            "\u2019m",
+            "older",
+            ",",
+            "and",
+            "I",
+            "\u2019m",
+            "thinking",
+            "about",
+            "going",
+            "to",
+            "college",
+            "."
+        ],
+        [
+            "The",
+            "thing",
+            "is",
+            ",",
+            "I",
+            "\u2019m",
+            "getting",
+            "kind",
+            "of",
+            "old",
+            "and",
+            "I",
+            "\u2019m",
+            "interested",
+            "in",
+            "going",
+            "to",
+            "a",
+            "party",
+            "school",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "like",
+            "it",
+            "would",
+            "be",
+            "extremely",
+            "weird",
+            "to",
+            "start",
+            "school",
+            "at",
+            "my",
+            "age",
+            "."
+        ],
+        [
+            "I",
+            "probably",
+            "should",
+            "n\u2019t",
+            "expect",
+            "the",
+            "full",
+            "college",
+            "experience",
+            "right",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019m",
+            "probably",
+            "going",
+            "to",
+            "be",
+            "around",
+            "a",
+            "bunch",
+            "of",
+            "18",
+            "year",
+            "olds",
+            "and",
+            "things",
+            "might",
+            "be",
+            "awkward",
+            "."
+        ],
+        [
+            "Edit",
+            ":",
+            "I",
+            "\u2019m",
+            "actually",
+            "23",
+            "right",
+            "now",
+            ",",
+            "and",
+            "I",
+            "turn",
+            "24",
+            "at",
+            "the",
+            "end",
+            "of",
+            "March",
+            "of",
+            "next",
+            "year",
+            "."
+        ],
+        [
+            "By",
+            "the",
+            "time",
+            "I",
+            "transfer",
+            "from",
+            "a",
+            "community",
+            "college",
+            ",",
+            "I",
+            "\u2019ll",
+            "be",
+            "25",
+            "or",
+            "so",
+            "."
+        ]
+    ]
+}

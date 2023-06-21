@@ -1,0 +1,344 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "spent",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "withdrew",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "the news",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 7,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "i",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-044",
+    "sents": [
+        [
+            "i",
+            "just",
+            "finished",
+            "my",
+            "first",
+            "year",
+            "of",
+            "a",
+            "phd",
+            "program",
+            "."
+        ],
+        [
+            "i",
+            "spent",
+            "almost",
+            "the",
+            "entire",
+            "time",
+            "debating",
+            "leaving",
+            "&",
+            "doing",
+            "something",
+            "else",
+            "."
+        ],
+        [
+            "it",
+            "really",
+            "started",
+            "to",
+            "negatively",
+            "impact",
+            "my",
+            "mental",
+            "health",
+            "and",
+            "my",
+            "research",
+            "."
+        ],
+        [
+            "today",
+            "i",
+            "finally",
+            "withdrew",
+            "from",
+            "the",
+            "university",
+            "."
+        ],
+        [
+            "i",
+            "have",
+            "no",
+            "regrets",
+            "whatsoever",
+            "and",
+            "i",
+            "feel",
+            "so",
+            "FREE",
+            "it",
+            "\u2019s",
+            "incredible",
+            "."
+        ],
+        [
+            "i",
+            "do",
+            "n\u2019t",
+            "know",
+            "what",
+            "happens",
+            "next",
+            ",",
+            "but",
+            "i",
+            "am",
+            "so",
+            "happy",
+            "and",
+            "excited",
+            "for",
+            "the",
+            "first",
+            "time",
+            "in",
+            "a",
+            "very",
+            ",",
+            "very",
+            "long",
+            "time",
+            "!!"
+        ],
+        [
+            "\ud83e\udd29",
+            "edit",
+            ":",
+            "thank",
+            "you",
+            "for",
+            "all",
+            "the",
+            "positive",
+            "support",
+            "!"
+        ],
+        [
+            "i",
+            "\u2019ve",
+            "gotten",
+            "way",
+            "more",
+            "love",
+            "from",
+            "reddit",
+            "than",
+            "i",
+            "have",
+            "from",
+            "my",
+            "lab",
+            "mates",
+            "since",
+            "i",
+            "shared",
+            "the",
+            "news",
+            "\ud83d\ude05",
+            "also",
+            "shout",
+            "out",
+            "to",
+            "the",
+            "kind",
+            "stranger",
+            "who",
+            "gave",
+            "me",
+            "my",
+            "first",
+            "ever",
+            "reddit",
+            "award",
+            "!"
+        ]
+    ]
+}

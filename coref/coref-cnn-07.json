@@ -1,0 +1,485 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Peace",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Nobel Prize",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her award",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Mexican flag",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "a Mexican flag",
+                "pos": [
+                    20,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Nobel",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Nobel",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Malala Yousafzai",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Yousafzai",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the 17 - year - old Nobel Laureate",
+                "pos": [
+                    6,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Malala",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Oslo",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Oslo",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Mexican citizen",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "Mexico",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Mexico",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "interrupted",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "an interruption",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 5,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Nobel Prize ceremony",
+                "pos": [
+                    9,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the ceremony",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the ceremony",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A man",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "a young man",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "a Mexican citizen",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Mexico 's Foreign Ministry",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "the foreign ministry",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-07",
+    "sents": [
+        [
+            "A",
+            "man",
+            "carrying",
+            "a",
+            "Mexican",
+            "flag",
+            "interrupted",
+            "Wednesday",
+            "'s",
+            "Nobel",
+            "Peace",
+            "Prize",
+            "ceremony",
+            ",",
+            "standing",
+            "steps",
+            "away",
+            "from",
+            "Malala",
+            "Yousafzai",
+            "as",
+            "she",
+            "received",
+            "her",
+            "award",
+            "."
+        ],
+        [
+            "Video",
+            "of",
+            "the",
+            "event",
+            "in",
+            "Oslo",
+            ",",
+            "Norway",
+            ",",
+            "shows",
+            "a",
+            "young",
+            "man",
+            "with",
+            "a",
+            "camera",
+            "around",
+            "his",
+            "neck",
+            "holding",
+            "a",
+            "Mexican",
+            "flag",
+            "on",
+            "the",
+            "stage",
+            "just",
+            "a",
+            "few",
+            "feet",
+            "from",
+            "Yousafzai",
+            "."
+        ],
+        [
+            "He",
+            "can",
+            "be",
+            "seen",
+            "turning",
+            "toward",
+            "the",
+            "17",
+            "-",
+            "year",
+            "-",
+            "old",
+            "Nobel",
+            "Laureate",
+            "and",
+            "heard",
+            "shouting",
+            "\"",
+            "Please",
+            "Malala",
+            "\"",
+            "and",
+            "mentioning",
+            "Mexico",
+            "."
+        ],
+        [
+            "Oslo",
+            "police",
+            "said",
+            "the",
+            "Mexican",
+            "citizen",
+            "was",
+            "not",
+            "a",
+            "guest",
+            "at",
+            "the",
+            "ceremony",
+            "and",
+            "had",
+            "managed",
+            "to",
+            "go",
+            "through",
+            "security",
+            "checkpoints",
+            "."
+        ],
+        [
+            "He",
+            "was",
+            "not",
+            "carrying",
+            "a",
+            "weapon",
+            ",",
+            "the",
+            "police",
+            "spokesman",
+            "said",
+            "."
+        ],
+        [
+            "Mexico",
+            "'s",
+            "Foreign",
+            "Ministry",
+            "confirmed",
+            "in",
+            "a",
+            "statement",
+            "that",
+            "Norwegian",
+            "police",
+            "had",
+            "detained",
+            "a",
+            "Mexican",
+            "citizen",
+            "after",
+            "an",
+            "interruption",
+            "during",
+            "the",
+            "ceremony",
+            "."
+        ],
+        [
+            "He",
+            "remains",
+            "in",
+            "custody",
+            ",",
+            "the",
+            "foreign",
+            "ministry",
+            "said",
+            "."
+        ]
+    ]
+}

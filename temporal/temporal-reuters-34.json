@@ -1,0 +1,310 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was quoted",
+                "pos": [
+                    30,
+                    32
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was quoted",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "failed",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "financed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "issuing",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-34",
+    "sents": [
+        [
+            "China",
+            "'s",
+            "state",
+            "and",
+            "collective",
+            "firms",
+            "do",
+            "not",
+            "have",
+            "enough",
+            "cash",
+            "to",
+            "operate",
+            "imported",
+            "equipment",
+            ",",
+            "so",
+            "banks",
+            "will",
+            "issue",
+            "more",
+            "bonds",
+            "to",
+            "raise",
+            "funds",
+            ",",
+            "a",
+            "Chinese",
+            "bank",
+            "official",
+            "was",
+            "quoted",
+            "by",
+            "the",
+            "China",
+            "Daily",
+            "as",
+            "saying",
+            "."
+        ],
+        [
+            "Xie",
+            "was",
+            "quoted",
+            "as",
+            "saying",
+            "the",
+            "present",
+            "cash",
+            "shortage",
+            "means",
+            "some",
+            "state",
+            "firms",
+            "do",
+            "not",
+            "run",
+            "at",
+            "full",
+            "capacity",
+            "and",
+            "are",
+            "inefficient",
+            "."
+        ],
+        [
+            "The",
+            "central",
+            "government",
+            "does",
+            "not",
+            "have",
+            "enough",
+            "money",
+            "to",
+            "meet",
+            "their",
+            "needs",
+            "."
+        ],
+        [
+            "The",
+            "paper",
+            "said",
+            ",",
+            "\"",
+            "Reliable",
+            "sources",
+            "disclosed",
+            "that",
+            "the",
+            "country",
+            "is",
+            "running",
+            "a",
+            "budget",
+            "deficit",
+            ".",
+            "\""
+        ],
+        [
+            "It",
+            "gave",
+            "no",
+            "figure",
+            "."
+        ],
+        [
+            "Xie",
+            "said",
+            "her",
+            "bank",
+            "sooner",
+            "or",
+            "later",
+            "will",
+            "have",
+            "to",
+            "punish",
+            "the",
+            "many",
+            "firms",
+            "that",
+            "have",
+            "failed",
+            "to",
+            "repay",
+            "loans",
+            "made",
+            "to",
+            "them",
+            "over",
+            "the",
+            "past",
+            "two",
+            "years",
+            "at",
+            "high",
+            "interest",
+            "rates",
+            "."
+        ],
+        [
+            "The",
+            "bank",
+            "financed",
+            "the",
+            "loans",
+            "by",
+            "issuing",
+            "two",
+            "billion",
+            "yuan",
+            "of",
+            "bonds",
+            ",",
+            "but",
+            "she",
+            "gave",
+            "no",
+            "other",
+            "details",
+            "."
+        ]
+    ]
+}

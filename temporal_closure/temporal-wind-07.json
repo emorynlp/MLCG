@@ -1,0 +1,303 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was bent on",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "strapped up",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "staring up",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been done",
+                "pos": [
+                    40,
+                    42
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pointed out",
+                "pos": [
+                    45,
+                    47
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been sitting",
+                "pos": [
+                    70,
+                    72
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finished",
+                "pos": [
+                    84,
+                    85
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-07",
+    "sents": [
+        [
+            "Packing",
+            "the",
+            "basket",
+            "was",
+            "not",
+            "quite",
+            "such",
+            "pleasant",
+            "work",
+            "as",
+            "unpacking",
+            "the",
+            "basket",
+            "."
+        ],
+        [
+            "It",
+            "never",
+            "is",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "Mole",
+            "was",
+            "bent",
+            "on",
+            "enjoying",
+            "everything",
+            ",",
+            "and",
+            "although",
+            "just",
+            "when",
+            "he",
+            "had",
+            "got",
+            "the",
+            "basket",
+            "packed",
+            "and",
+            "strapped",
+            "up",
+            "tightly",
+            "he",
+            "saw",
+            "a",
+            "plate",
+            "staring",
+            "up",
+            "at",
+            "him",
+            "from",
+            "the",
+            "grass",
+            ",",
+            "and",
+            "when",
+            "the",
+            "job",
+            "had",
+            "been",
+            "done",
+            "again",
+            "the",
+            "Rat",
+            "pointed",
+            "out",
+            "a",
+            "fork",
+            "which",
+            "anybody",
+            "ought",
+            "to",
+            "have",
+            "seen",
+            ",",
+            "and",
+            "last",
+            "of",
+            "all",
+            ",",
+            "behold",
+            "!",
+            "the",
+            "mustard",
+            "pot",
+            ",",
+            "which",
+            "he",
+            "had",
+            "been",
+            "sitting",
+            "on",
+            "without",
+            "knowing",
+            "it",
+            "\u2014",
+            "still",
+            ",",
+            "somehow",
+            ",",
+            "the",
+            "thing",
+            "got",
+            "finished",
+            "at",
+            "last",
+            ",",
+            "without",
+            "much",
+            "loss",
+            "of",
+            "temper",
+            "."
+        ]
+    ]
+}

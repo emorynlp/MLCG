@@ -1,0 +1,429 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "Encouraged",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "roused",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dusted",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "polished",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "running",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "roaring up",
+                "pos": [
+                    37,
+                    39
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hailed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dropping",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "burying",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "moaned",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-39",
+    "sents": [
+        [
+            "Encouraged",
+            "by",
+            "his",
+            "inspiriting",
+            "companion",
+            ",",
+            "the",
+            "Mole",
+            "roused",
+            "himself",
+            "and",
+            "dusted",
+            "and",
+            "polished",
+            "with",
+            "energy",
+            "and",
+            "heartiness",
+            ",",
+            "while",
+            "the",
+            "Rat",
+            ",",
+            "running",
+            "to",
+            "and",
+            "fro",
+            "with",
+            "armfuls",
+            "of",
+            "fuel",
+            ",",
+            "soon",
+            "had",
+            "a",
+            "cheerful",
+            "blaze",
+            "roaring",
+            "up",
+            "the",
+            "chimney",
+            "."
+        ],
+        [
+            "He",
+            "hailed",
+            "the",
+            "Mole",
+            "to",
+            "come",
+            "and",
+            "warm",
+            "himself",
+            ";",
+            "but",
+            "Mole",
+            "promptly",
+            "had",
+            "another",
+            "fit",
+            "of",
+            "the",
+            "blues",
+            ",",
+            "dropping",
+            "down",
+            "on",
+            "a",
+            "couch",
+            "in",
+            "dark",
+            "despair",
+            "and",
+            "burying",
+            "his",
+            "face",
+            "in",
+            "his",
+            "duster",
+            "."
+        ],
+        [
+            "\"",
+            "Rat",
+            ",",
+            "\"",
+            "he",
+            "moaned",
+            ",",
+            "\"",
+            "how",
+            "about",
+            "your",
+            "supper",
+            ",",
+            "you",
+            "poor",
+            ",",
+            "cold",
+            ",",
+            "hungry",
+            ",",
+            "weary",
+            "animal",
+            "?",
+            "I",
+            "'ve",
+            "nothing",
+            "to",
+            "give",
+            "you",
+            "\u2014",
+            "nothing",
+            "\u2014",
+            "not",
+            "a",
+            "crumb",
+            "!",
+            "\""
+        ]
+    ]
+}

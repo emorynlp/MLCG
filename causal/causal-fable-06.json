@@ -1,0 +1,401 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A SLEEPY Dog went to the barn , and jumped into a manger full of hay , curling himself up there",
+                "pos": [
+                    0,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "an afternoon nap",
+                "pos": [
+                    22,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the Oxen came in",
+                "pos": [
+                    10,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "their supper",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The Dog awoke in a great rage",
+                "pos": [
+                    0,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "at",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "being disturbed",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "we do want to eat it",
+                "pos": [
+                    12,
+                    18
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "we are hungry and tired",
+                "pos": [
+                    20,
+                    25
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-06",
+    "sents": [
+        [
+            "A",
+            "SLEEPY",
+            "Dog",
+            "went",
+            "to",
+            "the",
+            "barn",
+            ",",
+            "and",
+            "jumped",
+            "into",
+            "a",
+            "manger",
+            "full",
+            "of",
+            "hay",
+            ",",
+            "curling",
+            "himself",
+            "up",
+            "there",
+            "for",
+            "an",
+            "afternoon",
+            "nap",
+            "."
+        ],
+        [
+            "When",
+            "he",
+            "had",
+            "been",
+            "sleeping",
+            "comfortably",
+            "for",
+            "some",
+            "time",
+            ",",
+            "the",
+            "Oxen",
+            "came",
+            "in",
+            "for",
+            "their",
+            "supper",
+            "."
+        ],
+        [
+            "The",
+            "Dog",
+            "awoke",
+            "in",
+            "a",
+            "great",
+            "rage",
+            "at",
+            "being",
+            "disturbed",
+            ",",
+            "and",
+            "began",
+            "to",
+            "growl",
+            "and",
+            "bark",
+            "at",
+            "them",
+            "."
+        ],
+        [
+            "He",
+            "would",
+            "not",
+            "let",
+            "them",
+            "get",
+            "at",
+            "the",
+            "hay",
+            "."
+        ],
+        [
+            "\u201c",
+            "Stop",
+            "a",
+            "moment",
+            ",",
+            "\u201d",
+            "said",
+            "one",
+            "of",
+            "the",
+            "Oxen",
+            "."
+        ],
+        [
+            "\u201c",
+            "Do",
+            "you",
+            "want",
+            "to",
+            "eat",
+            "this",
+            "hay",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "No",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Dog",
+            ";",
+            "\u201c",
+            "I",
+            "should",
+            "n\u2019t",
+            "think",
+            "of",
+            "such",
+            "a",
+            "thing",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Very",
+            "well",
+            ",",
+            "then",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Ox",
+            ",",
+            "\u201c",
+            "we",
+            "do",
+            "want",
+            "to",
+            "eat",
+            "it",
+            ",",
+            "for",
+            "we",
+            "are",
+            "hungry",
+            "and",
+            "tired",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Oh",
+            ",",
+            "go",
+            "away",
+            ",",
+            "\u201d",
+            "growled",
+            "the",
+            "Dog",
+            ",",
+            "\u201c",
+            "and",
+            "let",
+            "me",
+            "sleep",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "What",
+            "an",
+            "ugly",
+            ",",
+            "snappish",
+            "fellow",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Ox",
+            "."
+        ],
+        [
+            "\u201c",
+            "He",
+            "will",
+            "neither",
+            "eat",
+            "the",
+            "hay",
+            "himself",
+            "nor",
+            "let",
+            "us",
+            "eat",
+            "it",
+            "!",
+            "\u201d"
+        ]
+    ]
+}

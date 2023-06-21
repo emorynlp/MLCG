@@ -1,0 +1,299 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a fast - moving wildfire",
+                "pos": [
+                    11,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the blaze",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The flames",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the wildfire",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the fire",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Andrew Madsen",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Madsen",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Santa Barbara",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Santa Barbara",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Santa Barbara",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-26",
+    "sents": [
+        [
+            "Crews",
+            "in",
+            "Southern",
+            "California",
+            "struggled",
+            "to",
+            "get",
+            "the",
+            "upper",
+            "hand",
+            "on",
+            "a",
+            "fast",
+            "-",
+            "moving",
+            "wildfire",
+            "in",
+            "Santa",
+            "Barbara",
+            "County",
+            "early",
+            "Tuesday",
+            "."
+        ],
+        [
+            "Known",
+            "as",
+            "the",
+            "White",
+            "Fire",
+            ",",
+            "the",
+            "blaze",
+            "had",
+            "already",
+            "charred",
+            "some",
+            "1,000",
+            "acres",
+            "after",
+            "getting",
+            "its",
+            "start",
+            "Monday",
+            "afternoon",
+            ",",
+            "U.S.",
+            "Forest",
+            "Service",
+            "spokesman",
+            "Andrew",
+            "Madsen",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "flames",
+            "were",
+            "5%",
+            "contained",
+            "."
+        ],
+        [
+            "The",
+            "Forest",
+            "Service",
+            "expects",
+            "to",
+            "have",
+            "700",
+            "personnel",
+            "in",
+            "place",
+            "Tuesday",
+            "morning",
+            "."
+        ],
+        [
+            "The",
+            "Santa",
+            "Barbara",
+            "Sheriff",
+            "'s",
+            "Department",
+            "evacuated",
+            "up",
+            "to",
+            "6,000",
+            "people",
+            "from",
+            "the",
+            "popular",
+            "White",
+            "Rock",
+            "Campground",
+            "at",
+            "the",
+            "end",
+            "of",
+            "the",
+            "busy",
+            "Memorial",
+            "Day",
+            "weekend",
+            "as",
+            "the",
+            "wildfire",
+            "advanced",
+            ",",
+            "public",
+            "information",
+            "officer",
+            "Kelly",
+            "Hoover",
+            "said",
+            "."
+        ],
+        [
+            "Although",
+            "the",
+            "fire",
+            "caused",
+            "minor",
+            "damage",
+            "to",
+            "a",
+            "ranger",
+            "station",
+            ",",
+            "it",
+            "quickly",
+            "moved",
+            "deeper",
+            "into",
+            "Los",
+            "Padres",
+            "National",
+            "Forest",
+            ",",
+            "away",
+            "from",
+            "homes",
+            "and",
+            "structures",
+            ",",
+            "according",
+            "to",
+            "Madsen",
+            "."
+        ],
+        [
+            "No",
+            "injuries",
+            "or",
+            "fatalities",
+            "have",
+            "been",
+            "reported",
+            "."
+        ],
+        [
+            "Santa",
+            "Barbara",
+            "is",
+            "located",
+            "about",
+            "85",
+            "miles",
+            "northwest",
+            "of",
+            "downtown",
+            "Los",
+            "Angeles",
+            "."
+        ]
+    ]
+}

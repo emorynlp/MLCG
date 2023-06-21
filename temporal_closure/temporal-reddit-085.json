@@ -1,0 +1,303 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "'m a senior English major",
+                "pos": [
+                    4,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "applying",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m interested in",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-085",
+    "sents": [
+        [
+            "Hi",
+            "all",
+            ",",
+            "I",
+            "'m",
+            "a",
+            "senior",
+            "English",
+            "major",
+            "applying",
+            "to",
+            "PhD",
+            "programs",
+            "in",
+            "English",
+            "this",
+            "fall",
+            "."
+        ],
+        [
+            "One",
+            "of",
+            "my",
+            "professors",
+            "told",
+            "me",
+            "that",
+            "I",
+            "should",
+            "email",
+            "professors",
+            "who",
+            "I",
+            "am",
+            "interested",
+            "in",
+            "working",
+            "with",
+            "before",
+            "I",
+            "apply",
+            "."
+        ],
+        [
+            "Is",
+            "this",
+            "a",
+            "hard",
+            "requirement",
+            "?"
+        ],
+        [
+            "Do",
+            "I",
+            "just",
+            "email",
+            "them",
+            "out",
+            "of",
+            "the",
+            "blue",
+            "?"
+        ],
+        [
+            "What",
+            "do",
+            "I",
+            "say",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "crazy",
+            "social",
+            "anxiety",
+            ",",
+            "so",
+            "I",
+            "could",
+            "really",
+            "use",
+            "some",
+            "guidance",
+            "."
+        ],
+        [
+            "Also",
+            ",",
+            "how",
+            "aligned",
+            "does",
+            "a",
+            "professor",
+            "'s",
+            "research",
+            "interests",
+            "have",
+            "to",
+            "be",
+            "with",
+            "mine",
+            "?"
+        ],
+        [
+            "I",
+            "'m",
+            "interested",
+            "in",
+            "African",
+            "American",
+            "literature",
+            ",",
+            "technology",
+            "/",
+            "science",
+            ",",
+            "and",
+            "DH",
+            "."
+        ],
+        [
+            "Should",
+            "I",
+            "only",
+            "email",
+            "professors",
+            "who",
+            "research",
+            "all",
+            "of",
+            "these",
+            ",",
+            "or",
+            "could",
+            "I",
+            "reach",
+            "out",
+            "to",
+            "professors",
+            "who",
+            "study",
+            "one",
+            "or",
+            "two",
+            "?"
+        ],
+        [
+            "Thanks",
+            "for",
+            "your",
+            "help",
+            "everyone",
+            ":)"
+        ]
+    ]
+}

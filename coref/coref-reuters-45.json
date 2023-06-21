@@ -1,0 +1,289 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "its 10 - 7/8 pct subordinated notes",
+                "pos": [
+                    14,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the notes",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Penril Corp",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The company",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Penril",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "Penril",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Clifford L. Alexander Jr.",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "directors",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-45",
+    "sents": [
+        [
+            "Penril",
+            "Corp",
+            "said",
+            "it",
+            "is",
+            "seeking",
+            "to",
+            "sell",
+            "its",
+            "Triplett",
+            "Electrical",
+            "Instrument",
+            "Corp",
+            "subsidiary",
+            "in",
+            "Bluffton",
+            ",",
+            "Ohio",
+            ",",
+            "and",
+            "Triplett",
+            "'s",
+            "Alltest",
+            "division",
+            "in",
+            "Hoffman",
+            "Estates",
+            ",",
+            "Ill",
+            "."
+        ],
+        [
+            ",",
+            "as",
+            "part",
+            "of",
+            "a",
+            "plan",
+            "to",
+            "concentrate",
+            "on",
+            "its",
+            "three",
+            "profitable",
+            "division",
+            "and",
+            "reduce",
+            "its",
+            "debt",
+            "load",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "also",
+            "said",
+            "it",
+            "is",
+            "evaluating",
+            "a",
+            "plan",
+            "to",
+            "satisfy",
+            "its",
+            "obligations",
+            "under",
+            "its",
+            "10",
+            "-",
+            "7/8",
+            "pct",
+            "subordinated",
+            "notes",
+            "but",
+            "gave",
+            "no",
+            "details",
+            "."
+        ],
+        [
+            "Interest",
+            "on",
+            "the",
+            "notes",
+            "is",
+            "due",
+            "today",
+            "."
+        ],
+        [
+            "Penril",
+            "further",
+            "said",
+            "director",
+            "Clifford",
+            "L.",
+            "Alexander",
+            "Jr.",
+            "has",
+            "resigned",
+            "from",
+            "the",
+            "board",
+            "."
+        ],
+        [
+            "It",
+            "gave",
+            "no",
+            "reason",
+            "."
+        ],
+        [
+            "Penril",
+            "said",
+            "shareholders",
+            "at",
+            "the",
+            "annual",
+            "meeting",
+            "approved",
+            "the",
+            "limitation",
+            "of",
+            "directors",
+            "'",
+            "liability",
+            "."
+        ]
+    ]
+}

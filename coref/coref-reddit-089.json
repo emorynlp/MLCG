@@ -1,0 +1,204 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "we",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-089",
+    "sents": [
+        [
+            "I",
+            "'ve",
+            "been",
+            "getting",
+            "frustrated",
+            "by",
+            "a",
+            "lack",
+            "of",
+            "similarity",
+            "between",
+            "lectures",
+            "and",
+            "the",
+            "assignments",
+            "."
+        ],
+        [
+            "I",
+            "learn",
+            "by",
+            "examples",
+            "."
+        ],
+        [
+            "If",
+            "I",
+            "need",
+            "to",
+            "learn",
+            "how",
+            "to",
+            "do",
+            "something",
+            ",",
+            "like",
+            "a",
+            "certain",
+            "process",
+            "(",
+            "which",
+            "is",
+            "what",
+            "most",
+            "problems",
+            "are",
+            "in",
+            "assignments",
+            ")",
+            "then",
+            "the",
+            "best",
+            "way",
+            "for",
+            "me",
+            "to",
+            "learn",
+            "is",
+            "to",
+            "see",
+            "the",
+            "exact",
+            "same",
+            "type",
+            "of",
+            "process",
+            "being",
+            "done",
+            "."
+        ],
+        [
+            "but",
+            "in",
+            "this",
+            "one",
+            "class",
+            ",",
+            "the",
+            "professor",
+            "has",
+            "examples",
+            ",",
+            "but",
+            "not",
+            "at",
+            "all",
+            "the",
+            "same",
+            "types",
+            "of",
+            "examples",
+            "as",
+            "what",
+            "we",
+            "'re",
+            "expected",
+            "to",
+            "do",
+            "for",
+            "assignments",
+            "."
+        ],
+        [
+            "Am",
+            "I",
+            "just",
+            "being",
+            "a",
+            "whiner",
+            "?"
+        ],
+        [
+            "Or",
+            "is",
+            "there",
+            "validity",
+            "to",
+            "my",
+            "complaint",
+            "?"
+        ]
+    ]
+}

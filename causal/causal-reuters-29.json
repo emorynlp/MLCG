@@ -1,0 +1,258 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "it will register with the Securities and Exchange Commission shrortly",
+                "pos": [
+                    2,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "offer four mln additional common shares",
+                "pos": [
+                    13,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "It will use the proceeds",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "repay debt , finance recent acquisitions",
+                "pos": [
+                    6,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "other corporate purposes",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-29",
+    "sents": [
+        [
+            "Avery",
+            "said",
+            "its",
+            "board",
+            "authorizerd",
+            "a",
+            "two",
+            "for",
+            "one",
+            "stock",
+            "split",
+            ",",
+            "an",
+            "increased",
+            "in",
+            "the",
+            "quarterly",
+            "dividend",
+            "and",
+            "plans",
+            "to",
+            "offer",
+            "four",
+            "mln",
+            "shares",
+            "of",
+            "common",
+            "stock",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "said",
+            "the",
+            "stock",
+            "split",
+            "is",
+            "effective",
+            "March",
+            "16",
+            "with",
+            "a",
+            "distribution",
+            "of",
+            "one",
+            "additional",
+            "share",
+            "to",
+            "each",
+            "shareholder",
+            "of",
+            "record",
+            "March",
+            "9."
+        ],
+        [
+            "It",
+            "said",
+            "the",
+            "quarterly",
+            "cash",
+            "dividend",
+            "of",
+            "10.5",
+            "cts",
+            "per",
+            "share",
+            "on",
+            "the",
+            "split",
+            "shares",
+            ",",
+            "a",
+            "10.5",
+            "pct",
+            "increase",
+            "from",
+            "the",
+            "19",
+            "cts",
+            "per",
+            "share",
+            "before",
+            "the",
+            "split",
+            "."
+        ],
+        [
+            "Avery",
+            "said",
+            "it",
+            "will",
+            "register",
+            "with",
+            "the",
+            "Securities",
+            "and",
+            "Exchange",
+            "Commission",
+            "shrortly",
+            "to",
+            "offer",
+            "four",
+            "mln",
+            "additional",
+            "common",
+            "shares",
+            "."
+        ],
+        [
+            "It",
+            "will",
+            "use",
+            "the",
+            "proceeds",
+            "to",
+            "repay",
+            "debt",
+            ",",
+            "finance",
+            "recent",
+            "acquisitions",
+            "and",
+            "for",
+            "other",
+            "corporate",
+            "purposes",
+            "."
+        ]
+    ]
+}

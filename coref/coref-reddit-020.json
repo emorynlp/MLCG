@@ -1,0 +1,588 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "it",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "finish",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "my dad",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my dad",
+                "pos": [
+                    38,
+                    40
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "pandemic",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the pandemic",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my family",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my family",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my degree",
+                "pos": [
+                    31,
+                    33
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my masters",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the semester",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the semester",
+                "pos": [
+                    28,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the semester",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the semester",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    44,
+                    45
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "finished",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "finished",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 6,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "event"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-020",
+    "sents": [
+        [
+            "I",
+            "just",
+            "had",
+            "the",
+            "semester",
+            "from",
+            "hell",
+            "\u2014",
+            "my",
+            "dad",
+            "died",
+            "unexpectedly",
+            "2",
+            "weeks",
+            "before",
+            "the",
+            "world",
+            "went",
+            "into",
+            "pandemic",
+            "lockdown",
+            "."
+        ],
+        [
+            "I",
+            "go",
+            "to",
+            "school",
+            "5",
+            "hours",
+            "away",
+            "from",
+            "my",
+            "family",
+            "and",
+            "I",
+            "remember",
+            "telling",
+            "my",
+            "mom",
+            "that",
+            "I",
+            "just",
+            "could",
+            "n\u2019t",
+            "do",
+            "it",
+            "\u2014",
+            "I",
+            "could",
+            "n\u2019t",
+            "finish",
+            "the",
+            "semester",
+            "or",
+            "my",
+            "degree",
+            "which",
+            "broke",
+            "my",
+            "heart",
+            "because",
+            "my",
+            "dad",
+            "was",
+            "so",
+            "proud",
+            "of",
+            "me",
+            "for",
+            "being",
+            "in",
+            "grad",
+            "school",
+            "."
+        ],
+        [
+            "Because",
+            "of",
+            "the",
+            "pandemic",
+            "I",
+            "have",
+            "not",
+            "seen",
+            "the",
+            "rest",
+            "of",
+            "my",
+            "family",
+            "for",
+            "over",
+            "2",
+            "months",
+            "(",
+            "at",
+            "a",
+            "time",
+            "when",
+            "I",
+            "really",
+            "need",
+            "their",
+            "support",
+            ")",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "finished",
+            "out",
+            "the",
+            "semester",
+            "!"
+        ],
+        [
+            "Kept",
+            "my",
+            "4.0",
+            ",",
+            "did",
+            "my",
+            "research",
+            "(",
+            "still",
+            "a",
+            "little",
+            "behind",
+            "but",
+            "oh",
+            "well",
+            ")",
+            ",",
+            "and",
+            "fulfilled",
+            "my",
+            "TA",
+            "duties",
+            "."
+        ],
+        [
+            "Right",
+            "on",
+            "track",
+            "to",
+            "finish",
+            "my",
+            "masters",
+            "in",
+            "December",
+            "."
+        ],
+        [
+            "I",
+            "had",
+            "days",
+            "when",
+            "I",
+            "could",
+            "n\u2019t",
+            "get",
+            "out",
+            "of",
+            "bed",
+            "but",
+            "I",
+            "still",
+            "finished",
+            "the",
+            "semester",
+            "strong",
+            "."
+        ],
+        [
+            "If",
+            "I",
+            "can",
+            "do",
+            "it",
+            ",",
+            "y\u2019all",
+            "can",
+            "too"
+        ]
+    ]
+}

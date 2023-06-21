@@ -1,0 +1,299 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "shuffled",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "carrying",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "followed",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "nudging",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "see",
+                "pos": [
+                    58,
+                    59
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were doors",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "flung open",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-26",
+    "sents": [
+        [
+            "He",
+            "shuffled",
+            "on",
+            "in",
+            "front",
+            "of",
+            "them",
+            ",",
+            "carrying",
+            "the",
+            "light",
+            ",",
+            "and",
+            "they",
+            "followed",
+            "him",
+            ",",
+            "nudging",
+            "each",
+            "other",
+            "in",
+            "an",
+            "anticipating",
+            "sort",
+            "of",
+            "way",
+            ",",
+            "down",
+            "a",
+            "long",
+            ",",
+            "gloomy",
+            ",",
+            "and",
+            ",",
+            "to",
+            "tell",
+            "the",
+            "truth",
+            ",",
+            "decidedly",
+            "shabby",
+            "passage",
+            ",",
+            "into",
+            "a",
+            "sort",
+            "of",
+            "a",
+            "central",
+            "hall",
+            ";",
+            "out",
+            "of",
+            "which",
+            "they",
+            "could",
+            "dimly",
+            "see",
+            "other",
+            "long",
+            "tunnel",
+            "-",
+            "like",
+            "passages",
+            "branching",
+            ",",
+            "passages",
+            "mysterious",
+            "and",
+            "without",
+            "apparent",
+            "end",
+            "."
+        ],
+        [
+            "But",
+            "there",
+            "were",
+            "doors",
+            "in",
+            "the",
+            "hall",
+            "as",
+            "well",
+            "\u2014",
+            "stout",
+            "oaken",
+            "comfortable",
+            "-",
+            "looking",
+            "doors",
+            "."
+        ],
+        [
+            "One",
+            "of",
+            "these",
+            "the",
+            "Badger",
+            "flung",
+            "open",
+            ",",
+            "and",
+            "at",
+            "once",
+            "they",
+            "found",
+            "themselves",
+            "in",
+            "all",
+            "the",
+            "glow",
+            "and",
+            "warmth",
+            "of",
+            "a",
+            "large",
+            "fire",
+            "-",
+            "lit",
+            "kitchen",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,362 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Water levels at the Vilcanota River have receded enough",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "allow",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "repairs to the rail line",
+                "pos": [
+                    11,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "forced",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "use helicopters",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "evacuate more than 1,000 stranded tourists",
+                "pos": [
+                    8,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to last month",
+                "pos": [
+                    4,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "10,000 people were affected",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the rain",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause|cause",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-33",
+    "sents": [
+        [
+            "Peru",
+            "'s",
+            "ancient",
+            "Inca",
+            "ruins",
+            "of",
+            "Machu",
+            "Picchu",
+            "should",
+            "reopen",
+            "April",
+            "1",
+            ",",
+            "more",
+            "than",
+            "two",
+            "months",
+            "after",
+            "rain",
+            "stranded",
+            "hundreds",
+            "of",
+            "tourists",
+            "at",
+            "the",
+            "popular",
+            "spot",
+            ",",
+            "the",
+            "government",
+            "said",
+            "."
+        ],
+        [
+            "Heavy",
+            "rain",
+            "in",
+            "January",
+            "unleashed",
+            "mudslides",
+            "that",
+            "cut",
+            "off",
+            "roads",
+            "and",
+            "blocked",
+            "a",
+            "rail",
+            "line",
+            "between",
+            "Machu",
+            "Picchu",
+            "and",
+            "the",
+            "nearby",
+            "city",
+            "of",
+            "Cusco",
+            "."
+        ],
+        [
+            "Water",
+            "levels",
+            "at",
+            "the",
+            "Vilcanota",
+            "River",
+            "have",
+            "receded",
+            "enough",
+            "to",
+            "allow",
+            "repairs",
+            "to",
+            "the",
+            "rail",
+            "line",
+            ",",
+            "said",
+            "Martin",
+            "Perez",
+            ",",
+            "head",
+            "of",
+            "Peru",
+            "'s",
+            "Ministry",
+            "of",
+            "Exterior",
+            "Commerce",
+            "and",
+            "Tourism",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "expect",
+            "that",
+            "starting",
+            "April",
+            "1",
+            ",",
+            "we",
+            "will",
+            "start",
+            "to",
+            "receive",
+            "the",
+            "millions",
+            "of",
+            "tourists",
+            "who",
+            "always",
+            "have",
+            "come",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "Tuesday",
+            "."
+        ],
+        [
+            "Peruvian",
+            "officials",
+            "were",
+            "forced",
+            "to",
+            "use",
+            "helicopters",
+            "to",
+            "evacuate",
+            "more",
+            "than",
+            "1,000",
+            "stranded",
+            "tourists",
+            "last",
+            "month",
+            "."
+        ],
+        [
+            "Authorities",
+            "estimated",
+            "that",
+            "10,000",
+            "people",
+            "were",
+            "affected",
+            "by",
+            "the",
+            "rain",
+            "and",
+            "2,000",
+            "homes",
+            "were",
+            "ruined",
+            "near",
+            "Machu",
+            "Picchu",
+            "."
+        ],
+        [
+            "At",
+            "least",
+            "seven",
+            "deaths",
+            "were",
+            "reported",
+            "."
+        ]
+    ]
+}

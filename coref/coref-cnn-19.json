@@ -1,0 +1,417 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "WHO",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "The WHO statement",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Spain",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Spain",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Spain",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a nurse 's assistant",
+                "pos": [
+                    21,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Teresa Romero Ramos",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Romero",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Romero",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Ebola",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the virus",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the virus",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Ebola",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Ebola virus",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the illness",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "an infected missionary",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this report",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "post"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-19",
+    "sents": [
+        [
+            "Spain",
+            "is",
+            "officially",
+            "clear",
+            "of",
+            "Ebola",
+            ",",
+            "the",
+            "World",
+            "Health",
+            "Organization",
+            "declared",
+            "Tuesday",
+            ",",
+            "after",
+            "no",
+            "new",
+            "cases",
+            "were",
+            "reported",
+            "since",
+            "a",
+            "nurse",
+            "'s",
+            "assistant",
+            "who",
+            "contracted",
+            "the",
+            "virus",
+            "there",
+            "tested",
+            "negative",
+            "for",
+            "it",
+            "."
+        ],
+        [
+            "Since",
+            "then",
+            ",",
+            "42",
+            "days",
+            "have",
+            "passed",
+            "--",
+            "double",
+            "the",
+            "maximum",
+            "known",
+            "incubation",
+            "period",
+            "for",
+            "the",
+            "virus",
+            "--",
+            "without",
+            "another",
+            "case",
+            ",",
+            "allowing",
+            "Spain",
+            "to",
+            "be",
+            "declared",
+            "free",
+            "of",
+            "Ebola",
+            "."
+        ],
+        [
+            "Spanish",
+            "authorities",
+            "had",
+            "been",
+            "monitoring",
+            "87",
+            "people",
+            "who",
+            "came",
+            "into",
+            "contact",
+            "with",
+            "healthcare",
+            "worker",
+            "Teresa",
+            "Romero",
+            "Ramos",
+            ",",
+            "15",
+            "of",
+            "whom",
+            "were",
+            "considered",
+            "high",
+            "-",
+            "risk",
+            "and",
+            "were",
+            "quarantined",
+            "at",
+            "a",
+            "Madrid",
+            "hospital",
+            ",",
+            "WHO",
+            "said",
+            "."
+        ],
+        [
+            "Another",
+            "145",
+            "hospital",
+            "employees",
+            "who",
+            "helped",
+            "care",
+            "for",
+            "Romero",
+            "during",
+            "her",
+            "month",
+            "-",
+            "long",
+            "stay",
+            "at",
+            "the",
+            "Carlos",
+            "III",
+            "Hospital",
+            "were",
+            "also",
+            "monitored",
+            "."
+        ],
+        [
+            "The",
+            "WHO",
+            "statement",
+            "said",
+            "it",
+            "\"",
+            "commends",
+            "Spain",
+            "for",
+            "the",
+            "measures",
+            "put",
+            "in",
+            "place",
+            "to",
+            "identify",
+            "potential",
+            "cases",
+            "and",
+            "prevent",
+            "further",
+            "transmission",
+            "of",
+            "the",
+            "Ebola",
+            "virus",
+            ".",
+            "\""
+        ],
+        [
+            "Romero",
+            "contracted",
+            "the",
+            "illness",
+            "while",
+            "helping",
+            "to",
+            "care",
+            "for",
+            "an",
+            "infected",
+            "missionary",
+            "who",
+            "had",
+            "been",
+            "brought",
+            "back",
+            "from",
+            "West",
+            "Africa",
+            "."
+        ],
+        [
+            "He",
+            "died",
+            "of",
+            "the",
+            "disease",
+            "."
+        ],
+        [
+            "CNN",
+            "'s",
+            "Anna",
+            "Maja",
+            "Rappard",
+            "contributed",
+            "to",
+            "this",
+            "report",
+            "."
+        ]
+    ]
+}

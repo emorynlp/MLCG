@@ -1,0 +1,244 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I decided to take this offer",
+                "pos": [
+                    10,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "its kind of related to my major and its hard to find any good internship that is not virtual",
+                "pos": [
+                    17,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019m not familiar with any biotech stuff",
+                "pos": [
+                    0,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "most my classes were microbio / biochem",
+                "pos": [
+                    9,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-096",
+    "sents": [
+        [
+            "Hi",
+            "guys",
+            ",",
+            "Im",
+            "an",
+            "upcoming",
+            "junior",
+            "in",
+            "biochem",
+            "/",
+            "microbio",
+            "and",
+            "got",
+            "an",
+            "internship",
+            "offer",
+            "from",
+            "biotech",
+            "company",
+            "(",
+            "this",
+            "summer",
+            ")",
+            "."
+        ],
+        [
+            "Biotech",
+            "is",
+            "not",
+            "something",
+            "that",
+            "I",
+            "\u2019m",
+            "interested",
+            "in",
+            "but",
+            "I",
+            "decided",
+            "to",
+            "take",
+            "this",
+            "offer",
+            "because",
+            "its",
+            "kind",
+            "of",
+            "related",
+            "to",
+            "my",
+            "major",
+            "and",
+            "its",
+            "hard",
+            "to",
+            "find",
+            "any",
+            "good",
+            "internship",
+            "that",
+            "is",
+            "not",
+            "virtual",
+            "."
+        ],
+        [
+            "They",
+            "told",
+            "me",
+            "that",
+            "I",
+            "\u2019ll",
+            "be",
+            "doing",
+            "some",
+            "lab",
+            "work",
+            "but",
+            ".."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "not",
+            "familiar",
+            "with",
+            "any",
+            "biotech",
+            "stuff",
+            "because",
+            "most",
+            "my",
+            "classes",
+            "were",
+            "microbio",
+            "/",
+            "biochem",
+            "."
+        ],
+        [
+            "Also",
+            ",",
+            "this",
+            "is",
+            "my",
+            "first",
+            "work",
+            "experience",
+            "(",
+            "do",
+            "n\u2019t",
+            "even",
+            "have",
+            "any",
+            "research",
+            "experience",
+            ")",
+            "."
+        ],
+        [
+            "What",
+            "should",
+            "I",
+            "do",
+            "or",
+            "prepare",
+            "for",
+            "this",
+            "internship",
+            "?"
+        ],
+        [
+            "Should",
+            "I",
+            "review",
+            "my",
+            "previous",
+            "class",
+            "materials",
+            "such",
+            "as",
+            "organic",
+            "chemistry",
+            "?"
+        ]
+    ]
+}

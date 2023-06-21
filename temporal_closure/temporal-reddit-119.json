@@ -1,0 +1,265 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "missed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was down",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is going",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s followed by",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-119",
+    "sents": [
+        [
+            "I",
+            "just",
+            "ca",
+            "n\u2019t",
+            "handle",
+            "the",
+            "stress",
+            "of",
+            "having",
+            "to",
+            "pass",
+            "or",
+            "my",
+            "parents",
+            "will",
+            "waste",
+            "so",
+            "much",
+            "money",
+            "if",
+            "I",
+            "do",
+            "n\u2019t",
+            "."
+        ],
+        [
+            "I",
+            "missed",
+            "an",
+            "exam",
+            "because",
+            "my",
+            "wifi",
+            "was",
+            "down",
+            "and",
+            "my",
+            "professor",
+            "wo",
+            "n\u2019t",
+            "let",
+            "me",
+            "take",
+            "the",
+            "exam",
+            "so",
+            "I",
+            "now",
+            "have",
+            "a",
+            "5%",
+            "in",
+            "that",
+            "class",
+            "I",
+            "told",
+            "him",
+            "and",
+            "he",
+            "did",
+            "n\u2019t",
+            "sympathize",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "0",
+            "friends",
+            "only",
+            "good",
+            "thing",
+            "is",
+            "going",
+            "to",
+            "the",
+            "game",
+            "saturdays",
+            "but",
+            "then",
+            "that",
+            "\u2019s",
+            "followed",
+            "by",
+            "oh",
+            "ya",
+            "I",
+            "have",
+            "no",
+            "friends",
+            "so",
+            "I",
+            "will",
+            "just",
+            "have",
+            "to",
+            "sit",
+            "in",
+            "my",
+            "dorm",
+            "til",
+            "I",
+            "get",
+            "tired",
+            "enough",
+            "to",
+            "go",
+            "to",
+            "bed",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "ca",
+            "n\u2019t",
+            "handle",
+            "this",
+            "shit",
+            "how",
+            "do",
+            "I",
+            "drop",
+            "out",
+            "?"
+        ],
+        [
+            "Sorry",
+            "for",
+            "the",
+            "bad",
+            "formatting",
+            "and",
+            "probably",
+            "grammar"
+        ]
+    ]
+}

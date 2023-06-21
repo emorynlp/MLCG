@@ -1,0 +1,501 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "we",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Kansas",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Kansas",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "your",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the child",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my head",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the farmer",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "him",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            },
+            {
+                "name": "the farmer",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "mine",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "The Scarecrow",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my ears",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "ears",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-22",
+    "sents": [
+        [
+            "\"",
+            "Of",
+            "course",
+            "I",
+            "can",
+            "not",
+            "understand",
+            "it",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "If",
+            "your",
+            "heads",
+            "were",
+            "stuffed",
+            "with",
+            "straw",
+            ",",
+            "like",
+            "mine",
+            ",",
+            "you",
+            "would",
+            "probably",
+            "all",
+            "live",
+            "in",
+            "the",
+            "beautiful",
+            "places",
+            ",",
+            "and",
+            "then",
+            "Kansas",
+            "would",
+            "have",
+            "no",
+            "people",
+            "at",
+            "all",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "fortunate",
+            "for",
+            "Kansas",
+            "that",
+            "you",
+            "have",
+            "brains",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "\"",
+            "Wo",
+            "n",
+            "'",
+            "t",
+            "you",
+            "tell",
+            "me",
+            "a",
+            "story",
+            ",",
+            "while",
+            "we",
+            "are",
+            "resting",
+            "?",
+            "\"",
+            "asked",
+            "the",
+            "child",
+            "."
+        ],
+        [
+            "The",
+            "Scarecrow",
+            "looked",
+            "at",
+            "her",
+            "reproachfully",
+            ",",
+            "and",
+            "answered",
+            ":"
+        ],
+        [
+            "\"",
+            "My",
+            "life",
+            "has",
+            "been",
+            "so",
+            "short",
+            "that",
+            "I",
+            "really",
+            "know",
+            "nothing",
+            "whatever",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "only",
+            "made",
+            "day",
+            "before",
+            "yesterday",
+            "."
+        ],
+        [
+            "What",
+            "happened",
+            "in",
+            "the",
+            "world",
+            "before",
+            "that",
+            "time",
+            "is",
+            "all",
+            "unknown",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "Luckily",
+            ",",
+            "when",
+            "the",
+            "farmer",
+            "made",
+            "my",
+            "head",
+            ",",
+            "one",
+            "of",
+            "the",
+            "first",
+            "things",
+            "he",
+            "did",
+            "was",
+            "to",
+            "paint",
+            "my",
+            "ears",
+            ",",
+            "so",
+            "that",
+            "I",
+            "heard",
+            "what",
+            "was",
+            "going",
+            "on",
+            "."
+        ],
+        [
+            "There",
+            "was",
+            "another",
+            "Munchkin",
+            "with",
+            "him",
+            ",",
+            "and",
+            "the",
+            "first",
+            "thing",
+            "I",
+            "heard",
+            "was",
+            "the",
+            "farmer",
+            "saying",
+            ",",
+            "`",
+            "How",
+            "do",
+            "you",
+            "like",
+            "those",
+            "ears",
+            "?",
+            "'"
+        ]
+    ]
+}

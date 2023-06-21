@@ -1,0 +1,527 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was so scared",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was filled with",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reached",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "realized",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came from",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was dealing with",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m ADHD",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dyslexic",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was terrified",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felt",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was able to",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "read",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-039",
+    "sents": [
+        [
+            "I",
+            "was",
+            "so",
+            "scared",
+            "to",
+            "go",
+            "into",
+            "graduate",
+            "school",
+            "."
+        ],
+        [
+            "My",
+            "undergraduate",
+            "experience",
+            "was",
+            "filled",
+            "with",
+            "mediocrity",
+            "and",
+            "trauma",
+            "and",
+            "I",
+            "finally",
+            "reached",
+            "a",
+            "point",
+            "in",
+            "my",
+            "life",
+            "where",
+            "I",
+            "realized",
+            "I",
+            "should",
+            "give",
+            "my",
+            "past",
+            "self",
+            "grace",
+            "."
+        ],
+        [
+            "-",
+            "I",
+            "'ve",
+            "came",
+            "from",
+            "a",
+            "low",
+            "income",
+            "household",
+            "-",
+            "I",
+            "was",
+            "dealing",
+            "with",
+            "housing",
+            "insecurity",
+            "-",
+            "I",
+            "'m",
+            "ADHD",
+            "and",
+            "dyslexic",
+            "and",
+            "had",
+            "no",
+            "idea",
+            "how",
+            "to",
+            "get",
+            "services",
+            "-",
+            "I",
+            "had",
+            "my",
+            "daughter",
+            "at",
+            "22",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "terrified",
+            "that",
+            "even",
+            "applying",
+            "because",
+            "I",
+            "did",
+            "n't",
+            "want",
+            "a",
+            "repeat",
+            "of",
+            "my",
+            "undergraduate",
+            "experience",
+            "."
+        ],
+        [
+            "I",
+            "now",
+            "have",
+            "two",
+            "kids",
+            ",",
+            "And",
+            "the",
+            "idea",
+            "of",
+            "getting",
+            "my",
+            "graduate",
+            "degree",
+            ",",
+            "while",
+            "potentially",
+            "teaching",
+            "from",
+            "home",
+            "(",
+            "The",
+            "whole",
+            "pandemic",
+            "and",
+            "everything",
+            ")",
+            ",",
+            "while",
+            "working",
+            "full",
+            "-",
+            "time",
+            "felt",
+            "overwhelming",
+            "."
+        ],
+        [
+            "But",
+            "this",
+            "time",
+            "around",
+            "I",
+            "was",
+            "able",
+            "to",
+            "contact",
+            "my",
+            "disability",
+            "service",
+            "office",
+            "and",
+            "get",
+            "accommodations",
+            "."
+        ],
+        [
+            "It",
+            "has",
+            "made",
+            "a",
+            "world",
+            "of",
+            "difference",
+            "."
+        ],
+        [
+            "Let",
+            "me",
+            "tell",
+            "you",
+            ",",
+            "I",
+            "cried",
+            "when",
+            "I",
+            "read",
+            "99.1",
+            "out",
+            "of",
+            "100",
+            "."
+        ],
+        [
+            "Two",
+            "semesters",
+            "in",
+            "and",
+            "I",
+            "finally",
+            "feel",
+            "like",
+            "I",
+            "belong",
+            "."
+        ]
+    ]
+}

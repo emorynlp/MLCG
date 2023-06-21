@@ -1,0 +1,173 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "she began to feel hungry",
+                "pos": [
+                    5,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "So",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "she went to the cupboard and cut herself some bread",
+                "pos": [
+                    1,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-11",
+    "sents": [
+        [
+            "When",
+            "Dorothy",
+            "was",
+            "left",
+            "alone",
+            "she",
+            "began",
+            "to",
+            "feel",
+            "hungry",
+            "."
+        ],
+        [
+            "So",
+            "she",
+            "went",
+            "to",
+            "the",
+            "cupboard",
+            "and",
+            "cut",
+            "herself",
+            "some",
+            "bread",
+            ",",
+            "which",
+            "she",
+            "spread",
+            "with",
+            "butter",
+            "."
+        ],
+        [
+            "She",
+            "gave",
+            "some",
+            "to",
+            "Toto",
+            ",",
+            "and",
+            "taking",
+            "a",
+            "pail",
+            "from",
+            "the",
+            "shelf",
+            "she",
+            "carried",
+            "it",
+            "down",
+            "to",
+            "the",
+            "little",
+            "brook",
+            "and",
+            "filled",
+            "it",
+            "with",
+            "clear",
+            ",",
+            "sparkling",
+            "water",
+            "."
+        ],
+        [
+            "Toto",
+            "ran",
+            "over",
+            "to",
+            "the",
+            "trees",
+            "and",
+            "began",
+            "to",
+            "bark",
+            "at",
+            "the",
+            "birds",
+            "sitting",
+            "there",
+            "."
+        ],
+        [
+            "Dorothy",
+            "went",
+            "to",
+            "get",
+            "him",
+            ",",
+            "and",
+            "saw",
+            "such",
+            "delicious",
+            "fruit",
+            "hanging",
+            "from",
+            "the",
+            "branches",
+            "that",
+            "she",
+            "gathered",
+            "some",
+            "of",
+            "it",
+            ",",
+            "finding",
+            "it",
+            "just",
+            "what",
+            "she",
+            "wanted",
+            "to",
+            "help",
+            "out",
+            "her",
+            "breakfast",
+            "."
+        ]
+    ]
+}

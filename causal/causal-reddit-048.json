@@ -1,0 +1,350 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the jump from in-person to remote was horrendous",
+                "pos": [
+                    4,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you were unlucky enough",
+                "pos": [
+                    15,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "be in college during the brunt of it in Spring 2020",
+                "pos": [
+                    20,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "online classes seemed a bit nicer",
+                "pos": [
+                    53,
+                    59
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    59,
+                    60
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "that 's a good word",
+                "pos": [
+                    60,
+                    65
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "more materials provided",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "review",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "better modules",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "going for coursework and reviewing",
+                "pos": [
+                    12,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause|cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-048",
+    "sents": [
+        [
+            "Like",
+            "we",
+            "all",
+            "know",
+            "the",
+            "jump",
+            "from",
+            "in-person",
+            "to",
+            "remote",
+            "was",
+            "horrendous",
+            ",",
+            "especially",
+            "if",
+            "you",
+            "were",
+            "unlucky",
+            "enough",
+            "to",
+            "be",
+            "in",
+            "college",
+            "during",
+            "the",
+            "brunt",
+            "of",
+            "it",
+            "in",
+            "Spring",
+            "2020",
+            "But",
+            "idk",
+            ",",
+            "somehow",
+            "going",
+            "back",
+            "to",
+            "in-person",
+            "seems",
+            "worse",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "a",
+            "freshman",
+            "in",
+            "Fall",
+            "2020",
+            "and",
+            "I",
+            "finished",
+            "my",
+            "first",
+            "two",
+            "semesters",
+            "with",
+            "a",
+            "3.9",
+            "I",
+            "'m",
+            "now",
+            "a",
+            "sophomore",
+            "in",
+            "Fall",
+            "2021",
+            "after",
+            "already",
+            "having",
+            "to",
+            "drop",
+            "one",
+            "class",
+            ",",
+            "I",
+            "'m",
+            "fighting",
+            "to",
+            "just",
+            "barely",
+            "pass",
+            "my",
+            "remaining",
+            "three",
+            "classes",
+            "There",
+            "are",
+            "other",
+            "factors",
+            "of",
+            "course",
+            ",",
+            "but",
+            "somehow",
+            "online",
+            "classes",
+            "seemed",
+            "a",
+            "bit",
+            "nicer",
+            "if",
+            "that",
+            "'s",
+            "a",
+            "good",
+            "word",
+            "?"
+        ],
+        [
+            "Better",
+            "taught",
+            ",",
+            "more",
+            "materials",
+            "provided",
+            "to",
+            "review",
+            ",",
+            "better",
+            "modules",
+            "for",
+            "going",
+            "for",
+            "coursework",
+            "and",
+            "reviewing",
+            ",",
+            "etc."
+        ]
+    ]
+}

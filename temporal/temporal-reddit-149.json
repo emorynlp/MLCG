@@ -1,0 +1,316 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m kind of annoyed",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "adjust",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wish",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feels",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "guess",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m just curious",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-149",
+    "sents": [
+        [
+            "I",
+            "have",
+            "a",
+            "Zoom",
+            "class",
+            "at",
+            "9",
+            "am",
+            ",",
+            "and",
+            "my",
+            "roommate",
+            "is",
+            "never",
+            "awake",
+            "so",
+            "I",
+            "have",
+            "to",
+            "go",
+            "sit",
+            "outside",
+            "to",
+            "have",
+            "the",
+            "class",
+            ",",
+            "which",
+            "is",
+            "not",
+            "ideal",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "kind",
+            "of",
+            "annoyed",
+            "because",
+            "I",
+            "always",
+            "adjust",
+            "my",
+            "schedule",
+            "to",
+            "make",
+            "sure",
+            "that",
+            "she",
+            "can",
+            "have",
+            "the",
+            "room",
+            "free",
+            "during",
+            "her",
+            "classes",
+            ",",
+            "so",
+            "I",
+            "wish",
+            "she",
+            "would",
+            "just",
+            "wake",
+            "up",
+            "a",
+            "little",
+            "earlier",
+            "so",
+            "I",
+            "could",
+            "have",
+            "mine",
+            "."
+        ],
+        [
+            "That",
+            "feels",
+            "really",
+            "petty",
+            "and",
+            "selfish",
+            "though",
+            "."
+        ],
+        [
+            "I",
+            "guess",
+            "I",
+            "'m",
+            "just",
+            "frustrated",
+            "overall",
+            "because",
+            "our",
+            "sleep",
+            "schedules",
+            "do",
+            "n't",
+            "align",
+            "at",
+            "all",
+            "and",
+            "I",
+            "feel",
+            "like",
+            "I",
+            "'m",
+            "always",
+            "the",
+            "one",
+            "to",
+            "adjust",
+            "for",
+            "her",
+            ",",
+            "never",
+            "the",
+            "other",
+            "way",
+            "around",
+            "."
+        ],
+        [
+            "Do",
+            "you",
+            "think",
+            "my",
+            "annoyance",
+            "is",
+            "justified",
+            "?"
+        ],
+        [
+            "I",
+            "'m",
+            "not",
+            "going",
+            "to",
+            "say",
+            "anything",
+            "about",
+            "it",
+            "regardless",
+            ",",
+            "I",
+            "'m",
+            "just",
+            "curious",
+            "."
+        ]
+    ]
+}

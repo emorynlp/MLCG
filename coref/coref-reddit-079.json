@@ -1,0 +1,469 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a small college",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "itself",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "higher ranked programs",
+                "pos": [
+                    34,
+                    37
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "programs",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "apply to",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "apply for",
+                "pos": [
+                    32,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "applying to",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "application to",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the University of Chicago",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you guys",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you guys",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-079",
+    "sents": [
+        [
+            "I",
+            "'m",
+            "an",
+            "undergrad",
+            "History",
+            "and",
+            "Political",
+            "Science",
+            "major",
+            "and",
+            "I",
+            "'m",
+            "starting",
+            "to",
+            "apply",
+            "to",
+            "PhD",
+            "programs",
+            ",",
+            "and",
+            "I",
+            "just",
+            "wondered",
+            "if",
+            "you",
+            "guys",
+            "even",
+            "think",
+            "its",
+            "worth",
+            "it",
+            "to",
+            "apply",
+            "for",
+            "higher",
+            "ranked",
+            "programs",
+            "?"
+        ],
+        [
+            "I",
+            "'m",
+            "a",
+            "good",
+            "student",
+            ";",
+            "good",
+            "grades",
+            ",",
+            "research",
+            "experience",
+            ",",
+            "etc.",
+            "But",
+            "I",
+            "go",
+            "to",
+            "a",
+            "small",
+            "college",
+            "that",
+            "does",
+            "n't",
+            "really",
+            "have",
+            "a",
+            "name",
+            "for",
+            "itself",
+            "and",
+            "I",
+            "just",
+            "do",
+            "n't",
+            "think",
+            "I",
+            "\"",
+            "stand",
+            "out",
+            "\"",
+            "that",
+            "much",
+            "."
+        ],
+        [
+            "I",
+            "'ve",
+            "thought",
+            "about",
+            "applying",
+            "to",
+            "programs",
+            "like",
+            "the",
+            "University",
+            "of",
+            "Chicago",
+            "(",
+            "that",
+            "'s",
+            "really",
+            "the",
+            "big",
+            "one",
+            "I",
+            "'m",
+            "most",
+            "seriously",
+            "considering",
+            "application",
+            "to",
+            ")",
+            "but",
+            "I",
+            "just",
+            "do",
+            "n't",
+            "even",
+            "know",
+            "if",
+            "its",
+            "worth",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "think",
+            "it",
+            "is",
+            "but",
+            "then",
+            "again",
+            "I",
+            "do",
+            "n't",
+            "think",
+            "it",
+            "is",
+            "..."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "know",
+            "I",
+            "just",
+            "keep",
+            "talking",
+            "myself",
+            "in",
+            "circles",
+            "."
+        ],
+        [
+            "What",
+            "do",
+            "you",
+            "guys",
+            "think",
+            "?"
+        ],
+        [
+            "Thanks",
+            "in",
+            "advance",
+            "!"
+        ]
+    ]
+}

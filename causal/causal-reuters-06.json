@@ -1,0 +1,167 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "is used",
+                "pos": [
+                    30,
+                    32
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "replace metals in a variety of products",
+                "pos": [
+                    33,
+                    40
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-06",
+    "sents": [
+        [
+            "The",
+            "Du",
+            "Pont",
+            "Co",
+            "said",
+            "it",
+            "has",
+            "devloped",
+            "a",
+            "new",
+            "generation",
+            "of",
+            "high",
+            "-",
+            "strength",
+            "aramid",
+            "fibers",
+            "which",
+            "is",
+            "stiffer",
+            "and",
+            "less",
+            "absorbant",
+            "than",
+            "previous",
+            "generations",
+            "."
+        ],
+        [
+            "Du",
+            "Pont",
+            "said",
+            "the",
+            "new",
+            "product",
+            ",",
+            "Kevlar",
+            "149",
+            ",",
+            "is",
+            "up",
+            "to",
+            "40",
+            "pct",
+            "stiffer",
+            "than",
+            "first",
+            "generation",
+            "aramids",
+            ",",
+            "and",
+            "absorbs",
+            "less",
+            "than",
+            "half",
+            "the",
+            "moister",
+            "of",
+            "other",
+            "similar",
+            "aramid",
+            "fibers",
+            "."
+        ],
+        [
+            "Kevlar",
+            "was",
+            "invented",
+            "by",
+            "Du",
+            "Pont",
+            "in",
+            "the",
+            "late",
+            "1960s",
+            "and",
+            "is",
+            "five",
+            "times",
+            "stronger",
+            "than",
+            "steel",
+            "and",
+            "10",
+            "times",
+            "stronger",
+            "than",
+            "aluminum",
+            "on",
+            "an",
+            "equal",
+            "wieght",
+            "basis",
+            ",",
+            "and",
+            "is",
+            "used",
+            "to",
+            "replace",
+            "metals",
+            "in",
+            "a",
+            "variety",
+            "of",
+            "products",
+            ",",
+            "according",
+            "to",
+            "the",
+            "company",
+            "."
+        ]
+    ]
+}

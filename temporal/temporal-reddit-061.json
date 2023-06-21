@@ -1,0 +1,512 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "write",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "received",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was to list",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "forgotten",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "written",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was so surprised",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "kick out",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reading",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "claimed",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were arbitrarily picked",
+                "pos": [
+                    27,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sounded",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am now extremely excited",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been accepted",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s crazy",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-061",
+    "sents": [
+        [
+            "So",
+            "in",
+            "8th",
+            "grade",
+            "my",
+            "English",
+            "teacher",
+            "made",
+            "use",
+            "write",
+            "letters",
+            "to",
+            "our",
+            "future",
+            "senior",
+            "selves",
+            ",",
+            "and",
+            "I",
+            "recently",
+            "received",
+            "mine",
+            "!"
+        ],
+        [
+            "Part",
+            "of",
+            "the",
+            "assignment",
+            "was",
+            "to",
+            "list",
+            "predictions",
+            "for",
+            "the",
+            "future",
+            ",",
+            "including",
+            "where",
+            "you",
+            "think",
+            "you",
+            "\u2019re",
+            "going",
+            "to",
+            "college",
+            "."
+        ],
+        [
+            "I",
+            "had",
+            "completely",
+            "forgotten",
+            "what",
+            "I",
+            "had",
+            "written",
+            "4",
+            "years",
+            "ago",
+            ",",
+            "but",
+            "I",
+            "was",
+            "so",
+            "surprised",
+            "to",
+            "see",
+            "how",
+            "accurate",
+            "it",
+            "was",
+            "."
+        ],
+        [
+            "My",
+            "friends",
+            "and",
+            "I",
+            "got",
+            "kick",
+            "out",
+            "of",
+            "reading",
+            "it",
+            "."
+        ],
+        [
+            "My",
+            "8th",
+            "grade",
+            "self",
+            "claimed",
+            ",",
+            "with",
+            "a",
+            "decent",
+            "amount",
+            "of",
+            "certainty",
+            ",",
+            "that",
+            "I",
+            "would",
+            "either",
+            "be",
+            "going",
+            "to",
+            "Cornell",
+            "or",
+            "Yale",
+            ",",
+            "two",
+            "schools",
+            "that",
+            "were",
+            "arbitrarily",
+            "picked",
+            "because",
+            "they",
+            "sounded",
+            "cool",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "now",
+            "extremely",
+            "excited",
+            "to",
+            "say",
+            "that",
+            "I",
+            "have",
+            "been",
+            "accepted",
+            "to",
+            "Yale",
+            "!"
+        ],
+        [
+            "It",
+            "\u2019s",
+            "crazy",
+            "to",
+            "think",
+            "that",
+            "my",
+            "extremely",
+            "overconfident",
+            "\u201c",
+            "prediction",
+            ",",
+            "\u201d",
+            "more",
+            "like",
+            "crapshot",
+            ",",
+            "actually",
+            "came",
+            "true",
+            "."
+        ],
+        [
+            "I",
+            "thought",
+            "that",
+            "you",
+            "guys",
+            "would",
+            "enjoy",
+            "this",
+            "wack",
+            "story",
+            "Disclaimer",
+            ":",
+            "I",
+            "\u2019m",
+            "not",
+            "a",
+            "legacy",
+            "nor",
+            "have",
+            "my",
+            "parents",
+            "donated",
+            "a",
+            "building"
+        ]
+    ]
+}

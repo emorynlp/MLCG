@@ -1,0 +1,424 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Jennifer Lopez",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "filed",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "filed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "divorce papers",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the paperwork",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his marriage",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "their marriage",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Jennifer Lopez",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Lopez",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Lopez",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Marc Anthony",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The singer",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Anthony",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Anthony",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "end",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "This",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "The couple",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the couple",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "We",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this report",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "post"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-46",
+    "sents": [
+        [
+            "Singer",
+            "Marc",
+            "Anthony",
+            "filed",
+            "divorce",
+            "papers",
+            "Wednesday",
+            ",",
+            "seeking",
+            "to",
+            "officially",
+            "end",
+            "his",
+            "marriage",
+            "with",
+            "entertainer",
+            "Jennifer",
+            "Lopez",
+            ",",
+            "a",
+            "court",
+            "spokesman",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "singer",
+            "filed",
+            "the",
+            "paperwork",
+            "in",
+            "Los",
+            "Angeles",
+            "Superior",
+            "Court",
+            ",",
+            "the",
+            "spokesman",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "couple",
+            "announced",
+            "that",
+            "they",
+            "were",
+            "ending",
+            "their",
+            "marriage",
+            "in",
+            "July",
+            "."
+        ],
+        [
+            "Anthony",
+            "and",
+            "Lopez",
+            "wed",
+            "in",
+            "2004",
+            ",",
+            "in",
+            "what",
+            "was",
+            "the",
+            "third",
+            "marriage",
+            "for",
+            "Lopez",
+            "and",
+            "the",
+            "second",
+            "for",
+            "Anthony",
+            ",",
+            "who",
+            "had",
+            "been",
+            "married",
+            "to",
+            "former",
+            "Miss",
+            "Universe",
+            "Dayanara",
+            "Torres",
+            "."
+        ],
+        [
+            "\"",
+            "This",
+            "was",
+            "a",
+            "very",
+            "difficult",
+            "decision",
+            ",",
+            "\"",
+            "the",
+            "couple",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "released",
+            "in",
+            "July",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "have",
+            "come",
+            "to",
+            "amicable",
+            "conclusion",
+            "on",
+            "all",
+            "matters",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "a",
+            "painful",
+            "time",
+            "for",
+            "all",
+            "involved",
+            ",",
+            "and",
+            "we",
+            "appreciate",
+            "the",
+            "respect",
+            "of",
+            "our",
+            "privacy",
+            "at",
+            "this",
+            "time",
+            ".",
+            "\""
+        ],
+        [
+            "CNN",
+            "'s",
+            "KJ",
+            "Matthews",
+            "contributed",
+            "to",
+            "this",
+            "report",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,610 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "meandered",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stood",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chasing",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chuckling",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gripping",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "leaving",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shook",
+                "pos": [
+                    44,
+                    45
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were caught",
+                "pos": [
+                    49,
+                    51
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "held",
+                "pos": [
+                    52,
+                    53
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a-shake and a-shiver",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was bewitched",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "entranced",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fascinated",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "trotted",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "holds",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tired",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sat",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chattered on",
+                "pos": [
+                    48,
+                    50
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sent",
+                "pos": [
+                    64,
+                    65
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 19,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 18,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 18,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 20,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 19,
+            "t": 18,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-03",
+    "sents": [
+        [
+            "He",
+            "thought",
+            "his",
+            "happiness",
+            "was",
+            "complete",
+            "when",
+            ",",
+            "as",
+            "he",
+            "meandered",
+            "aimlessly",
+            "along",
+            ",",
+            "suddenly",
+            "he",
+            "stood",
+            "by",
+            "the",
+            "edge",
+            "of",
+            "a",
+            "full",
+            "-",
+            "fed",
+            "river",
+            "."
+        ],
+        [
+            "Never",
+            "in",
+            "his",
+            "life",
+            "had",
+            "he",
+            "seen",
+            "a",
+            "river",
+            "before",
+            "\u2014",
+            "this",
+            "sleek",
+            ",",
+            "sinuous",
+            ",",
+            "full",
+            "-",
+            "bodied",
+            "animal",
+            ",",
+            "chasing",
+            "and",
+            "chuckling",
+            ",",
+            "gripping",
+            "things",
+            "with",
+            "a",
+            "gurgle",
+            "and",
+            "leaving",
+            "them",
+            "with",
+            "a",
+            "laugh",
+            ",",
+            "to",
+            "fling",
+            "itself",
+            "on",
+            "fresh",
+            "playmates",
+            "that",
+            "shook",
+            "themselves",
+            "free",
+            ",",
+            "and",
+            "were",
+            "caught",
+            "and",
+            "held",
+            "again",
+            "."
+        ],
+        [
+            "All",
+            "was",
+            "a-shake",
+            "and",
+            "a-shiver",
+            "\u2014",
+            "glints",
+            "and",
+            "gleams",
+            "and",
+            "sparkles",
+            ",",
+            "rustle",
+            "and",
+            "swirl",
+            ",",
+            "chatter",
+            "and",
+            "bubble",
+            "."
+        ],
+        [
+            "The",
+            "Mole",
+            "was",
+            "bewitched",
+            ",",
+            "entranced",
+            ",",
+            "fascinated",
+            "."
+        ],
+        [
+            "By",
+            "the",
+            "side",
+            "of",
+            "the",
+            "river",
+            "he",
+            "trotted",
+            "as",
+            "one",
+            "trots",
+            ",",
+            "when",
+            "very",
+            "small",
+            ",",
+            "by",
+            "the",
+            "side",
+            "of",
+            "a",
+            "man",
+            "who",
+            "holds",
+            "one",
+            "spell",
+            "-",
+            "bound",
+            "by",
+            "exciting",
+            "stories",
+            ";",
+            "and",
+            "when",
+            "tired",
+            "at",
+            "last",
+            ",",
+            "he",
+            "sat",
+            "on",
+            "the",
+            "bank",
+            ",",
+            "while",
+            "the",
+            "river",
+            "still",
+            "chattered",
+            "on",
+            "to",
+            "him",
+            ",",
+            "a",
+            "babbling",
+            "procession",
+            "of",
+            "the",
+            "best",
+            "stories",
+            "in",
+            "the",
+            "world",
+            ",",
+            "sent",
+            "from",
+            "the",
+            "heart",
+            "of",
+            "the",
+            "earth",
+            "to",
+            "be",
+            "told",
+            "at",
+            "last",
+            "to",
+            "the",
+            "insatiable",
+            "sea",
+            "."
+        ]
+    ]
+}

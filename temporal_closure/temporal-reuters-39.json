@@ -1,0 +1,206 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "reported",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are members of the Organiaation of Petroleum Exporting Countries ( OPEC )",
+                "pos": [
+                    21,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "face",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-39",
+    "sents": [
+        [
+            "Deputy",
+            "oil",
+            "ministers",
+            "from",
+            "six",
+            "Gulf",
+            "Arab",
+            "states",
+            "will",
+            "meet",
+            "in",
+            "Bahrain",
+            "today",
+            "to",
+            "discuss",
+            "coordination",
+            "of",
+            "crude",
+            "oil",
+            "marketing",
+            ",",
+            "the",
+            "official",
+            "Emirates",
+            "news",
+            "agency",
+            "WAM",
+            "reported",
+            "."
+        ],
+        [
+            "WAM",
+            "said",
+            "the",
+            "officials",
+            "would",
+            "be",
+            "discussing",
+            "implementation",
+            "of",
+            "last",
+            "Sunday",
+            "'s",
+            "agreement",
+            "in",
+            "Doha",
+            "by",
+            "Gulf",
+            "Cooperation",
+            "Council",
+            "(",
+            "GCC",
+            ")",
+            "oil",
+            "ministers",
+            "to",
+            "help",
+            "each",
+            "other",
+            "market",
+            "their",
+            "crude",
+            "oil",
+            "."
+        ],
+        [
+            "Four",
+            "of",
+            "the",
+            "GCC",
+            "states",
+            "-",
+            "Saudi",
+            "Arabia",
+            ",",
+            "the",
+            "United",
+            "Arab",
+            "Emirates",
+            "(",
+            "UAE",
+            ")",
+            ",",
+            "Kuwait",
+            "and",
+            "Qatar",
+            "-",
+            "are",
+            "members",
+            "of",
+            "the",
+            "Organiaation",
+            "of",
+            "Petroleum",
+            "Exporting",
+            "Countries",
+            "(",
+            "OPEC",
+            ")",
+            "and",
+            "some",
+            "face",
+            "stiff",
+            "buyer",
+            "resistance",
+            "to",
+            "official",
+            "OPEC",
+            "prices",
+            "."
+        ]
+    ]
+}

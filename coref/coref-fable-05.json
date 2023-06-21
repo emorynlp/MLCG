@@ -1,0 +1,309 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "an egg",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The eggs",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my eggs",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A WOMAN",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The Woman",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Hen",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Hen",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "the Hen",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-05",
+    "sents": [
+        [
+            "A",
+            "WOMAN",
+            "had",
+            "a",
+            "Hen",
+            "that",
+            "laid",
+            "an",
+            "egg",
+            "every",
+            "day",
+            "."
+        ],
+        [
+            "The",
+            "eggs",
+            "were",
+            "large",
+            ",",
+            "and",
+            "sold",
+            "for",
+            "a",
+            "good",
+            "price",
+            "."
+        ],
+        [
+            "The",
+            "Woman",
+            "often",
+            "thought",
+            ",",
+            "as",
+            "she",
+            "took",
+            "them",
+            "to",
+            "market",
+            ":",
+            "\u201c",
+            "How",
+            "glad",
+            "they",
+            "all",
+            "are",
+            "to",
+            "get",
+            "my",
+            "eggs",
+            "!"
+        ],
+        [
+            "I",
+            "could",
+            "sell",
+            "as",
+            "many",
+            "more",
+            "just",
+            "as",
+            "easily",
+            ".",
+            "\u201d"
+        ],
+        [
+            "It",
+            "began",
+            "to",
+            "look",
+            "a",
+            "small",
+            "thing",
+            "to",
+            "her",
+            "to",
+            "get",
+            "but",
+            "a",
+            "single",
+            "egg",
+            "each",
+            "day",
+            "."
+        ],
+        [
+            "\u201c",
+            "If",
+            "I",
+            "were",
+            "to",
+            "give",
+            "a",
+            "double",
+            "allowance",
+            "of",
+            "barley",
+            ",",
+            "the",
+            "Hen",
+            "might",
+            "be",
+            "made",
+            "to",
+            "lay",
+            "two",
+            "eggs",
+            "a",
+            "day",
+            "instead",
+            "of",
+            "one",
+            ",",
+            "\u201d",
+            "she",
+            "said",
+            "."
+        ],
+        [
+            "So",
+            "she",
+            "doubled",
+            "the",
+            "food",
+            ",",
+            "and",
+            "the",
+            "Hen",
+            "grew",
+            "very",
+            "fat",
+            "and",
+            "sleek",
+            ";",
+            "but",
+            "she",
+            "stopped",
+            "laying",
+            "eggs",
+            "."
+        ]
+    ]
+}

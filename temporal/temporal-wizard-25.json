@@ -1,0 +1,392 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "were sad days",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were all quite happy",
+                "pos": [
+                    12,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "contented",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knew",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "walked about",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felt",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "rattling around",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "owned",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was made",
+                "pos": [
+                    40,
+                    42
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "declared",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-25",
+    "sents": [
+        [
+            "For",
+            "three",
+            "days",
+            "Dorothy",
+            "heard",
+            "nothing",
+            "from",
+            "Oz."
+        ],
+        [
+            "These",
+            "were",
+            "sad",
+            "days",
+            "for",
+            "the",
+            "little",
+            "girl",
+            ",",
+            "although",
+            "her",
+            "friends",
+            "were",
+            "all",
+            "quite",
+            "happy",
+            "and",
+            "contented",
+            "."
+        ],
+        [
+            "The",
+            "Scarecrow",
+            "told",
+            "them",
+            "there",
+            "were",
+            "wonderful",
+            "thoughts",
+            "in",
+            "his",
+            "head",
+            ";",
+            "but",
+            "he",
+            "would",
+            "not",
+            "say",
+            "what",
+            "they",
+            "were",
+            "because",
+            "he",
+            "knew",
+            "no",
+            "one",
+            "could",
+            "understand",
+            "them",
+            "but",
+            "himself",
+            "."
+        ],
+        [
+            "When",
+            "the",
+            "Tin",
+            "Woodman",
+            "walked",
+            "about",
+            "he",
+            "felt",
+            "his",
+            "heart",
+            "rattling",
+            "around",
+            "in",
+            "his",
+            "breast",
+            ";",
+            "and",
+            "he",
+            "told",
+            "Dorothy",
+            "he",
+            "had",
+            "discovered",
+            "it",
+            "to",
+            "be",
+            "a",
+            "kinder",
+            "and",
+            "more",
+            "tender",
+            "heart",
+            "than",
+            "the",
+            "one",
+            "he",
+            "had",
+            "owned",
+            "when",
+            "he",
+            "was",
+            "made",
+            "of",
+            "flesh",
+            "."
+        ],
+        [
+            "The",
+            "Lion",
+            "declared",
+            "he",
+            "was",
+            "afraid",
+            "of",
+            "nothing",
+            "on",
+            "earth",
+            ",",
+            "and",
+            "would",
+            "gladly",
+            "face",
+            "an",
+            "army",
+            "or",
+            "a",
+            "dozen",
+            "of",
+            "the",
+            "fierce",
+            "Kalidahs",
+            "."
+        ]
+    ]
+}

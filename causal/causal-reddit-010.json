@@ -1,0 +1,204 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I 'm struggling to work towards it",
+                "pos": [
+                    19,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I do n't feel that",
+                "pos": [
+                    27,
+                    32
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "my current knowledge / output",
+                "pos": [
+                    32,
+                    37
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "enables me to confidently reach it",
+                "pos": [
+                    37,
+                    43
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-010",
+    "sents": [
+        [
+            "What",
+            "I",
+            "want",
+            "to",
+            "say",
+            "to",
+            "my",
+            "supervisor",
+            "is",
+            "this",
+            ":",
+            ">",
+            "\"",
+            "Bro",
+            "straight",
+            "up",
+            "I",
+            "am",
+            "not",
+            "feeling",
+            "it",
+            "and",
+            "I",
+            "'m",
+            "not",
+            "jamming",
+            "with",
+            "the",
+            "work",
+            "and",
+            "have",
+            "no",
+            "motivation",
+            "\"",
+            "."
+        ],
+        [
+            "That",
+            "'s",
+            "literally",
+            "it",
+            ",",
+            "I",
+            "want",
+            "to",
+            "say",
+            "that",
+            "I",
+            "'m",
+            "lacking",
+            "motivation",
+            "and",
+            "struggling",
+            "to",
+            "see",
+            "the",
+            "big",
+            "picture",
+            "but",
+            "that",
+            "'s",
+            "really",
+            "unprofessional",
+            "is",
+            "n't",
+            "it",
+            "?"
+        ],
+        [
+            "Would",
+            "it",
+            "be",
+            "better",
+            "to",
+            "perhaps",
+            "say",
+            ">",
+            "\"",
+            "I",
+            "'m",
+            "a",
+            "little",
+            "unsure",
+            "about",
+            "the",
+            "big",
+            "picture",
+            "and",
+            "I",
+            "'m",
+            "struggling",
+            "to",
+            "work",
+            "towards",
+            "it",
+            "because",
+            "I",
+            "do",
+            "n't",
+            "feel",
+            "that",
+            "my",
+            "current",
+            "knowledge",
+            "/",
+            "output",
+            "enables",
+            "me",
+            "to",
+            "confidently",
+            "reach",
+            "it",
+            "\"",
+            "?"
+        ]
+    ]
+}

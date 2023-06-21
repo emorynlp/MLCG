@@ -1,0 +1,460 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "finished",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "spent",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "debating",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "doing",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "impact",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "withdrew",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s incredible",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am so happy",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "excited",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "edit",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "gotten",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shared",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shout out",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 11,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 11,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-044",
+    "sents": [
+        [
+            "i",
+            "just",
+            "finished",
+            "my",
+            "first",
+            "year",
+            "of",
+            "a",
+            "phd",
+            "program",
+            "."
+        ],
+        [
+            "i",
+            "spent",
+            "almost",
+            "the",
+            "entire",
+            "time",
+            "debating",
+            "leaving",
+            "&",
+            "doing",
+            "something",
+            "else",
+            "."
+        ],
+        [
+            "it",
+            "really",
+            "started",
+            "to",
+            "negatively",
+            "impact",
+            "my",
+            "mental",
+            "health",
+            "and",
+            "my",
+            "research",
+            "."
+        ],
+        [
+            "today",
+            "i",
+            "finally",
+            "withdrew",
+            "from",
+            "the",
+            "university",
+            "."
+        ],
+        [
+            "i",
+            "have",
+            "no",
+            "regrets",
+            "whatsoever",
+            "and",
+            "i",
+            "feel",
+            "so",
+            "FREE",
+            "it",
+            "\u2019s",
+            "incredible",
+            "."
+        ],
+        [
+            "i",
+            "do",
+            "n\u2019t",
+            "know",
+            "what",
+            "happens",
+            "next",
+            ",",
+            "but",
+            "i",
+            "am",
+            "so",
+            "happy",
+            "and",
+            "excited",
+            "for",
+            "the",
+            "first",
+            "time",
+            "in",
+            "a",
+            "very",
+            ",",
+            "very",
+            "long",
+            "time",
+            "!!"
+        ],
+        [
+            "\ud83e\udd29",
+            "edit",
+            ":",
+            "thank",
+            "you",
+            "for",
+            "all",
+            "the",
+            "positive",
+            "support",
+            "!"
+        ],
+        [
+            "i",
+            "\u2019ve",
+            "gotten",
+            "way",
+            "more",
+            "love",
+            "from",
+            "reddit",
+            "than",
+            "i",
+            "have",
+            "from",
+            "my",
+            "lab",
+            "mates",
+            "since",
+            "i",
+            "shared",
+            "the",
+            "news",
+            "\ud83d\ude05",
+            "also",
+            "shout",
+            "out",
+            "to",
+            "the",
+            "kind",
+            "stranger",
+            "who",
+            "gave",
+            "me",
+            "my",
+            "first",
+            "ever",
+            "reddit",
+            "award",
+            "!"
+        ]
+    ]
+}

@@ -1,0 +1,288 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "al Qaeda",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "al",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Qaeda",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "We",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Spanish Interior Ministry",
+                "pos": [
+                    23,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "eight members",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The suspects",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Spanish enclave",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Ceuta",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Ceuta",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Morocco",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Moroccan",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a network",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the network",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "al - linked terrorist groups",
+                "pos": [
+                    12,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "terrorists",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-24",
+    "sents": [
+        [
+            "Security",
+            "forces",
+            "arrested",
+            "eight",
+            "members",
+            "of",
+            "a",
+            "group",
+            "linked",
+            "to",
+            "al",
+            "Qaeda",
+            "on",
+            "Friday",
+            "in",
+            "a",
+            "Spanish",
+            "enclave",
+            "in",
+            "North",
+            "Africa",
+            ",",
+            "authorities",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "have",
+            "broken",
+            "up",
+            "a",
+            "network",
+            "responsible",
+            "for",
+            "sending",
+            "combatants",
+            "to",
+            "al",
+            "Qaeda",
+            "-",
+            "linked",
+            "terrorist",
+            "groups",
+            "operating",
+            "in",
+            "Syria",
+            ",",
+            "\"",
+            "the",
+            "Spanish",
+            "Interior",
+            "Ministry",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "."
+        ],
+        [
+            "The",
+            "suspects",
+            "were",
+            "captured",
+            "in",
+            "Ceuta",
+            ",",
+            "a",
+            "Spanish",
+            "enclave",
+            "that",
+            "borders",
+            "Morocco",
+            "."
+        ],
+        [
+            "Authorities",
+            "said",
+            "the",
+            "network",
+            "was",
+            "based",
+            "in",
+            "Ceuta",
+            "and",
+            "the",
+            "nearby",
+            "Moroccan",
+            "city",
+            "of",
+            "Fnideq",
+            "."
+        ],
+        [
+            "It",
+            "recruited",
+            ",",
+            "trained",
+            "and",
+            "paid",
+            "for",
+            "terrorists",
+            "to",
+            "fight",
+            "in",
+            "other",
+            "countries",
+            "."
+        ]
+    ]
+}

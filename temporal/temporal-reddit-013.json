@@ -1,0 +1,320 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was genuinely interested in",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "learnt",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are doing",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-013",
+    "sents": [
+        [
+            "Basically",
+            "I",
+            "feel",
+            "like",
+            "I",
+            "'m",
+            "not",
+            "getting",
+            "any",
+            "knowledge",
+            "into",
+            "my",
+            "head",
+            "and",
+            "studying",
+            "solely",
+            "for",
+            "the",
+            "sake",
+            "of",
+            "improving",
+            "my",
+            "GPA",
+            "or",
+            "getting",
+            "good",
+            "grades",
+            "."
+        ],
+        [
+            "First",
+            "year",
+            "college",
+            "student",
+            "here",
+            ",",
+            "I",
+            "know",
+            "I",
+            "was",
+            "n't",
+            "the",
+            "same",
+            "in",
+            "high",
+            "school",
+            "."
+        ],
+        [
+            "In",
+            "highschool",
+            "I",
+            "was",
+            "genuinely",
+            "interested",
+            "in",
+            "learning",
+            ",",
+            "for",
+            "example",
+            "I",
+            "would",
+            "actively",
+            "try",
+            "to",
+            "apply",
+            "scientific",
+            "concepts",
+            "learnt",
+            "in",
+            "school",
+            "to",
+            "daily",
+            "life",
+            "and",
+            "marvel",
+            "at",
+            "how",
+            "interesting",
+            "everything",
+            "was",
+            "."
+        ],
+        [
+            "But",
+            "now",
+            "I",
+            "feel",
+            "like",
+            "am",
+            "just",
+            "vomitting",
+            "all",
+            "content",
+            "I",
+            "'ve",
+            "learnt",
+            "through",
+            "the",
+            "semester",
+            "into",
+            "my",
+            "exams",
+            "and",
+            "forgetting",
+            "afterwards",
+            "."
+        ],
+        [
+            "My",
+            "profs",
+            "are",
+            "doing",
+            "a",
+            "good",
+            "job",
+            "at",
+            "teaching",
+            "too",
+            ",",
+            "I",
+            "just",
+            "feel",
+            "a",
+            "shift",
+            "in",
+            "my",
+            "own",
+            "mindset",
+            "."
+        ],
+        [
+            "This",
+            "is",
+            "obviously",
+            "not",
+            "good",
+            ",",
+            "I",
+            "know",
+            ",",
+            "but",
+            "are",
+            "any",
+            "of",
+            "you",
+            "experiencing",
+            "similar",
+            "things",
+            "?"
+        ],
+        [
+            "If",
+            "so",
+            ",",
+            "how",
+            "do",
+            "you",
+            "get",
+            "over",
+            "it",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,332 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "accepted",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "worked",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "proved",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "deserve",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Edit",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "DCT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-076",
+    "sents": [
+        [
+            "First",
+            "off",
+            ",",
+            "massive",
+            "congratulations",
+            "to",
+            "all",
+            "of",
+            "you",
+            "who",
+            "got",
+            "accepted",
+            "ED",
+            "."
+        ],
+        [
+            "You",
+            "worked",
+            "hard",
+            ",",
+            "proved",
+            "yourselves",
+            ",",
+            "and",
+            "deserve",
+            "your",
+            "seats",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "wanted",
+            "to",
+            "give",
+            "you",
+            "all",
+            "a",
+            "kind",
+            "and",
+            "gentle",
+            "reminder",
+            "to",
+            "withdraw",
+            "other",
+            "applications",
+            "so",
+            "that",
+            "other",
+            "kids",
+            "have",
+            "a",
+            "fair",
+            "chance",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "you",
+            "must",
+            "be",
+            "in",
+            "a",
+            "joyous",
+            "mood",
+            "and",
+            "I",
+            "have",
+            "no",
+            "intention",
+            "to",
+            "disturb",
+            "you",
+            "."
+        ],
+        [
+            "Maybe",
+            "you",
+            "might",
+            "withdraw",
+            "apps",
+            "right",
+            "away",
+            "or",
+            "maybe",
+            "you",
+            "might",
+            "do",
+            "it",
+            "some",
+            "days",
+            "later",
+            "."
+        ],
+        [
+            "No",
+            "issues",
+            "with",
+            "that",
+            "but",
+            "please",
+            "please",
+            "do",
+            "nt",
+            "forget",
+            "to",
+            "do",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "nt",
+            "want",
+            "to",
+            "offend",
+            "anyone",
+            "by",
+            "posting",
+            "this",
+            "but",
+            "just",
+            "want",
+            "to",
+            "give",
+            "a",
+            "friendly",
+            "reminder",
+            "."
+        ],
+        [
+            "Thank",
+            "you",
+            "for",
+            "listening",
+            "and",
+            "Congrats",
+            "to",
+            "the",
+            "accepted",
+            "once",
+            "again",
+            "!"
+        ],
+        [
+            "Edit",
+            ":",
+            "Thank",
+            "you",
+            "for",
+            "the",
+            "love",
+            "and",
+            "support",
+            "everyone",
+            "."
+        ],
+        [
+            "Please",
+            "do",
+            "not",
+            "withdraw",
+            "unless",
+            "you",
+            "'ve",
+            "got",
+            "your",
+            "desired",
+            "financial",
+            "aid",
+            "package",
+            "."
+        ]
+    ]
+}

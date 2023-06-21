@@ -1,0 +1,259 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I might feel insecure",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I am actually new in this field of research whereas the new students already arrive with some experience and publications",
+                "pos": [
+                    16,
+                    36
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "makes",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "me feel like all my efforts are going to be unseen",
+                "pos": [
+                    3,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-066",
+    "sents": [
+        [
+            "Yeah",
+            "my",
+            "supervisor",
+            "announced",
+            "a",
+            "new",
+            "grad",
+            "student",
+            "was",
+            "coming",
+            "for",
+            "next",
+            "year",
+            "and",
+            "everyone",
+            "welcomed",
+            "her",
+            "but",
+            "I",
+            "could",
+            "n't",
+            "avoid",
+            "feeling",
+            "jealous",
+            "and",
+            "insecure",
+            "about",
+            "this",
+            "."
+        ],
+        [
+            "It",
+            "happens",
+            "every",
+            "time",
+            "a",
+            "new",
+            "person",
+            "comes",
+            "..."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "know",
+            "why",
+            "!"
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "act",
+            "upon",
+            "this",
+            "though",
+            ",",
+            "I",
+            "try",
+            "to",
+            "be",
+            "supportive",
+            "and",
+            "welcoming",
+            ",",
+            "but",
+            "I",
+            "would",
+            "like",
+            "to",
+            "know",
+            "if",
+            "I",
+            "'m",
+            "the",
+            "only",
+            "one",
+            "that",
+            "feels",
+            "this",
+            "?"
+        ],
+        [
+            "Thank",
+            "you",
+            "Edit",
+            ":",
+            "I",
+            "want",
+            "to",
+            "add",
+            "that",
+            "I",
+            "think",
+            "I",
+            "might",
+            "feel",
+            "insecure",
+            "because",
+            "I",
+            "am",
+            "actually",
+            "new",
+            "in",
+            "this",
+            "field",
+            "of",
+            "research",
+            "whereas",
+            "the",
+            "new",
+            "students",
+            "already",
+            "arrive",
+            "with",
+            "some",
+            "experience",
+            "and",
+            "publications",
+            "."
+        ],
+        [
+            "So",
+            "it",
+            "makes",
+            "me",
+            "feel",
+            "like",
+            "all",
+            "my",
+            "efforts",
+            "are",
+            "going",
+            "to",
+            "be",
+            "unseen",
+            "???"
+        ],
+        [
+            "I",
+            "honestly",
+            "do",
+            "n't",
+            "know",
+            ",",
+            "maybe",
+            "I",
+            "have",
+            "to",
+            "look",
+            "at",
+            "how",
+            "I",
+            "look",
+            "my",
+            "supervisor",
+            "..."
+        ]
+    ]
+}

@@ -1,0 +1,443 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The oldest , wisest pigeon",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Hawk",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "You",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "The Hawk",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Kite",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Kite",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "THE Pigeons",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Pigeons",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "men",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-28",
+    "sents": [
+        [
+            "THE",
+            "Pigeons",
+            ",",
+            "terrified",
+            "by",
+            "the",
+            "frequent",
+            "appearance",
+            "of",
+            "a",
+            "Kite",
+            ",",
+            "asked",
+            "the",
+            "Hawk",
+            "to",
+            "help",
+            "them",
+            "."
+        ],
+        [
+            "\u201c",
+            "You",
+            "are",
+            "the",
+            "only",
+            "bird",
+            "of",
+            "our",
+            "acquaintance",
+            ",",
+            "\u201d",
+            "they",
+            "said",
+            ",",
+            "\u201c",
+            "that",
+            "can",
+            "protect",
+            "us",
+            "from",
+            "our",
+            "enemy",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "will",
+            "take",
+            "care",
+            "of",
+            "us",
+            ",",
+            "we",
+            "shall",
+            "feel",
+            "safe",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Hawk",
+            "at",
+            "once",
+            "consented",
+            ",",
+            "and",
+            "took",
+            "up",
+            "his",
+            "abode",
+            "in",
+            "the",
+            "dovecote",
+            "."
+        ],
+        [
+            "But",
+            "when",
+            "the",
+            "Pigeons",
+            "had",
+            "let",
+            "him",
+            "come",
+            "in",
+            ",",
+            "they",
+            "found",
+            "that",
+            "he",
+            "slew",
+            "more",
+            "of",
+            "them",
+            "in",
+            "a",
+            "single",
+            "day",
+            "than",
+            "the",
+            "Kite",
+            "could",
+            "possibly",
+            "pounce",
+            "upon",
+            "in",
+            "a",
+            "whole",
+            "year",
+            "."
+        ],
+        [
+            "The",
+            "oldest",
+            ",",
+            "wisest",
+            "pigeon",
+            "among",
+            "them",
+            "said",
+            ":",
+            "\u201c",
+            "When",
+            "we",
+            "are",
+            "in",
+            "trouble",
+            ",",
+            "we",
+            "must",
+            "not",
+            "forget",
+            "that",
+            "there",
+            "are",
+            "other",
+            "dangers",
+            "than",
+            "the",
+            "ones",
+            "we",
+            "are",
+            "suffering",
+            "from",
+            "."
+        ],
+        [
+            "There",
+            "is",
+            "a",
+            "proverb",
+            "among",
+            "men",
+            "that",
+            "tells",
+            "them",
+            "to",
+            "avoid",
+            "a",
+            "remedy",
+            "that",
+            "is",
+            "worse",
+            "than",
+            "the",
+            "disease",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

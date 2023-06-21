@@ -1,0 +1,410 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the first exam",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the exact same first exam",
+                "pos": [
+                    5,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the first exam",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "event"
+            },
+            {
+                "name": "received",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 9,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "he",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "this man",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "second exam",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the second exam",
+                "pos": [
+                    22,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the second exam",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-038",
+    "sents": [
+        [
+            "Wow",
+            "."
+        ],
+        [
+            "I",
+            "never",
+            "knew",
+            "that",
+            "I",
+            "would",
+            "be",
+            "in",
+            "one",
+            "of",
+            "the",
+            "classes",
+            "."
+        ],
+        [
+            "The",
+            "first",
+            "thing",
+            "he",
+            "does",
+            "is",
+            "talk",
+            "about",
+            "how",
+            "the",
+            "first",
+            "exam",
+            "had",
+            "B",
+            "average",
+            "and",
+            "second",
+            "exam",
+            "mysteriously",
+            "has",
+            "F",
+            "average",
+            "."
+        ],
+        [
+            "Turns",
+            "out",
+            "this",
+            "man",
+            "gave",
+            "the",
+            "exact",
+            "same",
+            "first",
+            "exam",
+            "to",
+            "the",
+            "previous",
+            "year",
+            "class",
+            "."
+        ],
+        [
+            "It",
+            "seems",
+            "almost",
+            "the",
+            "entire",
+            "class",
+            "of",
+            "less",
+            "than",
+            "20",
+            "students",
+            "had",
+            "the",
+            "first",
+            "exam",
+            "and",
+            "what",
+            "they",
+            "thought",
+            "would",
+            "be",
+            "is",
+            "the",
+            "second",
+            "exam",
+            "."
+        ],
+        [
+            "Somehow",
+            "I",
+            "never",
+            "knew",
+            "and",
+            "nobody",
+            "cared",
+            "to",
+            "help",
+            "me",
+            "out",
+            "."
+        ],
+        [
+            "I",
+            "guess",
+            "making",
+            "zero",
+            "friends",
+            "and",
+            "spending",
+            "my",
+            "days",
+            "in",
+            "a",
+            "library",
+            "ended",
+            "up",
+            "saving",
+            "my",
+            "career",
+            "and",
+            "was",
+            "worth",
+            "it",
+            "after",
+            "all",
+            "."
+        ],
+        [
+            "But",
+            "is",
+            "that",
+            "allowed",
+            "?"
+        ],
+        [
+            "I",
+            "thought",
+            "that",
+            "classes",
+            "need",
+            "to",
+            "have",
+            "certain",
+            "grade",
+            "averages",
+            "or",
+            "curve",
+            "will",
+            "be",
+            "mandatory",
+            "."
+        ],
+        [
+            "I",
+            "assume",
+            "almost",
+            "the",
+            "entire",
+            "class",
+            "now",
+            "received",
+            "a",
+            "0",
+            "on",
+            "the",
+            "exam",
+            "is",
+            "bad",
+            "for",
+            "average",
+            "class",
+            "GPA",
+            "or",
+            "are",
+            "those",
+            "students",
+            "not",
+            "included",
+            "?"
+        ],
+        [
+            "And",
+            "lmfao",
+            "at",
+            "how",
+            "he",
+            "gave",
+            "the",
+            "second",
+            "exam",
+            "right",
+            "after",
+            "withdrawal",
+            "/",
+            "drop",
+            "date",
+            "."
+        ]
+    ]
+}

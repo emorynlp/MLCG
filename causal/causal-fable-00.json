@@ -1,0 +1,395 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "His voice",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "makes",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "me tremble",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the Lion was so taken",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "surprise",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "let",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 7,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "the Fox walk away",
+                "pos": [
+                    17,
+                    21
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "what our fear makes seem a lion in the way has no danger in it",
+                "pos": [
+                    23,
+                    38
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 8,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "we meet it bravely",
+                "pos": [
+                    39,
+                    43
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-00",
+    "sents": [
+        [
+            "A",
+            "LITTLE",
+            "fox",
+            "was",
+            "out",
+            "playing",
+            "one",
+            "day",
+            ",",
+            "when",
+            "a",
+            "Lion",
+            "came",
+            "roaring",
+            "along",
+            "."
+        ],
+        [
+            "\u201c",
+            "Dear",
+            "me",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Fox",
+            ",",
+            "as",
+            "he",
+            "hid",
+            "behind",
+            "a",
+            "tree",
+            ",",
+            "\u201c",
+            "I",
+            "never",
+            "saw",
+            "a",
+            "Lion",
+            "before",
+            "."
+        ],
+        [
+            "What",
+            "a",
+            "terrible",
+            "creature",
+            "!"
+        ],
+        [
+            "His",
+            "voice",
+            "makes",
+            "me",
+            "tremble",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "next",
+            "time",
+            "the",
+            "Fox",
+            "met",
+            "the",
+            "Lion",
+            "he",
+            "was",
+            "not",
+            "so",
+            "much",
+            "afraid",
+            ",",
+            "but",
+            "he",
+            "kept",
+            "a",
+            "safe",
+            "distance",
+            "and",
+            "said",
+            "to",
+            "himself",
+            ",",
+            "\u201c",
+            "I",
+            "wish",
+            "he",
+            "would",
+            "not",
+            "make",
+            "such",
+            "a",
+            "noise",
+            "!",
+            "\u201d"
+        ],
+        [
+            "The",
+            "third",
+            "time",
+            "they",
+            "met",
+            ",",
+            "the",
+            "Fox",
+            "was",
+            "not",
+            "frightened",
+            "at",
+            "all",
+            "."
+        ],
+        [
+            "He",
+            "ran",
+            "up",
+            "to",
+            "the",
+            "Lion",
+            ",",
+            "and",
+            "said",
+            ",",
+            "\u201c",
+            "What",
+            "are",
+            "you",
+            "roaring",
+            "about",
+            "?",
+            "\u201d"
+        ],
+        [
+            "And",
+            "the",
+            "Lion",
+            "was",
+            "so",
+            "taken",
+            "by",
+            "surprise",
+            "that",
+            ",",
+            "without",
+            "saying",
+            "a",
+            "word",
+            ",",
+            "he",
+            "let",
+            "the",
+            "Fox",
+            "walk",
+            "away",
+            "."
+        ],
+        [
+            "It",
+            "would",
+            "not",
+            "be",
+            "safe",
+            "for",
+            "little",
+            "foxes",
+            "always",
+            "to",
+            "follow",
+            "the",
+            "example",
+            "of",
+            "this",
+            "one",
+            ";",
+            "but",
+            "it",
+            "is",
+            "often",
+            "true",
+            "that",
+            "what",
+            "our",
+            "fear",
+            "makes",
+            "seem",
+            "a",
+            "lion",
+            "in",
+            "the",
+            "way",
+            "has",
+            "no",
+            "danger",
+            "in",
+            "it",
+            "if",
+            "we",
+            "meet",
+            "it",
+            "bravely",
+            "."
+        ]
+    ]
+}

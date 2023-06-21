@@ -1,0 +1,189 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "If",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I were a dog",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you would not think of serving me so",
+                "pos": [
+                    13,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-11",
+    "sents": [
+        [
+            "A",
+            "JACKDAW",
+            "sat",
+            "chattering",
+            "upon",
+            "the",
+            "back",
+            "of",
+            "a",
+            "Sheep",
+            "."
+        ],
+        [
+            "\u201c",
+            "Peace",
+            ",",
+            "I",
+            "pray",
+            "you",
+            ",",
+            "noisy",
+            "bird",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Sheep",
+            "."
+        ],
+        [
+            "\u201c",
+            "You",
+            "are",
+            "wearing",
+            "my",
+            "life",
+            "out",
+            "If",
+            "I",
+            "were",
+            "a",
+            "dog",
+            ",",
+            "you",
+            "would",
+            "not",
+            "think",
+            "of",
+            "serving",
+            "me",
+            "so",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "That",
+            "is",
+            "true",
+            ",",
+            "\u201d",
+            "replied",
+            "the",
+            "Jackdaw",
+            ";",
+            "\u201c",
+            "you",
+            "are",
+            "right",
+            "."
+        ],
+        [
+            "I",
+            "never",
+            "meddle",
+            "with",
+            "the",
+            "surly",
+            "and",
+            "revengeful",
+            ";",
+            "but",
+            "I",
+            "love",
+            "to",
+            "plague",
+            "gentle",
+            ",",
+            "helpless",
+            "creatures",
+            "like",
+            "you",
+            ",",
+            "that",
+            "can",
+            "not",
+            "do",
+            "me",
+            "any",
+            "harm",
+            "in",
+            "return",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "I",
+            "wonder",
+            "if",
+            "all",
+            "cowards",
+            "are",
+            "not",
+            "like",
+            "the",
+            "Jackdaw",
+            ",",
+            "\u201d",
+            "mused",
+            "the",
+            "Sheep",
+            ",",
+            "as",
+            "it",
+            "went",
+            "on",
+            "contentedly",
+            "browsing",
+            "on",
+            "the",
+            "hillside",
+            "."
+        ]
+    ]
+}

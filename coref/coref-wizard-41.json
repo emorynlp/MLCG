@@ -1,0 +1,379 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the dignified little Mouse",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "each one",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "thousands of mice",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the dignified little Mouse",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the Queen",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the Queen",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "herself",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the little girl",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-41",
+    "sents": [
+        [
+            "They",
+            "came",
+            "from",
+            "all",
+            "directions",
+            ",",
+            "and",
+            "there",
+            "were",
+            "thousands",
+            "of",
+            "them",
+            ":",
+            "big",
+            "mice",
+            "and",
+            "little",
+            "mice",
+            "and",
+            "middle",
+            "-",
+            "sized",
+            "mice",
+            ";",
+            "and",
+            "each",
+            "one",
+            "brought",
+            "a",
+            "piece",
+            "of",
+            "string",
+            "in",
+            "his",
+            "mouth",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "about",
+            "this",
+            "time",
+            "that",
+            "Dorothy",
+            "woke",
+            "from",
+            "her",
+            "long",
+            "sleep",
+            "and",
+            "opened",
+            "her",
+            "eyes",
+            "."
+        ],
+        [
+            "She",
+            "was",
+            "greatly",
+            "astonished",
+            "to",
+            "find",
+            "herself",
+            "lying",
+            "upon",
+            "the",
+            "grass",
+            ",",
+            "with",
+            "thousands",
+            "of",
+            "mice",
+            "standing",
+            "around",
+            "and",
+            "looking",
+            "at",
+            "her",
+            "timidly",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "Scarecrow",
+            "told",
+            "her",
+            "about",
+            "everything",
+            ",",
+            "and",
+            "turning",
+            "to",
+            "the",
+            "dignified",
+            "little",
+            "Mouse",
+            ",",
+            "he",
+            "said",
+            ":"
+        ],
+        [
+            "\"",
+            "Permit",
+            "me",
+            "to",
+            "introduce",
+            "to",
+            "you",
+            "her",
+            "Majesty",
+            ",",
+            "the",
+            "Queen",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "Dorothy",
+            "nodded",
+            "gravely",
+            "and",
+            "the",
+            "Queen",
+            "made",
+            "a",
+            "curtsy",
+            ",",
+            "after",
+            "which",
+            "she",
+            "became",
+            "quite",
+            "friendly",
+            "with",
+            "the",
+            "little",
+            "girl",
+            "."
+        ]
+    ]
+}

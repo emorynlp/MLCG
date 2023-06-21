@@ -1,0 +1,229 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "after",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a counselor discussion",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I have an interesting predicament",
+                "pos": [
+                    20,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "To",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "improve my application portfolio",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019m now stuck deciding which math to take senior year , and which looks better on a portfolio / helps more",
+                "pos": [
+                    5,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-057",
+    "sents": [
+        [
+            "So",
+            "I",
+            "am",
+            "currently",
+            "a",
+            "Junior",
+            "working",
+            "on",
+            "my",
+            "classes",
+            "for",
+            "the",
+            "next",
+            "year",
+            ",",
+            "and",
+            "after",
+            "a",
+            "counselor",
+            "discussion",
+            "I",
+            "have",
+            "an",
+            "interesting",
+            "predicament",
+            "."
+        ],
+        [
+            "I",
+            "want",
+            "to",
+            "go",
+            "into",
+            "computer",
+            "engineering",
+            "/",
+            "science",
+            "and",
+            "am",
+            "looking",
+            "at",
+            "applying",
+            "to",
+            "some",
+            "very",
+            "strong",
+            "colleges",
+            "in",
+            "the",
+            "field",
+            "(",
+            "MIT",
+            ",",
+            "UCB",
+            ",",
+            "Stanford",
+            ",",
+            "Harvey",
+            "-",
+            "Mudd",
+            ")",
+            "."
+        ],
+        [
+            "To",
+            "improve",
+            "my",
+            "application",
+            "portfolio",
+            "I",
+            "\u2019m",
+            "now",
+            "stuck",
+            "deciding",
+            "which",
+            "math",
+            "to",
+            "take",
+            "senior",
+            "year",
+            ",",
+            "and",
+            "which",
+            "looks",
+            "better",
+            "on",
+            "a",
+            "portfolio",
+            "/",
+            "helps",
+            "more",
+            "."
+        ],
+        [
+            "Any",
+            "advice",
+            "from",
+            "people",
+            "with",
+            "experience",
+            "?"
+        ],
+        [
+            "TL",
+            ";",
+            "DR",
+            ":",
+            "is",
+            "Stats",
+            "AP",
+            "or",
+            "Linear",
+            "Algebra",
+            "/",
+            "Calc",
+            "III",
+            "A",
+            "look",
+            "better",
+            "on",
+            "a",
+            "college",
+            "portfolio",
+            "for",
+            "Strong",
+            "engineering",
+            "colleges",
+            "?"
+        ]
+    ]
+}

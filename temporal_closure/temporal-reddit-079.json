@@ -1,0 +1,552 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "'m an undergrad History and Political Science major",
+                "pos": [
+                    1,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "apply",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wondered",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m a good student",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "go",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought about",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s really the big one",
+                "pos": [
+                    14,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m most seriously considering",
+                "pos": [
+                    20,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "think",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "talking",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-079",
+    "sents": [
+        [
+            "I",
+            "'m",
+            "an",
+            "undergrad",
+            "History",
+            "and",
+            "Political",
+            "Science",
+            "major",
+            "and",
+            "I",
+            "'m",
+            "starting",
+            "to",
+            "apply",
+            "to",
+            "PhD",
+            "programs",
+            ",",
+            "and",
+            "I",
+            "just",
+            "wondered",
+            "if",
+            "you",
+            "guys",
+            "even",
+            "think",
+            "its",
+            "worth",
+            "it",
+            "to",
+            "apply",
+            "for",
+            "higher",
+            "ranked",
+            "programs",
+            "?"
+        ],
+        [
+            "I",
+            "'m",
+            "a",
+            "good",
+            "student",
+            ";",
+            "good",
+            "grades",
+            ",",
+            "research",
+            "experience",
+            ",",
+            "etc.",
+            "But",
+            "I",
+            "go",
+            "to",
+            "a",
+            "small",
+            "college",
+            "that",
+            "does",
+            "n't",
+            "really",
+            "have",
+            "a",
+            "name",
+            "for",
+            "itself",
+            "and",
+            "I",
+            "just",
+            "do",
+            "n't",
+            "think",
+            "I",
+            "\"",
+            "stand",
+            "out",
+            "\"",
+            "that",
+            "much",
+            "."
+        ],
+        [
+            "I",
+            "'ve",
+            "thought",
+            "about",
+            "applying",
+            "to",
+            "programs",
+            "like",
+            "the",
+            "University",
+            "of",
+            "Chicago",
+            "(",
+            "that",
+            "'s",
+            "really",
+            "the",
+            "big",
+            "one",
+            "I",
+            "'m",
+            "most",
+            "seriously",
+            "considering",
+            "application",
+            "to",
+            ")",
+            "but",
+            "I",
+            "just",
+            "do",
+            "n't",
+            "even",
+            "know",
+            "if",
+            "its",
+            "worth",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "think",
+            "it",
+            "is",
+            "but",
+            "then",
+            "again",
+            "I",
+            "do",
+            "n't",
+            "think",
+            "it",
+            "is",
+            "..."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "know",
+            "I",
+            "just",
+            "keep",
+            "talking",
+            "myself",
+            "in",
+            "circles",
+            "."
+        ],
+        [
+            "What",
+            "do",
+            "you",
+            "guys",
+            "think",
+            "?"
+        ],
+        [
+            "Thanks",
+            "in",
+            "advance",
+            "!"
+        ]
+    ]
+}

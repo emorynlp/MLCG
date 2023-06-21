@@ -1,0 +1,187 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I do n't even know what came out of his mouth",
+                "pos": [
+                    0,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he saw Ursinus College on Naviance",
+                "pos": [
+                    12,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-105",
+    "sents": [
+        [
+            "My",
+            "Dad",
+            "is",
+            "horrendous",
+            "with",
+            "pronunciations",
+            ",",
+            "he",
+            "gets",
+            "really",
+            "confused",
+            "between",
+            "the",
+            "UCs",
+            "and",
+            "USC",
+            ",",
+            "is",
+            "always",
+            "confused",
+            "about",
+            "which",
+            "one",
+            "is",
+            "public",
+            "and",
+            "which",
+            "one",
+            "is",
+            "private",
+            "."
+        ],
+        [
+            "He",
+            "gets",
+            "particularly",
+            "confused",
+            "between",
+            "UCSC",
+            "and",
+            "USC",
+            "and",
+            "now",
+            "calls",
+            "all",
+            "the",
+            "UCs",
+            "\"",
+            "USC",
+            "X",
+            "\"",
+            "eg.",
+            "USC",
+            "Berkeley",
+            ",",
+            "USC",
+            "Davis",
+            ",",
+            "etc.",
+            "The",
+            "only",
+            "schools",
+            "he",
+            "consistently",
+            "knows",
+            "how",
+            "to",
+            "pronounce",
+            "are",
+            "the",
+            "ones",
+            "that",
+            "have",
+            "a",
+            "major",
+            "city",
+            "in",
+            "their",
+            "name",
+            "+",
+            "college",
+            "/",
+            "university",
+            "(",
+            "eg.",
+            "Boston",
+            "University",
+            ",",
+            "NYU",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "even",
+            "know",
+            "what",
+            "came",
+            "out",
+            "of",
+            "his",
+            "mouth",
+            "when",
+            "he",
+            "saw",
+            "Ursinus",
+            "College",
+            "on",
+            "Naviance",
+            "."
+        ],
+        [
+            "What",
+            "'s",
+            "the",
+            "weirdest",
+            "pronunciation",
+            "you",
+            "have",
+            "heard",
+            "of",
+            "a",
+            "school",
+            "and",
+            "the",
+            "story",
+            "behind",
+            "it",
+            "?"
+        ]
+    ]
+}

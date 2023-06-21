@@ -1,0 +1,465 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "were traveling",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took up",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lying upon",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heard",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pursuing",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "calling out",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-46",
+    "sents": [
+        [
+            "AS",
+            "TWO",
+            "men",
+            "were",
+            "traveling",
+            "through",
+            "a",
+            "wood",
+            ",",
+            "one",
+            "of",
+            "them",
+            "took",
+            "up",
+            "an",
+            "ax",
+            "which",
+            "he",
+            "saw",
+            "lying",
+            "upon",
+            "the",
+            "ground",
+            "."
+        ],
+        [
+            "\u201c",
+            "Look",
+            "here",
+            ",",
+            "\u201d",
+            "said",
+            "he",
+            "to",
+            "his",
+            "companion",
+            ";",
+            "\u201c",
+            "I",
+            "have",
+            "found",
+            "an",
+            "ax",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Do",
+            "n\u2019t",
+            "say",
+            "_I_",
+            "have",
+            "found",
+            "it",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "other",
+            ",",
+            "\u201c",
+            "but",
+            "_we_",
+            "."
+        ],
+        [
+            "As",
+            "we",
+            "are",
+            "companions",
+            ",",
+            "we",
+            "ought",
+            "to",
+            "share",
+            "it",
+            "between",
+            "us",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "No",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "first",
+            ",",
+            "\u201c",
+            "I",
+            "found",
+            "the",
+            "ax",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "mine",
+            ".",
+            "\u201d"
+        ],
+        [
+            "They",
+            "had",
+            "not",
+            "gone",
+            "far",
+            "when",
+            "they",
+            "heard",
+            "the",
+            "owner",
+            "of",
+            "the",
+            "ax",
+            "pursuing",
+            "them",
+            ",",
+            "and",
+            "calling",
+            "out",
+            "to",
+            "them",
+            "in",
+            "great",
+            "passion",
+            "."
+        ],
+        [
+            "\u201c",
+            "We",
+            "are",
+            "in",
+            "for",
+            "it",
+            "now",
+            ",",
+            "\u201d",
+            "said",
+            "he",
+            "who",
+            "had",
+            "the",
+            "ax",
+            "."
+        ],
+        [
+            "\u201c",
+            "Nay",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "other",
+            ";",
+            "\u201c",
+            "say",
+            "_I_",
+            "am",
+            "in",
+            "for",
+            "it",
+            ",",
+            "not",
+            "_we_",
+            "."
+        ],
+        [
+            "When",
+            "you",
+            "thought",
+            "you",
+            "had",
+            "a",
+            "prize",
+            ",",
+            "you",
+            "would",
+            "not",
+            "let",
+            "me",
+            "share",
+            "it",
+            "with",
+            "you",
+            ",",
+            "and",
+            "now",
+            "you",
+            "can",
+            "not",
+            "expect",
+            "me",
+            "to",
+            "share",
+            "in",
+            "the",
+            "danger",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

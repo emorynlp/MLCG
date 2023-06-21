@@ -1,0 +1,246 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the children all ran away and hid behind their mothers",
+                "pos": [
+                    14,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they saw the Lion",
+                "pos": [
+                    25,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "the children bought it",
+                "pos": [
+                    12,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy could see that they paid for it with green pennies",
+                "pos": [
+                    16,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-45",
+    "sents": [
+        [
+            "There",
+            "were",
+            "many",
+            "people",
+            "--",
+            "men",
+            ",",
+            "women",
+            ",",
+            "and",
+            "children",
+            "--",
+            "walking",
+            "about",
+            ",",
+            "and",
+            "these",
+            "were",
+            "all",
+            "dressed",
+            "in",
+            "green",
+            "clothes",
+            "and",
+            "had",
+            "greenish",
+            "skins",
+            "."
+        ],
+        [
+            "They",
+            "looked",
+            "at",
+            "Dorothy",
+            "and",
+            "her",
+            "strangely",
+            "assorted",
+            "company",
+            "with",
+            "wondering",
+            "eyes",
+            ",",
+            "and",
+            "the",
+            "children",
+            "all",
+            "ran",
+            "away",
+            "and",
+            "hid",
+            "behind",
+            "their",
+            "mothers",
+            "when",
+            "they",
+            "saw",
+            "the",
+            "Lion",
+            ";",
+            "but",
+            "no",
+            "one",
+            "spoke",
+            "to",
+            "them",
+            "."
+        ],
+        [
+            "Many",
+            "shops",
+            "stood",
+            "in",
+            "the",
+            "street",
+            ",",
+            "and",
+            "Dorothy",
+            "saw",
+            "that",
+            "everything",
+            "in",
+            "them",
+            "was",
+            "green",
+            "."
+        ],
+        [
+            "Green",
+            "candy",
+            "and",
+            "green",
+            "pop",
+            "corn",
+            "were",
+            "offered",
+            "for",
+            "sale",
+            ",",
+            "as",
+            "well",
+            "as",
+            "green",
+            "shoes",
+            ",",
+            "green",
+            "hats",
+            ",",
+            "and",
+            "green",
+            "clothes",
+            "of",
+            "all",
+            "sorts",
+            "."
+        ],
+        [
+            "At",
+            "one",
+            "place",
+            "a",
+            "man",
+            "was",
+            "selling",
+            "green",
+            "lemonade",
+            ",",
+            "and",
+            "when",
+            "the",
+            "children",
+            "bought",
+            "it",
+            "Dorothy",
+            "could",
+            "see",
+            "that",
+            "they",
+            "paid",
+            "for",
+            "it",
+            "with",
+            "green",
+            "pennies",
+            "."
+        ]
+    ]
+}

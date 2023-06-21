@@ -1,0 +1,246 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "fire",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The incident",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Mitsubishi Materials chemical plant",
+                "pos": [
+                    5,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the plant",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "fire",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "A fire",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "An explosion",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the blast",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Yokkaichi",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Yokkaichi",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Yokkaichi",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-23",
+    "sents": [
+        [
+            "An",
+            "explosion",
+            "and",
+            "fire",
+            "at",
+            "a",
+            "Mitsubishi",
+            "Materials",
+            "chemical",
+            "plant",
+            "in",
+            "central",
+            "Japan",
+            "on",
+            "Thursday",
+            "afternoon",
+            "killed",
+            "five",
+            "people",
+            "and",
+            "injured",
+            "at",
+            "least",
+            "12",
+            "others",
+            ",",
+            "Yokkaichi",
+            "police",
+            "said",
+            "."
+        ],
+        [
+            "Ealier",
+            ",",
+            "the",
+            "Yokkaichi",
+            "Fire",
+            "Department",
+            "had",
+            "reported",
+            "that",
+            "17",
+            "people",
+            "had",
+            "been",
+            "injured",
+            ",",
+            "five",
+            "critically",
+            "but",
+            "did",
+            "not",
+            "report",
+            "any",
+            "deaths",
+            "."
+        ],
+        [
+            "The",
+            "incident",
+            "happened",
+            "during",
+            "a",
+            "maintenance",
+            "and",
+            "cleaning",
+            "operation",
+            "at",
+            "the",
+            "plant",
+            ",",
+            "the",
+            "Mie",
+            "Prefecture",
+            "Police",
+            "Department",
+            "said",
+            "."
+        ],
+        [
+            "A",
+            "fire",
+            "from",
+            "the",
+            "blast",
+            "lasted",
+            "about",
+            "10",
+            "minutes",
+            ",",
+            "according",
+            "to",
+            "police",
+            "."
+        ],
+        [
+            "Yokkaichi",
+            "is",
+            "located",
+            "about",
+            "320",
+            "Kilometers",
+            "(",
+            "200",
+            "miles",
+            ")",
+            "west",
+            "-",
+            "southwest",
+            "of",
+            "Tokyo",
+            "."
+        ]
+    ]
+}

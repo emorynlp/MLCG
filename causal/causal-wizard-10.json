@@ -1,0 +1,218 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "She was so old",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "she dried up quickly in the sun",
+                "pos": [
+                    15,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-10",
+    "sents": [
+        [
+            "Dorothy",
+            "was",
+            "going",
+            "to",
+            "ask",
+            "another",
+            "question",
+            ",",
+            "but",
+            "just",
+            "then",
+            "the",
+            "Munchkins",
+            ",",
+            "who",
+            "had",
+            "been",
+            "standing",
+            "silently",
+            "by",
+            ",",
+            "gave",
+            "a",
+            "loud",
+            "shout",
+            "and",
+            "pointed",
+            "to",
+            "the",
+            "corner",
+            "of",
+            "the",
+            "house",
+            "where",
+            "the",
+            "Wicked",
+            "Witch",
+            "had",
+            "been",
+            "lying",
+            "."
+        ],
+        [
+            "\"",
+            "What",
+            "is",
+            "it",
+            "?",
+            "\"",
+            "asked",
+            "the",
+            "little",
+            "old",
+            "woman",
+            ",",
+            "and",
+            "looked",
+            ",",
+            "and",
+            "began",
+            "to",
+            "laugh",
+            "."
+        ],
+        [
+            "The",
+            "feet",
+            "of",
+            "the",
+            "dead",
+            "Witch",
+            "had",
+            "disappeared",
+            "entirely",
+            ",",
+            "and",
+            "nothing",
+            "was",
+            "left",
+            "but",
+            "the",
+            "silver",
+            "shoes",
+            "."
+        ],
+        [
+            "\"",
+            "She",
+            "was",
+            "so",
+            "old",
+            ",",
+            "\"",
+            "explained",
+            "the",
+            "Witch",
+            "of",
+            "the",
+            "North",
+            ",",
+            "that",
+            "she",
+            "dried",
+            "up",
+            "quickly",
+            "in",
+            "the",
+            "sun",
+            "."
+        ],
+        [
+            "That",
+            "is",
+            "the",
+            "end",
+            "of",
+            "her",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "silver",
+            "shoes",
+            "are",
+            "yours",
+            ",",
+            "and",
+            "you",
+            "shall",
+            "have",
+            "them",
+            "to",
+            "wear",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "She",
+            "reached",
+            "down",
+            "and",
+            "picked",
+            "up",
+            "the",
+            "shoes",
+            ",",
+            "and",
+            "after",
+            "shaking",
+            "the",
+            "dust",
+            "out",
+            "of",
+            "them",
+            "handed",
+            "them",
+            "to",
+            "Dorothy",
+            "."
+        ]
+    ]
+}

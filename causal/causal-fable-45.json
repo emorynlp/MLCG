@@ -1,0 +1,594 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A BEE",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "Jupiter a present of a pot of honey",
+                "pos": [
+                    3,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "which was so kindly taken",
+                "pos": [
+                    12,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he bade her ask what she would in exchange",
+                "pos": [
+                    18,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The Bee , who was nursing a private spite",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the loss of some of her winter \u2019s store",
+                "pos": [
+                    10,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "wherever she",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "should",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "she should set her sting",
+                "pos": [
+                    25,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it might be mortal",
+                "pos": [
+                    30,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Jupiter was loath to leave mankind at the mercy of a little spiteful insect , and was annoyed",
+                "pos": [
+                    0,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "_"
+            }
+        ],
+        [
+            {
+                "name": "at",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the ill nature shown in her wish",
+                "pos": [
+                    19,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "He said",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "his promise \u2019s sake",
+                "pos": [
+                    9,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "she must be careful how she used the power",
+                "pos": [
+                    23,
+                    32
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "where",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "she planted her sting",
+                "pos": [
+                    35,
+                    39
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "she would leave it",
+                "pos": [
+                    40,
+                    44
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": ", , and would thereby risk her own life",
+                "pos": [
+                    39,
+                    52
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "who acts",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "from",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 18,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 19,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 21,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 22,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 23,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 25,
+            "t": 26,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 27,
+            "t": 26,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-45",
+    "sents": [
+        [
+            "A",
+            "BEE",
+            "made",
+            "Jupiter",
+            "a",
+            "present",
+            "of",
+            "a",
+            "pot",
+            "of",
+            "honey",
+            ",",
+            "which",
+            "was",
+            "so",
+            "kindly",
+            "taken",
+            "that",
+            "he",
+            "bade",
+            "her",
+            "ask",
+            "what",
+            "she",
+            "would",
+            "in",
+            "exchange",
+            "."
+        ],
+        [
+            "The",
+            "Bee",
+            ",",
+            "who",
+            "was",
+            "nursing",
+            "a",
+            "private",
+            "spite",
+            "for",
+            "the",
+            "loss",
+            "of",
+            "some",
+            "of",
+            "her",
+            "winter",
+            "\u2019s",
+            "store",
+            ",",
+            "desired",
+            "of",
+            "Jupiter",
+            "that",
+            "wherever",
+            "she",
+            "should",
+            "set",
+            "her",
+            "sting",
+            "it",
+            "might",
+            "be",
+            "mortal",
+            "."
+        ],
+        [
+            "Jupiter",
+            "was",
+            "loath",
+            "to",
+            "leave",
+            "mankind",
+            "at",
+            "the",
+            "mercy",
+            "of",
+            "a",
+            "little",
+            "spiteful",
+            "insect",
+            ",",
+            "and",
+            "was",
+            "annoyed",
+            "at",
+            "the",
+            "ill",
+            "nature",
+            "shown",
+            "in",
+            "her",
+            "wish",
+            "."
+        ],
+        [
+            "He",
+            "said",
+            ",",
+            "therefore",
+            ",",
+            "that",
+            "while",
+            ",",
+            "for",
+            "his",
+            "promise",
+            "\u2019s",
+            "sake",
+            ",",
+            "he",
+            "would",
+            "give",
+            "her",
+            "the",
+            "power",
+            "to",
+            "harm",
+            ",",
+            "she",
+            "must",
+            "be",
+            "careful",
+            "how",
+            "she",
+            "used",
+            "the",
+            "power",
+            ",",
+            "for",
+            "where",
+            "she",
+            "planted",
+            "her",
+            "sting",
+            ",",
+            "she",
+            "would",
+            "leave",
+            "it",
+            ",",
+            "and",
+            "would",
+            "thereby",
+            "risk",
+            "her",
+            "own",
+            "life",
+            "."
+        ],
+        [
+            "Ill",
+            "will",
+            "often",
+            "does",
+            "greater",
+            "harm",
+            "to",
+            "the",
+            "one",
+            "who",
+            "acts",
+            "from",
+            "it",
+            "than",
+            "to",
+            "the",
+            "one",
+            "on",
+            "whom",
+            "it",
+            "falls",
+            "."
+        ]
+    ]
+}

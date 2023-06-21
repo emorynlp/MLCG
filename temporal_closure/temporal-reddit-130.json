@@ -1,0 +1,559 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asking",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s like",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "understand",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "find",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "send",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "send",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ask",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "responds",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s a telltale sign",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-130",
+    "sents": [
+        [
+            "I",
+            "have",
+            "a",
+            "decent",
+            "amount",
+            "of",
+            "people",
+            "'s",
+            "phone",
+            "numbers",
+            "from",
+            "my",
+            "school",
+            ",",
+            "and",
+            "when",
+            "I",
+            "ask",
+            "for",
+            "answers",
+            "for",
+            "a",
+            "homework",
+            "thing",
+            "or",
+            "something",
+            "people",
+            "just",
+            "do",
+            "n't",
+            "respond",
+            "???"
+        ],
+        [
+            "They",
+            "'ll",
+            "respond",
+            "to",
+            "every",
+            "text",
+            "except",
+            "if",
+            "I",
+            "ask",
+            "them",
+            "homework",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "this",
+            "one",
+            "friend",
+            "here",
+            "we",
+            "would",
+            "have",
+            "normal",
+            "texts",
+            "first",
+            ",",
+            "but",
+            "ever",
+            "since",
+            "I",
+            "started",
+            "asking",
+            "him",
+            "for",
+            "answers",
+            "he",
+            "has",
+            "n't",
+            "been",
+            "responding",
+            "?"
+        ],
+        [
+            "It",
+            "'s",
+            "like",
+            "I",
+            "know",
+            "you",
+            "see",
+            "my",
+            "messages",
+            "why",
+            "can",
+            "you",
+            "not",
+            "send",
+            "me",
+            "the",
+            "answers",
+            "to",
+            "the",
+            "thing",
+            "?"
+        ],
+        [
+            "Now",
+            "I",
+            "'m",
+            "not",
+            "an",
+            "entitled",
+            "person",
+            "."
+        ],
+        [
+            "I",
+            "understand",
+            "other",
+            "people",
+            "do",
+            "n't",
+            "exist",
+            "just",
+            "so",
+            "that",
+            "they",
+            "can",
+            "send",
+            "me",
+            "answers",
+            "."
+        ],
+        [
+            "But",
+            "like",
+            "why",
+            "do",
+            "people",
+            "not",
+            "send",
+            "me",
+            "answers",
+            "when",
+            "I",
+            "ask",
+            "for",
+            "them",
+            "?"
+        ],
+        [
+            "I",
+            "did",
+            "find",
+            "one",
+            "friend",
+            "here",
+            "that",
+            "will",
+            "send",
+            "answers",
+            "."
+        ],
+        [
+            "She",
+            "'ll",
+            "send",
+            "the",
+            "answers",
+            "to",
+            "anything",
+            "I",
+            "ask",
+            "for",
+            "and",
+            "she",
+            "responds",
+            "fast",
+            "too",
+            "."
+        ],
+        [
+            "That",
+            "'s",
+            "a",
+            "telltale",
+            "sign",
+            "if",
+            "someone",
+            "usually",
+            "responds",
+            "really",
+            "fast",
+            "and",
+            "then",
+            "when",
+            "you",
+            "ask",
+            "for",
+            "an",
+            "answer",
+            "they",
+            "just",
+            "do",
+            "n't",
+            "respond",
+            ",",
+            "they",
+            "'re",
+            "straight",
+            "up",
+            "ignoring",
+            "you",
+            "."
+        ],
+        [
+            "Anyone",
+            "else",
+            "experience",
+            "this",
+            "issue",
+            "?"
+        ]
+    ]
+}

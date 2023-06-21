@@ -1,0 +1,350 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "playing",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sporting",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pelt",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been hit",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "put his head up",
+                "pos": [
+                    13,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-21",
+    "sents": [
+        [
+            "SOME",
+            "Boys",
+            ",",
+            "playing",
+            "near",
+            "a",
+            "pond",
+            ",",
+            "saw",
+            "a",
+            "number",
+            "of",
+            "Frogs",
+            "sporting",
+            "in",
+            "the",
+            "water",
+            "."
+        ],
+        [
+            "\u201c",
+            "Let",
+            "us",
+            "see",
+            "if",
+            "we",
+            "can",
+            "hit",
+            "them",
+            ";",
+            "it",
+            "is",
+            "great",
+            "fun",
+            "to",
+            "make",
+            "them",
+            "dive",
+            ",",
+            "\u201d",
+            "said",
+            "one",
+            ";",
+            "and",
+            "they",
+            "all",
+            "began",
+            "to",
+            "pelt",
+            "them",
+            "with",
+            "stones",
+            "."
+        ],
+        [
+            "At",
+            "last",
+            ",",
+            "after",
+            "several",
+            "Frogs",
+            "had",
+            "been",
+            "hit",
+            ",",
+            "one",
+            "of",
+            "them",
+            "put",
+            "his",
+            "head",
+            "up",
+            "out",
+            "of",
+            "the",
+            "water",
+            ",",
+            "and",
+            "said",
+            ":",
+            "\u201c",
+            "Pray",
+            "stop",
+            ",",
+            "Boys",
+            "."
+        ],
+        [
+            "Throwing",
+            "stones",
+            "at",
+            "us",
+            "may",
+            "be",
+            "great",
+            "sport",
+            "for",
+            "you",
+            ",",
+            "but",
+            "it",
+            "is",
+            "death",
+            "to",
+            "us",
+            "."
+        ],
+        [
+            "We",
+            "have",
+            "done",
+            "you",
+            "no",
+            "harm",
+            ",",
+            "and",
+            "alas",
+            "!"
+        ],
+        [
+            "you",
+            "have",
+            "already",
+            "killed",
+            "or",
+            "wounded",
+            "three",
+            "of",
+            "our",
+            "family",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

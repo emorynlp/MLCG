@@ -1,0 +1,456 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "some eggs",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "those eggs",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the little snakes",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the little snakes",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "the ugly little snakes",
+                "pos": [
+                    17,
+                    21
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A HEN",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "_you_",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "the Hen",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A Swallow",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Swallow",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "the Swallow",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-14",
+    "sents": [
+        [
+            "A",
+            "HEN",
+            "who",
+            "had",
+            "no",
+            "nest",
+            "of",
+            "her",
+            "own",
+            "found",
+            "some",
+            "eggs",
+            ",",
+            "and",
+            ",",
+            "in",
+            "the",
+            "kindness",
+            "of",
+            "her",
+            "heart",
+            ",",
+            "thought",
+            "she",
+            "would",
+            "take",
+            "care",
+            "of",
+            "them",
+            ",",
+            "and",
+            "keep",
+            "them",
+            "warm",
+            "."
+        ],
+        [
+            "But",
+            "they",
+            "were",
+            "the",
+            "eggs",
+            "of",
+            "a",
+            "viper",
+            ";",
+            "and",
+            "by",
+            "and",
+            "by",
+            "the",
+            "little",
+            "snakes",
+            "began",
+            "to",
+            "come",
+            "out",
+            "of",
+            "the",
+            "shell",
+            "."
+        ],
+        [
+            "A",
+            "Swallow",
+            ",",
+            "who",
+            "was",
+            "passing",
+            ",",
+            "stopped",
+            "to",
+            "look",
+            "at",
+            "them",
+            "."
+        ],
+        [
+            "\u201c",
+            "What",
+            "a",
+            "foolish",
+            "creature",
+            "you",
+            "were",
+            ",",
+            "to",
+            "hatch",
+            "those",
+            "eggs",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Swallow",
+            "."
+        ],
+        [
+            "\u201c",
+            "Do",
+            "n\u2019t",
+            "you",
+            "know",
+            "that",
+            "as",
+            "soon",
+            "as",
+            "the",
+            "little",
+            "snakes",
+            "grow",
+            "big",
+            "enough",
+            ",",
+            "they",
+            "will",
+            "bite",
+            "some",
+            "one",
+            "\u2014",
+            "probably",
+            "_you_",
+            "first",
+            "of",
+            "all",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Then",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Hen",
+            ",",
+            "as",
+            "she",
+            "stood",
+            "on",
+            "one",
+            "leg",
+            "and",
+            "looked",
+            "at",
+            "the",
+            "ugly",
+            "little",
+            "snakes",
+            ",",
+            "first",
+            "with",
+            "one",
+            "eye",
+            "and",
+            "then",
+            "with",
+            "the",
+            "other",
+            ",",
+            "\u201c",
+            "you",
+            "think",
+            "I",
+            "have",
+            "done",
+            "more",
+            "harm",
+            "than",
+            "good",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "I",
+            "certainly",
+            "do",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Swallow",
+            ",",
+            "as",
+            "she",
+            "flew",
+            "away",
+            "."
+        ],
+        [
+            "\u201c",
+            "Good",
+            "judgment",
+            "is",
+            "better",
+            "than",
+            "thoughtless",
+            "kindness",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

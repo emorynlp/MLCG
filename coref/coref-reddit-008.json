@@ -1,0 +1,546 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "wrote",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "us",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my advisor",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "my",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I.",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "these changes",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the changes",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "The changes",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "some changes",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my advisor",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my advisor",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-008",
+    "sents": [
+        [
+            "Sorry",
+            "just",
+            "need",
+            "to",
+            "rant",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "an",
+            "email",
+            "that",
+            "contained",
+            "this",
+            "a",
+            "few",
+            "minutes",
+            "ago",
+            ":",
+            "\"",
+            "If",
+            "you",
+            "do",
+            "not",
+            "make",
+            "these",
+            "changes",
+            "your",
+            "name",
+            "may",
+            "not",
+            "be",
+            "on",
+            "the",
+            "paper",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "do",
+            "contribute",
+            "there",
+            "may",
+            "be",
+            "a",
+            "question",
+            "whether",
+            "you",
+            "will",
+            "be",
+            "at",
+            "the",
+            "1st",
+            "or",
+            "2nd",
+            "place",
+            "\"",
+            "."
+        ],
+        [
+            "I",
+            "wrote",
+            "all",
+            "20",
+            "pages",
+            "of",
+            "the",
+            "paper",
+            ",",
+            "I",
+            "solely",
+            "did",
+            "all",
+            "the",
+            "experiments",
+            "."
+        ],
+        [
+            "Currently",
+            "there",
+            "are",
+            "only",
+            "2",
+            "of",
+            "us",
+            "on",
+            "the",
+            "paper",
+            ",",
+            "my",
+            "advisor",
+            "and",
+            "I.",
+            "I",
+            "did",
+            "100%",
+            "of",
+            "the",
+            "work",
+            "so",
+            "far",
+            "."
+        ],
+        [
+            "Now",
+            "he",
+            "says",
+            "if",
+            "I",
+            "do",
+            "n't",
+            "make",
+            "the",
+            "changes",
+            "he",
+            "wants",
+            "to",
+            "make",
+            ",",
+            "he",
+            "will",
+            "find",
+            "someone",
+            "else",
+            "to",
+            "do",
+            "them",
+            "."
+        ],
+        [
+            "The",
+            "changes",
+            "he",
+            "wants",
+            "to",
+            "make",
+            "are",
+            "absurd",
+            ",",
+            "make",
+            "no",
+            "sense",
+            "in",
+            "the",
+            "field",
+            "I",
+            "am",
+            "publishing",
+            "in",
+            ",",
+            "and",
+            "some",
+            "changes",
+            "are",
+            "borderline",
+            "unethical",
+            "."
+        ],
+        [
+            "I",
+            "want",
+            "to",
+            "leave",
+            "but",
+            "my",
+            "uni",
+            "requires",
+            "me",
+            "to",
+            "get",
+            "my",
+            "advisor",
+            "'s",
+            "signature",
+            "to",
+            "change",
+            "advisors",
+            "which",
+            "is",
+            "going",
+            "to",
+            "be",
+            "impossible",
+            "at",
+            "this",
+            "point",
+            "because",
+            "I",
+            "'m",
+            "his",
+            "only",
+            "publishing",
+            "student",
+            "."
+        ]
+    ]
+}

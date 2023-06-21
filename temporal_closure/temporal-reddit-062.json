@@ -1,0 +1,432 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "works",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "searched for",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am sick",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tired",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are all the same cookie",
+                "pos": [
+                    30,
+                    35
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hope",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "EDIT",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "were so many other cool resources",
+                "pos": [
+                    5,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-062",
+    "sents": [
+        [
+            "Then",
+            "check",
+            "out",
+            "[",
+            "citethis",
+            "."
+        ],
+        [
+            "net",
+            "]",
+            "(",
+            "https://citethis.net).",
+            "It",
+            "is",
+            "NOT",
+            "owned",
+            "by",
+            "Chegg",
+            "and",
+            "it",
+            "does",
+            "n't",
+            "have",
+            "40+",
+            "ads",
+            "on",
+            "the",
+            "page.I",
+            "found",
+            "this",
+            "on",
+            "another",
+            "Reddit",
+            "post",
+            "."
+        ],
+        [
+            "(",
+            "You",
+            "wo",
+            "n't",
+            "really",
+            "be",
+            "able",
+            "to",
+            "find",
+            "it",
+            "on",
+            "Google",
+            "easily",
+            ")",
+            "."
+        ],
+        [
+            "It",
+            "works",
+            "great",
+            "too",
+            "."
+        ],
+        [
+            "(",
+            "Reddit",
+            "post",
+            ":",
+            "[",
+            "https://www.reddit.com/r/NoStupidQuestions/comments/etvg76/why\\_are\\_nearly\\_all\\_citation\\_makers\\_chegg\\_services/](https://www.reddit.com/r/NoStupidQuestions/comments/etvg76/why_are_nearly_all_citation_makers_chegg_services/))",
+            "I",
+            "searched",
+            "for",
+            "something",
+            "like",
+            "this",
+            "because",
+            "I",
+            "am",
+            "sick",
+            "and",
+            "tired",
+            "of",
+            "going",
+            "to",
+            "4+",
+            "citation",
+            "websites",
+            "only",
+            "to",
+            "find",
+            "out",
+            "that",
+            "they",
+            "are",
+            "all",
+            "the",
+            "same",
+            "cookie",
+            "-",
+            "cutter",
+            "Chegg",
+            "pages",
+            "."
+        ],
+        [
+            "I",
+            "hope",
+            "this",
+            "helps",
+            "."
+        ],
+        [
+            "Signed",
+            ",",
+            "Frustrated",
+            "CS",
+            "student",
+            "EDIT",
+            ":",
+            "Thank",
+            "you",
+            "guys",
+            "so",
+            "much",
+            "for",
+            "your",
+            "replies",
+            "!"
+        ],
+        [
+            "I",
+            "did",
+            "n't",
+            "know",
+            "there",
+            "were",
+            "so",
+            "many",
+            "other",
+            "cool",
+            "resources",
+            "for",
+            "citing",
+            "sources",
+            "--",
+            "checking",
+            "them",
+            "all",
+            "out",
+            "now",
+            "!"
+        ],
+        [
+            "We",
+            "should",
+            "make",
+            "some",
+            "sort",
+            "of",
+            "megathread",
+            "with",
+            "useful",
+            "citation",
+            "resources",
+            "and",
+            "other",
+            "useful",
+            "stuff",
+            "!"
+        ]
+    ]
+}

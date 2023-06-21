@@ -1,0 +1,265 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "committed",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is pretty much set",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is two jobs",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stressed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m in",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-011",
+    "sents": [
+        [
+            "Tonight",
+            "at",
+            "my",
+            "school",
+            "3",
+            "people",
+            "committed",
+            "to",
+            "yale",
+            "and",
+            "another",
+            "two",
+            "to",
+            "Stanford",
+            "."
+        ],
+        [
+            "While",
+            "I",
+            "did",
+            "n\u2019t",
+            "apply",
+            "to",
+            "these",
+            "schools",
+            "I",
+            "ca",
+            "n\u2019t",
+            "help",
+            "but",
+            "feel",
+            "jealous",
+            "."
+        ],
+        [
+            "Their",
+            "future",
+            "is",
+            "pretty",
+            "much",
+            "set",
+            "and",
+            "they",
+            "can",
+            "just",
+            "focus",
+            "on",
+            "school",
+            "."
+        ],
+        [
+            "They",
+            "all",
+            "have",
+            "such",
+            "amazing",
+            "ECs",
+            "and",
+            "grade",
+            "but",
+            "all",
+            "I",
+            "have",
+            "is",
+            "two",
+            "jobs",
+            "which",
+            "do",
+            "n\u2019t",
+            "look",
+            "as",
+            "cool",
+            "as",
+            "being",
+            "student",
+            "board",
+            "members",
+            "and",
+            "musicians",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "stressed",
+            "because",
+            "i",
+            "\u2019m",
+            "in",
+            "a",
+            "magnet",
+            "program",
+            "and",
+            "if",
+            "I",
+            "do",
+            "nt",
+            "attempt",
+            "a",
+            "top",
+            "school",
+            "I",
+            "would",
+            "have",
+            "wasted",
+            "my",
+            "time",
+            "."
+        ],
+        [
+            "How",
+            "do",
+            "I",
+            "combat",
+            "feeling",
+            "this",
+            "way",
+            "?"
+        ]
+    ]
+}

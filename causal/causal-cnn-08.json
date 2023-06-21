@@ -1,0 +1,426 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "U2 front man Bono injured his arm",
+                "pos": [
+                    0,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "in",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a Central Park cycling accident",
+                "pos": [
+                    8,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Bono has injured his arm",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "in",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a cycling spill in Central Park",
+                "pos": [
+                    7,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "requires some surgery",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "repair it",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he 'll make a full recovery soon",
+                "pos": [
+                    4,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "we 'll be back",
+                "pos": [
+                    13,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Much thanks to Jimmy Fallon and everyone at the show",
+                "pos": [
+                    1,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "their understanding",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-08",
+    "sents": [
+        [
+            "U2",
+            "front",
+            "man",
+            "Bono",
+            "injured",
+            "his",
+            "arm",
+            "in",
+            "a",
+            "Central",
+            "Park",
+            "cycling",
+            "accident",
+            "and",
+            "now",
+            "needs",
+            "surgery",
+            ",",
+            "a",
+            "statement",
+            "on",
+            "the",
+            "band",
+            "'s",
+            "official",
+            "website",
+            "said",
+            "Sunday",
+            "."
+        ],
+        [
+            "The",
+            "statement",
+            "said",
+            "the",
+            "band",
+            "is",
+            "calling",
+            "off",
+            "its",
+            "scheduled",
+            "appearances",
+            "this",
+            "week",
+            "on",
+            "NBC",
+            "'s",
+            "\"",
+            "The",
+            "Tonight",
+            "Show",
+            ".",
+            "\""
+        ],
+        [
+            "\"",
+            "It",
+            "looks",
+            "like",
+            "we",
+            "will",
+            "have",
+            "to",
+            "do",
+            "our",
+            "Tonight",
+            "Show",
+            "residency",
+            "another",
+            "time",
+            "-",
+            "we",
+            "'re",
+            "one",
+            "man",
+            "down",
+            ",",
+            "\"",
+            "the",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "Bono",
+            "has",
+            "injured",
+            "his",
+            "arm",
+            "in",
+            "a",
+            "cycling",
+            "spill",
+            "in",
+            "Central",
+            "Park",
+            "and",
+            "requires",
+            "some",
+            "surgery",
+            "to",
+            "repair",
+            "it",
+            ".",
+            "\""
+        ],
+        [
+            "Reps",
+            "for",
+            "the",
+            "band",
+            "could",
+            "not",
+            "be",
+            "immediately",
+            "reached",
+            "for",
+            "comment",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "'re",
+            "sure",
+            "he",
+            "'ll",
+            "make",
+            "a",
+            "full",
+            "recovery",
+            "soon",
+            ",",
+            "so",
+            "we",
+            "'ll",
+            "be",
+            "back",
+            "!",
+            "\""
+        ],
+        [
+            "the",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "Much",
+            "thanks",
+            "to",
+            "Jimmy",
+            "Fallon",
+            "and",
+            "everyone",
+            "at",
+            "the",
+            "show",
+            "for",
+            "their",
+            "understanding",
+            ".",
+            "\""
+        ],
+        [
+            "News",
+            "of",
+            "the",
+            "fall",
+            "comes",
+            "just",
+            "days",
+            "after",
+            "the",
+            "rear",
+            "hatch",
+            "flew",
+            "off",
+            "an",
+            "aircraft",
+            "taking",
+            "the",
+            "singer",
+            "from",
+            "Dublin",
+            "to",
+            "Berlin",
+            "."
+        ]
+    ]
+}

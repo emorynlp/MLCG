@@ -1,0 +1,353 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "my transcript",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Penn State",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-091",
+    "sents": [
+        [
+            "So",
+            "I",
+            "took",
+            "my",
+            "very",
+            "first",
+            "SAT",
+            "for",
+            "the",
+            "first",
+            "time",
+            "on",
+            "Oct",
+            "2nd",
+            ",",
+            "and",
+            "I",
+            "\u2019ll",
+            "admit",
+            "I",
+            "did",
+            "n\u2019t",
+            "study",
+            "amazingly",
+            "."
+        ],
+        [
+            "Today",
+            "I",
+            "checked",
+            "my",
+            "scores",
+            "and",
+            "I",
+            "got",
+            "a",
+            "620",
+            "in",
+            "reading",
+            "(",
+            "which",
+            "I",
+            "had",
+            "to",
+            "rush",
+            "in",
+            "very",
+            "heavily",
+            "for",
+            "the",
+            "last",
+            "10",
+            "questions",
+            "and",
+            "completely",
+            "guessed",
+            ")",
+            "and",
+            "a",
+            "400",
+            "for",
+            "math",
+            "."
+        ],
+        [
+            "The",
+            "only",
+            "school",
+            "I",
+            "\u2019m",
+            "applying",
+            "early",
+            "decision",
+            "to",
+            "is",
+            "Penn",
+            "State",
+            "."
+        ],
+        [
+            "My",
+            "cumulative",
+            "gpa",
+            "is",
+            "a",
+            "2.8",
+            "from",
+            "a",
+            "very",
+            "bad",
+            "sophomore",
+            "and",
+            "freshman",
+            "year",
+            ",",
+            "but",
+            "got",
+            "consistent",
+            "As",
+            "in",
+            "my",
+            "Ap",
+            "classes",
+            "junior",
+            "year",
+            "."
+        ],
+        [
+            "My",
+            "1st",
+            "senior",
+            "year",
+            "marking",
+            "period",
+            "ends",
+            "November",
+            "4th",
+            "but",
+            "early",
+            "decision",
+            "is",
+            "November",
+            "1st",
+            "."
+        ],
+        [
+            "Would",
+            "they",
+            "still",
+            "get",
+            "my",
+            "transcript",
+            "for",
+            "this",
+            "year",
+            "if",
+            "I",
+            "send",
+            "it",
+            "in",
+            "after",
+            "then",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019ll",
+            "email",
+            "them",
+            "but",
+            "wanted",
+            "to",
+            "know",
+            "anyone",
+            "\u2019s",
+            "experience",
+            "."
+        ]
+    ]
+}

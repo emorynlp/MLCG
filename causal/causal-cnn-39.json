@@ -1,0 +1,203 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Former Spanish Prime Minister Adolfo Suarez died at a Madrid hospital Sunday",
+                "pos": [
+                    0,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "long illness",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-39",
+    "sents": [
+        [
+            "Former",
+            "Spanish",
+            "Prime",
+            "Minister",
+            "Adolfo",
+            "Suarez",
+            "died",
+            "at",
+            "a",
+            "Madrid",
+            "hospital",
+            "Sunday",
+            "after",
+            "long",
+            "illness",
+            ",",
+            "his",
+            "family",
+            "said",
+            "."
+        ],
+        [
+            "Suarez",
+            "was",
+            "81",
+            "."
+        ],
+        [
+            "Suarez",
+            "was",
+            "Spain",
+            "'s",
+            "first",
+            "prime",
+            "minister",
+            "in",
+            "the",
+            "transition",
+            "to",
+            "democracy",
+            "after",
+            "the",
+            "long",
+            "dictatorship",
+            "of",
+            "Francisco",
+            "Franco",
+            ",",
+            "who",
+            "died",
+            "in",
+            "November",
+            "1975",
+            "."
+        ],
+        [
+            "King",
+            "Juan",
+            "Carlos",
+            ",",
+            "who",
+            "appointed",
+            "Suarez",
+            "prime",
+            "minister",
+            "in",
+            "1976",
+            ",",
+            "issued",
+            "a",
+            "televised",
+            "statement",
+            "calling",
+            "him",
+            "\"",
+            "a",
+            "great",
+            "servant",
+            "of",
+            "Spain",
+            "and",
+            "was",
+            "not",
+            "always",
+            "well",
+            "understood",
+            ".",
+            "\""
+        ],
+        [
+            "\"",
+            "Suarez",
+            "is",
+            "the",
+            "example",
+            "that",
+            "we",
+            "can",
+            "together",
+            "overcome",
+            "the",
+            "greatest",
+            "difficulties",
+            ",",
+            "\"",
+            "King",
+            "Juan",
+            "Carlos",
+            "said",
+            "."
+        ],
+        [
+            "Suarez",
+            "convened",
+            "the",
+            "first",
+            "democratic",
+            "elections",
+            "in",
+            "1977",
+            "."
+        ],
+        [
+            "He",
+            "resigned",
+            "in",
+            "early",
+            "1981",
+            ",",
+            "just",
+            "weeks",
+            "before",
+            "an",
+            "unsuccessful",
+            "coup",
+            "attempt",
+            "by",
+            "military",
+            "officers",
+            "."
+        ],
+        [
+            "People",
+            "we",
+            "lost",
+            "in",
+            "2014"
+        ]
+    ]
+}

@@ -1,0 +1,494 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were very well - known",
+                "pos": [
+                    5,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "limited",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is in",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am in",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "introduced",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "think",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was in",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "discovered",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "revolutionized",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-146",
+    "sents": [
+        [
+            "I",
+            "did",
+            "n\u2019t",
+            "go",
+            "to",
+            "a",
+            "top",
+            "undergraduate",
+            "or",
+            "graduate",
+            "school",
+            "."
+        ],
+        [
+            "We",
+            "had",
+            "faculty",
+            "members",
+            "that",
+            "were",
+            "very",
+            "well",
+            "-",
+            "known",
+            "in",
+            "our",
+            "field",
+            "but",
+            "they",
+            "limited",
+            "their",
+            "interaction",
+            "with",
+            "undergrads",
+            "/",
+            "grad",
+            "students",
+            "they",
+            "were",
+            "n\u2019t",
+            "working",
+            "with",
+            "."
+        ],
+        [
+            "I",
+            "never",
+            "even",
+            "got",
+            "the",
+            "chance",
+            "to",
+            "be",
+            "in",
+            "the",
+            "same",
+            "room",
+            "as",
+            "them",
+            "or",
+            "receive",
+            "a",
+            "reply",
+            "to",
+            "an",
+            "email",
+            "."
+        ],
+        [
+            "But",
+            "my",
+            "PhD",
+            "program",
+            "is",
+            "in",
+            "the",
+            "top",
+            "ten",
+            "and",
+            "now",
+            "I",
+            "am",
+            "in",
+            "a",
+            "position",
+            "in",
+            "which",
+            "I",
+            "can",
+            "openly",
+            "interact",
+            "with",
+            "all",
+            "the",
+            "faculty",
+            "members",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "like",
+            "every",
+            "time",
+            "I",
+            "talk",
+            "to",
+            "certain",
+            "faculty",
+            "members",
+            "I",
+            "freak",
+            "out",
+            "internally",
+            "when",
+            "I",
+            "find",
+            "out",
+            "who",
+            "they",
+            "are",
+            "and",
+            "what",
+            "they",
+            "have",
+            "accomplished",
+            "."
+        ],
+        [
+            "I",
+            "would",
+            "describe",
+            "my",
+            "reaction",
+            "akin",
+            "those",
+            "that",
+            "freak",
+            "out",
+            "(",
+            "internally",
+            ")",
+            "when",
+            "they",
+            "meet",
+            "celebrities",
+            "."
+        ],
+        [
+            "I",
+            "recently",
+            "went",
+            "to",
+            "a",
+            "faculty",
+            "members",
+            "house",
+            "for",
+            "dinner",
+            "and",
+            "he",
+            "introduced",
+            "me",
+            "to",
+            "his",
+            "advisor",
+            "in",
+            "grad",
+            "school",
+            "."
+        ],
+        [
+            "I",
+            "think",
+            "I",
+            "completely",
+            "freaked",
+            "out",
+            "internally",
+            "because",
+            "I",
+            "could",
+            "n\u2019t",
+            "believe",
+            "I",
+            "was",
+            "in",
+            "the",
+            "same",
+            "room",
+            "with",
+            "the",
+            "individual",
+            "that",
+            "discovered",
+            "a",
+            "sub-field",
+            "that",
+            "revolutionized",
+            "my",
+            "field",
+            "."
+        ]
+    ]
+}

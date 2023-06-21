@@ -1,0 +1,298 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Aunt Em had been so startled",
+                "pos": [
+                    13,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the child ' s laughter",
+                "pos": [
+                    20,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "she would scream and press her hand upon her heart",
+                "pos": [
+                    26,
+                    36
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "whenever",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy ' s merry voice reached her ears",
+                "pos": [
+                    37,
+                    45
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "she still looked at the little girl with wonder",
+                "pos": [
+                    47,
+                    56
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    56,
+                    57
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "she could find anything to laugh at",
+                "pos": [
+                    57,
+                    64
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause|effect",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-02",
+    "sents": [
+        [
+            "When",
+            "Aunt",
+            "Em",
+            "came",
+            "there",
+            "to",
+            "live",
+            "she",
+            "was",
+            "a",
+            "young",
+            ",",
+            "pretty",
+            "wife",
+            "."
+        ],
+        [
+            "The",
+            "sun",
+            "and",
+            "wind",
+            "had",
+            "changed",
+            "her",
+            ",",
+            "too",
+            "."
+        ],
+        [
+            "They",
+            "had",
+            "taken",
+            "the",
+            "sparkle",
+            "from",
+            "her",
+            "eyes",
+            "and",
+            "left",
+            "them",
+            "a",
+            "sober",
+            "gray",
+            ";",
+            "they",
+            "had",
+            "taken",
+            "the",
+            "red",
+            "from",
+            "her",
+            "cheeks",
+            "and",
+            "lips",
+            ",",
+            "and",
+            "they",
+            "were",
+            "gray",
+            "also",
+            "."
+        ],
+        [
+            "She",
+            "was",
+            "thin",
+            "and",
+            "gaunt",
+            ",",
+            "and",
+            "never",
+            "smiled",
+            "now",
+            "."
+        ],
+        [
+            "When",
+            "Dorothy",
+            ",",
+            "who",
+            "was",
+            "an",
+            "orphan",
+            ",",
+            "first",
+            "came",
+            "to",
+            "her",
+            ",",
+            "Aunt",
+            "Em",
+            "had",
+            "been",
+            "so",
+            "startled",
+            "by",
+            "the",
+            "child",
+            "'",
+            "s",
+            "laughter",
+            "that",
+            "she",
+            "would",
+            "scream",
+            "and",
+            "press",
+            "her",
+            "hand",
+            "upon",
+            "her",
+            "heart",
+            "whenever",
+            "Dorothy",
+            "'",
+            "s",
+            "merry",
+            "voice",
+            "reached",
+            "her",
+            "ears",
+            ";",
+            "and",
+            "she",
+            "still",
+            "looked",
+            "at",
+            "the",
+            "little",
+            "girl",
+            "with",
+            "wonder",
+            "that",
+            "she",
+            "could",
+            "find",
+            "anything",
+            "to",
+            "laugh",
+            "at",
+            "."
+        ]
+    ]
+}

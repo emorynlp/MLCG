@@ -1,0 +1,270 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "done",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "graded",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "failed",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is specifically on",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-125",
+    "sents": [
+        [
+            "I",
+            "honestly",
+            "do",
+            "n't",
+            "understand",
+            "it",
+            "."
+        ],
+        [
+            "Literally",
+            "had",
+            "some",
+            "exams",
+            "done",
+            "online",
+            "in",
+            "the",
+            "past",
+            ",",
+            "and",
+            "when",
+            "they",
+            "finally",
+            "get",
+            "graded",
+            ",",
+            "never",
+            "do",
+            "I",
+            "have",
+            "the",
+            "ability",
+            "to",
+            "look",
+            "back",
+            "and",
+            "see",
+            "what",
+            "I",
+            "did",
+            "wrong",
+            "nor",
+            "was",
+            "I",
+            "ever",
+            "told",
+            "what",
+            "I",
+            "failed",
+            "on",
+            "."
+        ],
+        [
+            "How",
+            "could",
+            "I",
+            "possibly",
+            "learn",
+            "from",
+            "this",
+            "for",
+            "possible",
+            "future",
+            "career",
+            "or",
+            "even",
+            "the",
+            "final",
+            "(",
+            "if",
+            "they",
+            "combine",
+            "all",
+            "lessons",
+            "together",
+            ")",
+            "if",
+            "I",
+            "never",
+            "get",
+            "to",
+            "see",
+            "what",
+            "was",
+            "wrong",
+            "?"
+        ],
+        [
+            "If",
+            "you",
+            "want",
+            "to",
+            "lock",
+            "it",
+            "during",
+            "the",
+            "time",
+            "it",
+            "'s",
+            "still",
+            "open",
+            "and",
+            "could",
+            "be",
+            "leaked",
+            "to",
+            "other",
+            "students",
+            "to",
+            "help",
+            "them",
+            "cheat",
+            ",",
+            "perfectly",
+            "reasonable",
+            "."
+        ],
+        [
+            "But",
+            "do",
+            "n't",
+            "have",
+            "it",
+            "locked",
+            "all",
+            "this",
+            "time",
+            "so",
+            "I",
+            "'m",
+            "unable",
+            "to",
+            "know",
+            "what",
+            "I",
+            "understood",
+            "correctly",
+            ",",
+            "especially",
+            "on",
+            "exams",
+            "with",
+            "fricking",
+            "WRITTEN",
+            "RESPONSES",
+            "."
+        ],
+        [
+            "This",
+            "is",
+            "specifically",
+            "on",
+            "my",
+            "biology",
+            "and",
+            "ethics",
+            "class",
+            ",",
+            "if",
+            "any",
+            "were",
+            "wondering",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "thank you",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "all the positive support",
+                "pos": [
+                    6,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-044",
+    "sents": [
+        [
+            "i",
+            "just",
+            "finished",
+            "my",
+            "first",
+            "year",
+            "of",
+            "a",
+            "phd",
+            "program",
+            "."
+        ],
+        [
+            "i",
+            "spent",
+            "almost",
+            "the",
+            "entire",
+            "time",
+            "debating",
+            "leaving",
+            "&",
+            "doing",
+            "something",
+            "else",
+            "."
+        ],
+        [
+            "it",
+            "really",
+            "started",
+            "to",
+            "negatively",
+            "impact",
+            "my",
+            "mental",
+            "health",
+            "and",
+            "my",
+            "research",
+            "."
+        ],
+        [
+            "today",
+            "i",
+            "finally",
+            "withdrew",
+            "from",
+            "the",
+            "university",
+            "."
+        ],
+        [
+            "i",
+            "have",
+            "no",
+            "regrets",
+            "whatsoever",
+            "and",
+            "i",
+            "feel",
+            "so",
+            "FREE",
+            "it",
+            "\u2019s",
+            "incredible",
+            "."
+        ],
+        [
+            "i",
+            "do",
+            "n\u2019t",
+            "know",
+            "what",
+            "happens",
+            "next",
+            ",",
+            "but",
+            "i",
+            "am",
+            "so",
+            "happy",
+            "and",
+            "excited",
+            "for",
+            "the",
+            "first",
+            "time",
+            "in",
+            "a",
+            "very",
+            ",",
+            "very",
+            "long",
+            "time",
+            "!!"
+        ],
+        [
+            "\ud83e\udd29",
+            "edit",
+            ":",
+            "thank",
+            "you",
+            "for",
+            "all",
+            "the",
+            "positive",
+            "support",
+            "!"
+        ],
+        [
+            "i",
+            "\u2019ve",
+            "gotten",
+            "way",
+            "more",
+            "love",
+            "from",
+            "reddit",
+            "than",
+            "i",
+            "have",
+            "from",
+            "my",
+            "lab",
+            "mates",
+            "since",
+            "i",
+            "shared",
+            "the",
+            "news",
+            "\ud83d\ude05",
+            "also",
+            "shout",
+            "out",
+            "to",
+            "the",
+            "kind",
+            "stranger",
+            "who",
+            "gave",
+            "me",
+            "my",
+            "first",
+            "ever",
+            "reddit",
+            "award",
+            "!"
+        ]
+    ]
+}

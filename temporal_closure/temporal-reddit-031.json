@@ -1,0 +1,431 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m an incoming college student",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m aware",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are many jobs",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are flexible with",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "intend",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "updating",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m wondering",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m sure",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-031",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "an",
+            "incoming",
+            "college",
+            "student",
+            "whose",
+            "virtually",
+            "clueless",
+            "in",
+            "terms",
+            "of",
+            "the",
+            "average",
+            "student",
+            "\u2019s",
+            "day",
+            "-",
+            "to",
+            "-",
+            "day",
+            "life",
+            "."
+        ],
+        [
+            "While",
+            "I",
+            "\u2019m",
+            "aware",
+            "there",
+            "are",
+            "many",
+            "jobs",
+            "that",
+            "are",
+            "flexible",
+            "with",
+            "students",
+            ",",
+            "I",
+            "intend",
+            "on",
+            "keeping",
+            "my",
+            "current",
+            "job",
+            ",",
+            "only",
+            "updating",
+            "my",
+            "schedule",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "wondering",
+            ",",
+            "however",
+            ",",
+            "if",
+            "I",
+            "will",
+            "be",
+            "able",
+            "to",
+            "maintain",
+            "this",
+            "job",
+            "(",
+            "3",
+            "days",
+            "\u2014",
+            "including",
+            "weekends",
+            ")",
+            "whilst",
+            "attending",
+            "college",
+            "."
+        ],
+        [
+            "Generally",
+            "speaking",
+            ",",
+            "how",
+            "flexible",
+            "are",
+            "colleges",
+            "/",
+            "professors",
+            "with",
+            "students",
+            "who",
+            "have",
+            "responsibilities",
+            "outside",
+            "of",
+            "school",
+            "(",
+            "eg.",
+            "People",
+            "with",
+            "children",
+            ",",
+            "jobs",
+            ",",
+            "etc.",
+            ")",
+            "?"
+        ],
+        [
+            "While",
+            "I",
+            "\u2019m",
+            "sure",
+            "it",
+            "\u2019d",
+            "be",
+            "difficult",
+            "considering",
+            "I",
+            "\u2019d",
+            "be",
+            "missing",
+            "the",
+            "actual",
+            "lecture",
+            ",",
+            "is",
+            "there",
+            "anyway",
+            "one",
+            "can",
+            "receive",
+            "(",
+            "and",
+            "presumably",
+            "complete",
+            ")",
+            "coursework",
+            "early",
+            "in",
+            "exchange",
+            "for",
+            "a",
+            "weekday",
+            "off",
+            "?"
+        ],
+        [
+            "Please",
+            "let",
+            "me",
+            "know",
+            "your",
+            "experiences",
+            "and",
+            "/",
+            "or",
+            "any",
+            "advice",
+            "you",
+            "may",
+            "have",
+            "!"
+        ],
+        [
+            "Thank",
+            "you",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,381 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was bowled",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "trotted",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chaffing",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "peeped",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "remarked",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was gone",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "grumbling",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was then much too late",
+                "pos": [
+                    32,
+                    37
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is always the case",
+                "pos": [
+                    39,
+                    43
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-01",
+    "sents": [
+        [
+            "\"",
+            "Hold",
+            "up",
+            "!",
+            "\"",
+            "said",
+            "an",
+            "elderly",
+            "rabbit",
+            "at",
+            "the",
+            "gap",
+            "."
+        ],
+        [
+            "\"",
+            "Sixpence",
+            "for",
+            "the",
+            "privilege",
+            "of",
+            "passing",
+            "by",
+            "the",
+            "private",
+            "road",
+            "!",
+            "\"",
+            "He",
+            "was",
+            "bowled",
+            "over",
+            "in",
+            "an",
+            "instant",
+            "by",
+            "the",
+            "impatient",
+            "and",
+            "contemptuous",
+            "Mole",
+            ",",
+            "who",
+            "trotted",
+            "along",
+            "the",
+            "side",
+            "of",
+            "the",
+            "hedge",
+            "chaffing",
+            "the",
+            "other",
+            "rabbits",
+            "as",
+            "they",
+            "peeped",
+            "hurriedly",
+            "from",
+            "their",
+            "holes",
+            "to",
+            "see",
+            "what",
+            "the",
+            "row",
+            "was",
+            "about",
+            "."
+        ],
+        [
+            "\"",
+            "Onion",
+            "-",
+            "sauce",
+            "!",
+            "Onion",
+            "-",
+            "sauce",
+            "!",
+            "\"",
+            "he",
+            "remarked",
+            "jeeringly",
+            ",",
+            "and",
+            "was",
+            "gone",
+            "before",
+            "they",
+            "could",
+            "think",
+            "of",
+            "a",
+            "thoroughly",
+            "satisfactory",
+            "reply",
+            "."
+        ],
+        [
+            "Then",
+            "they",
+            "all",
+            "started",
+            "grumbling",
+            "at",
+            "each",
+            "other",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "STUPID",
+            "you",
+            "are",
+            "!",
+            "Why",
+            "did",
+            "n't",
+            "you",
+            "tell",
+            "him",
+            "\u2014\u2014",
+            "\""
+        ],
+        [
+            "\"",
+            "Well",
+            ",",
+            "why",
+            "did",
+            "n't",
+            "YOU",
+            "say",
+            "\u2014\u2014",
+            "\"",
+            "You",
+            "might",
+            "have",
+            "reminded",
+            "him",
+            "\u2014\u2014",
+            "\"",
+            "and",
+            "so",
+            "on",
+            ",",
+            "in",
+            "the",
+            "usual",
+            "way",
+            ";",
+            "but",
+            ",",
+            "of",
+            "course",
+            ",",
+            "it",
+            "was",
+            "then",
+            "much",
+            "too",
+            "late",
+            ",",
+            "as",
+            "is",
+            "always",
+            "the",
+            "case",
+            "."
+        ]
+    ]
+}

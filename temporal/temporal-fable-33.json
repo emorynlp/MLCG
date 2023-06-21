@@ -1,0 +1,235 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "carried down",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was disposed",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-33",
+    "sents": [
+        [
+            "A",
+            "RIVER",
+            "carried",
+            "down",
+            ",",
+            "in",
+            "its",
+            "stream",
+            ",",
+            "two",
+            "Pots",
+            ",",
+            "one",
+            "made",
+            "of",
+            "Earthenware",
+            "and",
+            "the",
+            "other",
+            "of",
+            "Brass",
+            "."
+        ],
+        [
+            "The",
+            "Brass",
+            "Pot",
+            "was",
+            "disposed",
+            "to",
+            "be",
+            "social",
+            "."
+        ],
+        [
+            "\u201c",
+            "Since",
+            "we",
+            "must",
+            "be",
+            "companions",
+            ",",
+            "let",
+            "us",
+            "be",
+            "friendly",
+            ",",
+            "\u201d",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "\u201c",
+            "In",
+            "union",
+            "is",
+            "strength",
+            "."
+        ],
+        [
+            "Though",
+            "we",
+            "are",
+            "carried",
+            "away",
+            "against",
+            "our",
+            "will",
+            ",",
+            "it",
+            "is",
+            "of",
+            "no",
+            "use",
+            "to",
+            "repine",
+            "."
+        ],
+        [
+            "We",
+            "may",
+            "yet",
+            "see",
+            "much",
+            "good",
+            ".",
+            "\u201d"
+        ],
+        [
+            "But",
+            "the",
+            "Earthen",
+            "Pot",
+            "said",
+            ":",
+            "\u201c",
+            "I",
+            "beg",
+            "you",
+            "not",
+            "to",
+            "come",
+            "so",
+            "near",
+            "me",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "as",
+            "much",
+            "afraid",
+            "of",
+            "you",
+            "as",
+            "of",
+            "the",
+            "river",
+            ";",
+            "for",
+            "if",
+            "you",
+            "do",
+            "but",
+            "touch",
+            "me",
+            "ever",
+            "so",
+            "slightly",
+            ",",
+            "I",
+            "shall",
+            "be",
+            "sure",
+            "to",
+            "break",
+            "."
+        ],
+        [
+            "To",
+            "be",
+            "really",
+            "social",
+            "and",
+            "friendly",
+            "people",
+            "must",
+            "have",
+            "ways",
+            "and",
+            "needs",
+            "in",
+            "common",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

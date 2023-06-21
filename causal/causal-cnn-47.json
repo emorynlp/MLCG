@@ -1,0 +1,261 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Zambia 's incumbent president bowed out with \" grace and honor \" Friday",
+                "pos": [
+                    0,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "election results showed his main challenger had won",
+                "pos": [
+                    14,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Zambians voted Tuesday",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "in",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "the presidential election",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-47",
+    "sents": [
+        [
+            "Zambia",
+            "'s",
+            "incumbent",
+            "president",
+            "bowed",
+            "out",
+            "with",
+            "\"",
+            "grace",
+            "and",
+            "honor",
+            "\"",
+            "Friday",
+            "after",
+            "election",
+            "results",
+            "showed",
+            "his",
+            "main",
+            "challenger",
+            "had",
+            "won",
+            ",",
+            "his",
+            "party",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "people",
+            "of",
+            "Zambia",
+            "have",
+            "spoken",
+            "and",
+            "we",
+            "must",
+            "listen",
+            ",",
+            "\"",
+            "outgoing",
+            "President",
+            "Rupiah",
+            "Banda",
+            "said",
+            "on",
+            "the",
+            "website",
+            "of",
+            "his",
+            "Movement",
+            "for",
+            "Multiparty",
+            "Democracy",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "time",
+            "now",
+            "is",
+            "for",
+            "maturity",
+            ",",
+            "for",
+            "composure",
+            "and",
+            "for",
+            "compassion",
+            ".",
+            "\""
+        ],
+        [
+            "Zambians",
+            "voted",
+            "Tuesday",
+            "in",
+            "the",
+            "presidential",
+            "election",
+            "."
+        ],
+        [
+            "The",
+            "incoming",
+            "president",
+            ",",
+            "Michael",
+            "Sata",
+            ",",
+            "will",
+            "be",
+            "sworn",
+            "in",
+            "Friday",
+            ",",
+            "party",
+            "officials",
+            "said",
+            "."
+        ],
+        [
+            "Sata",
+            "is",
+            "the",
+            "leader",
+            "of",
+            "the",
+            "opposition",
+            "Patriotic",
+            "Front",
+            "and",
+            "a",
+            "major",
+            "critic",
+            "of",
+            "China",
+            "'s",
+            "investment",
+            "in",
+            "the",
+            "nation",
+            "."
+        ],
+        [
+            "Ten",
+            "candidates",
+            "took",
+            "part",
+            "in",
+            "the",
+            "presidential",
+            "race",
+            "."
+        ],
+        [
+            "Zambia",
+            "has",
+            "remained",
+            "relatively",
+            "peaceful",
+            "amid",
+            "unrest",
+            "in",
+            "neighboring",
+            "Zimbabwe",
+            "and",
+            "the",
+            "Democratic",
+            "Republic",
+            "of",
+            "the",
+            "Congo",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,253 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "contributed",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-03",
+    "sents": [
+        [
+            "Armed",
+            "militants",
+            "in",
+            "southwest",
+            "Pakistan",
+            "torched",
+            "two",
+            "oil",
+            "tankers",
+            "carrying",
+            "fuel",
+            "for",
+            "U.S.",
+            "and",
+            "NATO",
+            "forces",
+            "in",
+            "Afghanistan",
+            ",",
+            "a",
+            "government",
+            "official",
+            "told",
+            "CNN",
+            "."
+        ],
+        [
+            "Azam",
+            "Shahwani",
+            ",",
+            "a",
+            "senior",
+            "government",
+            "official",
+            "in",
+            "Baluchistan",
+            "province",
+            ",",
+            "said",
+            "four",
+            "gunmen",
+            "riding",
+            "on",
+            "motorcycles",
+            "opened",
+            "fire",
+            "on",
+            "a",
+            "convey",
+            "of",
+            "five",
+            "oil",
+            "tankers",
+            "in",
+            "the",
+            "area",
+            "of",
+            "Mithri",
+            ",",
+            "a",
+            "village",
+            "in",
+            "the",
+            "district",
+            "of",
+            "Bolan",
+            "."
+        ],
+        [
+            "Shahwani",
+            "said",
+            "the",
+            "oil",
+            "tankers",
+            "were",
+            "heading",
+            "toward",
+            "Afghanistan",
+            "."
+        ],
+        [
+            "No",
+            "one",
+            "was",
+            "injured",
+            ",",
+            "but",
+            "two",
+            "of",
+            "the",
+            "oil",
+            "tankers",
+            "were",
+            "destroyed",
+            ",",
+            "Shahwani",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "could",
+            "see",
+            "roaring",
+            "flames",
+            "of",
+            "fire",
+            "even",
+            "three",
+            "hours",
+            "after",
+            "the",
+            "attack",
+            ",",
+            "\"",
+            "Shahwani",
+            "said",
+            "."
+        ],
+        [
+            "Journalist",
+            "Nasir",
+            "Habib",
+            "contributed",
+            "to",
+            "this",
+            "report",
+            "."
+        ]
+    ]
+}

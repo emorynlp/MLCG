@@ -1,0 +1,384 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "finish",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a 25 question true / false final",
+                "pos": [
+                    3,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 8,
+                "type": "doc-situation"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-027",
+    "sents": [
+        [
+            "This",
+            "came",
+            "up",
+            "over",
+            "in",
+            "the",
+            "Professors",
+            "subreddit",
+            "and",
+            "I",
+            "\u2019m",
+            "a",
+            "bit",
+            "baffled",
+            "."
+        ],
+        [
+            "Someone",
+            "had",
+            "a",
+            "student",
+            "finish",
+            "a",
+            "25",
+            "multiple",
+            "choice",
+            "(",
+            "and",
+            "one",
+            "essay",
+            "question",
+            ")",
+            "test",
+            "in",
+            "26",
+            "minutes",
+            ",",
+            "and",
+            "was",
+            "trying",
+            "to",
+            "find",
+            "out",
+            "if",
+            "that",
+            "was",
+            "a",
+            "sign",
+            "of",
+            "cheating",
+            "."
+        ],
+        [
+            "So",
+            "my",
+            "question",
+            "to",
+            "you",
+            "all",
+            "is",
+            ":",
+            "Is",
+            "it",
+            "that",
+            "unusual",
+            "to",
+            "finish",
+            "primarily",
+            "multiple",
+            "choice",
+            "tests",
+            "so",
+            "quickly",
+            "?"
+        ],
+        [
+            "I",
+            "just",
+            "had",
+            "a",
+            "25",
+            "question",
+            "true",
+            "/",
+            "false",
+            "final",
+            "(",
+            "no",
+            "idea",
+            "why",
+            ")",
+            "and",
+            "knocked",
+            "it",
+            "out",
+            "in",
+            "3",
+            "minutes",
+            "."
+        ],
+        [
+            "If",
+            "the",
+            "test",
+            "is",
+            "set",
+            "up",
+            "so",
+            "you",
+            "ca",
+            "n\u2019t",
+            "go",
+            "back",
+            "and",
+            "check",
+            "your",
+            "answers",
+            ",",
+            "there",
+            "\u2019s",
+            "no",
+            "point",
+            "in",
+            "dawdling",
+            "."
+        ],
+        [
+            "In",
+            "fact",
+            ",",
+            "it",
+            "slows",
+            "me",
+            "down",
+            "when",
+            "it",
+            "\u2019s",
+            "open",
+            "book",
+            "since",
+            "I",
+            "can",
+            "check",
+            "my",
+            "answers",
+            "."
+        ],
+        [
+            "I",
+            "admit",
+            ",",
+            "I",
+            "have",
+            "OCD",
+            "and",
+            "there",
+            "seems",
+            "to",
+            "be",
+            "a",
+            "compulsive",
+            "aspect",
+            "to",
+            "my",
+            "online",
+            "test",
+            "taking",
+            ",",
+            "so",
+            "I",
+            "probably",
+            "rush",
+            "because",
+            "of",
+            "anxiety",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "\u2019ve",
+            "probably",
+            "barely",
+            "cracked",
+            "10",
+            "minutes",
+            "on",
+            "any",
+            "multiple",
+            "choice",
+            "exam",
+            "all",
+            "semester",
+            "."
+        ],
+        [
+            "Is",
+            "it",
+            "really",
+            "that",
+            "odd",
+            "?"
+        ]
+    ]
+}

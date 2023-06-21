@@ -1,0 +1,335 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I 'm gon na give a bit of backstory",
+                "pos": [
+                    3,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you guys",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I 'm very excited though",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I have received around $ 12,000 in scholarships and Grant 's",
+                "pos": [
+                    7,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "use the money I saved up",
+                "pos": [
+                    37,
+                    43
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "pay the whole year out of pocket and avoid loans",
+                "pos": [
+                    44,
+                    54
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "all the work and dedication I put in",
+                "pos": [
+                    5,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "in order to",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "make",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "this a reality",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-086",
+    "sents": [
+        [
+            "Hey",
+            "guys",
+            ",",
+            "I",
+            "'m",
+            "gon",
+            "na",
+            "give",
+            "a",
+            "bit",
+            "of",
+            "backstory",
+            "for",
+            "you",
+            "guys",
+            "."
+        ],
+        [
+            "I",
+            "go",
+            "to",
+            "a",
+            "medium",
+            "sized",
+            "school",
+            "in",
+            "the",
+            "midwest",
+            "."
+        ],
+        [
+            "Tuition",
+            "and",
+            "room",
+            "and",
+            "board",
+            "and",
+            "all",
+            "other",
+            "fees",
+            "add",
+            "up",
+            "to",
+            "about",
+            "$",
+            "16,000",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "very",
+            "excited",
+            "though",
+            ",",
+            "because",
+            "I",
+            "have",
+            "received",
+            "around",
+            "$",
+            "12,000",
+            "in",
+            "scholarships",
+            "and",
+            "Grant",
+            "'s",
+            ",",
+            "and",
+            "with",
+            "all",
+            "the",
+            "work",
+            "I",
+            "'m",
+            "putting",
+            "in",
+            "at",
+            "2",
+            "full",
+            "time",
+            "jobs",
+            "I",
+            "'m",
+            "able",
+            "to",
+            "use",
+            "the",
+            "money",
+            "I",
+            "saved",
+            "up",
+            "to",
+            "pay",
+            "the",
+            "whole",
+            "year",
+            "out",
+            "of",
+            "pocket",
+            "and",
+            "avoid",
+            "loans",
+            "!"
+        ],
+        [
+            "I",
+            "'m",
+            "extremely",
+            "satisfied",
+            "with",
+            "all",
+            "the",
+            "work",
+            "and",
+            "dedication",
+            "I",
+            "put",
+            "in",
+            "in",
+            "order",
+            "to",
+            "make",
+            "this",
+            "a",
+            "reality",
+            "!"
+        ]
+    ]
+}

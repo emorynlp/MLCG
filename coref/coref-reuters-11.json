@@ -1,0 +1,316 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "National Processors (",
+                "pos": [
+                    4,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "crushed",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "crushing",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "soybeans",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "soybean",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "last week",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "a week ago",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the year - ago week",
+                "pos": [
+                    33,
+                    38
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the year - ago week",
+                "pos": [
+                    25,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Soybean Association NSPA",
+                "pos": [
+                    3,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the association",
+                "pos": [
+                    39,
+                    41
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "NSPA",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "NSPA",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "NSPA",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Reporting members of the Soybean Association NSPA",
+                "pos": [
+                    0,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "NSPA member firms",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-11",
+    "sents": [
+        [
+            "Reporting",
+            "members",
+            "of",
+            "the",
+            "National",
+            "Soybean",
+            "Processors",
+            "Association",
+            "(",
+            "NSPA",
+            ")",
+            "crushed",
+            "21,782,929",
+            "bushels",
+            "of",
+            "soybeans",
+            "in",
+            "the",
+            "week",
+            "ended",
+            "Feb",
+            "25",
+            "compared",
+            "with",
+            "22,345,718",
+            "bushels",
+            "in",
+            "the",
+            "previous",
+            "week",
+            "and",
+            "16,568,000",
+            "in",
+            "the",
+            "year",
+            "-",
+            "ago",
+            "week",
+            ",",
+            "the",
+            "association",
+            "said",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "total",
+            "crushing",
+            "capacity",
+            "for",
+            "members",
+            "was",
+            "25,873,904",
+            "bushels",
+            "vs",
+            "25,873,904",
+            "last",
+            "week",
+            "and",
+            "25,459,238",
+            "bushels",
+            "last",
+            "year",
+            "."
+        ],
+        [
+            "NSPA",
+            "also",
+            "said",
+            "U.S.",
+            "soybean",
+            "meal",
+            "exports",
+            "in",
+            "the",
+            "week",
+            "were",
+            "117,866",
+            "tonnes",
+            "vs",
+            "121,168",
+            "tonnes",
+            "a",
+            "week",
+            "ago",
+            "and",
+            "compared",
+            "with",
+            "84,250",
+            "tonnes",
+            "in",
+            "the",
+            "year",
+            "-",
+            "ago",
+            "week",
+            "."
+        ],
+        [
+            "NSPA",
+            "said",
+            "the",
+            "figures",
+            "include",
+            "only",
+            "NSPA",
+            "member",
+            "firms",
+            "."
+        ]
+    ]
+}

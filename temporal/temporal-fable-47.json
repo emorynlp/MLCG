@@ -1,0 +1,468 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was once planted",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was kindly",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shot itself up",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "climbing by",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "twining about",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "covered",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "overtopped",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were so large",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "so fair",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "comparing them with",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-47",
+    "sents": [
+        [
+            "A",
+            "GOURD",
+            "was",
+            "once",
+            "planted",
+            "close",
+            "beside",
+            "a",
+            "large",
+            "and",
+            "noble",
+            "Pine",
+            "Tree",
+            "."
+        ],
+        [
+            "The",
+            "season",
+            "was",
+            "kindly",
+            ",",
+            "and",
+            "the",
+            "Gourd",
+            "shot",
+            "itself",
+            "up",
+            "in",
+            "a",
+            "short",
+            "time",
+            ",",
+            "climbing",
+            "by",
+            "the",
+            "boughs",
+            "and",
+            "twining",
+            "about",
+            "them",
+            ",",
+            "till",
+            "it",
+            "covered",
+            "and",
+            "overtopped",
+            "the",
+            "Tree",
+            "itself",
+            "."
+        ],
+        [
+            "The",
+            "leaves",
+            "were",
+            "so",
+            "large",
+            "and",
+            "the",
+            "flowers",
+            "and",
+            "fruit",
+            "so",
+            "fair",
+            "that",
+            "the",
+            "Gourd",
+            ",",
+            "comparing",
+            "them",
+            "with",
+            "the",
+            "slender",
+            "needles",
+            "of",
+            "the",
+            "Pine",
+            ",",
+            "had",
+            "the",
+            "assurance",
+            "to",
+            "think",
+            "itself",
+            "of",
+            "greater",
+            "value",
+            "in",
+            "the",
+            "comparison",
+            "."
+        ],
+        [
+            "\u201c",
+            "Why",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Gourd",
+            ",",
+            "\u201c",
+            "you",
+            "have",
+            "been",
+            "more",
+            "years",
+            "in",
+            "growing",
+            "to",
+            "this",
+            "stature",
+            "than",
+            "I",
+            "have",
+            "been",
+            "days",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "That",
+            "is",
+            "true",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Pine",
+            ";",
+            "\u201c",
+            "but",
+            "after",
+            "the",
+            "many",
+            "winters",
+            "and",
+            "summers",
+            "that",
+            "I",
+            "have",
+            "endured",
+            ",",
+            "the",
+            "many",
+            "blasting",
+            "colds",
+            "and",
+            "parching",
+            "heats",
+            ",",
+            "you",
+            "see",
+            "me",
+            "the",
+            "very",
+            "same",
+            "that",
+            "I",
+            "was",
+            "long",
+            "years",
+            "ago",
+            "."
+        ],
+        [
+            "Nothing",
+            "has",
+            "overcome",
+            "me",
+            "."
+        ],
+        [
+            "But",
+            "when",
+            "your",
+            "race",
+            "is",
+            "put",
+            "to",
+            "the",
+            "proof",
+            ",",
+            "the",
+            "first",
+            "blight",
+            "or",
+            "frost",
+            "is",
+            "sure",
+            "to",
+            "bring",
+            "down",
+            "that",
+            "pride",
+            "of",
+            "yours",
+            "."
+        ],
+        [
+            "In",
+            "an",
+            "hour",
+            "you",
+            "are",
+            "stripped",
+            "of",
+            "all",
+            "your",
+            "glory",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

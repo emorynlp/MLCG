@@ -1,0 +1,173 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "His role in the scandal",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "has",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "scarred the Reagan administration",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-08",
+    "sents": [
+        [
+            "Secretary",
+            "of",
+            "State",
+            "George",
+            "Shultz",
+            "acknowledged",
+            "failings",
+            "in",
+            "the",
+            "Iran",
+            "arms",
+            "affair",
+            "but",
+            "declared",
+            "he",
+            "would",
+            "not",
+            "resign",
+            "."
+        ],
+        [
+            "His",
+            "role",
+            "in",
+            "the",
+            "scandal",
+            "that",
+            "has",
+            "scarred",
+            "the",
+            "Reagan",
+            "administration",
+            "attracted",
+            "harsh",
+            "criticism",
+            "from",
+            "the",
+            "Tower",
+            "commission",
+            "in",
+            "its",
+            "report",
+            "on",
+            "the",
+            "affair",
+            "published",
+            "today",
+            "."
+        ],
+        [
+            "Shultz",
+            ",",
+            "travelling",
+            "to",
+            "China",
+            "for",
+            "a",
+            "week",
+            "-",
+            "long",
+            "visit",
+            ",",
+            "refused",
+            "to",
+            "comment",
+            "directly",
+            "on",
+            "the",
+            "report",
+            ",",
+            "published",
+            "after",
+            "he",
+            "had",
+            "left",
+            "Washington",
+            "."
+        ],
+        [
+            "But",
+            "he",
+            "repeated",
+            "--",
+            "as",
+            "he",
+            "has",
+            "done",
+            "since",
+            "the",
+            "crisis",
+            "broke",
+            "last",
+            "November",
+            "--",
+            "that",
+            "he",
+            "was",
+            "not",
+            "going",
+            "to",
+            "resign",
+            "."
+        ],
+        [
+            "\"",
+            "You",
+            "can",
+            "wipe",
+            "that",
+            "off",
+            "your",
+            "slate",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "."
+        ]
+    ]
+}

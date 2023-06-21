@@ -1,0 +1,313 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "themselves",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "their odor",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the sleeper",
+                "pos": [
+                    29,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "the big scarlet poppies",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "these flowers",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the bright red flowers",
+                "pos": [
+                    13,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-39",
+    "sents": [
+        [
+            "They",
+            "now",
+            "came",
+            "upon",
+            "more",
+            "and",
+            "more",
+            "of",
+            "the",
+            "big",
+            "scarlet",
+            "poppies",
+            ",",
+            "and",
+            "fewer",
+            "and",
+            "fewer",
+            "of",
+            "the",
+            "other",
+            "flowers",
+            ";",
+            "and",
+            "soon",
+            "they",
+            "found",
+            "themselves",
+            "in",
+            "the",
+            "midst",
+            "of",
+            "a",
+            "great",
+            "meadow",
+            "of",
+            "poppies",
+            "."
+        ],
+        [
+            "Now",
+            "it",
+            "is",
+            "well",
+            "known",
+            "that",
+            "when",
+            "there",
+            "are",
+            "many",
+            "of",
+            "these",
+            "flowers",
+            "together",
+            "their",
+            "odor",
+            "is",
+            "so",
+            "powerful",
+            "that",
+            "anyone",
+            "who",
+            "breathes",
+            "it",
+            "falls",
+            "asleep",
+            ",",
+            "and",
+            "if",
+            "the",
+            "sleeper",
+            "is",
+            "not",
+            "carried",
+            "away",
+            "from",
+            "the",
+            "scent",
+            "of",
+            "the",
+            "flowers",
+            ",",
+            "he",
+            "sleeps",
+            "on",
+            "and",
+            "on",
+            "forever",
+            "."
+        ],
+        [
+            "But",
+            "Dorothy",
+            "did",
+            "not",
+            "know",
+            "this",
+            ",",
+            "nor",
+            "could",
+            "she",
+            "get",
+            "away",
+            "from",
+            "the",
+            "bright",
+            "red",
+            "flowers",
+            "that",
+            "were",
+            "everywhere",
+            "about",
+            ";",
+            "so",
+            "presently",
+            "her",
+            "eyes",
+            "grew",
+            "heavy",
+            "and",
+            "she",
+            "felt",
+            "she",
+            "must",
+            "sit",
+            "down",
+            "to",
+            "rest",
+            "and",
+            "to",
+            "sleep",
+            "."
+        ]
+    ]
+}

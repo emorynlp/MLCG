@@ -1,0 +1,345 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "It is free",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "students",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "makes",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it super easy to track deadlines and manage multiple projects",
+                "pos": [
+                    2,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I found it",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 8,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "I was looking for something to replace to - do lists and track assignments better",
+                "pos": [
+                    4,
+                    19
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "It is free",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 9,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "students",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-092",
+    "sents": [
+        [
+            "For",
+            "everyone",
+            "that",
+            "is",
+            "procrastinating",
+            "at",
+            "these",
+            "late",
+            "hours",
+            "like",
+            "I",
+            "am",
+            ",",
+            "what",
+            "are",
+            "your",
+            "favorite",
+            "student",
+            "tools",
+            "?"
+        ],
+        [
+            "Recently",
+            "I",
+            "'ve",
+            "been",
+            "using",
+            "Notion",
+            "and",
+            "[",
+            "Monday",
+            "."
+        ],
+        [
+            "com",
+            "]",
+            "(",
+            "https://Monday.com)",
+            "a",
+            "lot",
+            "."
+        ],
+        [
+            "Notion",
+            "is",
+            "hard",
+            "to",
+            "explain",
+            ",",
+            "it",
+            "'s",
+            "kinda",
+            "like",
+            "a",
+            "personal",
+            "database",
+            "of",
+            "pages",
+            "you",
+            "create",
+            "."
+        ],
+        [
+            "Highly",
+            "customizable",
+            "and",
+            "easy",
+            "to",
+            "use",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "free",
+            "for",
+            "students",
+            "[",
+            "Monday",
+            "."
+        ],
+        [
+            "com",
+            "]",
+            "(",
+            "https://Monday.com)",
+            "is",
+            "a",
+            "productivity",
+            "management",
+            "tool",
+            "used",
+            "by",
+            "companies",
+            "."
+        ],
+        [
+            "It",
+            "makes",
+            "it",
+            "super",
+            "easy",
+            "to",
+            "track",
+            "deadlines",
+            "and",
+            "manage",
+            "multiple",
+            "projects",
+            "."
+        ],
+        [
+            "I",
+            "found",
+            "it",
+            "when",
+            "I",
+            "was",
+            "looking",
+            "for",
+            "something",
+            "to",
+            "replace",
+            "to",
+            "-",
+            "do",
+            "lists",
+            "and",
+            "track",
+            "assignments",
+            "better",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "free",
+            "for",
+            "students",
+            "Edit",
+            ":",
+            "wow",
+            "so",
+            "many",
+            "replies",
+            "haha",
+            "."
+        ],
+        [
+            "Good",
+            "luck",
+            "with",
+            "finals",
+            "everyone"
+        ]
+    ]
+}

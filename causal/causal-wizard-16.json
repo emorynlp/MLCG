@@ -1,0 +1,355 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Toto was a fine curiosity to all the people",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they had never seen a dog before",
+                "pos": [
+                    11,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I do not know , \" answered Boq gravely",
+                "pos": [
+                    1,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I have never been there",
+                "pos": [
+                    13,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "It is better for people to keep away from Oz",
+                "pos": [
+                    0,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "unless",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "they have business with him",
+                "pos": [
+                    12,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you must pass through rough and dangerous places",
+                "pos": [
+                    9,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "before",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you reach the end of your journey",
+                "pos": [
+                    18,
+                    25
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-16",
+    "sents": [
+        [
+            "She",
+            "ate",
+            "a",
+            "hearty",
+            "breakfast",
+            ",",
+            "and",
+            "watched",
+            "a",
+            "wee",
+            "Munchkin",
+            "baby",
+            ",",
+            "who",
+            "played",
+            "with",
+            "Toto",
+            "and",
+            "pulled",
+            "his",
+            "tail",
+            "and",
+            "crowed",
+            "and",
+            "laughed",
+            "in",
+            "a",
+            "way",
+            "that",
+            "greatly",
+            "amused",
+            "Dorothy",
+            "."
+        ],
+        [
+            "Toto",
+            "was",
+            "a",
+            "fine",
+            "curiosity",
+            "to",
+            "all",
+            "the",
+            "people",
+            ",",
+            "for",
+            "they",
+            "had",
+            "never",
+            "seen",
+            "a",
+            "dog",
+            "before",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "far",
+            "is",
+            "it",
+            "to",
+            "the",
+            "Emerald",
+            "City",
+            "?",
+            "\"",
+            "the",
+            "girl",
+            "asked",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "do",
+            "not",
+            "know",
+            ",",
+            "\"",
+            "answered",
+            "Boq",
+            "gravely",
+            ",",
+            "\"",
+            "for",
+            "I",
+            "have",
+            "never",
+            "been",
+            "there",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "better",
+            "for",
+            "people",
+            "to",
+            "keep",
+            "away",
+            "from",
+            "Oz",
+            ",",
+            "unless",
+            "they",
+            "have",
+            "business",
+            "with",
+            "him",
+            "."
+        ],
+        [
+            "But",
+            "it",
+            "is",
+            "a",
+            "long",
+            "way",
+            "to",
+            "the",
+            "Emerald",
+            "City",
+            ",",
+            "and",
+            "it",
+            "will",
+            "take",
+            "you",
+            "many",
+            "days",
+            "."
+        ],
+        [
+            "The",
+            "country",
+            "here",
+            "is",
+            "rich",
+            "and",
+            "pleasant",
+            ",",
+            "but",
+            "you",
+            "must",
+            "pass",
+            "through",
+            "rough",
+            "and",
+            "dangerous",
+            "places",
+            "before",
+            "you",
+            "reach",
+            "the",
+            "end",
+            "of",
+            "your",
+            "journey",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

@@ -1,0 +1,439 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "hired",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "being intensely hot",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "called upon",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was shining",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sit down",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "arose",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was sufficient",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pushed",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "claiming",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saying",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "grew",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "forgot",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ran away",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "disputing",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lost",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-31",
+    "sents": [
+        [
+            "ONE",
+            "very",
+            "hot",
+            "day",
+            "a",
+            "Traveler",
+            "hired",
+            "a",
+            "Mule",
+            "with",
+            "his",
+            "driver",
+            "to",
+            "carry",
+            "some",
+            "merchandise",
+            "to",
+            "a",
+            "distant",
+            "place",
+            "."
+        ],
+        [
+            "The",
+            "way",
+            "lay",
+            "across",
+            "a",
+            "sandy",
+            "plain",
+            ",",
+            "and",
+            "the",
+            "day",
+            "being",
+            "intensely",
+            "hot",
+            ",",
+            "the",
+            "Traveler",
+            "called",
+            "upon",
+            "the",
+            "driver",
+            "to",
+            "stop",
+            "for",
+            "rest",
+            "."
+        ],
+        [
+            "To",
+            "escape",
+            "from",
+            "the",
+            "direct",
+            "heat",
+            "of",
+            "the",
+            "sun",
+            ",",
+            "which",
+            "was",
+            "shining",
+            "in",
+            "all",
+            "its",
+            "strength",
+            ",",
+            "the",
+            "Traveler",
+            "proceeded",
+            "to",
+            "sit",
+            "down",
+            "in",
+            "the",
+            "shadow",
+            "of",
+            "the",
+            "Mule",
+            "."
+        ],
+        [
+            "But",
+            "a",
+            "violent",
+            "dispute",
+            "arose",
+            ",",
+            "for",
+            "the",
+            "shadow",
+            "was",
+            "sufficient",
+            "for",
+            "but",
+            "one",
+            ",",
+            "and",
+            "the",
+            "driver",
+            ",",
+            "a",
+            "lusty",
+            "fellow",
+            ",",
+            "rudely",
+            "pushed",
+            "the",
+            "Traveler",
+            "one",
+            "side",
+            ",",
+            "claiming",
+            "the",
+            "spot",
+            "for",
+            "himself",
+            ",",
+            "saying",
+            ":",
+            "\u201c",
+            "When",
+            "you",
+            "hired",
+            "this",
+            "Mule",
+            "of",
+            "me",
+            ",",
+            "you",
+            "said",
+            "nothing",
+            "about",
+            "the",
+            "shadow",
+            "."
+        ],
+        [
+            "If",
+            "now",
+            "you",
+            "want",
+            "that",
+            "too",
+            ",",
+            "you",
+            "must",
+            "pay",
+            "for",
+            "it",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "discussion",
+            "grew",
+            "so",
+            "violent",
+            "that",
+            "they",
+            "forgot",
+            "the",
+            "Mule",
+            ",",
+            "who",
+            "took",
+            "advantage",
+            "of",
+            "his",
+            "freedom",
+            "and",
+            "ran",
+            "away",
+            "."
+        ],
+        [
+            "And",
+            "so",
+            ",",
+            "in",
+            "disputing",
+            "about",
+            "the",
+            "shadow",
+            "they",
+            "lost",
+            "the",
+            "substance",
+            "."
+        ]
+    ]
+}

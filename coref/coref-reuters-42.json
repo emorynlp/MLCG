@@ -1,0 +1,228 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Scientific Micro Systems Inc",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Scientific Micro",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Scientific Micro",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Supermac Technology",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Supermac",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Supermac",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-42",
+    "sents": [
+        [
+            "Scientific",
+            "Micro",
+            "Systems",
+            "Inc",
+            "said",
+            "it",
+            "has",
+            "acquired",
+            "Supermac",
+            "Technology",
+            ",",
+            "a",
+            "rapidly",
+            "growing",
+            "supplier",
+            "of",
+            "enhancement",
+            "products",
+            "and",
+            "disc",
+            "drive",
+            "subsystems",
+            "for",
+            "the",
+            "Apple",
+            "personal",
+            "computer",
+            "market",
+            "."
+        ],
+        [
+            "Scientific",
+            "Micro",
+            "said",
+            "it",
+            "acquired",
+            "all",
+            "the",
+            "common",
+            "stock",
+            "of",
+            "Supermac",
+            "in",
+            "exchange",
+            "for",
+            "1.05",
+            "mln",
+            "shares",
+            "of",
+            "its",
+            "own",
+            "common",
+            "stock",
+            "."
+        ],
+        [
+            "The",
+            "stock",
+            "closed",
+            "at",
+            "5.50",
+            "dlrs",
+            "bid",
+            "on",
+            "Friday",
+            "."
+        ],
+        [
+            "Supermac",
+            ",",
+            "a",
+            "privately",
+            "held",
+            "firm",
+            "based",
+            "in",
+            "Mountain",
+            "View",
+            ",",
+            "California",
+            ",",
+            "as",
+            "is",
+            "Scientific",
+            "Micro",
+            ",",
+            "reported",
+            "a",
+            "net",
+            "profit",
+            "of",
+            "300,000",
+            "dlrs",
+            "on",
+            "revenue",
+            "of",
+            "9.5",
+            "mln",
+            "dlrs",
+            "in",
+            "fiscal",
+            "1986",
+            "."
+        ],
+        [
+            "It",
+            "expects",
+            "its",
+            "revenue",
+            "to",
+            "approximately",
+            "double",
+            "in",
+            "1987",
+            "."
+        ]
+    ]
+}

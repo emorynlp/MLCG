@@ -1,0 +1,244 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "ideas",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "fun",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "To",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "make things worse",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "most people here are in state students and already know each other or have a lot in common",
+                "pos": [
+                    5,
+                    23
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-053",
+    "sents": [
+        [
+            "How",
+            "do",
+            "you",
+            "deal",
+            "with",
+            "loneliness",
+            "at",
+            "college",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019m",
+            "an",
+            "international",
+            "student",
+            "and",
+            "I",
+            "was",
+            "raised",
+            "with",
+            "a",
+            "huge",
+            "difference",
+            "in",
+            "the",
+            "environment",
+            "/",
+            "ideas",
+            "for",
+            "fun",
+            "."
+        ],
+        [
+            "I",
+            "only",
+            "have",
+            "a",
+            "few",
+            "friends",
+            "/",
+            "people",
+            "I",
+            "know",
+            "."
+        ],
+        [
+            "Most",
+            "people",
+            "here",
+            "just",
+            "drink",
+            ",",
+            "party",
+            ",",
+            "or",
+            "binge",
+            "watch",
+            "in",
+            "the",
+            "weekend",
+            "."
+        ],
+        [
+            "To",
+            "make",
+            "things",
+            "worse",
+            ",",
+            "most",
+            "people",
+            "here",
+            "are",
+            "in",
+            "state",
+            "students",
+            "and",
+            "already",
+            "know",
+            "each",
+            "other",
+            "or",
+            "have",
+            "a",
+            "lot",
+            "in",
+            "common",
+            "."
+        ],
+        [
+            "My",
+            "roommates",
+            "do",
+            "n\u2019t",
+            "do",
+            "anything",
+            "but",
+            "play",
+            "video",
+            "games",
+            ",",
+            "study",
+            ",",
+            "and",
+            "watch",
+            "stuff",
+            "online",
+            "."
+        ],
+        [
+            "The",
+            "only",
+            "thing",
+            "I",
+            "can",
+            "think",
+            "of",
+            "is",
+            "going",
+            "to",
+            "the",
+            "gym",
+            "but",
+            "I",
+            "ca",
+            "n\u2019t",
+            "get",
+            "over",
+            "my",
+            "social",
+            "fears",
+            "because",
+            "I",
+            "\u2019m",
+            "small",
+            "and",
+            "skinny",
+            "."
+        ],
+        [
+            "Thank",
+            "you",
+            "."
+        ]
+    ]
+}

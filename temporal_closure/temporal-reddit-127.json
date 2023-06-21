@@ -1,0 +1,389 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "heard of",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "makes",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "assume",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "NOTE",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 9,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "EDITED",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-127",
+    "sents": [
+        [
+            "1.",
+            "Harvard",
+            "-",
+            "not",
+            "even",
+            "close",
+            "."
+        ],
+        [
+            "It",
+            "'s",
+            "not",
+            "even",
+            "a",
+            "school",
+            "but",
+            "more",
+            "of",
+            "an",
+            "idea",
+            "."
+        ],
+        [
+            "2.",
+            "Stanford",
+            ",",
+            "MIT",
+            ",",
+            "Yale",
+            ",",
+            "Princeton-most",
+            "people",
+            "have",
+            "heard",
+            "of",
+            "these",
+            "and",
+            "know",
+            "they",
+            "are",
+            "good",
+            "schools",
+            "."
+        ],
+        [
+            "3.",
+            "Rest",
+            "of",
+            "the",
+            "Ivy",
+            "League-most",
+            "people",
+            "ca",
+            "n't",
+            "name",
+            "more",
+            "than",
+            "2",
+            "schools",
+            "that",
+            "are",
+            "Ivy",
+            "League",
+            "but",
+            "know",
+            "they",
+            "are",
+            "good",
+            "schools",
+            "."
+        ],
+        [
+            "Bonus",
+            "points",
+            "for",
+            "explaining",
+            "the",
+            "difference",
+            "between",
+            "Penn",
+            "and",
+            "Penn",
+            "State",
+            "."
+        ],
+        [
+            "4.",
+            "Good",
+            "Schools",
+            "that",
+            "Play",
+            "Football",
+            "-",
+            "Duke",
+            ",",
+            "Vanderbilt",
+            ",",
+            "Northwestern",
+            ",",
+            "Berkeley",
+            ",",
+            "Notre",
+            "Dame",
+            "5.",
+            "Any",
+            "other",
+            "school",
+            "with",
+            "a",
+            "D1",
+            "football",
+            "team",
+            "or",
+            "a",
+            "basketball",
+            "team",
+            "that",
+            "regularly",
+            "makes",
+            "the",
+            "NCAA",
+            "tourney",
+            "."
+        ],
+        [
+            "Although",
+            "some",
+            "ding",
+            "here",
+            "if",
+            "the",
+            "football",
+            "team",
+            "is",
+            "real",
+            "good",
+            ",",
+            "like",
+            "Alabama",
+            ",",
+            "because",
+            "the",
+            "assumption",
+            "will",
+            "be",
+            "that",
+            "the",
+            "school",
+            "is",
+            "easy",
+            "to",
+            "get",
+            "the",
+            "football",
+            "players",
+            "."
+        ],
+        [
+            "6.",
+            "State",
+            "schools",
+            "they",
+            "know",
+            "nothing",
+            "about",
+            "but",
+            "assume",
+            "exist",
+            "and",
+            "therefore",
+            "better",
+            "than",
+            "an",
+            "unknown",
+            "school",
+            "-",
+            "examples",
+            "would",
+            "be",
+            "Alaska",
+            ",",
+            "Montana",
+            "and",
+            "NYU",
+            "."
+        ],
+        [
+            "7.",
+            "Pretty",
+            "much",
+            "everything",
+            "else",
+            "."
+        ],
+        [
+            "NOTE",
+            ":",
+            "EDITED",
+            "TO",
+            "REFLECT",
+            "FEEDBACK",
+            "ON",
+            "DUKE",
+            "&",
+            "#x200B",
+            ";"
+        ]
+    ]
+}

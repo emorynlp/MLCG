@@ -1,0 +1,400 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "seven semiautonomous tribal agencies",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "were kidnapped",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "were kidnapped",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "beheaded",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "were killed",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Two men",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The men",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the abducted men",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Pakistan",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Pakistan",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Pakistan",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Khyber Agency",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Khyber Agency",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the area",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the area",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Sikhs",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            },
+            {
+                "name": "the Sikhs",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 7,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "this report",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 8,
+                "type": "post"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-14",
+    "sents": [
+        [
+            "Two",
+            "men",
+            "from",
+            "the",
+            "minority",
+            "Sikh",
+            "community",
+            "in",
+            "Pakistan",
+            "'s",
+            "tribal",
+            "northwest",
+            "were",
+            "kidnapped",
+            "and",
+            "beheaded",
+            "on",
+            "Sunday",
+            ",",
+            "authorities",
+            "said",
+            "this",
+            "week",
+            "."
+        ],
+        [
+            "Two",
+            "others",
+            "remain",
+            "in",
+            "custody",
+            "."
+        ],
+        [
+            "The",
+            "men",
+            "were",
+            "kidnapped",
+            "by",
+            "the",
+            "Pakistan",
+            "Taliban",
+            "for",
+            "ransom",
+            "from",
+            "Khyber",
+            "Agency",
+            "two",
+            "weeks",
+            "ago",
+            ",",
+            "said",
+            "Shafirullah",
+            "Wazir",
+            ",",
+            "the",
+            "area",
+            "'s",
+            "administrative",
+            "chief",
+            "."
+        ],
+        [
+            "They",
+            "were",
+            "killed",
+            "when",
+            "their",
+            "family",
+            "members",
+            "were",
+            "unable",
+            "to",
+            "pay",
+            "their",
+            "ransom",
+            ",",
+            "officials",
+            "said",
+            "."
+        ],
+        [
+            "In",
+            "the",
+            "case",
+            "of",
+            "one",
+            "of",
+            "the",
+            "abducted",
+            "men",
+            ",",
+            "Jaspal",
+            "Singh",
+            ",",
+            "the",
+            "kidnappers",
+            "had",
+            "demanded",
+            "20",
+            "million",
+            "rupees",
+            ",",
+            "the",
+            "semiofficial",
+            "Associated",
+            "Press",
+            "of",
+            "Pakistan",
+            "said",
+            "."
+        ],
+        [
+            "Khyber",
+            "Agency",
+            "is",
+            "one",
+            "of",
+            "seven",
+            "semiautonomous",
+            "tribal",
+            "agencies",
+            "along",
+            "the",
+            "Afghan",
+            "border",
+            "."
+        ],
+        [
+            "Sikhs",
+            "have",
+            "lived",
+            "in",
+            "the",
+            "area",
+            "for",
+            "centuries",
+            ",",
+            "running",
+            "businesses",
+            "and",
+            "operating",
+            "farms",
+            "."
+        ],
+        [
+            "As",
+            "the",
+            "area",
+            "has",
+            "come",
+            "increasingly",
+            "under",
+            "the",
+            "influence",
+            "of",
+            "Islamic",
+            "militants",
+            ",",
+            "so",
+            "has",
+            "pressure",
+            "on",
+            "the",
+            "Sikhs",
+            "."
+        ],
+        [
+            "Journalist",
+            "Nasir",
+            "Dawar",
+            "contributed",
+            "to",
+            "this",
+            "report",
+            "."
+        ]
+    ]
+}

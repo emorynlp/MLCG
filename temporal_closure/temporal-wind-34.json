@@ -1,0 +1,447 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "lost",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was one of these mysterious fairy",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reached",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "making",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stopped",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "searching",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "moved",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "caught",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-34",
+    "sents": [
+        [
+            "We",
+            "others",
+            ",",
+            "who",
+            "have",
+            "long",
+            "lost",
+            "the",
+            "more",
+            "subtle",
+            "of",
+            "the",
+            "physical",
+            "senses",
+            ",",
+            "have",
+            "not",
+            "even",
+            "proper",
+            "terms",
+            "to",
+            "express",
+            "an",
+            "animal",
+            "'s",
+            "inter-communications",
+            "with",
+            "his",
+            "surroundings",
+            ",",
+            "living",
+            "or",
+            "otherwise",
+            ",",
+            "and",
+            "have",
+            "only",
+            "the",
+            "word",
+            "\"",
+            "smell",
+            "\"",
+            "for",
+            "instance",
+            ",",
+            "to",
+            "include",
+            "the",
+            "whole",
+            "range",
+            "of",
+            "delicate",
+            "thrills",
+            "which",
+            "murmur",
+            "in",
+            "the",
+            "nose",
+            "of",
+            "the",
+            "animal",
+            "night",
+            "and",
+            "day",
+            ",",
+            "summoning",
+            ",",
+            "warning",
+            ",",
+            "inciting",
+            ",",
+            "repelling",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "one",
+            "of",
+            "these",
+            "mysterious",
+            "fairy",
+            "calls",
+            "from",
+            "out",
+            "the",
+            "void",
+            "that",
+            "suddenly",
+            "reached",
+            "Mole",
+            "in",
+            "the",
+            "darkness",
+            ",",
+            "making",
+            "him",
+            "tingle",
+            "through",
+            "and",
+            "through",
+            "with",
+            "its",
+            "very",
+            "familiar",
+            "appeal",
+            ",",
+            "even",
+            "while",
+            "yet",
+            "he",
+            "could",
+            "not",
+            "clearly",
+            "remember",
+            "what",
+            "it",
+            "was",
+            "."
+        ],
+        [
+            "He",
+            "stopped",
+            "dead",
+            "in",
+            "his",
+            "tracks",
+            ",",
+            "his",
+            "nose",
+            "searching",
+            "hither",
+            "and",
+            "thither",
+            "in",
+            "its",
+            "efforts",
+            "to",
+            "recapture",
+            "the",
+            "fine",
+            "filament",
+            ",",
+            "the",
+            "telegraphic",
+            "current",
+            ",",
+            "that",
+            "had",
+            "so",
+            "strongly",
+            "moved",
+            "him",
+            "."
+        ],
+        [
+            "A",
+            "moment",
+            ",",
+            "and",
+            "he",
+            "had",
+            "caught",
+            "it",
+            "again",
+            ";",
+            "and",
+            "with",
+            "it",
+            "this",
+            "time",
+            "came",
+            "recollection",
+            "in",
+            "fullest",
+            "flood",
+            "."
+        ]
+    ]
+}

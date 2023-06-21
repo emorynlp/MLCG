@@ -1,0 +1,400 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a scam",
+                "pos": [
+                    45,
+                    47
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "get you and your parents to",
+                "pos": [
+                    48,
+                    54
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you and your parents to pay more money for college",
+                "pos": [
+                    49,
+                    59
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "there \u2019s some reason you really want to go to x college",
+                "pos": [
+                    4,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if there \u2019s some reason you really want to go to x college then",
+                "pos": [
+                    3,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "all means",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "do so",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "at the end of the day , no matter where you go , even",
+                "pos": [
+                    5,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it \u2019s at a college near home",
+                "pos": [
+                    20,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "your still going to get different experiences , friends and a degree",
+                "pos": [
+                    27,
+                    39
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "So",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "get out there and do things",
+                "pos": [
+                    7,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the \u201c college experience \u201d - freshman",
+                "pos": [
+                    15,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "just do n\u2019t feel pressured to just in college",
+                "pos": [
+                    1,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "means",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 15,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-043",
+    "sents": [
+        [
+            "Disclaimer",
+            ":",
+            "this",
+            "is",
+            "just",
+            "my",
+            "2",
+            "cents",
+            "and",
+            "I",
+            "\u2019m",
+            "NOT",
+            "trying",
+            "to",
+            "be",
+            "negative",
+            "Nancy",
+            ",",
+            "however",
+            "I",
+            "do",
+            "feel",
+            "that",
+            "it",
+            "is",
+            "important",
+            "to",
+            "keep",
+            "in",
+            "mind",
+            "that",
+            "the",
+            "whole",
+            "moving",
+            "far",
+            "and",
+            "having",
+            "the",
+            "\u201c",
+            "college",
+            "experience",
+            "\u201d",
+            "is",
+            "lowkey",
+            "just",
+            "a",
+            "scam",
+            "to",
+            "get",
+            "you",
+            "and",
+            "your",
+            "parents",
+            "to",
+            "pay",
+            "more",
+            "money",
+            "for",
+            "college",
+            "."
+        ],
+        [
+            "I",
+            "mean",
+            "yes",
+            "if",
+            "there",
+            "\u2019s",
+            "some",
+            "reason",
+            "you",
+            "really",
+            "want",
+            "to",
+            "go",
+            "to",
+            "x",
+            "college",
+            "then",
+            "by",
+            "all",
+            "means",
+            "do",
+            "so",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "just",
+            "saying",
+            "that",
+            "at",
+            "the",
+            "end",
+            "of",
+            "the",
+            "day",
+            ",",
+            "no",
+            "matter",
+            "where",
+            "you",
+            "go",
+            ",",
+            "even",
+            "if",
+            "it",
+            "\u2019s",
+            "at",
+            "a",
+            "college",
+            "near",
+            "home",
+            "your",
+            "still",
+            "going",
+            "to",
+            "get",
+            "different",
+            "experiences",
+            ",",
+            "friends",
+            "and",
+            "a",
+            "degree",
+            "."
+        ],
+        [
+            "So",
+            "just",
+            "do",
+            "n\u2019t",
+            "feel",
+            "pressured",
+            "to",
+            "get",
+            "out",
+            "there",
+            "and",
+            "do",
+            "things",
+            "just",
+            "for",
+            "the",
+            "\u201c",
+            "college",
+            "experience",
+            "\u201d",
+            "-",
+            "freshman",
+            "in",
+            "college"
+        ]
+    ]
+}

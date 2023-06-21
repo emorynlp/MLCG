@@ -1,0 +1,405 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "is that",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gives",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "*Edit",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "shared",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are here",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s really nice",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are other people",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "experiencing",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s nice",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-150",
+    "sents": [
+        [
+            "**When",
+            "you",
+            "are",
+            "preparing",
+            "a",
+            "paper",
+            "for",
+            "publication",
+            ",",
+            "how",
+            "much",
+            "does",
+            "your",
+            "advisor",
+            "contribute",
+            "?"
+        ],
+        [
+            "**",
+            "**How",
+            "much",
+            "feedback",
+            "do",
+            "they",
+            "give",
+            "?"
+        ],
+        [
+            "**",
+            "**How",
+            "much",
+            "writing",
+            "do",
+            "they",
+            "do",
+            "?"
+        ],
+        [
+            "**",
+            "**What",
+            "is",
+            "your",
+            "joint",
+            "writing",
+            "process",
+            ",",
+            "if",
+            "you",
+            "have",
+            "one",
+            "?"
+        ],
+        [
+            "**",
+            "The",
+            "motivation",
+            "for",
+            "this",
+            "question",
+            "is",
+            "that",
+            "my",
+            "advisor",
+            "contributes",
+            "nothing",
+            ",",
+            "barely",
+            "gives",
+            "feedback",
+            ",",
+            "and",
+            "ca",
+            "n't",
+            "be",
+            "relied",
+            "upon",
+            "to",
+            "even",
+            "read",
+            "the",
+            "paper",
+            "to",
+            "discuss",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "very",
+            "on",
+            "my",
+            "own",
+            "and",
+            "unsupported",
+            "and",
+            "want",
+            "to",
+            "know",
+            "if",
+            "this",
+            "is",
+            "a",
+            "common",
+            "experience",
+            "or",
+            "if",
+            "others",
+            "'",
+            "advisors",
+            "are",
+            "more",
+            "active",
+            "in",
+            "the",
+            "writing",
+            "process",
+            "."
+        ],
+        [
+            "*Edit",
+            ":",
+            "Wow",
+            ",",
+            "so",
+            "many",
+            "people",
+            "with",
+            "unsupportive",
+            "advisors",
+            "!"
+        ],
+        [
+            "For",
+            "all",
+            "those",
+            "who",
+            "shared",
+            "tips",
+            ",",
+            "thank",
+            "you",
+            "!"
+        ],
+        [
+            "To",
+            "those",
+            "who",
+            "are",
+            "here",
+            "to",
+            "commiserate",
+            "--",
+            "it",
+            "'s",
+            "really",
+            "nice",
+            "to",
+            "hear",
+            "that",
+            "there",
+            "are",
+            "other",
+            "people",
+            "out",
+            "here",
+            "experiencing",
+            "the",
+            "same",
+            "struggles",
+            "as",
+            "you",
+            "."
+        ],
+        [
+            "For",
+            "all",
+            "others",
+            ",",
+            "it",
+            "'s",
+            "nice",
+            "to",
+            "hear",
+            "your",
+            "perspective",
+            "."
+        ],
+        [
+            "*"
+        ]
+    ]
+}

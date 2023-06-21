@@ -1,0 +1,336 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A JACKDAW",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "noisy bird",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "You",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Jackdaw",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the Jackdaw",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Sheep",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Sheep",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "the Sheep",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-11",
+    "sents": [
+        [
+            "A",
+            "JACKDAW",
+            "sat",
+            "chattering",
+            "upon",
+            "the",
+            "back",
+            "of",
+            "a",
+            "Sheep",
+            "."
+        ],
+        [
+            "\u201c",
+            "Peace",
+            ",",
+            "I",
+            "pray",
+            "you",
+            ",",
+            "noisy",
+            "bird",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Sheep",
+            "."
+        ],
+        [
+            "\u201c",
+            "You",
+            "are",
+            "wearing",
+            "my",
+            "life",
+            "out",
+            "If",
+            "I",
+            "were",
+            "a",
+            "dog",
+            ",",
+            "you",
+            "would",
+            "not",
+            "think",
+            "of",
+            "serving",
+            "me",
+            "so",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "That",
+            "is",
+            "true",
+            ",",
+            "\u201d",
+            "replied",
+            "the",
+            "Jackdaw",
+            ";",
+            "\u201c",
+            "you",
+            "are",
+            "right",
+            "."
+        ],
+        [
+            "I",
+            "never",
+            "meddle",
+            "with",
+            "the",
+            "surly",
+            "and",
+            "revengeful",
+            ";",
+            "but",
+            "I",
+            "love",
+            "to",
+            "plague",
+            "gentle",
+            ",",
+            "helpless",
+            "creatures",
+            "like",
+            "you",
+            ",",
+            "that",
+            "can",
+            "not",
+            "do",
+            "me",
+            "any",
+            "harm",
+            "in",
+            "return",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "I",
+            "wonder",
+            "if",
+            "all",
+            "cowards",
+            "are",
+            "not",
+            "like",
+            "the",
+            "Jackdaw",
+            ",",
+            "\u201d",
+            "mused",
+            "the",
+            "Sheep",
+            ",",
+            "as",
+            "it",
+            "went",
+            "on",
+            "contentedly",
+            "browsing",
+            "on",
+            "the",
+            "hillside",
+            "."
+        ]
+    ]
+}

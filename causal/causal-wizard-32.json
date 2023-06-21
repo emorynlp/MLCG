@@ -1,0 +1,255 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy thought she would go next",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "she took Toto in her arms and climbed on the Lion ' s back",
+                "pos": [
+                    8,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they all sat down for a few moments",
+                "pos": [
+                    15,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "give the beast a chance to rest",
+                "pos": [
+                    24,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "his great leaps had made his breath short , and he panted like a big dog that has been running too long",
+                "pos": [
+                    33,
+                    55
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 3,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-32",
+    "sents": [
+        [
+            "Dorothy",
+            "thought",
+            "she",
+            "would",
+            "go",
+            "next",
+            ";",
+            "so",
+            "she",
+            "took",
+            "Toto",
+            "in",
+            "her",
+            "arms",
+            "and",
+            "climbed",
+            "on",
+            "the",
+            "Lion",
+            "'",
+            "s",
+            "back",
+            ",",
+            "holding",
+            "tightly",
+            "to",
+            "his",
+            "mane",
+            "with",
+            "one",
+            "hand",
+            "."
+        ],
+        [
+            "The",
+            "next",
+            "moment",
+            "it",
+            "seemed",
+            "as",
+            "if",
+            "she",
+            "were",
+            "flying",
+            "through",
+            "the",
+            "air",
+            ";",
+            "and",
+            "then",
+            ",",
+            "before",
+            "she",
+            "had",
+            "time",
+            "to",
+            "think",
+            "about",
+            "it",
+            ",",
+            "she",
+            "was",
+            "safe",
+            "on",
+            "the",
+            "other",
+            "side",
+            "."
+        ],
+        [
+            "The",
+            "Lion",
+            "went",
+            "back",
+            "a",
+            "third",
+            "time",
+            "and",
+            "got",
+            "the",
+            "Tin",
+            "Woodman",
+            ",",
+            "and",
+            "then",
+            "they",
+            "all",
+            "sat",
+            "down",
+            "for",
+            "a",
+            "few",
+            "moments",
+            "to",
+            "give",
+            "the",
+            "beast",
+            "a",
+            "chance",
+            "to",
+            "rest",
+            ",",
+            "for",
+            "his",
+            "great",
+            "leaps",
+            "had",
+            "made",
+            "his",
+            "breath",
+            "short",
+            ",",
+            "and",
+            "he",
+            "panted",
+            "like",
+            "a",
+            "big",
+            "dog",
+            "that",
+            "has",
+            "been",
+            "running",
+            "too",
+            "long",
+            "."
+        ]
+    ]
+}

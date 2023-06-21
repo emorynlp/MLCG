@@ -1,0 +1,183 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "What a foolish fellow",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "make such a fuss about a little fall into the water",
+                "pos": [
+                    12,
+                    23
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-17",
+    "sents": [
+        [
+            "A",
+            "DONKEY",
+            "was",
+            "one",
+            "day",
+            "walking",
+            "through",
+            "a",
+            "pond",
+            ",",
+            "with",
+            "a",
+            "load",
+            "of",
+            "wood",
+            "on",
+            "his",
+            "back",
+            ",",
+            "when",
+            "his",
+            "foot",
+            "slipped",
+            "and",
+            "he",
+            "fell",
+            "."
+        ],
+        [
+            "\u201c",
+            "Help",
+            ",",
+            "help",
+            "!",
+            "\u201d"
+        ],
+        [
+            "cried",
+            "the",
+            "poor",
+            "Donkey",
+            ",",
+            "as",
+            "he",
+            "struggled",
+            "and",
+            "kicked",
+            "in",
+            "the",
+            "water",
+            "."
+        ],
+        [
+            "But",
+            "his",
+            "load",
+            "was",
+            "so",
+            "heavy",
+            "that",
+            "he",
+            "could",
+            "not",
+            "rise",
+            ",",
+            "and",
+            "he",
+            "groaned",
+            "aloud",
+            "."
+        ],
+        [
+            "The",
+            "Frogs",
+            "heard",
+            "his",
+            "groans",
+            "but",
+            "showed",
+            "no",
+            "pity",
+            "."
+        ],
+        [
+            "\u201c",
+            "What",
+            "a",
+            "foolish",
+            "fellow",
+            ",",
+            "\u201d",
+            "said",
+            "they",
+            ",",
+            "\u201c",
+            "to",
+            "make",
+            "such",
+            "a",
+            "fuss",
+            "about",
+            "a",
+            "little",
+            "fall",
+            "into",
+            "the",
+            "water",
+            "."
+        ],
+        [
+            "What",
+            "would",
+            "you",
+            "say",
+            "if",
+            "you",
+            "had",
+            "to",
+            "live",
+            "here",
+            "always",
+            ",",
+            "as",
+            "we",
+            "do",
+            "?",
+            "\u201d"
+        ]
+    ]
+}

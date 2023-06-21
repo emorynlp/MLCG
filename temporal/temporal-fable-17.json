@@ -1,0 +1,325 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was one day walking",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "slipped",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fell",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "struggled",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "kicked in",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was so heavy",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "groaned",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heard",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-17",
+    "sents": [
+        [
+            "A",
+            "DONKEY",
+            "was",
+            "one",
+            "day",
+            "walking",
+            "through",
+            "a",
+            "pond",
+            ",",
+            "with",
+            "a",
+            "load",
+            "of",
+            "wood",
+            "on",
+            "his",
+            "back",
+            ",",
+            "when",
+            "his",
+            "foot",
+            "slipped",
+            "and",
+            "he",
+            "fell",
+            "."
+        ],
+        [
+            "\u201c",
+            "Help",
+            ",",
+            "help",
+            "!",
+            "\u201d"
+        ],
+        [
+            "cried",
+            "the",
+            "poor",
+            "Donkey",
+            ",",
+            "as",
+            "he",
+            "struggled",
+            "and",
+            "kicked",
+            "in",
+            "the",
+            "water",
+            "."
+        ],
+        [
+            "But",
+            "his",
+            "load",
+            "was",
+            "so",
+            "heavy",
+            "that",
+            "he",
+            "could",
+            "not",
+            "rise",
+            ",",
+            "and",
+            "he",
+            "groaned",
+            "aloud",
+            "."
+        ],
+        [
+            "The",
+            "Frogs",
+            "heard",
+            "his",
+            "groans",
+            "but",
+            "showed",
+            "no",
+            "pity",
+            "."
+        ],
+        [
+            "\u201c",
+            "What",
+            "a",
+            "foolish",
+            "fellow",
+            ",",
+            "\u201d",
+            "said",
+            "they",
+            ",",
+            "\u201c",
+            "to",
+            "make",
+            "such",
+            "a",
+            "fuss",
+            "about",
+            "a",
+            "little",
+            "fall",
+            "into",
+            "the",
+            "water",
+            "."
+        ],
+        [
+            "What",
+            "would",
+            "you",
+            "say",
+            "if",
+            "you",
+            "had",
+            "to",
+            "live",
+            "here",
+            "always",
+            ",",
+            "as",
+            "we",
+            "do",
+            "?",
+            "\u201d"
+        ]
+    ]
+}

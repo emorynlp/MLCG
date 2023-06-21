@@ -1,0 +1,394 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "UCSC",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "USC Berkeley",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "USC Davis",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Boston University",
+                "pos": [
+                    52,
+                    54
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "NYU",
+                "pos": [
+                    55,
+                    56
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "USC",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "USC",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the UCs",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the UCs",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The only schools",
+                "pos": [
+                    26,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    44,
+                    45
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "their name",
+                "pos": [
+                    44,
+                    46
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "My Dad",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the weirdest pronunciation",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 6,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-105",
+    "sents": [
+        [
+            "My",
+            "Dad",
+            "is",
+            "horrendous",
+            "with",
+            "pronunciations",
+            ",",
+            "he",
+            "gets",
+            "really",
+            "confused",
+            "between",
+            "the",
+            "UCs",
+            "and",
+            "USC",
+            ",",
+            "is",
+            "always",
+            "confused",
+            "about",
+            "which",
+            "one",
+            "is",
+            "public",
+            "and",
+            "which",
+            "one",
+            "is",
+            "private",
+            "."
+        ],
+        [
+            "He",
+            "gets",
+            "particularly",
+            "confused",
+            "between",
+            "UCSC",
+            "and",
+            "USC",
+            "and",
+            "now",
+            "calls",
+            "all",
+            "the",
+            "UCs",
+            "\"",
+            "USC",
+            "X",
+            "\"",
+            "eg.",
+            "USC",
+            "Berkeley",
+            ",",
+            "USC",
+            "Davis",
+            ",",
+            "etc.",
+            "The",
+            "only",
+            "schools",
+            "he",
+            "consistently",
+            "knows",
+            "how",
+            "to",
+            "pronounce",
+            "are",
+            "the",
+            "ones",
+            "that",
+            "have",
+            "a",
+            "major",
+            "city",
+            "in",
+            "their",
+            "name",
+            "+",
+            "college",
+            "/",
+            "university",
+            "(",
+            "eg.",
+            "Boston",
+            "University",
+            ",",
+            "NYU",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "even",
+            "know",
+            "what",
+            "came",
+            "out",
+            "of",
+            "his",
+            "mouth",
+            "when",
+            "he",
+            "saw",
+            "Ursinus",
+            "College",
+            "on",
+            "Naviance",
+            "."
+        ],
+        [
+            "What",
+            "'s",
+            "the",
+            "weirdest",
+            "pronunciation",
+            "you",
+            "have",
+            "heard",
+            "of",
+            "a",
+            "school",
+            "and",
+            "the",
+            "story",
+            "behind",
+            "it",
+            "?"
+        ]
+    ]
+}

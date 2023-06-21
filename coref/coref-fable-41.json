@@ -1,0 +1,429 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a Cat",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the ashes",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the ashes",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Your claws",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her paws",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Cat",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Your",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Puss",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A MONKEY",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the cunning Monkey",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "mine",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the Monkey",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "some chestnuts",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the chestnuts",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-41",
+    "sents": [
+        [
+            "A",
+            "MONKEY",
+            "and",
+            "a",
+            "Cat",
+            "lived",
+            "in",
+            "the",
+            "same",
+            "family",
+            ",",
+            "and",
+            "it",
+            "was",
+            "hard",
+            "to",
+            "tell",
+            "which",
+            "was",
+            "the",
+            "greater",
+            "thief",
+            "."
+        ],
+        [
+            "One",
+            "day",
+            ",",
+            "as",
+            "they",
+            "were",
+            "roaming",
+            "together",
+            ",",
+            "they",
+            "spied",
+            "some",
+            "chestnuts",
+            "roasting",
+            "in",
+            "the",
+            "ashes",
+            "of",
+            "a",
+            "fire",
+            "."
+        ],
+        [
+            "\u201c",
+            "Come",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "cunning",
+            "Monkey",
+            ",",
+            "\u201c",
+            "we",
+            "shall",
+            "not",
+            "go",
+            "dinnerless",
+            "to",
+            "-",
+            "day",
+            "."
+        ],
+        [
+            "Your",
+            "claws",
+            "are",
+            "better",
+            "than",
+            "mine",
+            "for",
+            "the",
+            "purpose",
+            ";",
+            "pull",
+            "the",
+            "chestnuts",
+            "out",
+            "of",
+            "the",
+            "ashes",
+            "and",
+            "you",
+            "shall",
+            "have",
+            "half",
+            ".",
+            "\u201d"
+        ],
+        [
+            "Puss",
+            "pulled",
+            "them",
+            "out",
+            ",",
+            "burning",
+            "her",
+            "paws",
+            "very",
+            "much",
+            "in",
+            "doing",
+            "so",
+            "."
+        ],
+        [
+            "When",
+            "she",
+            "had",
+            "stolen",
+            "every",
+            "one",
+            ",",
+            "she",
+            "turned",
+            "to",
+            "the",
+            "Monkey",
+            "for",
+            "her",
+            "share",
+            "of",
+            "the",
+            "booty",
+            ";",
+            "but",
+            ",",
+            "to",
+            "her",
+            "chagrin",
+            ",",
+            "she",
+            "could",
+            "find",
+            "no",
+            "chestnuts",
+            ",",
+            "for",
+            "he",
+            "had",
+            "eaten",
+            "them",
+            "all",
+            "."
+        ]
+    ]
+}

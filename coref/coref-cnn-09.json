@@ -1,0 +1,488 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "24 bodies",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Twelve children",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "43 people",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Nine people",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "unaccounted people",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a boat",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the boat",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Black Sea",
+                "pos": [
+                    22,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Lutfi Elvan",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Elvan",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Anadolu",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Anadolu",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Anadolu",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Anadolu",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "More than 20 people",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "24 bodies",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the dead",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Seven survivors",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "survivors",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Bosphorus",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "The Bosphorus",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Istanbul",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the city of Istanbul",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Turkey",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Turkey",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Black Sea",
+                "pos": [
+                    27,
+                    30
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-09",
+    "sents": [
+        [
+            "More",
+            "than",
+            "20",
+            "people",
+            "died",
+            "after",
+            "a",
+            "boat",
+            "carrying",
+            "migrants",
+            "sank",
+            "near",
+            "Istanbul",
+            "on",
+            "Monday",
+            ",",
+            "Turkish",
+            "officials",
+            "said",
+            "."
+        ],
+        [
+            "Seven",
+            "survivors",
+            "and",
+            "24",
+            "bodies",
+            "were",
+            "pulled",
+            "from",
+            "the",
+            "water",
+            ",",
+            "the",
+            "semiofficial",
+            "Anadolu",
+            "news",
+            "agency",
+            "reported",
+            "."
+        ],
+        [
+            "Twelve",
+            "children",
+            "were",
+            "among",
+            "43",
+            "people",
+            "on",
+            "board",
+            "the",
+            "boat",
+            ",",
+            "which",
+            "sank",
+            "in",
+            "the",
+            "far",
+            "north",
+            "of",
+            "the",
+            "Bosphorus",
+            ",",
+            "near",
+            "the",
+            "Black",
+            "Sea",
+            ",",
+            "Anadolu",
+            "reported",
+            "."
+        ],
+        [
+            "Nine",
+            "people",
+            "were",
+            "carrying",
+            "Afghan",
+            "passports",
+            ",",
+            "Anadolu",
+            "quoted",
+            "Turkey",
+            "'s",
+            "Transport",
+            "Minister",
+            "Lutfi",
+            "Elvan",
+            "as",
+            "saying",
+            "."
+        ],
+        [
+            "\"",
+            "Search",
+            "and",
+            "rescue",
+            "operations",
+            "are",
+            "underway",
+            "to",
+            "find",
+            "unaccounted",
+            "people",
+            ",",
+            "\"",
+            "Elvan",
+            "said",
+            "."
+        ],
+        [
+            "Report",
+            ":",
+            "40,000",
+            "migrant",
+            "deaths",
+            "worldwide",
+            "since",
+            "2000",
+            "A",
+            "local",
+            "fisherman",
+            "told",
+            "Anadolu",
+            "the",
+            "dead",
+            "and",
+            "survivors",
+            "had",
+            "been",
+            "wearing",
+            "life",
+            "jackets",
+            "."
+        ],
+        [
+            "The",
+            "Bosphorus",
+            "is",
+            "a",
+            "strait",
+            "that",
+            "runs",
+            "through",
+            "the",
+            "city",
+            "of",
+            "Istanbul",
+            ",",
+            "dividing",
+            "Turkey",
+            "'s",
+            "Asian",
+            "and",
+            "European",
+            "shores",
+            "and",
+            "linking",
+            "the",
+            "Sea",
+            "of",
+            "Marmara",
+            "to",
+            "the",
+            "Black",
+            "Sea",
+            "."
+        ],
+        [
+            "Opinion",
+            ":",
+            "Why",
+            "Europe",
+            "must",
+            "offer",
+            "migrants",
+            "a",
+            "lifeline",
+            ",",
+            "not",
+            "end",
+            "rescue",
+            "operations"
+        ]
+    ]
+}

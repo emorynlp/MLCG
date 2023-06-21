@@ -1,0 +1,227 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Its",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the figure",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the figure",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-wizard-18",
+    "sents": [
+        [
+            "Dorothy",
+            "leaned",
+            "her",
+            "chin",
+            "upon",
+            "her",
+            "hand",
+            "and",
+            "gazed",
+            "thoughtfully",
+            "at",
+            "the",
+            "Scarecrow",
+            "."
+        ],
+        [
+            "Its",
+            "head",
+            "was",
+            "a",
+            "small",
+            "sack",
+            "stuffed",
+            "with",
+            "straw",
+            ",",
+            "with",
+            "eyes",
+            ",",
+            "nose",
+            ",",
+            "and",
+            "mouth",
+            "painted",
+            "on",
+            "it",
+            "to",
+            "represent",
+            "a",
+            "face",
+            "."
+        ],
+        [
+            "An",
+            "old",
+            ",",
+            "pointed",
+            "blue",
+            "hat",
+            ",",
+            "that",
+            "had",
+            "belonged",
+            "to",
+            "some",
+            "Munchkin",
+            ",",
+            "was",
+            "perched",
+            "on",
+            "his",
+            "head",
+            ",",
+            "and",
+            "the",
+            "rest",
+            "of",
+            "the",
+            "figure",
+            "was",
+            "a",
+            "blue",
+            "suit",
+            "of",
+            "clothes",
+            ",",
+            "worn",
+            "and",
+            "faded",
+            ",",
+            "which",
+            "had",
+            "also",
+            "been",
+            "stuffed",
+            "with",
+            "straw",
+            "."
+        ],
+        [
+            "On",
+            "the",
+            "feet",
+            "were",
+            "some",
+            "old",
+            "boots",
+            "with",
+            "blue",
+            "tops",
+            ",",
+            "such",
+            "as",
+            "every",
+            "man",
+            "wore",
+            "in",
+            "this",
+            "country",
+            ",",
+            "and",
+            "the",
+            "figure",
+            "was",
+            "raised",
+            "above",
+            "the",
+            "stalks",
+            "of",
+            "corn",
+            "by",
+            "means",
+            "of",
+            "the",
+            "pole",
+            "stuck",
+            "up",
+            "its",
+            "back",
+            "."
+        ]
+    ]
+}

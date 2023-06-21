@@ -1,0 +1,458 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "is back",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "go",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feels",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sucks",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am generally a really productive person",
+                "pos": [
+                    12,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-074",
+    "sents": [
+        [
+            "My",
+            "university",
+            "is",
+            "back",
+            "in",
+            "person",
+            "this",
+            "year",
+            "and",
+            "it",
+            "just",
+            "does",
+            "n't",
+            "feel",
+            "the",
+            "same",
+            "at",
+            "all",
+            "compared",
+            "to",
+            "pre-covid",
+            "."
+        ],
+        [
+            "I",
+            "can",
+            "not",
+            "take",
+            "it",
+            "seriously",
+            "at",
+            "all",
+            "anymore",
+            "."
+        ],
+        [
+            "I",
+            "barely",
+            "go",
+            "to",
+            "my",
+            "classes",
+            ",",
+            "not",
+            "as",
+            "productive",
+            "as",
+            "I",
+            "used",
+            "to",
+            "be",
+            ",",
+            "do",
+            "n't",
+            "really",
+            "feel",
+            "worried",
+            "for",
+            "midterms",
+            "even",
+            "though",
+            "I",
+            "should",
+            "be",
+            "."
+        ],
+        [
+            "It",
+            "just",
+            "all",
+            "feels",
+            "kinda",
+            "fake",
+            ",",
+            "like",
+            "a",
+            "summer",
+            "camp",
+            "or",
+            "something",
+            "."
+        ],
+        [
+            "Anyone",
+            "else",
+            "feel",
+            "this",
+            "way",
+            "?"
+        ],
+        [
+            "Not",
+            "sure",
+            "exactly",
+            "what",
+            "'s",
+            "causing",
+            "this",
+            "but",
+            "it",
+            "sucks",
+            "because",
+            "I",
+            "am",
+            "generally",
+            "a",
+            "really",
+            "productive",
+            "person",
+            "but",
+            "I",
+            "just",
+            "feel",
+            "do",
+            "not",
+            "feel",
+            "compelled",
+            "at",
+            "all",
+            "to",
+            "care",
+            "about",
+            "any",
+            "of",
+            "this",
+            "."
+        ],
+        [
+            "Feels",
+            "totally",
+            "fake"
+        ]
+    ]
+}

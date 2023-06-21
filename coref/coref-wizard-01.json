@@ -1,0 +1,324 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "plowed land",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the grass",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The sun",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the sun",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the sun",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the paint",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a house",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the house",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the house",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "gray",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "gray",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the same gray color",
+                "pos": [
+                    21,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "gray",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-wizard-01",
+    "sents": [
+        [
+            "When",
+            "Dorothy",
+            "stood",
+            "in",
+            "the",
+            "doorway",
+            "and",
+            "looked",
+            "around",
+            ",",
+            "she",
+            "could",
+            "see",
+            "nothing",
+            "but",
+            "the",
+            "great",
+            "gray",
+            "prairie",
+            "on",
+            "every",
+            "side",
+            "."
+        ],
+        [
+            "Not",
+            "a",
+            "tree",
+            "nor",
+            "a",
+            "house",
+            "broke",
+            "the",
+            "broad",
+            "sweep",
+            "of",
+            "flat",
+            "country",
+            "that",
+            "reached",
+            "to",
+            "the",
+            "edge",
+            "of",
+            "the",
+            "sky",
+            "in",
+            "all",
+            "directions",
+            "."
+        ],
+        [
+            "The",
+            "sun",
+            "had",
+            "baked",
+            "the",
+            "plowed",
+            "land",
+            "into",
+            "a",
+            "gray",
+            "mass",
+            ",",
+            "with",
+            "little",
+            "cracks",
+            "running",
+            "through",
+            "it",
+            "."
+        ],
+        [
+            "Even",
+            "the",
+            "grass",
+            "was",
+            "not",
+            "green",
+            ",",
+            "for",
+            "the",
+            "sun",
+            "had",
+            "burned",
+            "the",
+            "tops",
+            "of",
+            "the",
+            "long",
+            "blades",
+            "until",
+            "they",
+            "were",
+            "the",
+            "same",
+            "gray",
+            "color",
+            "to",
+            "be",
+            "seen",
+            "everywhere",
+            "."
+        ],
+        [
+            "Once",
+            "the",
+            "house",
+            "had",
+            "been",
+            "painted",
+            ",",
+            "but",
+            "the",
+            "sun",
+            "blistered",
+            "the",
+            "paint",
+            "and",
+            "the",
+            "rains",
+            "washed",
+            "it",
+            "away",
+            ",",
+            "and",
+            "now",
+            "the",
+            "house",
+            "was",
+            "as",
+            "dull",
+            "and",
+            "gray",
+            "as",
+            "everything",
+            "else",
+            "."
+        ]
+    ]
+}

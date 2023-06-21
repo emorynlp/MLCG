@@ -1,0 +1,529 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the professor",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "her father",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this class",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the class",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a students",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "undergraduates",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "event"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 8,
+                "type": "event"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-009",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "a",
+            "TA",
+            "and",
+            "I",
+            "started",
+            "to",
+            "notice",
+            "a",
+            "downward",
+            "trend",
+            "in",
+            "a",
+            "students",
+            "performance",
+            "and",
+            "decided",
+            "to",
+            "reach",
+            "out",
+            "to",
+            "them",
+            "."
+        ],
+        [
+            "Turns",
+            "out",
+            "her",
+            "father",
+            "was",
+            "dying",
+            ",",
+            "but",
+            "because",
+            "he",
+            "had",
+            "been",
+            "sick",
+            "for",
+            "so",
+            "long",
+            "she",
+            "did",
+            "n\u2019t",
+            "feel",
+            "like",
+            "she",
+            "could",
+            "ask",
+            "for",
+            "help",
+            "."
+        ],
+        [
+            "I",
+            "immediately",
+            "spoke",
+            "with",
+            "the",
+            "professor",
+            "of",
+            "this",
+            "class",
+            "and",
+            "we",
+            "worked",
+            "together",
+            "to",
+            "extend",
+            "deadlines",
+            "and",
+            "make",
+            "the",
+            "class",
+            "more",
+            "manageable",
+            "for",
+            "them",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "grad",
+            "school",
+            "is",
+            "a",
+            "busy",
+            "time",
+            "but",
+            "do",
+            "n\u2019t",
+            "forget",
+            "that",
+            "undergraduates",
+            "have",
+            "difficult",
+            "times",
+            "too",
+            "."
+        ],
+        [
+            "Just",
+            "like",
+            "we",
+            "are",
+            "sometimes",
+            "afraid",
+            "to",
+            "talk",
+            "to",
+            "our",
+            "advisors",
+            "they",
+            "are",
+            "afraid",
+            "to",
+            "talk",
+            "to",
+            "us",
+            "Wow",
+            "guys",
+            ",",
+            "thanks",
+            "for",
+            "the",
+            "upvotes",
+            "and",
+            "awards",
+            "."
+        ],
+        [
+            "To",
+            "those",
+            "of",
+            "you",
+            "have",
+            "shared",
+            "your",
+            "stories",
+            ",",
+            "thank",
+            "you",
+            "."
+        ],
+        [
+            "Also",
+            ",",
+            "I",
+            "am",
+            "deeply",
+            "sorry",
+            "for",
+            "any",
+            "of",
+            "you",
+            "that",
+            "had",
+            "a",
+            "terrible",
+            "experience",
+            "with",
+            "your",
+            "TA",
+            "or",
+            "professor",
+            "."
+        ],
+        [
+            "No",
+            "one",
+            "should",
+            "ever",
+            "have",
+            "to",
+            "deal",
+            "with",
+            "that",
+            "and",
+            "yet",
+            "it",
+            "seems",
+            "to",
+            "have",
+            "been",
+            "normalized",
+            "."
+        ],
+        [
+            "I",
+            "hope",
+            "that",
+            "this",
+            "will",
+            "change"
+        ]
+    ]
+}

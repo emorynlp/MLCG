@@ -1,0 +1,244 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m now questioning",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "working",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "become",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Edit",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "DCT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-081",
+    "sents": [
+        [
+            "Do",
+            "n\u2019t",
+            "be",
+            "dumb",
+            "like",
+            "me",
+            "and",
+            "save",
+            "and",
+            "invest",
+            "as",
+            "much",
+            "as",
+            "you",
+            "can",
+            "during",
+            "college",
+            "so",
+            "that",
+            "you",
+            "can",
+            "get",
+            "an",
+            "early",
+            "start",
+            "on",
+            "your",
+            "wealth",
+            ".."
+        ],
+        [
+            "it",
+            "wo",
+            "n\u2019t",
+            "work",
+            "and",
+            "you",
+            "will",
+            "have",
+            "regrets",
+            ".."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "now",
+            "questioning",
+            "what",
+            "\u2019s",
+            "the",
+            "point",
+            "of",
+            "me",
+            "working",
+            "3",
+            "jobs",
+            "in",
+            "order",
+            "to",
+            "comfortably",
+            "pay",
+            "my",
+            "student",
+            "bill",
+            "because",
+            "now",
+            "my",
+            "student",
+            "bill",
+            "is",
+            "going",
+            "to",
+            "become",
+            "an",
+            "even",
+            "more",
+            "uncomfortable",
+            "cost\u2026",
+            "Edit",
+            ":",
+            "I",
+            "should",
+            "mention",
+            "that",
+            "this",
+            "advice",
+            "/",
+            "rant",
+            "really",
+            "only",
+            "applies",
+            "if",
+            "you",
+            "get",
+            "need",
+            "-",
+            "based",
+            "aid",
+            "for",
+            "college",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "already",
+            "do",
+            "n\u2019t",
+            "qualify",
+            "for",
+            "need",
+            "-",
+            "based",
+            "aid",
+            "(",
+            "such",
+            "as",
+            "the",
+            "Pell",
+            "Grant",
+            ")",
+            "then",
+            "your",
+            "savings",
+            "and",
+            "assets",
+            "should",
+            "n\u2019t",
+            "change",
+            "anything",
+            "."
+        ]
+    ]
+}

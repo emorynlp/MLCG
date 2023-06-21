@@ -1,0 +1,545 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "moved into",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "graduated",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dropped me off",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cry",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are still together",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "live",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "runs",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "runs",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am at",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "flys",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m homesick",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "miss",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-152",
+    "sents": [
+        [
+            "I",
+            "moved",
+            "into",
+            "my",
+            "dorm",
+            "last",
+            "night",
+            "."
+        ],
+        [
+            "I",
+            "graduated",
+            "a",
+            "year",
+            "early",
+            "and",
+            "came",
+            "to",
+            "college",
+            "at",
+            "17",
+            "."
+        ],
+        [
+            "My",
+            "parents",
+            "dropped",
+            "me",
+            "off",
+            ",",
+            "and",
+            "they",
+            "cried",
+            "which",
+            "made",
+            "me",
+            "cry",
+            "too",
+            "."
+        ],
+        [
+            "My",
+            "parents",
+            "are",
+            "still",
+            "together",
+            "but",
+            "they",
+            "live",
+            "separately",
+            "because",
+            "my",
+            "mom",
+            "runs",
+            "the",
+            "family",
+            "restaurant",
+            "in",
+            "NY",
+            "and",
+            "my",
+            "dad",
+            "runs",
+            "a",
+            "yacht",
+            "club",
+            "in",
+            "FL",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "at",
+            "a",
+            "college",
+            "in",
+            "Florida",
+            ",",
+            "an",
+            "hour",
+            "north",
+            "of",
+            "my",
+            "dad",
+            "-",
+            "and",
+            "I",
+            "ca",
+            "n\u2019t",
+            "stop",
+            "crying",
+            "whenever",
+            "I",
+            "think",
+            "about",
+            "them",
+            "."
+        ],
+        [
+            "My",
+            "mom",
+            "flys",
+            "back",
+            "to",
+            "NY",
+            "in",
+            "two",
+            "days",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "homesick",
+            ",",
+            "I",
+            "miss",
+            "my",
+            "parents",
+            ",",
+            "and",
+            "my",
+            "friends",
+            "."
+        ],
+        [
+            "Does",
+            "this",
+            "heartbreak",
+            "end",
+            "after",
+            "a",
+            "few",
+            "days",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Norwegian police had detained a Mexican citizen",
+                "pos": [
+                    9,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "an interruption during the ceremony",
+                "pos": [
+                    17,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-07",
+    "sents": [
+        [
+            "A",
+            "man",
+            "carrying",
+            "a",
+            "Mexican",
+            "flag",
+            "interrupted",
+            "Wednesday",
+            "'s",
+            "Nobel",
+            "Peace",
+            "Prize",
+            "ceremony",
+            ",",
+            "standing",
+            "steps",
+            "away",
+            "from",
+            "Malala",
+            "Yousafzai",
+            "as",
+            "she",
+            "received",
+            "her",
+            "award",
+            "."
+        ],
+        [
+            "Video",
+            "of",
+            "the",
+            "event",
+            "in",
+            "Oslo",
+            ",",
+            "Norway",
+            ",",
+            "shows",
+            "a",
+            "young",
+            "man",
+            "with",
+            "a",
+            "camera",
+            "around",
+            "his",
+            "neck",
+            "holding",
+            "a",
+            "Mexican",
+            "flag",
+            "on",
+            "the",
+            "stage",
+            "just",
+            "a",
+            "few",
+            "feet",
+            "from",
+            "Yousafzai",
+            "."
+        ],
+        [
+            "He",
+            "can",
+            "be",
+            "seen",
+            "turning",
+            "toward",
+            "the",
+            "17",
+            "-",
+            "year",
+            "-",
+            "old",
+            "Nobel",
+            "Laureate",
+            "and",
+            "heard",
+            "shouting",
+            "\"",
+            "Please",
+            "Malala",
+            "\"",
+            "and",
+            "mentioning",
+            "Mexico",
+            "."
+        ],
+        [
+            "Oslo",
+            "police",
+            "said",
+            "the",
+            "Mexican",
+            "citizen",
+            "was",
+            "not",
+            "a",
+            "guest",
+            "at",
+            "the",
+            "ceremony",
+            "and",
+            "had",
+            "managed",
+            "to",
+            "go",
+            "through",
+            "security",
+            "checkpoints",
+            "."
+        ],
+        [
+            "He",
+            "was",
+            "not",
+            "carrying",
+            "a",
+            "weapon",
+            ",",
+            "the",
+            "police",
+            "spokesman",
+            "said",
+            "."
+        ],
+        [
+            "Mexico",
+            "'s",
+            "Foreign",
+            "Ministry",
+            "confirmed",
+            "in",
+            "a",
+            "statement",
+            "that",
+            "Norwegian",
+            "police",
+            "had",
+            "detained",
+            "a",
+            "Mexican",
+            "citizen",
+            "after",
+            "an",
+            "interruption",
+            "during",
+            "the",
+            "ceremony",
+            "."
+        ],
+        [
+            "He",
+            "remains",
+            "in",
+            "custody",
+            ",",
+            "the",
+            "foreign",
+            "ministry",
+            "said",
+            "."
+        ]
+    ]
+}

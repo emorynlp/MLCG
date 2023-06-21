@@ -1,0 +1,499 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A WIDOW who had great reputation as a housekeeper",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "she was so fond of cleaning",
+                "pos": [
+                    11,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "She herself was wakened before dawn",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the crowing of the cock",
+                "pos": [
+                    7,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "who were kept weary",
+                "pos": [
+                    13,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "such constant labor",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "held a spite against the poor cock",
+                "pos": [
+                    22,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "rousing their mistress so early",
+                "pos": [
+                    30,
+                    35
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it were not for him",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the mistress would sleep till the sun is well up",
+                "pos": [
+                    13,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Let us kill the cock",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "since",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "there is no other way to stop his loud crowing",
+                "pos": [
+                    7,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the mistress , no longer hearing the cock , was unable to tell the time",
+                "pos": [
+                    1,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "often woke her Maids in the middle of the night and set them to work",
+                "pos": [
+                    19,
+                    34
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 14,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 18,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 20,
+            "t": 19,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-37",
+    "sents": [
+        [
+            "A",
+            "WIDOW",
+            "who",
+            "had",
+            "great",
+            "reputation",
+            "as",
+            "a",
+            "housekeeper",
+            ",",
+            "because",
+            "she",
+            "was",
+            "so",
+            "fond",
+            "of",
+            "cleaning",
+            ",",
+            "was",
+            "waited",
+            "upon",
+            "by",
+            "two",
+            "little",
+            "Maids",
+            "."
+        ],
+        [
+            "She",
+            "herself",
+            "was",
+            "wakened",
+            "before",
+            "dawn",
+            "by",
+            "the",
+            "crowing",
+            "of",
+            "the",
+            "cock",
+            ",",
+            "and",
+            "would",
+            "rise",
+            "at",
+            "once",
+            "and",
+            "call",
+            "her",
+            "Maids",
+            "."
+        ],
+        [
+            "The",
+            "Maids",
+            ",",
+            "who",
+            "had",
+            "no",
+            "taste",
+            "for",
+            "such",
+            "excessive",
+            "tidiness",
+            ",",
+            "and",
+            "who",
+            "were",
+            "kept",
+            "weary",
+            "by",
+            "such",
+            "constant",
+            "labor",
+            ",",
+            "held",
+            "a",
+            "spite",
+            "against",
+            "the",
+            "poor",
+            "cock",
+            "for",
+            "rousing",
+            "their",
+            "mistress",
+            "so",
+            "early",
+            "."
+        ],
+        [
+            "\u201c",
+            "If",
+            "it",
+            "were",
+            "not",
+            "for",
+            "him",
+            ",",
+            "\u201d",
+            "they",
+            "said",
+            ",",
+            "\u201c",
+            "the",
+            "mistress",
+            "would",
+            "sleep",
+            "till",
+            "the",
+            "sun",
+            "is",
+            "well",
+            "up",
+            "."
+        ],
+        [
+            "Let",
+            "us",
+            "kill",
+            "the",
+            "cock",
+            ",",
+            "since",
+            "there",
+            "is",
+            "no",
+            "other",
+            "way",
+            "to",
+            "stop",
+            "his",
+            "loud",
+            "crowing",
+            ".",
+            "\u201d"
+        ],
+        [
+            "But",
+            "the",
+            "mistress",
+            ",",
+            "no",
+            "longer",
+            "hearing",
+            "the",
+            "cock",
+            ",",
+            "was",
+            "unable",
+            "to",
+            "tell",
+            "the",
+            "time",
+            ",",
+            "and",
+            "so",
+            "often",
+            "woke",
+            "her",
+            "Maids",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "night",
+            "and",
+            "set",
+            "them",
+            "to",
+            "work",
+            "."
+        ]
+    ]
+}

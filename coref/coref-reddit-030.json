@@ -1,0 +1,305 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a bio lab report",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the assignment",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "My TA",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my TA",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-030",
+    "sents": [
+        [
+            "Apparently",
+            "I",
+            "\u201c",
+            "plagiarized",
+            "\u201d",
+            "about",
+            "65%",
+            "of",
+            "a",
+            "bio",
+            "lab",
+            "report",
+            "that",
+            "I",
+            "definitely",
+            "wrote",
+            "all",
+            "by",
+            "myself",
+            "."
+        ],
+        [
+            "My",
+            "TA",
+            "gave",
+            "me",
+            "a",
+            "0",
+            "but",
+            "did",
+            "give",
+            "me",
+            "the",
+            "option",
+            "of",
+            "redoing",
+            "the",
+            "assignment",
+            "in",
+            "24",
+            "hours",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "apparently",
+            "at",
+            "risk",
+            "of",
+            "getting",
+            "reported",
+            "to",
+            "the",
+            "university",
+            "."
+        ],
+        [
+            "My",
+            "grade",
+            "dropped",
+            "a",
+            "horrific",
+            "amount",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "pretty",
+            "much",
+            "being",
+            "called",
+            "a",
+            "liar",
+            "and",
+            "a",
+            "cheat",
+            "."
+        ],
+        [
+            "Happened",
+            "to",
+            "anyone",
+            "else",
+            "?"
+        ],
+        [
+            "I",
+            "literally",
+            "cried",
+            "when",
+            "my",
+            "TA",
+            "told",
+            "me",
+            "."
+        ],
+        [
+            "This",
+            "is",
+            "my",
+            "3rd",
+            "year",
+            "at",
+            "college",
+            "and",
+            "nothing",
+            "like",
+            "this",
+            "has",
+            "ever",
+            "happened",
+            "to",
+            "me",
+            "."
+        ]
+    ]
+}

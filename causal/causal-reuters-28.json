@@ -1,0 +1,228 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The first postponement",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "caused by",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "fuel leak",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the second",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "high - speed crosswinds",
+                "pos": [
+                    12,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-28",
+    "sents": [
+        [
+            "An",
+            "unmanned",
+            "Delta",
+            "rocket",
+            "carrying",
+            "a",
+            "57",
+            "mln",
+            "dlr",
+            "hurricane",
+            "-",
+            "tracking",
+            "satellite",
+            "blasted",
+            "off",
+            "here",
+            "today",
+            "in",
+            "NASA",
+            "'s",
+            "first",
+            "successful",
+            "launch",
+            "of",
+            "the",
+            "year",
+            "."
+        ],
+        [
+            "The",
+            "116",
+            "-",
+            "foot",
+            "(",
+            "35.4",
+            "-",
+            "meter",
+            ")",
+            "Delta",
+            "--",
+            "a",
+            "reliable",
+            "workhorse",
+            "of",
+            "the",
+            "U.S.",
+            "rocket",
+            "fleet",
+            "--",
+            "lifted",
+            "off",
+            "at",
+            "1805",
+            "EST",
+            "from",
+            "Cape",
+            "Canaveral",
+            "Air",
+            "Force",
+            "Station",
+            "in",
+            "a",
+            "crucial",
+            "test",
+            "of",
+            "the",
+            "space",
+            "agency",
+            "'s",
+            "ability",
+            "to",
+            "recover",
+            "from",
+            "the",
+            "Challenger",
+            "disaster",
+            "and",
+            "a",
+            "string",
+            "of",
+            "other",
+            "failures",
+            "."
+        ],
+        [
+            "The",
+            "launch",
+            "came",
+            "after",
+            "two",
+            "delays",
+            "in",
+            "two",
+            "days",
+            "."
+        ],
+        [
+            "The",
+            "first",
+            "postponement",
+            "was",
+            "caused",
+            "by",
+            "fuel",
+            "leak",
+            "and",
+            "the",
+            "second",
+            "by",
+            "high",
+            "-",
+            "speed",
+            "crosswinds",
+            "that",
+            "NASA",
+            "officials",
+            "say",
+            "could",
+            "have",
+            "torn",
+            "the",
+            "rocket",
+            "apart",
+            "during",
+            "fiery",
+            "ascent",
+            "."
+        ]
+    ]
+}

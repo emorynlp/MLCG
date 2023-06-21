@@ -1,0 +1,409 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "cinematic studies",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my classes",
+                "pos": [
+                    28,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my classes",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "failed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a trade",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "this option",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "route",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-104",
+    "sents": [
+        [
+            "I",
+            "went",
+            "to",
+            "university",
+            "studying",
+            "aerospace",
+            "engineering",
+            ",",
+            "and",
+            "I",
+            "took",
+            "advantage",
+            "of",
+            "all",
+            "of",
+            "the",
+            "resources",
+            "available",
+            "to",
+            "me",
+            "and",
+            "studied",
+            "for",
+            "countless",
+            "hours",
+            "only",
+            "to",
+            "fail",
+            "my",
+            "classes",
+            "anyways",
+            "."
+        ],
+        [
+            "I",
+            "then",
+            "switched",
+            "majors",
+            "to",
+            "cinematic",
+            "studies",
+            "and",
+            "only",
+            "found",
+            "that",
+            "slightly",
+            "easier",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "failed",
+            "2-3",
+            "of",
+            "my",
+            "classes",
+            "and",
+            "realized",
+            "that",
+            "it",
+            "was",
+            "going",
+            "to",
+            "be",
+            "an",
+            "uphill",
+            "battle",
+            "and",
+            "that",
+            "I",
+            "might",
+            "fail",
+            "out",
+            "of",
+            "school",
+            "anyways",
+            "."
+        ],
+        [
+            "Then",
+            "I",
+            "went",
+            "to",
+            "learn",
+            "a",
+            "trade",
+            "(",
+            "electrician",
+            ")",
+            "because",
+            "I",
+            "hear",
+            "people",
+            "suggest",
+            "this",
+            "option",
+            "for",
+            "those",
+            "who",
+            "are",
+            "unable",
+            "to",
+            "complete",
+            "college",
+            ",",
+            "but",
+            "found",
+            "that",
+            "it",
+            "was",
+            "n\u2019t",
+            "simple",
+            "either",
+            "and",
+            "ended",
+            "up",
+            "failing",
+            "multiple",
+            "times",
+            "with",
+            "that",
+            "route",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "25",
+            "and",
+            "I",
+            "need",
+            "to",
+            "figure",
+            "out",
+            "something",
+            "to",
+            "do",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "live",
+            "a",
+            "destitute",
+            "life",
+            ",",
+            "but",
+            "I",
+            "\u2019m",
+            "realizing",
+            "that",
+            "I",
+            "\u2019m",
+            "not",
+            "very",
+            "intelligent",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,338 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feeding",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "capered",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "falling",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was from",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-13",
+    "sents": [
+        [
+            "A",
+            "WOLF",
+            "saw",
+            "a",
+            "Goat",
+            "feeding",
+            "at",
+            "the",
+            "top",
+            "of",
+            "a",
+            "steep",
+            "precipice",
+            ",",
+            "where",
+            "he",
+            "could",
+            "not",
+            "reach",
+            "her",
+            "."
+        ],
+        [
+            "\u201c",
+            "My",
+            "dear",
+            "friend",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Wolf",
+            ",",
+            "\u201c",
+            "be",
+            "careful",
+            "!"
+        ],
+        [
+            "I",
+            "am",
+            "afraid",
+            "you",
+            "will",
+            "fall",
+            "and",
+            "break",
+            "your",
+            "neck",
+            "."
+        ],
+        [
+            "Do",
+            "come",
+            "down",
+            "to",
+            "the",
+            "meadow",
+            ",",
+            "where",
+            "the",
+            "grass",
+            "is",
+            "fresh",
+            "and",
+            "green",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Are",
+            "you",
+            "very",
+            "hungry",
+            "?",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Goat",
+            "."
+        ],
+        [
+            "\u201c",
+            "And",
+            "is",
+            "it",
+            "your",
+            "dinner",
+            "time",
+            "?"
+        ],
+        [
+            "And",
+            "would",
+            "you",
+            "like",
+            "to",
+            "eat",
+            "me",
+            "?"
+        ],
+        [
+            "I",
+            "think",
+            "I",
+            "will",
+            "not",
+            "go",
+            "down",
+            "to",
+            "the",
+            "meadow",
+            "to",
+            "-",
+            "day",
+            ",",
+            "thank",
+            "you",
+            ".",
+            "\u201d"
+        ],
+        [
+            "And",
+            "she",
+            "capered",
+            "contentedly",
+            "about",
+            "on",
+            "the",
+            "edge",
+            "of",
+            "the",
+            "rock",
+            ",",
+            "as",
+            "safe",
+            "from",
+            "falling",
+            "as",
+            "she",
+            "was",
+            "from",
+            "the",
+            "greedy",
+            "Wolf",
+            "with",
+            "his",
+            "false",
+            "care",
+            "for",
+            "her",
+            "."
+        ]
+    ]
+}

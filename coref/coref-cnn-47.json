@@ -1,0 +1,313 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Zambia 's incumbent president",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Rupiah Banda",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his main challenger",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Michael Sata",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Sata",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "election",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the presidential election",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the presidential race",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Zambia",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Zambia",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the nation",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "Zambia",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-47",
+    "sents": [
+        [
+            "Zambia",
+            "'s",
+            "incumbent",
+            "president",
+            "bowed",
+            "out",
+            "with",
+            "\"",
+            "grace",
+            "and",
+            "honor",
+            "\"",
+            "Friday",
+            "after",
+            "election",
+            "results",
+            "showed",
+            "his",
+            "main",
+            "challenger",
+            "had",
+            "won",
+            ",",
+            "his",
+            "party",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "people",
+            "of",
+            "Zambia",
+            "have",
+            "spoken",
+            "and",
+            "we",
+            "must",
+            "listen",
+            ",",
+            "\"",
+            "outgoing",
+            "President",
+            "Rupiah",
+            "Banda",
+            "said",
+            "on",
+            "the",
+            "website",
+            "of",
+            "his",
+            "Movement",
+            "for",
+            "Multiparty",
+            "Democracy",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "time",
+            "now",
+            "is",
+            "for",
+            "maturity",
+            ",",
+            "for",
+            "composure",
+            "and",
+            "for",
+            "compassion",
+            ".",
+            "\""
+        ],
+        [
+            "Zambians",
+            "voted",
+            "Tuesday",
+            "in",
+            "the",
+            "presidential",
+            "election",
+            "."
+        ],
+        [
+            "The",
+            "incoming",
+            "president",
+            ",",
+            "Michael",
+            "Sata",
+            ",",
+            "will",
+            "be",
+            "sworn",
+            "in",
+            "Friday",
+            ",",
+            "party",
+            "officials",
+            "said",
+            "."
+        ],
+        [
+            "Sata",
+            "is",
+            "the",
+            "leader",
+            "of",
+            "the",
+            "opposition",
+            "Patriotic",
+            "Front",
+            "and",
+            "a",
+            "major",
+            "critic",
+            "of",
+            "China",
+            "'s",
+            "investment",
+            "in",
+            "the",
+            "nation",
+            "."
+        ],
+        [
+            "Ten",
+            "candidates",
+            "took",
+            "part",
+            "in",
+            "the",
+            "presidential",
+            "race",
+            "."
+        ],
+        [
+            "Zambia",
+            "has",
+            "remained",
+            "relatively",
+            "peaceful",
+            "amid",
+            "unrest",
+            "in",
+            "neighboring",
+            "Zimbabwe",
+            "and",
+            "the",
+            "Democratic",
+            "Republic",
+            "of",
+            "the",
+            "Congo",
+            "."
+        ]
+    ]
+}

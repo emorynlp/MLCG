@@ -1,0 +1,257 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "we",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "We",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "around 500 $",
+                "pos": [
+                    27,
+                    30
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "UNI",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the UNI",
+                "pos": [
+                    31,
+                    33
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this yearly payment",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-018",
+    "sents": [
+        [
+            "I",
+            "mean",
+            ",",
+            "I",
+            "really",
+            "do",
+            "nt",
+            "get",
+            "it",
+            "paying",
+            "12000$+",
+            "a",
+            "year",
+            "while",
+            "earning",
+            "nothing",
+            "."
+        ],
+        [
+            "(",
+            "except",
+            "if",
+            "you",
+            "have",
+            "a",
+            "job",
+            "but",
+            "that",
+            "s",
+            "really",
+            "hard",
+            "alongside",
+            "studying",
+            "imo",
+            ")",
+            "Is",
+            "there",
+            "a",
+            "way",
+            "to",
+            "get",
+            "it",
+            "for",
+            "free",
+            "except",
+            "of",
+            "scholarships",
+            "?"
+        ],
+        [
+            "I",
+            "just",
+            "started",
+            "my",
+            "physics",
+            "bachelor",
+            "here",
+            "in",
+            "germany",
+            ",",
+            "and",
+            "we",
+            "actualle",
+            "GET",
+            "MONEY",
+            "by",
+            "going",
+            "to",
+            "UNI",
+            "."
+        ],
+        [
+            "We",
+            "get",
+            "monthly",
+            "\u201e",
+            "Kindergeld",
+            "\u201c",
+            "which",
+            "is",
+            "like",
+            "money",
+            "parents",
+            "get",
+            "for",
+            "having",
+            "a",
+            "child",
+            ",",
+            "its",
+            "like",
+            "240",
+            "$",
+            "per",
+            "month",
+            ",",
+            "while",
+            "only",
+            "paying",
+            "around",
+            "500",
+            "$",
+            "for",
+            "the",
+            "UNI",
+            "per",
+            "year",
+            "."
+        ],
+        [
+            "And",
+            "this",
+            "yearly",
+            "payment",
+            "also",
+            "uncludes",
+            "full",
+            "Bus",
+            "/",
+            "-",
+            "Train",
+            "tickets",
+            "in",
+            "the",
+            "city",
+            "you",
+            "live",
+            "in",
+            "."
+        ]
+    ]
+}

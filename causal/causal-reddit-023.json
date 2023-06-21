@@ -1,0 +1,326 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "If",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you got into a top school like the ivies / SM",
+                "pos": [
+                    1,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "please , please , please DO NT preach about how \u201c where you go to college does n\u2019t define you",
+                "pos": [
+                    13,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "most kids do this",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "be thoughtful",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019m happy",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "all you have achieved",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-023",
+    "sents": [
+        [
+            "If",
+            "you",
+            "got",
+            "into",
+            "a",
+            "top",
+            "school",
+            "like",
+            "the",
+            "ivies",
+            "/",
+            "SM",
+            "-",
+            "please",
+            ",",
+            "please",
+            ",",
+            "please",
+            "DO",
+            "NT",
+            "preach",
+            "about",
+            "how",
+            "\u201c",
+            "where",
+            "you",
+            "go",
+            "to",
+            "college",
+            "does",
+            "n\u2019t",
+            "define",
+            "you",
+            "\u201d",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "seen",
+            "a",
+            "lot",
+            "of",
+            "kids",
+            "do",
+            "this",
+            "on",
+            "insta",
+            "where",
+            "they",
+            "post",
+            "their",
+            "commitment",
+            "post",
+            "(",
+            "as",
+            "they",
+            "should",
+            ")",
+            "and",
+            "then",
+            "in",
+            "the",
+            "caption",
+            "talk",
+            "about",
+            "how",
+            "random",
+            "and",
+            "arbitrary",
+            "the",
+            "process",
+            "is",
+            "like",
+            "just",
+            "do",
+            "n\u2019t",
+            "do",
+            "that",
+            "please",
+            "."
+        ],
+        [
+            "We",
+            "all",
+            "understand",
+            "how",
+            "chaotic",
+            "this",
+            "process",
+            "is",
+            ",",
+            "but",
+            "it",
+            "does",
+            "n\u2019t",
+            "make",
+            "it",
+            "hurt",
+            "any",
+            "less",
+            "."
+        ],
+        [
+            "And",
+            "I",
+            "realize",
+            "that",
+            "most",
+            "kids",
+            "do",
+            "this",
+            "out",
+            "of",
+            "a",
+            "place",
+            "of",
+            "goodwill",
+            "and",
+            "to",
+            "be",
+            "thoughtful",
+            "but",
+            "it",
+            "just",
+            "ends",
+            "up",
+            "looking",
+            "really",
+            "pretentious",
+            "and",
+            "almost",
+            "hurtful",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "happy",
+            "for",
+            "all",
+            "you",
+            "have",
+            "achieved",
+            "and",
+            "you",
+            "deserve",
+            "to",
+            "be",
+            "able",
+            "to",
+            "post",
+            "that",
+            "commitment",
+            "post",
+            ",",
+            "but",
+            "just",
+            "leave",
+            "it",
+            "there",
+            "."
+        ],
+        [
+            "We",
+            "will",
+            "all",
+            "congratulate",
+            "you",
+            "on",
+            "this",
+            "huge",
+            "commitment",
+            "and",
+            "then",
+            "that",
+            "\u2019ll",
+            "be",
+            "that",
+            "."
+        ]
+    ]
+}

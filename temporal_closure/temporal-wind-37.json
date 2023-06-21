@@ -1,0 +1,390 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "beamed",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hurried",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lit",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lying",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "collapsed",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-37",
+    "sents": [
+        [
+            "Mole",
+            "'s",
+            "face",
+            "-",
+            "beamed",
+            "at",
+            "the",
+            "sight",
+            "of",
+            "all",
+            "these",
+            "objects",
+            "so",
+            "dear",
+            "to",
+            "him",
+            ",",
+            "and",
+            "he",
+            "hurried",
+            "Rat",
+            "through",
+            "the",
+            "door",
+            ",",
+            "lit",
+            "a",
+            "lamp",
+            "in",
+            "the",
+            "hall",
+            ",",
+            "and",
+            "took",
+            "one",
+            "glance",
+            "round",
+            "his",
+            "old",
+            "home",
+            "."
+        ],
+        [
+            "He",
+            "saw",
+            "the",
+            "dust",
+            "lying",
+            "thick",
+            "on",
+            "everything",
+            ",",
+            "saw",
+            "the",
+            "cheerless",
+            ",",
+            "deserted",
+            "look",
+            "of",
+            "the",
+            "long",
+            "-",
+            "neglected",
+            "house",
+            ",",
+            "and",
+            "its",
+            "narrow",
+            ",",
+            "meagre",
+            "dimensions",
+            ",",
+            "its",
+            "worn",
+            "and",
+            "shabby",
+            "contents",
+            "\u2014",
+            "and",
+            "collapsed",
+            "again",
+            "on",
+            "a",
+            "hall",
+            "-",
+            "chair",
+            ",",
+            "his",
+            "nose",
+            "to",
+            "his",
+            "paws",
+            "."
+        ],
+        [
+            "\"",
+            "O",
+            "Ratty",
+            "!",
+            "\"",
+            "he",
+            "cried",
+            "dismally",
+            ",",
+            "\"",
+            "why",
+            "ever",
+            "did",
+            "I",
+            "do",
+            "it",
+            "?",
+            "Why",
+            "did",
+            "I",
+            "bring",
+            "you",
+            "to",
+            "this",
+            "poor",
+            ",",
+            "cold",
+            "little",
+            "place",
+            ",",
+            "on",
+            "a",
+            "night",
+            "like",
+            "this",
+            ",",
+            "when",
+            "you",
+            "might",
+            "have",
+            "been",
+            "at",
+            "River",
+            "Bank",
+            "by",
+            "this",
+            "time",
+            ",",
+            "toasting",
+            "your",
+            "toes",
+            "before",
+            "a",
+            "blazing",
+            "fire",
+            ",",
+            "with",
+            "all",
+            "your",
+            "own",
+            "nice",
+            "things",
+            "about",
+            "you",
+            "!",
+            "\""
+        ]
+    ]
+}

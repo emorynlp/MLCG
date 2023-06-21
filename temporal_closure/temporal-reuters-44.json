@@ -1,0 +1,284 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "delivering",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lost",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hit",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "carrying",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-44",
+    "sents": [
+        [
+            "The",
+            "port",
+            "of",
+            "Philadelphia",
+            "was",
+            "closed",
+            "when",
+            "a",
+            "Cypriot",
+            "oil",
+            "tanker",
+            ",",
+            "Seapride",
+            "II",
+            ",",
+            "ran",
+            "aground",
+            "after",
+            "hitting",
+            "a",
+            "200",
+            "-",
+            "foot",
+            "tower",
+            "supporting",
+            "power",
+            "lines",
+            "across",
+            "the",
+            "river",
+            ",",
+            "a",
+            "Coast",
+            "Guard",
+            "spokesman",
+            "said",
+            "."
+        ],
+        [
+            "He",
+            "said",
+            "there",
+            "was",
+            "no",
+            "oil",
+            "spill",
+            "but",
+            "the",
+            "ship",
+            "is",
+            "lodged",
+            "on",
+            "rocks",
+            "opposite",
+            "the",
+            "Hope",
+            "Creek",
+            "nuclear",
+            "power",
+            "plant",
+            "in",
+            "New",
+            "Jersey",
+            "."
+        ],
+        [
+            "He",
+            "said",
+            "the",
+            "port",
+            "would",
+            "be",
+            "closed",
+            "until",
+            "today",
+            "when",
+            "they",
+            "hoped",
+            "to",
+            "refloat",
+            "the",
+            "ship",
+            "on",
+            "the",
+            "high",
+            "tide",
+            "."
+        ],
+        [
+            "After",
+            "delivering",
+            "oil",
+            "to",
+            "a",
+            "refinery",
+            "in",
+            "Paulsboro",
+            ",",
+            "New",
+            "Jersey",
+            ",",
+            "the",
+            "ship",
+            "apparently",
+            "lost",
+            "its",
+            "steering",
+            "and",
+            "hit",
+            "the",
+            "power",
+            "transmission",
+            "line",
+            "carrying",
+            "power",
+            "from",
+            "the",
+            "nuclear",
+            "plant",
+            "to",
+            "the",
+            "state",
+            "of",
+            "Delaware",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "wish",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were 90 minutes long",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "decided",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was already rough",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "decided",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is only one break",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-059",
+    "sents": [
+        [
+            "I",
+            "wish",
+            "I",
+            "was",
+            "making",
+            "this",
+            "up",
+            "."
+        ],
+        [
+            "First",
+            "our",
+            "classes",
+            "were",
+            "90",
+            "minutes",
+            "long",
+            ",",
+            "and",
+            "that",
+            "was",
+            "probably",
+            "the",
+            "perfect",
+            "lenght",
+            "honestly",
+            "."
+        ],
+        [
+            "Then",
+            "they",
+            "decided",
+            "to",
+            "make",
+            "them",
+            "3",
+            "hours",
+            "long",
+            "."
+        ],
+        [
+            "Okay",
+            ",",
+            "it",
+            "was",
+            "already",
+            "rough",
+            ",",
+            "but",
+            "I",
+            "could",
+            "handle",
+            "it",
+            "."
+        ],
+        [
+            "But",
+            "now",
+            "they",
+            "decided",
+            "that",
+            "our",
+            "economy",
+            "class",
+            "with",
+            "be",
+            "in",
+            "10",
+            "hour",
+            "blocks",
+            "."
+        ],
+        [
+            "10",
+            "HOURS",
+            "!"
+        ],
+        [
+            "Wo",
+            "thought",
+            "that",
+            "s",
+            "a",
+            "good",
+            "idea",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "no",
+            "idea",
+            "how",
+            "I",
+            "am",
+            "supposed",
+            "to",
+            "pay",
+            "attention",
+            "to",
+            "one",
+            "thing",
+            "for",
+            "that",
+            "long",
+            "."
+        ],
+        [
+            "Not",
+            "to",
+            "mention",
+            "there",
+            "is",
+            "only",
+            "one",
+            "break",
+            "during",
+            "those",
+            "10",
+            "hours",
+            "(",
+            "30",
+            "minutes",
+            "in",
+            "the",
+            "afternoon",
+            ")",
+            "."
+        ]
+    ]
+}

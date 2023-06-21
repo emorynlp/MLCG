@@ -1,0 +1,308 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "AS",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "A WAGONER drove his wagon through a miry lane",
+                "pos": [
+                    1,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the wheels stuck fast in the clay",
+                "pos": [
+                    11,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": ", that",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the horses could proceed no further",
+                "pos": [
+                    21,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The Man , without making the least effort to remedy the matter , fell upon his knees and began to call upon Hercules",
+                "pos": [
+                    0,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "_"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "come and help him out of his trouble",
+                "pos": [
+                    24,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you want aid from the gods",
+                "pos": [
+                    3,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you shall have it",
+                "pos": [
+                    10,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect|cause",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-43",
+    "sents": [
+        [
+            "AS",
+            "A",
+            "WAGONER",
+            "drove",
+            "his",
+            "wagon",
+            "through",
+            "a",
+            "miry",
+            "lane",
+            ",",
+            "the",
+            "wheels",
+            "stuck",
+            "fast",
+            "in",
+            "the",
+            "clay",
+            ",",
+            "so",
+            "that",
+            "the",
+            "horses",
+            "could",
+            "proceed",
+            "no",
+            "further",
+            "."
+        ],
+        [
+            "The",
+            "Man",
+            ",",
+            "without",
+            "making",
+            "the",
+            "least",
+            "effort",
+            "to",
+            "remedy",
+            "the",
+            "matter",
+            ",",
+            "fell",
+            "upon",
+            "his",
+            "knees",
+            "and",
+            "began",
+            "to",
+            "call",
+            "upon",
+            "Hercules",
+            "to",
+            "come",
+            "and",
+            "help",
+            "him",
+            "out",
+            "of",
+            "his",
+            "trouble",
+            "."
+        ],
+        [
+            "\u201c",
+            "Lazy",
+            "fellow",
+            ",",
+            "\u201d",
+            "said",
+            "Hercules",
+            ",",
+            "\u201c",
+            "lay",
+            "your",
+            "own",
+            "shoulder",
+            "to",
+            "the",
+            "wheel",
+            "."
+        ],
+        [
+            "Stir",
+            "yourself",
+            "and",
+            "do",
+            "what",
+            "you",
+            "can",
+            "."
+        ],
+        [
+            "Then",
+            ",",
+            "if",
+            "you",
+            "want",
+            "aid",
+            "from",
+            "the",
+            "gods",
+            ",",
+            "you",
+            "shall",
+            "have",
+            "it",
+            "."
+        ],
+        [
+            "Remember",
+            "the",
+            "proverb",
+            ",",
+            "Heaven",
+            "helps",
+            "those",
+            "who",
+            "help",
+            "themselves",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

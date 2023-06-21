@@ -1,0 +1,452 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "give",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "go",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "add up",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m very excited",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "received",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m putting in",
+                "pos": [
+                    25,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saved up",
+                "pos": [
+                    41,
+                    43
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m extremely satisfied",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "put in",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-086",
+    "sents": [
+        [
+            "Hey",
+            "guys",
+            ",",
+            "I",
+            "'m",
+            "gon",
+            "na",
+            "give",
+            "a",
+            "bit",
+            "of",
+            "backstory",
+            "for",
+            "you",
+            "guys",
+            "."
+        ],
+        [
+            "I",
+            "go",
+            "to",
+            "a",
+            "medium",
+            "sized",
+            "school",
+            "in",
+            "the",
+            "midwest",
+            "."
+        ],
+        [
+            "Tuition",
+            "and",
+            "room",
+            "and",
+            "board",
+            "and",
+            "all",
+            "other",
+            "fees",
+            "add",
+            "up",
+            "to",
+            "about",
+            "$",
+            "16,000",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "very",
+            "excited",
+            "though",
+            ",",
+            "because",
+            "I",
+            "have",
+            "received",
+            "around",
+            "$",
+            "12,000",
+            "in",
+            "scholarships",
+            "and",
+            "Grant",
+            "'s",
+            ",",
+            "and",
+            "with",
+            "all",
+            "the",
+            "work",
+            "I",
+            "'m",
+            "putting",
+            "in",
+            "at",
+            "2",
+            "full",
+            "time",
+            "jobs",
+            "I",
+            "'m",
+            "able",
+            "to",
+            "use",
+            "the",
+            "money",
+            "I",
+            "saved",
+            "up",
+            "to",
+            "pay",
+            "the",
+            "whole",
+            "year",
+            "out",
+            "of",
+            "pocket",
+            "and",
+            "avoid",
+            "loans",
+            "!"
+        ],
+        [
+            "I",
+            "'m",
+            "extremely",
+            "satisfied",
+            "with",
+            "all",
+            "the",
+            "work",
+            "and",
+            "dedication",
+            "I",
+            "put",
+            "in",
+            "in",
+            "order",
+            "to",
+            "make",
+            "this",
+            "a",
+            "reality",
+            "!"
+        ]
+    ]
+}

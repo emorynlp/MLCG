@@ -1,0 +1,356 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "dozens of homes",
+                "pos": [
+                    25,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Several of the homes",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "officials",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Officials",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "An evacuation order",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "a mandatory evacuation",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "people",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "those residents",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "mudslides",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The dangerous mudslides",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this area",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "more than 500 California homes",
+                "pos": [
+                    8,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "homes",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Several of the",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "these homes",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-45",
+    "sents": [
+        [
+            "An",
+            "evacuation",
+            "order",
+            "was",
+            "lifted",
+            "Wednesday",
+            "morning",
+            "for",
+            "more",
+            "than",
+            "500",
+            "California",
+            "homes",
+            "on",
+            "hillsides",
+            "vulnerable",
+            "to",
+            "mudslides",
+            ",",
+            "authorities",
+            "said",
+            "."
+        ],
+        [
+            "With",
+            "the",
+            "sun",
+            "shining",
+            "over",
+            "much",
+            "of",
+            "Los",
+            "Angeles",
+            ",",
+            "officials",
+            "told",
+            "people",
+            "who",
+            "live",
+            "in",
+            "the",
+            "foothill",
+            "areas",
+            "of",
+            "La",
+            "Crescenta",
+            ",",
+            "La",
+            "Canada",
+            "Flintridge",
+            "and",
+            "Acton",
+            "that",
+            "they",
+            "could",
+            "return",
+            "to",
+            "their",
+            "homes",
+            "at",
+            "8",
+            "a.m.",
+            "PT",
+            "(",
+            "11",
+            "a.m.",
+            "ET",
+            ")",
+            "."
+        ],
+        [
+            "Officials",
+            "ordered",
+            "a",
+            "mandatory",
+            "evacuation",
+            "for",
+            "those",
+            "residents",
+            "Tuesday",
+            "morning",
+            "as",
+            "a",
+            "precaution",
+            "when",
+            "heavy",
+            "rains",
+            "were",
+            "predicted",
+            "."
+        ],
+        [
+            "The",
+            "dangerous",
+            "mudslides",
+            "did",
+            "not",
+            "develop",
+            ",",
+            "but",
+            "this",
+            "area",
+            "was",
+            "especially",
+            "hit",
+            "hard",
+            "after",
+            "a",
+            "downpour",
+            "Saturday",
+            "unleashed",
+            "a",
+            "river",
+            "of",
+            "mud",
+            "that",
+            "damaged",
+            "dozens",
+            "of",
+            "homes",
+            "."
+        ],
+        [
+            "Several",
+            "of",
+            "the",
+            "homes",
+            "were",
+            "declared",
+            "uninhabitable",
+            "."
+        ],
+        [
+            "A",
+            "massive",
+            "wildfire",
+            "in",
+            "the",
+            "Angeles",
+            "National",
+            "Forest",
+            "last",
+            "summer",
+            "burned",
+            "hillsides",
+            "where",
+            "these",
+            "homes",
+            "are",
+            "located",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "reported",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "citing",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "occurred",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-49",
+    "sents": [
+        [
+            "A",
+            "landslide",
+            "buried",
+            "83",
+            "workers",
+            "in",
+            "a",
+            "mining",
+            "area",
+            "in",
+            "the",
+            "Tibet",
+            "Autonomous",
+            "Region",
+            "on",
+            "Friday",
+            "morning",
+            ",",
+            "China",
+            "'s",
+            "official",
+            "Xinhua",
+            "News",
+            "Agency",
+            "reported",
+            ",",
+            "citing",
+            "local",
+            "authorities",
+            "."
+        ],
+        [
+            "The",
+            "incident",
+            "occurred",
+            "about",
+            "6",
+            "a.m.",
+            "in",
+            "Maizhokunggar",
+            "County",
+            ",",
+            "east",
+            "of",
+            "Lhasa",
+            ",",
+            "the",
+            "regional",
+            "capital",
+            "."
+        ],
+        [
+            "The",
+            "victims",
+            ",",
+            "including",
+            "two",
+            "Tibetans",
+            ",",
+            "were",
+            "workers",
+            "from",
+            "Tibet",
+            "Huatailong",
+            "Mining",
+            "Development",
+            "Co.",
+            "Ltd.",
+            ",",
+            "a",
+            "subsidiary",
+            "of",
+            "the",
+            "China",
+            "National",
+            "Gold",
+            "Group",
+            "Corp.",
+            ",",
+            "the",
+            "news",
+            "agency",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "landslide",
+            "extended",
+            "three",
+            "kilometers",
+            "(",
+            "almost",
+            "two",
+            "miles",
+            ")",
+            "and",
+            "was",
+            "made",
+            "up",
+            "of",
+            "about",
+            "2",
+            "million",
+            "cubic",
+            "meters",
+            "(",
+            "2.6",
+            "million",
+            "cubic",
+            "yards",
+            ")",
+            "of",
+            "mud",
+            ",",
+            "rock",
+            "and",
+            "other",
+            "debris",
+            ",",
+            "the",
+            "regional",
+            "government",
+            "said",
+            "."
+        ]
+    ]
+}

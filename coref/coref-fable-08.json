@@ -1,0 +1,421 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "his eyrie",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "there",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the animals",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The poor creatures",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "an archer",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Arrow",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "an Arrow",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A MOST rapacious Eagle",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "a foe",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "The Eagle",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the Eagle",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-08",
+    "sents": [
+        [
+            "A",
+            "MOST",
+            "rapacious",
+            "Eagle",
+            "had",
+            "his",
+            "eyrie",
+            "on",
+            "a",
+            "lofty",
+            "rock",
+            "."
+        ],
+        [
+            "Sitting",
+            "there",
+            ",",
+            "he",
+            "could",
+            "watch",
+            "the",
+            "movements",
+            "of",
+            "the",
+            "animals",
+            "he",
+            "wished",
+            "to",
+            "make",
+            "his",
+            "prey",
+            ",",
+            "and",
+            ",",
+            "waiting",
+            "his",
+            "opportunity",
+            ",",
+            "seize",
+            "them",
+            "and",
+            "bear",
+            "them",
+            "away",
+            "."
+        ],
+        [
+            "The",
+            "poor",
+            "creatures",
+            "had",
+            "no",
+            "protection",
+            "from",
+            "such",
+            "a",
+            "foe",
+            "."
+        ],
+        [
+            "But",
+            "an",
+            "archer",
+            "saw",
+            "him",
+            "one",
+            "day",
+            "watching",
+            ",",
+            "from",
+            "his",
+            "place",
+            "of",
+            "concealment",
+            ",",
+            "the",
+            "movements",
+            "of",
+            "an",
+            "unsuspicious",
+            "hare",
+            ";",
+            "and",
+            ",",
+            "taking",
+            "aim",
+            ",",
+            "he",
+            "wounded",
+            "him",
+            "mortally",
+            "."
+        ],
+        [
+            "The",
+            "Eagle",
+            "gave",
+            "one",
+            "look",
+            "at",
+            "the",
+            "Arrow",
+            "that",
+            "had",
+            "entered",
+            "his",
+            "heart",
+            ",",
+            "and",
+            "saw",
+            "that",
+            "its",
+            "feathers",
+            "had",
+            "been",
+            "furnished",
+            "by",
+            "himself",
+            ",",
+            "when",
+            "descending",
+            "to",
+            "secure",
+            "prey",
+            "."
+        ],
+        [
+            "\u201c",
+            "Ah",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Eagle",
+            ",",
+            "\u201c",
+            "it",
+            "is",
+            "indeed",
+            "a",
+            "double",
+            "grief",
+            "that",
+            "I",
+            "should",
+            "perish",
+            "by",
+            "an",
+            "Arrow",
+            "feathered",
+            "from",
+            "my",
+            "own",
+            "wing",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

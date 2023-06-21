@@ -1,0 +1,324 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "forecast",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ply",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "added",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "called",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cited",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-37",
+    "sents": [
+        [
+            "Singapore",
+            "'s",
+            "economy",
+            "shrank",
+            "by",
+            "4.2",
+            "percent",
+            "in",
+            "the",
+            "fourth",
+            "quarter",
+            "of",
+            "2008",
+            ",",
+            "the",
+            "Ministry",
+            "of",
+            "Trade",
+            "and",
+            "Industry",
+            "said",
+            "Thursday",
+            ",",
+            "as",
+            "it",
+            "forecast",
+            "the",
+            "economy",
+            "would",
+            "contract",
+            "between",
+            "2",
+            "and",
+            "5",
+            "percent",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "Boats",
+            "ply",
+            "under",
+            "a",
+            "bridge",
+            "near",
+            "the",
+            "financial",
+            "district",
+            "of",
+            "Singapore",
+            "."
+        ],
+        [
+            "Compared",
+            "to",
+            "a",
+            "robust",
+            "growth",
+            "of",
+            "7.8",
+            "percent",
+            "a",
+            "year",
+            "earlier",
+            ",",
+            "the",
+            "economy",
+            "grew",
+            "by",
+            "1.1",
+            "percent",
+            "for",
+            "the",
+            "whole",
+            "of",
+            "2008",
+            ",",
+            "the",
+            "ministry",
+            "added",
+            "."
+        ],
+        [
+            "It",
+            "called",
+            "Gross",
+            "Domestic",
+            "Product",
+            "growth",
+            "prospects",
+            "for",
+            "2009",
+            "\"",
+            "weak",
+            "..."
+        ],
+        [
+            "on",
+            "account",
+            "of",
+            "the",
+            "pessimistic",
+            "global",
+            "economic",
+            "outlook",
+            ".",
+            "\""
+        ],
+        [
+            "All",
+            "major",
+            "sectors",
+            ",",
+            "except",
+            "for",
+            "construction",
+            ",",
+            "business",
+            "services",
+            "and",
+            "information",
+            "and",
+            "communications",
+            ",",
+            "saw",
+            "contractions",
+            ",",
+            "the",
+            "ministry",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "ministry",
+            "cited",
+            "a",
+            "decline",
+            "in",
+            "private",
+            "sector",
+            "investments",
+            "and",
+            "private",
+            "consumption",
+            "expenditure",
+            "for",
+            "dragging",
+            "down",
+            "total",
+            "domestic",
+            "demand",
+            "."
+        ],
+        [
+            "Declines",
+            "in",
+            "global",
+            "demand",
+            "for",
+            "electronics",
+            "products",
+            ",",
+            "pharmaceuticals",
+            "and",
+            "chemicals",
+            "were",
+            "also",
+            "likely",
+            "to",
+            "weigh",
+            "on",
+            "the",
+            "manufacturing",
+            "sector",
+            "."
+        ]
+    ]
+}

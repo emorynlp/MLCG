@@ -1,0 +1,334 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "when",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the Bear came up , felt him with his snout , and smelt him all over",
+                "pos": [
+                    18,
+                    34
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the man held his breath",
+                "pos": [
+                    35,
+                    40
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The Bear soon left him",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it is said a Bear will not touch a dead body",
+                "pos": [
+                    7,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "When",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "the Bear had gone",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the man in the tree came down to join his companion",
+                "pos": [
+                    6,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-29",
+    "sents": [
+        [
+            "TWO",
+            "men",
+            "were",
+            "traveling",
+            "together",
+            ",",
+            "when",
+            "a",
+            "Bear",
+            "suddenly",
+            "crossed",
+            "their",
+            "path",
+            "."
+        ],
+        [
+            "One",
+            "of",
+            "the",
+            "men",
+            "climbed",
+            "quickly",
+            "into",
+            "a",
+            "tree",
+            ",",
+            "and",
+            "tried",
+            "to",
+            "conceal",
+            "himself",
+            "in",
+            "its",
+            "branches",
+            "."
+        ],
+        [
+            "Seeing",
+            "that",
+            "he",
+            "must",
+            "be",
+            "attacked",
+            ",",
+            "the",
+            "other",
+            "one",
+            "fell",
+            "flat",
+            "upon",
+            "the",
+            "ground",
+            ";",
+            "and",
+            "when",
+            "the",
+            "Bear",
+            "came",
+            "up",
+            ",",
+            "felt",
+            "him",
+            "with",
+            "his",
+            "snout",
+            ",",
+            "and",
+            "smelt",
+            "him",
+            "all",
+            "over",
+            ",",
+            "the",
+            "man",
+            "held",
+            "his",
+            "breath",
+            ",",
+            "feigning",
+            "death",
+            "."
+        ],
+        [
+            "The",
+            "Bear",
+            "soon",
+            "left",
+            "him",
+            ",",
+            "for",
+            "it",
+            "is",
+            "said",
+            "a",
+            "Bear",
+            "will",
+            "not",
+            "touch",
+            "a",
+            "dead",
+            "body",
+            "."
+        ],
+        [
+            "When",
+            "the",
+            "Bear",
+            "had",
+            "gone",
+            ",",
+            "the",
+            "man",
+            "in",
+            "the",
+            "tree",
+            "came",
+            "down",
+            "to",
+            "join",
+            "his",
+            "companion",
+            ",",
+            "and",
+            ",",
+            "as",
+            "a",
+            "pleasant",
+            "joke",
+            ",",
+            "inquired",
+            ",",
+            "\u201c",
+            "What",
+            "was",
+            "it",
+            "that",
+            "the",
+            "Bear",
+            "whispered",
+            "in",
+            "your",
+            "ear",
+            "when",
+            "he",
+            "bent",
+            "over",
+            "you",
+            "for",
+            "so",
+            "long",
+            "?",
+            "\u201d"
+        ],
+        [
+            "His",
+            "friend",
+            "replied",
+            "very",
+            "gravely",
+            ":",
+            "\u201c",
+            "He",
+            "gave",
+            "me",
+            "this",
+            "bit",
+            "of",
+            "advice",
+            ",",
+            "\u2018",
+            "Never",
+            "travel",
+            "with",
+            "a",
+            "friend",
+            "who",
+            "deserts",
+            "you",
+            "at",
+            "the",
+            "approach",
+            "of",
+            "danger",
+            "."
+        ],
+        [
+            "\u2019",
+            "\u201d"
+        ]
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "when",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "they crept up to the edge and looked into it",
+                "pos": [
+                    9,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they could see it was also very deep , and there were many big , jagged rocks at the bottom",
+                "pos": [
+                    19,
+                    39
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The sides were so steep",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "none of them could climb down",
+                "pos": [
+                    6,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-31",
+    "sents": [
+        [
+            "This",
+            "was",
+            "to",
+            "be",
+            "an",
+            "eventful",
+            "day",
+            "for",
+            "the",
+            "travelers",
+            "."
+        ],
+        [
+            "They",
+            "had",
+            "hardly",
+            "been",
+            "walking",
+            "an",
+            "hour",
+            "when",
+            "they",
+            "saw",
+            "before",
+            "them",
+            "a",
+            "great",
+            "ditch",
+            "that",
+            "crossed",
+            "the",
+            "road",
+            "and",
+            "divided",
+            "the",
+            "forest",
+            "as",
+            "far",
+            "as",
+            "they",
+            "could",
+            "see",
+            "on",
+            "either",
+            "side",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "a",
+            "very",
+            "wide",
+            "ditch",
+            ",",
+            "and",
+            "when",
+            "they",
+            "crept",
+            "up",
+            "to",
+            "the",
+            "edge",
+            "and",
+            "looked",
+            "into",
+            "it",
+            "they",
+            "could",
+            "see",
+            "it",
+            "was",
+            "also",
+            "very",
+            "deep",
+            ",",
+            "and",
+            "there",
+            "were",
+            "many",
+            "big",
+            ",",
+            "jagged",
+            "rocks",
+            "at",
+            "the",
+            "bottom",
+            "."
+        ],
+        [
+            "The",
+            "sides",
+            "were",
+            "so",
+            "steep",
+            "that",
+            "none",
+            "of",
+            "them",
+            "could",
+            "climb",
+            "down",
+            ",",
+            "and",
+            "for",
+            "a",
+            "moment",
+            "it",
+            "seemed",
+            "that",
+            "their",
+            "journey",
+            "must",
+            "end",
+            "."
+        ]
+    ]
+}

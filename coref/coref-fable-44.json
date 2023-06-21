@@ -1,0 +1,478 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "packs",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the other",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his pack",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "TWO Mules",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "stately step",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "the strong , proud step",
+                "pos": [
+                    11,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "jingling",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "the jingling bells",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "money",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the treasure",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the gold",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "One",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The Mule",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "His",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "The Mule",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a band of Robbers",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the Robbers",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the other",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "His companion",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the other",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-44",
+    "sents": [
+        [
+            "TWO",
+            "Mules",
+            ",",
+            "laden",
+            "with",
+            "packs",
+            ",",
+            "were",
+            "trudging",
+            "along",
+            "the",
+            "highway",
+            "."
+        ],
+        [
+            "One",
+            "carried",
+            "panniers",
+            "filled",
+            "with",
+            "money",
+            ",",
+            "the",
+            "other",
+            "sacks",
+            "of",
+            "grain",
+            "."
+        ],
+        [
+            "The",
+            "Mule",
+            "that",
+            "carried",
+            "the",
+            "treasure",
+            "walked",
+            "with",
+            "head",
+            "erect",
+            "and",
+            "stately",
+            "step",
+            ",",
+            "jingling",
+            "the",
+            "bells",
+            "about",
+            "his",
+            "neck",
+            "as",
+            "he",
+            "went",
+            "."
+        ],
+        [
+            "His",
+            "companion",
+            "followed",
+            "at",
+            "a",
+            "quiet",
+            ",",
+            "easy",
+            "pace",
+            "."
+        ],
+        [
+            "Suddenly",
+            "a",
+            "band",
+            "of",
+            "Robbers",
+            "sprang",
+            "upon",
+            "them",
+            ",",
+            "attracted",
+            "by",
+            "the",
+            "strong",
+            ",",
+            "proud",
+            "step",
+            "and",
+            "the",
+            "jingling",
+            "bells",
+            "."
+        ],
+        [
+            "The",
+            "Mule",
+            "that",
+            "carried",
+            "the",
+            "gold",
+            "made",
+            "so",
+            "great",
+            "an",
+            "ado",
+            "that",
+            "the",
+            "Robbers",
+            "seized",
+            "his",
+            "pack",
+            ",",
+            "wounding",
+            "him",
+            "with",
+            "their",
+            "weapons",
+            ",",
+            "and",
+            ",",
+            "hearing",
+            "footsteps",
+            ",",
+            "fled",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "am",
+            "glad",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "other",
+            ",",
+            "\u201c",
+            "that",
+            "I",
+            "was",
+            "thought",
+            "of",
+            "so",
+            "little",
+            "consequence",
+            ",",
+            "for",
+            "I",
+            "have",
+            "lost",
+            "nothing",
+            ",",
+            "nor",
+            "am",
+            "I",
+            "hurt",
+            "with",
+            "any",
+            "wound",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

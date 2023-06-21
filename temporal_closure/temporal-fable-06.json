@@ -1,0 +1,609 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "went",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "jumped into",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "curling himself up",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been sleeping",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came in",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "awoke",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "growl",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bark",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "growled",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 10,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-06",
+    "sents": [
+        [
+            "A",
+            "SLEEPY",
+            "Dog",
+            "went",
+            "to",
+            "the",
+            "barn",
+            ",",
+            "and",
+            "jumped",
+            "into",
+            "a",
+            "manger",
+            "full",
+            "of",
+            "hay",
+            ",",
+            "curling",
+            "himself",
+            "up",
+            "there",
+            "for",
+            "an",
+            "afternoon",
+            "nap",
+            "."
+        ],
+        [
+            "When",
+            "he",
+            "had",
+            "been",
+            "sleeping",
+            "comfortably",
+            "for",
+            "some",
+            "time",
+            ",",
+            "the",
+            "Oxen",
+            "came",
+            "in",
+            "for",
+            "their",
+            "supper",
+            "."
+        ],
+        [
+            "The",
+            "Dog",
+            "awoke",
+            "in",
+            "a",
+            "great",
+            "rage",
+            "at",
+            "being",
+            "disturbed",
+            ",",
+            "and",
+            "began",
+            "to",
+            "growl",
+            "and",
+            "bark",
+            "at",
+            "them",
+            "."
+        ],
+        [
+            "He",
+            "would",
+            "not",
+            "let",
+            "them",
+            "get",
+            "at",
+            "the",
+            "hay",
+            "."
+        ],
+        [
+            "\u201c",
+            "Stop",
+            "a",
+            "moment",
+            ",",
+            "\u201d",
+            "said",
+            "one",
+            "of",
+            "the",
+            "Oxen",
+            "."
+        ],
+        [
+            "\u201c",
+            "Do",
+            "you",
+            "want",
+            "to",
+            "eat",
+            "this",
+            "hay",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "No",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Dog",
+            ";",
+            "\u201c",
+            "I",
+            "should",
+            "n\u2019t",
+            "think",
+            "of",
+            "such",
+            "a",
+            "thing",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Very",
+            "well",
+            ",",
+            "then",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Ox",
+            ",",
+            "\u201c",
+            "we",
+            "do",
+            "want",
+            "to",
+            "eat",
+            "it",
+            ",",
+            "for",
+            "we",
+            "are",
+            "hungry",
+            "and",
+            "tired",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Oh",
+            ",",
+            "go",
+            "away",
+            ",",
+            "\u201d",
+            "growled",
+            "the",
+            "Dog",
+            ",",
+            "\u201c",
+            "and",
+            "let",
+            "me",
+            "sleep",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "What",
+            "an",
+            "ugly",
+            ",",
+            "snappish",
+            "fellow",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Ox",
+            "."
+        ],
+        [
+            "\u201c",
+            "He",
+            "will",
+            "neither",
+            "eat",
+            "the",
+            "hay",
+            "himself",
+            "nor",
+            "let",
+            "us",
+            "eat",
+            "it",
+            "!",
+            "\u201d"
+        ]
+    ]
+}

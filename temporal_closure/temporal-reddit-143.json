@@ -1,0 +1,282 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "enjoy",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are definitely bad days",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am afraid",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is entirely wet lab based",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-143",
+    "sents": [
+        [
+            "I",
+            "may",
+            "be",
+            "alone",
+            "in",
+            "this",
+            ",",
+            "but",
+            "I",
+            "genuinely",
+            "enjoy",
+            "lab",
+            "."
+        ],
+        [
+            "Sure",
+            ",",
+            "there",
+            "are",
+            "definitely",
+            "bad",
+            "days",
+            "where",
+            "I",
+            "'d",
+            "rather",
+            "be",
+            "literally",
+            "anywhere",
+            "else",
+            ",",
+            "but",
+            "thankfully",
+            "it",
+            "'s",
+            "not",
+            "the",
+            "majority",
+            "of",
+            "the",
+            "time",
+            "."
+        ],
+        [
+            "My",
+            "school",
+            "has",
+            "n't",
+            "closed",
+            "yet",
+            ",",
+            "but",
+            "I",
+            "am",
+            "afraid",
+            "it",
+            "probably",
+            "will",
+            "this",
+            "upcoming",
+            "week",
+            "."
+        ],
+        [
+            "My",
+            "project",
+            "is",
+            "entirely",
+            "wet",
+            "lab",
+            "based",
+            "and",
+            "if",
+            "I",
+            "have",
+            "to",
+            "work",
+            "from",
+            "home",
+            "it",
+            "'s",
+            "going",
+            "to",
+            "be",
+            "devastating",
+            "to",
+            "both",
+            "my",
+            "project",
+            ",",
+            "mental",
+            "health",
+            "and",
+            "social",
+            "life",
+            "."
+        ],
+        [
+            "Does",
+            "anyone",
+            "else",
+            "feel",
+            "the",
+            "same",
+            "way",
+            "?"
+        ],
+        [
+            "What",
+            "are",
+            "your",
+            "plans",
+            "if",
+            "you",
+            "have",
+            "to",
+            "work",
+            "from",
+            "home",
+            "?"
+        ]
+    ]
+}

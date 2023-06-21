@@ -1,0 +1,442 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were the eggs of a viper",
+                "pos": [
+                    2,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "come out",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was passing",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "look",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stood",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked at",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "flew away",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-14",
+    "sents": [
+        [
+            "A",
+            "HEN",
+            "who",
+            "had",
+            "no",
+            "nest",
+            "of",
+            "her",
+            "own",
+            "found",
+            "some",
+            "eggs",
+            ",",
+            "and",
+            ",",
+            "in",
+            "the",
+            "kindness",
+            "of",
+            "her",
+            "heart",
+            ",",
+            "thought",
+            "she",
+            "would",
+            "take",
+            "care",
+            "of",
+            "them",
+            ",",
+            "and",
+            "keep",
+            "them",
+            "warm",
+            "."
+        ],
+        [
+            "But",
+            "they",
+            "were",
+            "the",
+            "eggs",
+            "of",
+            "a",
+            "viper",
+            ";",
+            "and",
+            "by",
+            "and",
+            "by",
+            "the",
+            "little",
+            "snakes",
+            "began",
+            "to",
+            "come",
+            "out",
+            "of",
+            "the",
+            "shell",
+            "."
+        ],
+        [
+            "A",
+            "Swallow",
+            ",",
+            "who",
+            "was",
+            "passing",
+            ",",
+            "stopped",
+            "to",
+            "look",
+            "at",
+            "them",
+            "."
+        ],
+        [
+            "\u201c",
+            "What",
+            "a",
+            "foolish",
+            "creature",
+            "you",
+            "were",
+            ",",
+            "to",
+            "hatch",
+            "those",
+            "eggs",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Swallow",
+            "."
+        ],
+        [
+            "\u201c",
+            "Do",
+            "n\u2019t",
+            "you",
+            "know",
+            "that",
+            "as",
+            "soon",
+            "as",
+            "the",
+            "little",
+            "snakes",
+            "grow",
+            "big",
+            "enough",
+            ",",
+            "they",
+            "will",
+            "bite",
+            "some",
+            "one",
+            "\u2014",
+            "probably",
+            "_you_",
+            "first",
+            "of",
+            "all",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Then",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Hen",
+            ",",
+            "as",
+            "she",
+            "stood",
+            "on",
+            "one",
+            "leg",
+            "and",
+            "looked",
+            "at",
+            "the",
+            "ugly",
+            "little",
+            "snakes",
+            ",",
+            "first",
+            "with",
+            "one",
+            "eye",
+            "and",
+            "then",
+            "with",
+            "the",
+            "other",
+            ",",
+            "\u201c",
+            "you",
+            "think",
+            "I",
+            "have",
+            "done",
+            "more",
+            "harm",
+            "than",
+            "good",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "I",
+            "certainly",
+            "do",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Swallow",
+            ",",
+            "as",
+            "she",
+            "flew",
+            "away",
+            "."
+        ],
+        [
+            "\u201c",
+            "Good",
+            "judgment",
+            "is",
+            "better",
+            "than",
+            "thoughtless",
+            "kindness",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

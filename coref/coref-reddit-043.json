@@ -1,0 +1,290 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "this",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "post"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    49,
+                    50
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    51,
+                    52
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "college experience",
+                "pos": [
+                    39,
+                    41
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "college experience",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-043",
+    "sents": [
+        [
+            "Disclaimer",
+            ":",
+            "this",
+            "is",
+            "just",
+            "my",
+            "2",
+            "cents",
+            "and",
+            "I",
+            "\u2019m",
+            "NOT",
+            "trying",
+            "to",
+            "be",
+            "negative",
+            "Nancy",
+            ",",
+            "however",
+            "I",
+            "do",
+            "feel",
+            "that",
+            "it",
+            "is",
+            "important",
+            "to",
+            "keep",
+            "in",
+            "mind",
+            "that",
+            "the",
+            "whole",
+            "moving",
+            "far",
+            "and",
+            "having",
+            "the",
+            "\u201c",
+            "college",
+            "experience",
+            "\u201d",
+            "is",
+            "lowkey",
+            "just",
+            "a",
+            "scam",
+            "to",
+            "get",
+            "you",
+            "and",
+            "your",
+            "parents",
+            "to",
+            "pay",
+            "more",
+            "money",
+            "for",
+            "college",
+            "."
+        ],
+        [
+            "I",
+            "mean",
+            "yes",
+            "if",
+            "there",
+            "\u2019s",
+            "some",
+            "reason",
+            "you",
+            "really",
+            "want",
+            "to",
+            "go",
+            "to",
+            "x",
+            "college",
+            "then",
+            "by",
+            "all",
+            "means",
+            "do",
+            "so",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "just",
+            "saying",
+            "that",
+            "at",
+            "the",
+            "end",
+            "of",
+            "the",
+            "day",
+            ",",
+            "no",
+            "matter",
+            "where",
+            "you",
+            "go",
+            ",",
+            "even",
+            "if",
+            "it",
+            "\u2019s",
+            "at",
+            "a",
+            "college",
+            "near",
+            "home",
+            "your",
+            "still",
+            "going",
+            "to",
+            "get",
+            "different",
+            "experiences",
+            ",",
+            "friends",
+            "and",
+            "a",
+            "degree",
+            "."
+        ],
+        [
+            "So",
+            "just",
+            "do",
+            "n\u2019t",
+            "feel",
+            "pressured",
+            "to",
+            "get",
+            "out",
+            "there",
+            "and",
+            "do",
+            "things",
+            "just",
+            "for",
+            "the",
+            "\u201c",
+            "college",
+            "experience",
+            "\u201d",
+            "-",
+            "freshman",
+            "in",
+            "college"
+        ]
+    ]
+}

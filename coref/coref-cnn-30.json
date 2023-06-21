@@ -1,0 +1,331 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Skagit River",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the river",
+                "pos": [
+                    34,
+                    36
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Interstate 5.",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Interstate 5",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "reopened",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "the reopening",
+                "pos": [
+                    37,
+                    39
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the state Department of Transportation",
+                "pos": [
+                    29,
+                    34
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A new permanent span",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "A temporary span",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the new span",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a bridge",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The bridge",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "bridge",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the bridge",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "that bridge",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-30",
+    "sents": [
+        [
+            "A",
+            "new",
+            "permanent",
+            "span",
+            "over",
+            "Washington",
+            "state",
+            "'s",
+            "Skagit",
+            "River",
+            "reopened",
+            "Sunday",
+            ",",
+            "some",
+            "four",
+            "months",
+            "after",
+            "a",
+            "bridge",
+            "collapse",
+            "on",
+            "Interstate",
+            "5.",
+            "The",
+            "bridge",
+            "'s",
+            "failure",
+            "in",
+            "late",
+            "May",
+            "sent",
+            "cars",
+            "tumbling",
+            "into",
+            "the",
+            "river",
+            "and",
+            "severed",
+            "the",
+            "state",
+            "'s",
+            "main",
+            "artery",
+            "to",
+            "Canada",
+            ",",
+            "on",
+            "which",
+            "trucks",
+            "carry",
+            "an",
+            "estimated",
+            "$",
+            "13.9",
+            "billion",
+            "annually",
+            "in",
+            "cargo",
+            "."
+        ],
+        [
+            "A",
+            "temporary",
+            "span",
+            "went",
+            "up",
+            "within",
+            "a",
+            "few",
+            "weeks",
+            "."
+        ],
+        [
+            "NTSB",
+            ":",
+            "'",
+            "Boom",
+            ",",
+            "'",
+            "then",
+            "shudder",
+            ",",
+            "first",
+            "sign",
+            "of",
+            "problem",
+            "on",
+            "bridge",
+            "Roughly",
+            "70,000",
+            "vehicles",
+            "a",
+            "day",
+            "travel",
+            "on",
+            "Interstate",
+            "5",
+            "over",
+            "the",
+            "bridge",
+            ",",
+            "said",
+            "the",
+            "state",
+            "Department",
+            "of",
+            "Transportation",
+            ",",
+            "which",
+            "announced",
+            "the",
+            "reopening",
+            "on",
+            "its",
+            "Facebook",
+            "page",
+            "."
+        ],
+        [
+            "It",
+            "posted",
+            "a",
+            "time",
+            "-",
+            "lapse",
+            "video",
+            ",",
+            "showing",
+            "crews",
+            "working",
+            "through",
+            "the",
+            "night",
+            "to",
+            "put",
+            "the",
+            "new",
+            "span",
+            "in",
+            "place",
+            "."
+        ],
+        [
+            "Bearing",
+            "down",
+            ":",
+            "How",
+            "safe",
+            "is",
+            "that",
+            "bridge",
+            "you",
+            "'re",
+            "driving",
+            "over",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,478 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "declared",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "contracted",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tested",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "passed",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "allowing",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "care",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were also monitored",
+                "pos": [
+                    20,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "contracted",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "care for",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been brought",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "died",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "contributed",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-19",
+    "sents": [
+        [
+            "Spain",
+            "is",
+            "officially",
+            "clear",
+            "of",
+            "Ebola",
+            ",",
+            "the",
+            "World",
+            "Health",
+            "Organization",
+            "declared",
+            "Tuesday",
+            ",",
+            "after",
+            "no",
+            "new",
+            "cases",
+            "were",
+            "reported",
+            "since",
+            "a",
+            "nurse",
+            "'s",
+            "assistant",
+            "who",
+            "contracted",
+            "the",
+            "virus",
+            "there",
+            "tested",
+            "negative",
+            "for",
+            "it",
+            "."
+        ],
+        [
+            "Since",
+            "then",
+            ",",
+            "42",
+            "days",
+            "have",
+            "passed",
+            "--",
+            "double",
+            "the",
+            "maximum",
+            "known",
+            "incubation",
+            "period",
+            "for",
+            "the",
+            "virus",
+            "--",
+            "without",
+            "another",
+            "case",
+            ",",
+            "allowing",
+            "Spain",
+            "to",
+            "be",
+            "declared",
+            "free",
+            "of",
+            "Ebola",
+            "."
+        ],
+        [
+            "Spanish",
+            "authorities",
+            "had",
+            "been",
+            "monitoring",
+            "87",
+            "people",
+            "who",
+            "came",
+            "into",
+            "contact",
+            "with",
+            "healthcare",
+            "worker",
+            "Teresa",
+            "Romero",
+            "Ramos",
+            ",",
+            "15",
+            "of",
+            "whom",
+            "were",
+            "considered",
+            "high",
+            "-",
+            "risk",
+            "and",
+            "were",
+            "quarantined",
+            "at",
+            "a",
+            "Madrid",
+            "hospital",
+            ",",
+            "WHO",
+            "said",
+            "."
+        ],
+        [
+            "Another",
+            "145",
+            "hospital",
+            "employees",
+            "who",
+            "helped",
+            "care",
+            "for",
+            "Romero",
+            "during",
+            "her",
+            "month",
+            "-",
+            "long",
+            "stay",
+            "at",
+            "the",
+            "Carlos",
+            "III",
+            "Hospital",
+            "were",
+            "also",
+            "monitored",
+            "."
+        ],
+        [
+            "The",
+            "WHO",
+            "statement",
+            "said",
+            "it",
+            "\"",
+            "commends",
+            "Spain",
+            "for",
+            "the",
+            "measures",
+            "put",
+            "in",
+            "place",
+            "to",
+            "identify",
+            "potential",
+            "cases",
+            "and",
+            "prevent",
+            "further",
+            "transmission",
+            "of",
+            "the",
+            "Ebola",
+            "virus",
+            ".",
+            "\""
+        ],
+        [
+            "Romero",
+            "contracted",
+            "the",
+            "illness",
+            "while",
+            "helping",
+            "to",
+            "care",
+            "for",
+            "an",
+            "infected",
+            "missionary",
+            "who",
+            "had",
+            "been",
+            "brought",
+            "back",
+            "from",
+            "West",
+            "Africa",
+            "."
+        ],
+        [
+            "He",
+            "died",
+            "of",
+            "the",
+            "disease",
+            "."
+        ],
+        [
+            "CNN",
+            "'s",
+            "Anna",
+            "Maja",
+            "Rappard",
+            "contributed",
+            "to",
+            "this",
+            "report",
+            "."
+        ]
+    ]
+}

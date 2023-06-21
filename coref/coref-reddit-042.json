@@ -1,0 +1,273 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "anyone",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "lectures",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "lectures",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-042",
+    "sents": [
+        [
+            "I",
+            "hate",
+            "lectures",
+            ",",
+            "I",
+            "love",
+            "participating",
+            "and",
+            "learn",
+            "more",
+            "effectively",
+            "in",
+            "small",
+            "groups",
+            "of",
+            "people",
+            "."
+        ],
+        [
+            "I",
+            "ca",
+            "n't",
+            "concentrate",
+            "if",
+            "it",
+            "'s",
+            "a",
+            "lecture",
+            "."
+        ],
+        [
+            "Do",
+            "you",
+            "have",
+            "any",
+            "tips",
+            "?"
+        ],
+        [
+            "Edit",
+            ":",
+            "I",
+            "forgot",
+            "to",
+            "mention",
+            "that",
+            "I",
+            "\u2019m",
+            "doing",
+            "pretty",
+            "well",
+            ",",
+            "I",
+            "do",
+            "n\u2019t",
+            "have",
+            "any",
+            "problems",
+            "regarding",
+            "success",
+            "."
+        ],
+        [
+            "I",
+            "currently",
+            "have",
+            "a",
+            "3.7",
+            "GPA",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "a",
+            "language",
+            "major",
+            "so",
+            "most",
+            "of",
+            "my",
+            "courses",
+            "are",
+            "discussion",
+            "heavy",
+            "in",
+            "small",
+            "groups",
+            "of",
+            "people",
+            "(",
+            "like",
+            "20",
+            "-",
+            "30",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "really",
+            "do",
+            "n\u2019t",
+            "like",
+            "lectures",
+            "and",
+            "was",
+            "asking",
+            "if",
+            "anyone",
+            "had",
+            "any",
+            "tips",
+            "to",
+            "make",
+            "them",
+            "more",
+            "bearable",
+            "and",
+            "efficient",
+            "."
+        ]
+    ]
+}

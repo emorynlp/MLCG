@@ -1,0 +1,394 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a bomb threat",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "a bomb threat",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the incident",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "bridge",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A major bridge",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Ambassador Bridge",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the bridge",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "The Ambassador Bridge",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the bridge",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the Ambassador Bridge",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the 's official website",
+                "pos": [
+                    28,
+                    33
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the website",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "shut it down",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "closed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "The closing",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "this report",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "post"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-21",
+    "sents": [
+        [
+            "A",
+            "major",
+            "bridge",
+            "between",
+            "Detroit",
+            ",",
+            "and",
+            "Windsor",
+            ",",
+            "Ontario",
+            ",",
+            "reopened",
+            "early",
+            "Tuesday",
+            "after",
+            "a",
+            "bomb",
+            "threat",
+            "shut",
+            "it",
+            "down",
+            "for",
+            "more",
+            "than",
+            "five",
+            "hours",
+            ",",
+            "police",
+            "said",
+            "."
+        ],
+        [
+            "Authorities",
+            "closed",
+            "the",
+            "Ambassador",
+            "Bridge",
+            "after",
+            "a",
+            "bomb",
+            "threat",
+            "was",
+            "received",
+            "around",
+            "7:15",
+            "p.m.",
+            ",",
+            "according",
+            "to",
+            "Sgt.",
+            "Eren",
+            "Stephens",
+            ",",
+            "a",
+            "Detroit",
+            "police",
+            "spokeswoman",
+            "."
+        ],
+        [
+            "It",
+            "finally",
+            "opened",
+            "at",
+            "1",
+            "a.m.",
+            "after",
+            "bomb",
+            "-",
+            "sniffing",
+            "dogs",
+            "\"",
+            "did",
+            "not",
+            "detect",
+            "or",
+            "find",
+            "a",
+            "bomb",
+            "or",
+            "suspicious",
+            "device",
+            ".",
+            "\""
+        ],
+        [
+            "The",
+            "U.S.",
+            "Coast",
+            "Guard",
+            "stopped",
+            "all",
+            "maritime",
+            "traffic",
+            "below",
+            "the",
+            "bridge",
+            "during",
+            "the",
+            "incident",
+            "."
+        ],
+        [
+            "The",
+            "Ambassador",
+            "Bridge",
+            "is",
+            "the",
+            "busiest",
+            "commercial",
+            "international",
+            "crossing",
+            "in",
+            "North",
+            "America",
+            "with",
+            "more",
+            "than",
+            "10,000",
+            "commercial",
+            "vehicles",
+            "crossing",
+            "the",
+            "bridge",
+            "on",
+            "a",
+            "typical",
+            "weekday",
+            ",",
+            "according",
+            "to",
+            "the",
+            "bridge",
+            "'s",
+            "official",
+            "website",
+            "."
+        ],
+        [
+            "More",
+            "than",
+            "25%",
+            "of",
+            "all",
+            "commercial",
+            "goods",
+            "between",
+            "Canada",
+            "and",
+            "the",
+            "United",
+            "States",
+            "cross",
+            "the",
+            "Ambassador",
+            "Bridge",
+            ",",
+            "the",
+            "website",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "closing",
+            "followed",
+            "last",
+            "Thursday",
+            "'s",
+            "closing",
+            "of",
+            "the",
+            "Detroit",
+            "-",
+            "Windsor",
+            "Tunnel",
+            ",",
+            "which",
+            "also",
+            "was",
+            "prompted",
+            "by",
+            "a",
+            "bomb",
+            "threat",
+            "."
+        ],
+        [
+            "CNN",
+            "'s",
+            "Rick",
+            "Martin",
+            "and",
+            "Julia",
+            "Greenberg",
+            "contributed",
+            "to",
+            "this",
+            "report"
+        ]
+    ]
+}

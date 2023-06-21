@@ -1,0 +1,172 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "it \u2019s",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they \u2019re older",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-087",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "a",
+            "23",
+            "year",
+            "old",
+            "woman",
+            "and",
+            "most",
+            "of",
+            "the",
+            "people",
+            "in",
+            "my",
+            "program",
+            "and",
+            "my",
+            "classes",
+            "have",
+            "at",
+            "least",
+            "5",
+            "years",
+            "on",
+            "me",
+            "."
+        ],
+        [
+            "They",
+            "have",
+            "so",
+            "much",
+            "more",
+            "life",
+            "and",
+            "real",
+            "world",
+            "experience",
+            "."
+        ],
+        [
+            "And",
+            "yeah",
+            "I",
+            "know",
+            "it",
+            "\u2019s",
+            "because",
+            "they",
+            "\u2019re",
+            "older",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "still",
+            "feel",
+            "like",
+            "I",
+            "\u2019m",
+            "not",
+            "as",
+            "smart",
+            "as",
+            "anyone",
+            "else",
+            "here",
+            "and",
+            "that",
+            "I",
+            "should",
+            "n\u2019t",
+            "have",
+            "even",
+            "been",
+            "admitted",
+            "to",
+            "grad",
+            "school",
+            "."
+        ],
+        [
+            "Any",
+            "other",
+            "young",
+            "women",
+            "feeling",
+            "this",
+            "way",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019m",
+            "in",
+            "a",
+            "mostly",
+            "male",
+            "dominated",
+            "field",
+            "as",
+            "well",
+            "(",
+            "politics",
+            "and",
+            "international",
+            "relations",
+            ",",
+            "though",
+            "it",
+            "\u2019s",
+            "been",
+            "changing",
+            "lately",
+            ")"
+        ]
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "export quotas",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Coffee export quotas",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "delegates",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "delegates",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "delegates",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Brazil",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Brazil",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reuters-31",
+    "sents": [
+        [
+            "The",
+            "International",
+            "Coffee",
+            "Organization",
+            "(",
+            "ICO",
+            ")",
+            "council",
+            "talks",
+            "on",
+            "reintroducing",
+            "export",
+            "quotas",
+            "continued",
+            "with",
+            "an",
+            "extended",
+            "session",
+            "lasting",
+            "late",
+            "into",
+            "Sunday",
+            "night",
+            ",",
+            "but",
+            "delegates",
+            "said",
+            "prospects",
+            "for",
+            "an",
+            "accord",
+            "between",
+            "producers",
+            "and",
+            "consumers",
+            "were",
+            "diminishing",
+            "by",
+            "the",
+            "minute",
+            "."
+        ],
+        [
+            "The",
+            "special",
+            "meeting",
+            ",",
+            "called",
+            "to",
+            "stop",
+            "the",
+            "prolonged",
+            "slide",
+            "in",
+            "coffee",
+            "prices",
+            ",",
+            "was",
+            "likely",
+            "to",
+            "adjourn",
+            "sometime",
+            "tonight",
+            "without",
+            "agreement",
+            ",",
+            "delegates",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "council",
+            "is",
+            "expected",
+            "to",
+            "agree",
+            "to",
+            "reconvene",
+            "either",
+            "within",
+            "the",
+            "next",
+            "six",
+            "weeks",
+            "or",
+            "in",
+            "September",
+            ",",
+            "they",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "talks",
+            "foundered",
+            "on",
+            "Sunday",
+            "afternoon",
+            "when",
+            "it",
+            "became",
+            "apparent",
+            "consumers",
+            "and",
+            "producers",
+            "could",
+            "not",
+            "compromise",
+            "on",
+            "the",
+            "formula",
+            "for",
+            "calculating",
+            "any",
+            "future",
+            "quota",
+            "system",
+            ",",
+            "delegates",
+            "said",
+            "."
+        ],
+        [
+            "Coffee",
+            "export",
+            "quotas",
+            "were",
+            "suspended",
+            "a",
+            "year",
+            "ago",
+            "when",
+            "prices",
+            "soared",
+            "in",
+            "response",
+            "to",
+            "a",
+            "drought",
+            "which",
+            "cut",
+            "Brazil",
+            "'s",
+            "crop",
+            "by",
+            "nearly",
+            "two",
+            "-",
+            "thirds",
+            "."
+        ],
+        [
+            "Brazil",
+            "is",
+            "the",
+            "world",
+            "'s",
+            "largest",
+            "coffee",
+            "producer",
+            "and",
+            "exporter",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "wore",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "worn",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "entered",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "worn",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was actually confused",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seen",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wear",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wear",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asked",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "agreed with",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dress",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019re a grown adult",
+                "pos": [
+                    12,
+                    16
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-001",
+    "sents": [
+        [
+            "I",
+            "wore",
+            "a",
+            "crop",
+            "top",
+            "to",
+            "class",
+            "and",
+            "I",
+            "\u2019ve",
+            "worn",
+            "crop",
+            "tops",
+            "on",
+            "few",
+            "occasions",
+            "."
+        ],
+        [
+            "My",
+            "professor",
+            "had",
+            "told",
+            "me",
+            "when",
+            "I",
+            "entered",
+            "class",
+            "that",
+            "it",
+            "was",
+            "n\u2019t",
+            "very",
+            "appropriate",
+            "for",
+            "me",
+            "to",
+            "wear",
+            "."
+        ],
+        [
+            "I",
+            "did",
+            "n\u2019t",
+            "think",
+            "much",
+            "because",
+            "again",
+            "I",
+            "\u2019ve",
+            "worn",
+            "crop",
+            "tops",
+            "to",
+            "the",
+            "campus",
+            "and",
+            "nobody",
+            "tells",
+            "me",
+            "anything",
+            "."
+        ],
+        [
+            "My",
+            "professor",
+            "told",
+            "me",
+            "that",
+            "we",
+            "have",
+            "to",
+            "dress",
+            "a",
+            "certain",
+            "way",
+            "if",
+            "we",
+            "want",
+            "to",
+            "be",
+            "professional",
+            "or",
+            "however",
+            "people",
+            "view",
+            "us",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "actually",
+            "confused",
+            "cause",
+            "I",
+            "\u2019ve",
+            "seen",
+            "a",
+            "few",
+            "girls",
+            "at",
+            "the",
+            "campus",
+            "wear",
+            "crop",
+            "tops",
+            "and",
+            "some",
+            "even",
+            "wear",
+            "the",
+            "bra",
+            "crop",
+            "tops",
+            "."
+        ],
+        [
+            "He",
+            "asked",
+            "some",
+            "girls",
+            "in",
+            "the",
+            "class",
+            "what",
+            "they",
+            "thought",
+            "and",
+            "they",
+            "sort",
+            "of",
+            "agreed",
+            "with",
+            "what",
+            "he",
+            "said",
+            ",",
+            "but",
+            "they",
+            "seemed",
+            "unbothered",
+            "by",
+            "how",
+            "I",
+            "dress",
+            "."
+        ],
+        [
+            "So",
+            "is",
+            "wearing",
+            "crop",
+            "tops",
+            "to",
+            "college",
+            "allowed",
+            "?"
+        ],
+        [
+            "Because",
+            "I",
+            "thought",
+            "you",
+            "could",
+            "wear",
+            "whatever",
+            "you",
+            "want",
+            "now",
+            "since",
+            "you",
+            "\u2019re",
+            "a",
+            "grown",
+            "adult",
+            "."
+        ]
+    ]
+}

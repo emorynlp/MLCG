@@ -1,0 +1,378 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been evacuated",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "noted",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had diminished",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hitting",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been a typhoon",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is the third tropical storm",
+                "pos": [
+                    10,
+                    15
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-48",
+    "sents": [
+        [
+            "Tropical",
+            "Storm",
+            "Haikui",
+            "made",
+            "landfall",
+            "Wednesday",
+            "morning",
+            "in",
+            "Zhejiang",
+            "province",
+            ",",
+            "where",
+            "hundreds",
+            "of",
+            "thousands",
+            "of",
+            "people",
+            "had",
+            "been",
+            "evacuated",
+            "from",
+            "its",
+            "path",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "rain",
+            "is",
+            "the",
+            "bigger",
+            "impact",
+            "going",
+            "forward",
+            ",",
+            "\"",
+            "said",
+            "CNNI",
+            "Meteorologist",
+            "Taylor",
+            "Ward",
+            ",",
+            "who",
+            "noted",
+            "that",
+            "Haikui",
+            "had",
+            "diminished",
+            "from",
+            "typhoon",
+            "status",
+            "before",
+            "hitting",
+            "land",
+            "about",
+            "225",
+            "kilometers",
+            "(",
+            "140",
+            "miles",
+            ")",
+            "south",
+            "of",
+            "Shanghai",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "have",
+            "already",
+            "had",
+            "up",
+            "to",
+            "8",
+            "inches",
+            "in",
+            "some",
+            "locations",
+            ".",
+            "\""
+        ],
+        [
+            "Ward",
+            "said",
+            "another",
+            "6",
+            "to",
+            "10",
+            "inches",
+            "of",
+            "rain",
+            "were",
+            "expected",
+            "to",
+            "fall",
+            ",",
+            "with",
+            "\"",
+            "maybe",
+            "isolated",
+            "amounts",
+            "greater",
+            ".",
+            "\""
+        ],
+        [
+            "Haikui",
+            "was",
+            "moving",
+            "northwest",
+            "at",
+            "20",
+            "kph",
+            "(",
+            "12",
+            "mph",
+            ")",
+            "but",
+            "was",
+            "expected",
+            "to",
+            "slow",
+            "over",
+            "the",
+            "coming",
+            "two",
+            "days",
+            ",",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "Chinese",
+            "officials",
+            "had",
+            "evacuated",
+            "374,000",
+            "people",
+            "from",
+            "Shanghai",
+            "and",
+            "250,000",
+            "from",
+            "Zhejiang",
+            ",",
+            "according",
+            "to",
+            "the",
+            "state",
+            "-",
+            "run",
+            "China",
+            "Daily",
+            "."
+        ],
+        [
+            "Haikui",
+            ",",
+            "which",
+            "had",
+            "been",
+            "a",
+            "typhoon",
+            "on",
+            "Tuesday",
+            ",",
+            "is",
+            "the",
+            "third",
+            "tropical",
+            "storm",
+            "to",
+            "hit",
+            "China",
+            "'s",
+            "east",
+            "coast",
+            "in",
+            "less",
+            "than",
+            "a",
+            "week",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,282 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "graze",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finding",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "taking",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shot",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wounded",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-26",
+    "sents": [
+        [
+            "A",
+            "DOE",
+            ",",
+            "blind",
+            "in",
+            "one",
+            "eye",
+            ",",
+            "used",
+            "to",
+            "graze",
+            "as",
+            "near",
+            "as",
+            "she",
+            "could",
+            "to",
+            "the",
+            "edge",
+            "of",
+            "a",
+            "cliff",
+            ",",
+            "so",
+            "that",
+            "she",
+            "might",
+            "keep",
+            "her",
+            "blind",
+            "eye",
+            "to",
+            "the",
+            "water",
+            ",",
+            "while",
+            "with",
+            "the",
+            "other",
+            "she",
+            "kept",
+            "watch",
+            "against",
+            "the",
+            "approach",
+            "of",
+            "hunters",
+            "or",
+            "hounds",
+            "on",
+            "the",
+            "shore",
+            "."
+        ],
+        [
+            "Some",
+            "boatmen",
+            "sailing",
+            "by",
+            "saw",
+            "her",
+            "standing",
+            "thus",
+            "on",
+            "the",
+            "edge",
+            "of",
+            "a",
+            "cliff",
+            ",",
+            "and",
+            "finding",
+            "that",
+            "she",
+            "did",
+            "not",
+            "perceive",
+            "their",
+            "approach",
+            ",",
+            "they",
+            "came",
+            "very",
+            "close",
+            ",",
+            "and",
+            "taking",
+            "aim",
+            ",",
+            "shot",
+            "her",
+            "."
+        ],
+        [
+            "Finding",
+            "herself",
+            "wounded",
+            ",",
+            "she",
+            "said",
+            ",",
+            "\u201c",
+            "O",
+            "unhappy",
+            "creature",
+            "that",
+            "I",
+            "am",
+            ",",
+            "to",
+            "take",
+            "such",
+            "care",
+            "as",
+            "I",
+            "did",
+            "against",
+            "the",
+            "dangers",
+            "of",
+            "the",
+            "land",
+            ",",
+            "and",
+            "then",
+            ",",
+            "after",
+            "all",
+            ",",
+            "to",
+            "find",
+            "this",
+            "seashore",
+            ",",
+            "to",
+            "which",
+            "I",
+            "had",
+            "come",
+            "for",
+            "safety",
+            ",",
+            "so",
+            "much",
+            "more",
+            "perilous",
+            "!",
+            "\u201d"
+        ]
+    ]
+}

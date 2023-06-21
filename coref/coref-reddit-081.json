@@ -1,0 +1,313 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "my student bill",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my student bill",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "me",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this advice / rant",
+                "pos": [
+                    41,
+                    45
+                ],
+                "sent_id": 2,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "need - based aid",
+                "pos": [
+                    51,
+                    55
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "need - based aid",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    49,
+                    50
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-081",
+    "sents": [
+        [
+            "Do",
+            "n\u2019t",
+            "be",
+            "dumb",
+            "like",
+            "me",
+            "and",
+            "save",
+            "and",
+            "invest",
+            "as",
+            "much",
+            "as",
+            "you",
+            "can",
+            "during",
+            "college",
+            "so",
+            "that",
+            "you",
+            "can",
+            "get",
+            "an",
+            "early",
+            "start",
+            "on",
+            "your",
+            "wealth",
+            ".."
+        ],
+        [
+            "it",
+            "wo",
+            "n\u2019t",
+            "work",
+            "and",
+            "you",
+            "will",
+            "have",
+            "regrets",
+            ".."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "now",
+            "questioning",
+            "what",
+            "\u2019s",
+            "the",
+            "point",
+            "of",
+            "me",
+            "working",
+            "3",
+            "jobs",
+            "in",
+            "order",
+            "to",
+            "comfortably",
+            "pay",
+            "my",
+            "student",
+            "bill",
+            "because",
+            "now",
+            "my",
+            "student",
+            "bill",
+            "is",
+            "going",
+            "to",
+            "become",
+            "an",
+            "even",
+            "more",
+            "uncomfortable",
+            "cost\u2026",
+            "Edit",
+            ":",
+            "I",
+            "should",
+            "mention",
+            "that",
+            "this",
+            "advice",
+            "/",
+            "rant",
+            "really",
+            "only",
+            "applies",
+            "if",
+            "you",
+            "get",
+            "need",
+            "-",
+            "based",
+            "aid",
+            "for",
+            "college",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "already",
+            "do",
+            "n\u2019t",
+            "qualify",
+            "for",
+            "need",
+            "-",
+            "based",
+            "aid",
+            "(",
+            "such",
+            "as",
+            "the",
+            "Pell",
+            "Grant",
+            ")",
+            "then",
+            "your",
+            "savings",
+            "and",
+            "assets",
+            "should",
+            "n\u2019t",
+            "change",
+            "anything",
+            "."
+        ]
+    ]
+}

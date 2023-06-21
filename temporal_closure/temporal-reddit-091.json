@@ -1,0 +1,491 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "took",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "admit",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "checked",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m applying",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is Penn State",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is a 2.8",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ends",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is November 1st",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "email",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-091",
+    "sents": [
+        [
+            "So",
+            "I",
+            "took",
+            "my",
+            "very",
+            "first",
+            "SAT",
+            "for",
+            "the",
+            "first",
+            "time",
+            "on",
+            "Oct",
+            "2nd",
+            ",",
+            "and",
+            "I",
+            "\u2019ll",
+            "admit",
+            "I",
+            "did",
+            "n\u2019t",
+            "study",
+            "amazingly",
+            "."
+        ],
+        [
+            "Today",
+            "I",
+            "checked",
+            "my",
+            "scores",
+            "and",
+            "I",
+            "got",
+            "a",
+            "620",
+            "in",
+            "reading",
+            "(",
+            "which",
+            "I",
+            "had",
+            "to",
+            "rush",
+            "in",
+            "very",
+            "heavily",
+            "for",
+            "the",
+            "last",
+            "10",
+            "questions",
+            "and",
+            "completely",
+            "guessed",
+            ")",
+            "and",
+            "a",
+            "400",
+            "for",
+            "math",
+            "."
+        ],
+        [
+            "The",
+            "only",
+            "school",
+            "I",
+            "\u2019m",
+            "applying",
+            "early",
+            "decision",
+            "to",
+            "is",
+            "Penn",
+            "State",
+            "."
+        ],
+        [
+            "My",
+            "cumulative",
+            "gpa",
+            "is",
+            "a",
+            "2.8",
+            "from",
+            "a",
+            "very",
+            "bad",
+            "sophomore",
+            "and",
+            "freshman",
+            "year",
+            ",",
+            "but",
+            "got",
+            "consistent",
+            "As",
+            "in",
+            "my",
+            "Ap",
+            "classes",
+            "junior",
+            "year",
+            "."
+        ],
+        [
+            "My",
+            "1st",
+            "senior",
+            "year",
+            "marking",
+            "period",
+            "ends",
+            "November",
+            "4th",
+            "but",
+            "early",
+            "decision",
+            "is",
+            "November",
+            "1st",
+            "."
+        ],
+        [
+            "Would",
+            "they",
+            "still",
+            "get",
+            "my",
+            "transcript",
+            "for",
+            "this",
+            "year",
+            "if",
+            "I",
+            "send",
+            "it",
+            "in",
+            "after",
+            "then",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019ll",
+            "email",
+            "them",
+            "but",
+            "wanted",
+            "to",
+            "know",
+            "anyone",
+            "\u2019s",
+            "experience",
+            "."
+        ]
+    ]
+}

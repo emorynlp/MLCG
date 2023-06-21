@@ -1,0 +1,256 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "referring",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-24",
+    "sents": [
+        [
+            "The",
+            "U.S.",
+            "Agriculture",
+            "Department",
+            "probably",
+            "will",
+            "not",
+            "offer",
+            "a",
+            "two",
+            "dlr",
+            "per",
+            "bushel",
+            "bonus",
+            "payment",
+            "to",
+            "corn",
+            "farmers",
+            "for",
+            "any",
+            "erodible",
+            "cropland",
+            "they",
+            "enrolled",
+            "in",
+            "the",
+            "conservation",
+            "reserve",
+            "program",
+            "last",
+            "year",
+            ",",
+            "an",
+            "aide",
+            "to",
+            "USDA",
+            "Secretary",
+            "Richard",
+            "Lyng",
+            "said",
+            "."
+        ],
+        [
+            "Sen.",
+            "Charles",
+            "Grassley",
+            "(",
+            "R",
+            "-",
+            "Iowa",
+            ")",
+            "said",
+            "yesterday",
+            "that",
+            "Lyng",
+            "had",
+            "indicated",
+            "he",
+            "would",
+            "consider",
+            "giving",
+            "those",
+            "farmers",
+            "the",
+            "same",
+            "two",
+            "dlr",
+            "bonus",
+            "offered",
+            "corn",
+            "farmers",
+            "who",
+            "are",
+            "signing",
+            "up",
+            "for",
+            "the",
+            "1987",
+            "program",
+            "this",
+            "month",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "aide",
+            "to",
+            "Lyng",
+            "said",
+            "it",
+            "was",
+            "doubtful",
+            "that",
+            "the",
+            "department",
+            "would",
+            "offer",
+            "a",
+            "retroactive",
+            "bonus",
+            "to",
+            "farmers",
+            "who",
+            "enrolled",
+            "land",
+            "in",
+            "the",
+            "10",
+            "-",
+            "year",
+            "conservation",
+            "reserve",
+            "last",
+            "year",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "are",
+            "you",
+            "going",
+            "to",
+            "stop",
+            "the",
+            "tide",
+            ",",
+            "\"",
+            "he",
+            "said",
+            ",",
+            "referring",
+            "to",
+            "demands",
+            "that",
+            "would",
+            "follow",
+            "from",
+            "other",
+            "commodity",
+            "groups",
+            "."
+        ]
+    ]
+}

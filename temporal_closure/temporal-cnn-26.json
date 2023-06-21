@@ -1,0 +1,311 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "struggled",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were 5% contained",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "expects",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is located",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-26",
+    "sents": [
+        [
+            "Crews",
+            "in",
+            "Southern",
+            "California",
+            "struggled",
+            "to",
+            "get",
+            "the",
+            "upper",
+            "hand",
+            "on",
+            "a",
+            "fast",
+            "-",
+            "moving",
+            "wildfire",
+            "in",
+            "Santa",
+            "Barbara",
+            "County",
+            "early",
+            "Tuesday",
+            "."
+        ],
+        [
+            "Known",
+            "as",
+            "the",
+            "White",
+            "Fire",
+            ",",
+            "the",
+            "blaze",
+            "had",
+            "already",
+            "charred",
+            "some",
+            "1,000",
+            "acres",
+            "after",
+            "getting",
+            "its",
+            "start",
+            "Monday",
+            "afternoon",
+            ",",
+            "U.S.",
+            "Forest",
+            "Service",
+            "spokesman",
+            "Andrew",
+            "Madsen",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "flames",
+            "were",
+            "5%",
+            "contained",
+            "."
+        ],
+        [
+            "The",
+            "Forest",
+            "Service",
+            "expects",
+            "to",
+            "have",
+            "700",
+            "personnel",
+            "in",
+            "place",
+            "Tuesday",
+            "morning",
+            "."
+        ],
+        [
+            "The",
+            "Santa",
+            "Barbara",
+            "Sheriff",
+            "'s",
+            "Department",
+            "evacuated",
+            "up",
+            "to",
+            "6,000",
+            "people",
+            "from",
+            "the",
+            "popular",
+            "White",
+            "Rock",
+            "Campground",
+            "at",
+            "the",
+            "end",
+            "of",
+            "the",
+            "busy",
+            "Memorial",
+            "Day",
+            "weekend",
+            "as",
+            "the",
+            "wildfire",
+            "advanced",
+            ",",
+            "public",
+            "information",
+            "officer",
+            "Kelly",
+            "Hoover",
+            "said",
+            "."
+        ],
+        [
+            "Although",
+            "the",
+            "fire",
+            "caused",
+            "minor",
+            "damage",
+            "to",
+            "a",
+            "ranger",
+            "station",
+            ",",
+            "it",
+            "quickly",
+            "moved",
+            "deeper",
+            "into",
+            "Los",
+            "Padres",
+            "National",
+            "Forest",
+            ",",
+            "away",
+            "from",
+            "homes",
+            "and",
+            "structures",
+            ",",
+            "according",
+            "to",
+            "Madsen",
+            "."
+        ],
+        [
+            "No",
+            "injuries",
+            "or",
+            "fatalities",
+            "have",
+            "been",
+            "reported",
+            "."
+        ],
+        [
+            "Santa",
+            "Barbara",
+            "is",
+            "located",
+            "about",
+            "85",
+            "miles",
+            "northwest",
+            "of",
+            "downtown",
+            "Los",
+            "Angeles",
+            "."
+        ]
+    ]
+}

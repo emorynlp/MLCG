@@ -1,0 +1,396 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the cock",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the poor cock",
+                "pos": [
+                    26,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the cock",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the cock",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A WIDOW",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "herself",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "their mistress",
+                "pos": [
+                    31,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the mistress",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the mistress",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two little Maids",
+                "pos": [
+                    22,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her Maids",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The Maids",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "her Maids",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-37",
+    "sents": [
+        [
+            "A",
+            "WIDOW",
+            "who",
+            "had",
+            "great",
+            "reputation",
+            "as",
+            "a",
+            "housekeeper",
+            ",",
+            "because",
+            "she",
+            "was",
+            "so",
+            "fond",
+            "of",
+            "cleaning",
+            ",",
+            "was",
+            "waited",
+            "upon",
+            "by",
+            "two",
+            "little",
+            "Maids",
+            "."
+        ],
+        [
+            "She",
+            "herself",
+            "was",
+            "wakened",
+            "before",
+            "dawn",
+            "by",
+            "the",
+            "crowing",
+            "of",
+            "the",
+            "cock",
+            ",",
+            "and",
+            "would",
+            "rise",
+            "at",
+            "once",
+            "and",
+            "call",
+            "her",
+            "Maids",
+            "."
+        ],
+        [
+            "The",
+            "Maids",
+            ",",
+            "who",
+            "had",
+            "no",
+            "taste",
+            "for",
+            "such",
+            "excessive",
+            "tidiness",
+            ",",
+            "and",
+            "who",
+            "were",
+            "kept",
+            "weary",
+            "by",
+            "such",
+            "constant",
+            "labor",
+            ",",
+            "held",
+            "a",
+            "spite",
+            "against",
+            "the",
+            "poor",
+            "cock",
+            "for",
+            "rousing",
+            "their",
+            "mistress",
+            "so",
+            "early",
+            "."
+        ],
+        [
+            "\u201c",
+            "If",
+            "it",
+            "were",
+            "not",
+            "for",
+            "him",
+            ",",
+            "\u201d",
+            "they",
+            "said",
+            ",",
+            "\u201c",
+            "the",
+            "mistress",
+            "would",
+            "sleep",
+            "till",
+            "the",
+            "sun",
+            "is",
+            "well",
+            "up",
+            "."
+        ],
+        [
+            "Let",
+            "us",
+            "kill",
+            "the",
+            "cock",
+            ",",
+            "since",
+            "there",
+            "is",
+            "no",
+            "other",
+            "way",
+            "to",
+            "stop",
+            "his",
+            "loud",
+            "crowing",
+            ".",
+            "\u201d"
+        ],
+        [
+            "But",
+            "the",
+            "mistress",
+            ",",
+            "no",
+            "longer",
+            "hearing",
+            "the",
+            "cock",
+            ",",
+            "was",
+            "unable",
+            "to",
+            "tell",
+            "the",
+            "time",
+            ",",
+            "and",
+            "so",
+            "often",
+            "woke",
+            "her",
+            "Maids",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "night",
+            "and",
+            "set",
+            "them",
+            "to",
+            "work",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,459 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "many of you",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "stay",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "both options",
+                "pos": [
+                    46,
+                    48
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "you guys",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "us",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "return",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "Going back",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "campus",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "campus",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "campus",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "stay",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "Staying",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a tiny dorm room",
+                "pos": [
+                    16,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "a dorm room",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my family",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my family",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "This",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "post"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-036",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "in",
+            "the",
+            "same",
+            "boat",
+            "as",
+            "many",
+            "of",
+            "you",
+            "-",
+            "being",
+            "offered",
+            "the",
+            "choice",
+            "to",
+            "return",
+            "to",
+            "living",
+            "on",
+            "campus",
+            ",",
+            "or",
+            "stay",
+            "an",
+            "online",
+            "student",
+            "."
+        ],
+        [
+            "Going",
+            "back",
+            "to",
+            "campus",
+            "I",
+            "..."
+        ],
+        [
+            "+",
+            "Have",
+            "independence",
+            "/",
+            "freedom",
+            "+",
+            "Get",
+            "away",
+            "from",
+            "my",
+            "family",
+            "-",
+            "Might",
+            "end",
+            "up",
+            "in",
+            "a",
+            "tiny",
+            "dorm",
+            "room",
+            "80%",
+            "of",
+            "the",
+            "time",
+            "since",
+            "we",
+            "ca",
+            "n\u2019t",
+            "do",
+            "much",
+            "on",
+            "campus",
+            "now",
+            "Staying",
+            "home",
+            "I",
+            "..."
+        ],
+        [
+            "+",
+            "Save",
+            "money",
+            "+",
+            "Have",
+            "a",
+            "car",
+            "and",
+            "more",
+            "places",
+            "to",
+            "escape",
+            "to",
+            "(",
+            "not",
+            "just",
+            "a",
+            "dorm",
+            "room",
+            ")",
+            "-",
+            "Have",
+            "to",
+            "be",
+            "around",
+            "my",
+            "family",
+            "constantly",
+            "for",
+            "another",
+            "3",
+            "months",
+            "-",
+            "FOMO",
+            "and",
+            "lack",
+            "of",
+            "socialization",
+            "Any",
+            "input",
+            "is",
+            "appreciated",
+            ",",
+            "I",
+            "really",
+            "dislike",
+            "both",
+            "options",
+            "and",
+            "do",
+            "n\u2019t",
+            "know",
+            "if",
+            "either",
+            "is",
+            "a",
+            "winner",
+            "."
+        ],
+        [
+            "EDIT",
+            ":",
+            "This",
+            "really",
+            "took",
+            "off",
+            ",",
+            "I",
+            "was",
+            "expecting",
+            "maybe",
+            "one",
+            "or",
+            "two",
+            "comments",
+            "."
+        ],
+        [
+            "Thank",
+            "you",
+            "guys",
+            "for",
+            "being",
+            "a",
+            "great",
+            "community",
+            ",",
+            "really",
+            "nice",
+            "to",
+            "read",
+            "the",
+            "comments",
+            "and",
+            "know",
+            "none",
+            "of",
+            "us",
+            "are",
+            "alone",
+            "."
+        ]
+    ]
+}

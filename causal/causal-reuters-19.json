@@ -1,0 +1,208 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The reduction",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "brings its posted price for West Texas Intermediate to",
+                "pos": [
+                    2,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "its posted price for West Texas Intermediate to 16.00 dlrs a barrel",
+                "pos": [
+                    3,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The price reduction today was made",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "in the light of",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "falling oil product prices and a weak crude oil market",
+                "pos": [
+                    11,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-19",
+    "sents": [
+        [
+            "Diamond",
+            "Shamrock",
+            "Corp",
+            "said",
+            "that",
+            "effective",
+            "today",
+            "it",
+            "had",
+            "cut",
+            "its",
+            "contract",
+            "prices",
+            "for",
+            "crude",
+            "oil",
+            "by",
+            "1.50",
+            "dlrs",
+            "a",
+            "barrel",
+            "."
+        ],
+        [
+            "The",
+            "reduction",
+            "brings",
+            "its",
+            "posted",
+            "price",
+            "for",
+            "West",
+            "Texas",
+            "Intermediate",
+            "to",
+            "16.00",
+            "dlrs",
+            "a",
+            "barrel",
+            ",",
+            "the",
+            "copany",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "price",
+            "reduction",
+            "today",
+            "was",
+            "made",
+            "in",
+            "the",
+            "light",
+            "of",
+            "falling",
+            "oil",
+            "product",
+            "prices",
+            "and",
+            "a",
+            "weak",
+            "crude",
+            "oil",
+            "market",
+            ",",
+            "\"",
+            "a",
+            "company",
+            "spokeswoman",
+            "said",
+            "."
+        ],
+        [
+            "Diamond",
+            "is",
+            "the",
+            "latest",
+            "in",
+            "a",
+            "line",
+            "of",
+            "U.S.",
+            "oil",
+            "companies",
+            "that",
+            "have",
+            "cut",
+            "its",
+            "contract",
+            ",",
+            "or",
+            "posted",
+            ",",
+            "prices",
+            "over",
+            "the",
+            "last",
+            "two",
+            "days",
+            "citing",
+            "weak",
+            "oil",
+            "markets",
+            "."
+        ]
+    ]
+}

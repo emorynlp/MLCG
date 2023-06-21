@@ -1,0 +1,387 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the fold",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the fold",
+                "pos": [
+                    30,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Some shepherds",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A WOLF",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Shepherd",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Shepherd",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Wolf",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-35",
+    "sents": [
+        [
+            "A",
+            "WOLF",
+            "once",
+            "clothed",
+            "himself",
+            "in",
+            "the",
+            "fleece",
+            "of",
+            "a",
+            "sheep",
+            ",",
+            "and",
+            "being",
+            "mistaken",
+            "for",
+            "one",
+            "of",
+            "the",
+            "flock",
+            ",",
+            "got",
+            "into",
+            "the",
+            "fold",
+            "."
+        ],
+        [
+            "He",
+            "had",
+            "a",
+            "chance",
+            "to",
+            "make",
+            "way",
+            "with",
+            "as",
+            "many",
+            "sheep",
+            "as",
+            "he",
+            "liked",
+            ";",
+            "but",
+            "his",
+            "time",
+            "for",
+            "doing",
+            "so",
+            "was",
+            "short",
+            ",",
+            "for",
+            "the",
+            "Shepherd",
+            ",",
+            "coming",
+            "into",
+            "the",
+            "fold",
+            "during",
+            "the",
+            "night",
+            ",",
+            "discovered",
+            "him",
+            "."
+        ],
+        [
+            "Tying",
+            "him",
+            "to",
+            "a",
+            "tree",
+            ",",
+            "he",
+            "left",
+            "him",
+            "hanging",
+            "there",
+            ",",
+            "still",
+            "in",
+            "his",
+            "sheep",
+            "\u2019s",
+            "dress",
+            ",",
+            "as",
+            "a",
+            "warning",
+            "to",
+            "other",
+            "wolves",
+            "who",
+            "might",
+            "be",
+            "prowling",
+            "about",
+            "."
+        ],
+        [
+            "Some",
+            "shepherds",
+            "who",
+            "chanced",
+            "to",
+            "pass",
+            "by",
+            "saw",
+            "him",
+            "there",
+            ",",
+            "and",
+            "stopped",
+            "to",
+            "inquire",
+            "why",
+            "sheep",
+            "should",
+            "be",
+            "thus",
+            "served",
+            "."
+        ],
+        [
+            "As",
+            "they",
+            "came",
+            "nearer",
+            "and",
+            "saw",
+            "that",
+            "it",
+            "was",
+            "not",
+            "a",
+            "sheep",
+            "but",
+            "a",
+            "Wolf",
+            ",",
+            "the",
+            "Shepherd",
+            "said",
+            ",",
+            "\u201c",
+            "This",
+            "is",
+            "the",
+            "way",
+            "I",
+            "serve",
+            "a",
+            "Wolf",
+            ",",
+            "even",
+            "though",
+            "I",
+            "find",
+            "him",
+            "wearing",
+            "the",
+            "habit",
+            "of",
+            "a",
+            "sheep",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

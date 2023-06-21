@@ -1,0 +1,513 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "denied",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "messed up",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was homeless",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is making",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "send",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s like",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m stuck",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "taken",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been rejected",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "mentioned",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-128",
+    "sents": [
+        [
+            "All",
+            "my",
+            "applications",
+            "get",
+            "denied",
+            "because",
+            "of",
+            "classes",
+            "I",
+            "messed",
+            "up",
+            "when",
+            "I",
+            "was",
+            "homeless",
+            "10",
+            "years",
+            "ago",
+            "."
+        ],
+        [
+            "This",
+            "is",
+            "making",
+            "my",
+            "GPA",
+            "at",
+            "a",
+            "nice",
+            "disgusting",
+            "2.63",
+            "and",
+            "its",
+            "really",
+            "not",
+            "helping",
+            "."
+        ],
+        [
+            "Every",
+            "page",
+            "I",
+            "send",
+            "of",
+            "letters",
+            "of",
+            "intent",
+            ",",
+            "it",
+            "'s",
+            "like",
+            "they",
+            "just",
+            "throw",
+            "it",
+            "out",
+            "without",
+            "looking",
+            "at",
+            "my",
+            "reasons",
+            "."
+        ],
+        [
+            "Even",
+            "though",
+            "my",
+            "last",
+            "couple",
+            "semesters",
+            "I",
+            "'ve",
+            "had",
+            "3.2GPA",
+            "'s",
+            "overall",
+            ",",
+            "it",
+            "does",
+            "n't",
+            "matter",
+            "it",
+            "feels",
+            "."
+        ],
+        [
+            "What",
+            "'s",
+            "the",
+            "point",
+            "?"
+        ],
+        [
+            "I",
+            "'m",
+            "stuck",
+            "in",
+            "an",
+            "endless",
+            "cycle",
+            "of",
+            "submitting",
+            "bunches",
+            "of",
+            "letters",
+            "of",
+            "recommendation",
+            "and",
+            "showing",
+            "courses",
+            "I",
+            "have",
+            "taken",
+            "to",
+            "improve",
+            "myself",
+            ",",
+            "but",
+            "all",
+            "in",
+            "all",
+            "I",
+            "feel",
+            "like",
+            "its",
+            "all",
+            "for",
+            "nothing",
+            "."
+        ],
+        [
+            "I",
+            "'ve",
+            "been",
+            "rejected",
+            "from",
+            "6",
+            "different",
+            "graduate",
+            "courses",
+            "related",
+            "to",
+            "Finance",
+            "in",
+            "the",
+            "past",
+            "2",
+            "years",
+            "."
+        ],
+        [
+            "$",
+            "700",
+            "in",
+            "fees",
+            "down",
+            "the",
+            "drain",
+            "so",
+            "far",
+            "."
+        ],
+        [
+            "Please",
+            ",",
+            "any",
+            "tips",
+            "on",
+            "successfully",
+            "applying",
+            "with",
+            "such",
+            "a",
+            "low",
+            "GPA",
+            "?"
+        ],
+        [
+            "I",
+            "'ve",
+            "even",
+            "mentioned",
+            "non-matriculated",
+            "but",
+            "that",
+            "does",
+            "n't",
+            "seem",
+            "to",
+            "help",
+            "."
+        ]
+    ]
+}

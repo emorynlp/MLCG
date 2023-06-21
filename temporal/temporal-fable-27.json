@@ -1,0 +1,192 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "snap",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lick",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-27",
+    "sents": [
+        [
+            "A",
+            "DOG",
+            "once",
+            "gave",
+            "chase",
+            "to",
+            "a",
+            "Hare",
+            "."
+        ],
+        [
+            "Having",
+            "not",
+            "long",
+            "since",
+            "made",
+            "a",
+            "good",
+            "meal",
+            ",",
+            "the",
+            "Dog",
+            "was",
+            "not",
+            "hungry",
+            ",",
+            "and",
+            "so",
+            "was",
+            "not",
+            "in",
+            "haste",
+            "to",
+            "end",
+            "the",
+            "sport",
+            "by",
+            "killing",
+            "the",
+            "Hare",
+            "."
+        ],
+        [
+            "At",
+            "times",
+            "he",
+            "would",
+            "snap",
+            "at",
+            "his",
+            "prey",
+            ",",
+            "and",
+            "at",
+            "times",
+            "play",
+            "with",
+            "him",
+            "and",
+            "lick",
+            "him",
+            "with",
+            "his",
+            "tongue",
+            ",",
+            "till",
+            "at",
+            "last",
+            "the",
+            "bewildered",
+            "Hare",
+            "cried",
+            ":",
+            "\u201c",
+            "Pray",
+            "tell",
+            "me",
+            ",",
+            "are",
+            "you",
+            "an",
+            "enemy",
+            "or",
+            "a",
+            "friend",
+            "?"
+        ],
+        [
+            "If",
+            "a",
+            "friend",
+            ",",
+            "why",
+            "do",
+            "you",
+            "bite",
+            "me",
+            "so",
+            "?"
+        ],
+        [
+            "and",
+            "if",
+            "an",
+            "enemy",
+            ",",
+            "why",
+            "do",
+            "you",
+            "caress",
+            "me",
+            "?",
+            "\u201d"
+        ],
+        [
+            "No",
+            "one",
+            "can",
+            "trust",
+            "a",
+            "person",
+            "who",
+            "is",
+            "neither",
+            "the",
+            "one",
+            "thing",
+            "nor",
+            "the",
+            "other",
+            "."
+        ]
+    ]
+}

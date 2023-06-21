@@ -1,0 +1,299 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a farmhouse",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the door",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the child",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the farmer ' s wife",
+                "pos": [
+                    4,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the woman",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the farmer ' s wife",
+                "pos": [
+                    10,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "them",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the four travelers",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them all",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Castle of Glinda",
+                "pos": [
+                    6,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-36",
+    "sents": [
+        [
+            "The",
+            "Monkeys",
+            "had",
+            "set",
+            "them",
+            "down",
+            "near",
+            "a",
+            "farmhouse",
+            ",",
+            "and",
+            "the",
+            "four",
+            "travelers",
+            "walked",
+            "up",
+            "to",
+            "it",
+            "and",
+            "knocked",
+            "at",
+            "the",
+            "door",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "opened",
+            "by",
+            "the",
+            "farmer",
+            "'",
+            "s",
+            "wife",
+            ",",
+            "and",
+            "when",
+            "Dorothy",
+            "asked",
+            "for",
+            "something",
+            "to",
+            "eat",
+            "the",
+            "woman",
+            "gave",
+            "them",
+            "all",
+            "a",
+            "good",
+            "dinner",
+            ",",
+            "with",
+            "three",
+            "kinds",
+            "of",
+            "cake",
+            "and",
+            "four",
+            "kinds",
+            "of",
+            "cookies",
+            ",",
+            "and",
+            "a",
+            "bowl",
+            "of",
+            "milk",
+            "for",
+            "Toto",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "far",
+            "is",
+            "it",
+            "to",
+            "the",
+            "Castle",
+            "of",
+            "Glinda",
+            "?",
+            "\"",
+            "asked",
+            "the",
+            "child",
+            "."
+        ],
+        [
+            "\"",
+            "It",
+            "is",
+            "not",
+            "a",
+            "great",
+            "way",
+            ",",
+            "\"",
+            "answered",
+            "the",
+            "farmer",
+            "'",
+            "s",
+            "wife",
+            "."
+        ],
+        [
+            "\"",
+            "Take",
+            "the",
+            "road",
+            "to",
+            "the",
+            "South",
+            "and",
+            "you",
+            "will",
+            "soon",
+            "reach",
+            "it",
+            "."
+        ]
+    ]
+}

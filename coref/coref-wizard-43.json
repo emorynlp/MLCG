@@ -1,0 +1,504 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "they",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "them",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the little mice",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the mice",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The Queen of the Mice",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the Queen",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Toto",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "her companion",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the big Lion",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Lion",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-43",
+    "sents": [
+        [
+            "Dorothy",
+            "came",
+            "to",
+            "meet",
+            "them",
+            "and",
+            "thanked",
+            "the",
+            "little",
+            "mice",
+            "warmly",
+            "for",
+            "saving",
+            "her",
+            "companion",
+            "from",
+            "death",
+            "."
+        ],
+        [
+            "She",
+            "had",
+            "grown",
+            "so",
+            "fond",
+            "of",
+            "the",
+            "big",
+            "Lion",
+            "she",
+            "was",
+            "glad",
+            "he",
+            "had",
+            "been",
+            "rescued",
+            "."
+        ],
+        [
+            "Then",
+            "the",
+            "mice",
+            "were",
+            "unharnessed",
+            "from",
+            "the",
+            "truck",
+            "and",
+            "scampered",
+            "away",
+            "through",
+            "the",
+            "grass",
+            "to",
+            "their",
+            "homes",
+            "."
+        ],
+        [
+            "The",
+            "Queen",
+            "of",
+            "the",
+            "Mice",
+            "was",
+            "the",
+            "last",
+            "to",
+            "leave",
+            "."
+        ],
+        [
+            "\"",
+            "If",
+            "ever",
+            "you",
+            "need",
+            "us",
+            "again",
+            ",",
+            "\"",
+            "she",
+            "said",
+            ",",
+            "\"",
+            "come",
+            "out",
+            "into",
+            "the",
+            "field",
+            "and",
+            "call",
+            ",",
+            "and",
+            "we",
+            "shall",
+            "hear",
+            "you",
+            "and",
+            "come",
+            "to",
+            "your",
+            "assistance",
+            "."
+        ],
+        [
+            "Good",
+            "-",
+            "bye",
+            "!",
+            "\""
+        ],
+        [
+            "\"",
+            "Good",
+            "-",
+            "bye",
+            "!",
+            "\"",
+            "they",
+            "all",
+            "answered",
+            ",",
+            "and",
+            "away",
+            "the",
+            "Queen",
+            "ran",
+            ",",
+            "while",
+            "Dorothy",
+            "held",
+            "Toto",
+            "tightly",
+            "lest",
+            "he",
+            "should",
+            "run",
+            "after",
+            "her",
+            "and",
+            "frighten",
+            "her",
+            "."
+        ],
+        [
+            "After",
+            "this",
+            "they",
+            "sat",
+            "down",
+            "beside",
+            "the",
+            "Lion",
+            "until",
+            "he",
+            "should",
+            "awaken",
+            ";",
+            "and",
+            "the",
+            "Scarecrow",
+            "brought",
+            "Dorothy",
+            "some",
+            "fruit",
+            "from",
+            "a",
+            "tree",
+            "near",
+            "by",
+            ",",
+            "which",
+            "she",
+            "ate",
+            "for",
+            "her",
+            "dinner",
+            "."
+        ]
+    ]
+}

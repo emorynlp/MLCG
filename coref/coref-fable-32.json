@@ -1,0 +1,555 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a Lame Man",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Lame Man",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Lame Man",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Lame Man",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "his lame companion",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A BLIND Man",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the other",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "the Blind Man",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-32",
+    "sents": [
+        [
+            "A",
+            "BLIND",
+            "Man",
+            ",",
+            "being",
+            "stopped",
+            "in",
+            "a",
+            "bad",
+            "piece",
+            "of",
+            "road",
+            ",",
+            "met",
+            "a",
+            "Lame",
+            "Man",
+            ",",
+            "and",
+            "entreated",
+            "him",
+            "to",
+            "help",
+            "him",
+            "out",
+            "of",
+            "the",
+            "difficulty",
+            "into",
+            "which",
+            "he",
+            "had",
+            "fallen",
+            "."
+        ],
+        [
+            "\u201c",
+            "How",
+            "can",
+            "I",
+            ",",
+            "\u201d",
+            "replied",
+            "the",
+            "Lame",
+            "Man",
+            ",",
+            "\u201c",
+            "since",
+            "I",
+            "can",
+            "scarcely",
+            "drag",
+            "myself",
+            "along",
+            "?"
+        ],
+        [
+            "I",
+            "am",
+            "lame",
+            ",",
+            "and",
+            "you",
+            "look",
+            "very",
+            "strong",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "I",
+            "am",
+            "strong",
+            "enough",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "other",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "could",
+            "go",
+            "if",
+            "I",
+            "could",
+            "but",
+            "see",
+            "the",
+            "way",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Oh",
+            ",",
+            "then",
+            "we",
+            "may",
+            "help",
+            "each",
+            "other",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Lame",
+            "Man",
+            "."
+        ],
+        [
+            "\u201c",
+            "If",
+            "you",
+            "will",
+            "take",
+            "me",
+            "on",
+            "your",
+            "shoulders",
+            ",",
+            "we",
+            "will",
+            "seek",
+            "our",
+            "fortunes",
+            "together",
+            "."
+        ],
+        [
+            "I",
+            "will",
+            "be",
+            "eyes",
+            "for",
+            "you",
+            ",",
+            "and",
+            "you",
+            "shall",
+            "be",
+            "feet",
+            "for",
+            "me",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "With",
+            "all",
+            "my",
+            "heart",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Blind",
+            "Man",
+            "."
+        ],
+        [
+            "\u201c",
+            "Let",
+            "us",
+            "render",
+            "each",
+            "other",
+            "our",
+            "mutual",
+            "services",
+            ".",
+            "\u201d"
+        ],
+        [
+            "So",
+            "he",
+            "took",
+            "his",
+            "lame",
+            "companion",
+            "upon",
+            "his",
+            "back",
+            ",",
+            "and",
+            "they",
+            "traveled",
+            "on",
+            "with",
+            "safety",
+            "and",
+            "pleasure",
+            "."
+        ]
+    ]
+}

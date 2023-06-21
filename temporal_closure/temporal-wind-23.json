@@ -1,0 +1,532 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was already getting",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reached",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "plunged",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looking",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "popped out",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "vanished",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heard",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "died away",
+                "pos": [
+                    50,
+                    52
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ceased",
+                "pos": [
+                    53,
+                    54
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was very still",
+                "pos": [
+                    57,
+                    60
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "forsaking",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "set",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "working",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "calling out",
+                "pos": [
+                    41,
+                    43
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-23",
+    "sents": [
+        [
+            "It",
+            "was",
+            "already",
+            "getting",
+            "towards",
+            "dusk",
+            "when",
+            "he",
+            "reached",
+            "the",
+            "first",
+            "fringe",
+            "of",
+            "trees",
+            "and",
+            "plunged",
+            "without",
+            "hesitation",
+            "into",
+            "the",
+            "wood",
+            ",",
+            "looking",
+            "anxiously",
+            "on",
+            "either",
+            "side",
+            "for",
+            "any",
+            "sign",
+            "of",
+            "his",
+            "friend",
+            "."
+        ],
+        [
+            "Here",
+            "and",
+            "there",
+            "wicked",
+            "little",
+            "faces",
+            "popped",
+            "out",
+            "of",
+            "holes",
+            ",",
+            "but",
+            "vanished",
+            "immediately",
+            "at",
+            "sight",
+            "of",
+            "the",
+            "valorous",
+            "animal",
+            ",",
+            "his",
+            "pistols",
+            ",",
+            "and",
+            "the",
+            "great",
+            "ugly",
+            "cudgel",
+            "in",
+            "his",
+            "grasp",
+            ";",
+            "and",
+            "the",
+            "whistling",
+            "and",
+            "pattering",
+            ",",
+            "which",
+            "he",
+            "had",
+            "heard",
+            "quite",
+            "plainly",
+            "on",
+            "his",
+            "first",
+            "entry",
+            ",",
+            "died",
+            "away",
+            "and",
+            "ceased",
+            ",",
+            "and",
+            "all",
+            "was",
+            "very",
+            "still",
+            "."
+        ],
+        [
+            "He",
+            "made",
+            "his",
+            "way",
+            "manfully",
+            "through",
+            "the",
+            "length",
+            "of",
+            "the",
+            "wood",
+            ",",
+            "to",
+            "its",
+            "furthest",
+            "edge",
+            ";",
+            "then",
+            ",",
+            "forsaking",
+            "all",
+            "paths",
+            ",",
+            "he",
+            "set",
+            "himself",
+            "to",
+            "traverse",
+            "it",
+            ",",
+            "laboriously",
+            "working",
+            "over",
+            "the",
+            "whole",
+            "ground",
+            ",",
+            "and",
+            "all",
+            "the",
+            "time",
+            "calling",
+            "out",
+            "cheerfully",
+            ",",
+            "\"",
+            "Moly",
+            ",",
+            "Moly",
+            ",",
+            "Moly",
+            "!",
+            "Where",
+            "are",
+            "you",
+            "?",
+            "It",
+            "'s",
+            "me",
+            "\u2014",
+            "it",
+            "'s",
+            "old",
+            "Rat",
+            "!",
+            "\""
+        ]
+    ]
+}

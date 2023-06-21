@@ -1,0 +1,216 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been set",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was extended",
+                "pos": [
+                    32,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-09",
+    "sents": [
+        [
+            "Sugar",
+            "imports",
+            "subject",
+            "to",
+            "the",
+            "U.S.",
+            "sugar",
+            "import",
+            "quota",
+            "during",
+            "the",
+            "week",
+            "ended",
+            "January",
+            "9",
+            ",",
+            "the",
+            "initial",
+            "week",
+            "of",
+            "the",
+            "1987",
+            "sugar",
+            "quota",
+            "year",
+            ",",
+            "totaled",
+            "5,988",
+            "short",
+            "tons",
+            "versus",
+            "46,254",
+            "tons",
+            "the",
+            "previous",
+            "week",
+            ",",
+            "the",
+            "Agriculture",
+            "Department",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "sugar",
+            "import",
+            "quota",
+            "for",
+            "the",
+            "1987",
+            "quota",
+            "year",
+            "(",
+            "January",
+            "-",
+            "December",
+            ")",
+            "has",
+            "been",
+            "set",
+            "at",
+            "1,001,430",
+            "short",
+            "tons",
+            "compared",
+            "with",
+            "1,850,000",
+            "tons",
+            "in",
+            "the",
+            "1986",
+            "quota",
+            "year",
+            ",",
+            "which",
+            "was",
+            "extended",
+            "three",
+            "months",
+            "to",
+            "December",
+            "31",
+            "."
+        ],
+        [
+            "The",
+            "department",
+            "said",
+            "the",
+            "Customs",
+            "Service",
+            "has",
+            "reported",
+            "that",
+            "weekly",
+            "and",
+            "cumulative",
+            "imports",
+            "are",
+            "reported",
+            "on",
+            "an",
+            "actual",
+            "weight",
+            "basis",
+            "and",
+            "when",
+            "final",
+            "polarizations",
+            "are",
+            "received",
+            ",",
+            "cumulative",
+            "import",
+            "data",
+            "are",
+            "adjusted",
+            "accordingly",
+            "."
+        ]
+    ]
+}

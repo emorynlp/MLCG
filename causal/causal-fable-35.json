@@ -1,0 +1,315 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "his time for doing so was short",
+                "pos": [
+                    16,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the Shepherd , coming into the fold during the night , discovered him",
+                "pos": [
+                    25,
+                    38
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Some shepherds who chanced to pass by saw him there , and stopped",
+                "pos": [
+                    0,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "inquire why sheep should be thus served",
+                "pos": [
+                    14,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "As",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they came nearer and saw that it was not a sheep but a Wolf",
+                "pos": [
+                    1,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the Shepherd said , \u201c This is the way I serve a Wolf , even though I find him wearing the habit of a sheep",
+                "pos": [
+                    16,
+                    41
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-35",
+    "sents": [
+        [
+            "A",
+            "WOLF",
+            "once",
+            "clothed",
+            "himself",
+            "in",
+            "the",
+            "fleece",
+            "of",
+            "a",
+            "sheep",
+            ",",
+            "and",
+            "being",
+            "mistaken",
+            "for",
+            "one",
+            "of",
+            "the",
+            "flock",
+            ",",
+            "got",
+            "into",
+            "the",
+            "fold",
+            "."
+        ],
+        [
+            "He",
+            "had",
+            "a",
+            "chance",
+            "to",
+            "make",
+            "way",
+            "with",
+            "as",
+            "many",
+            "sheep",
+            "as",
+            "he",
+            "liked",
+            ";",
+            "but",
+            "his",
+            "time",
+            "for",
+            "doing",
+            "so",
+            "was",
+            "short",
+            ",",
+            "for",
+            "the",
+            "Shepherd",
+            ",",
+            "coming",
+            "into",
+            "the",
+            "fold",
+            "during",
+            "the",
+            "night",
+            ",",
+            "discovered",
+            "him",
+            "."
+        ],
+        [
+            "Tying",
+            "him",
+            "to",
+            "a",
+            "tree",
+            ",",
+            "he",
+            "left",
+            "him",
+            "hanging",
+            "there",
+            ",",
+            "still",
+            "in",
+            "his",
+            "sheep",
+            "\u2019s",
+            "dress",
+            ",",
+            "as",
+            "a",
+            "warning",
+            "to",
+            "other",
+            "wolves",
+            "who",
+            "might",
+            "be",
+            "prowling",
+            "about",
+            "."
+        ],
+        [
+            "Some",
+            "shepherds",
+            "who",
+            "chanced",
+            "to",
+            "pass",
+            "by",
+            "saw",
+            "him",
+            "there",
+            ",",
+            "and",
+            "stopped",
+            "to",
+            "inquire",
+            "why",
+            "sheep",
+            "should",
+            "be",
+            "thus",
+            "served",
+            "."
+        ],
+        [
+            "As",
+            "they",
+            "came",
+            "nearer",
+            "and",
+            "saw",
+            "that",
+            "it",
+            "was",
+            "not",
+            "a",
+            "sheep",
+            "but",
+            "a",
+            "Wolf",
+            ",",
+            "the",
+            "Shepherd",
+            "said",
+            ",",
+            "\u201c",
+            "This",
+            "is",
+            "the",
+            "way",
+            "I",
+            "serve",
+            "a",
+            "Wolf",
+            ",",
+            "even",
+            "though",
+            "I",
+            "find",
+            "him",
+            "wearing",
+            "the",
+            "habit",
+            "of",
+            "a",
+            "sheep",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

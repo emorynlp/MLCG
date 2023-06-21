@@ -1,0 +1,348 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was true",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "nodded",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "eating",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finished",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "how gray everything was",
+                "pos": [
+                    9,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "carried",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-21",
+    "sents": [
+        [
+            "\"",
+            "I",
+            "am",
+            "never",
+            "hungry",
+            ",",
+            "\"",
+            "he",
+            "said",
+            ",",
+            "\"",
+            "and",
+            "it",
+            "is",
+            "a",
+            "lucky",
+            "thing",
+            "I",
+            "am",
+            "not",
+            ",",
+            "for",
+            "my",
+            "mouth",
+            "is",
+            "only",
+            "painted",
+            ",",
+            "and",
+            "if",
+            "I",
+            "should",
+            "cut",
+            "a",
+            "hole",
+            "in",
+            "it",
+            "so",
+            "I",
+            "could",
+            "eat",
+            ",",
+            "the",
+            "straw",
+            "I",
+            "am",
+            "stuffed",
+            "with",
+            "would",
+            "come",
+            "out",
+            ",",
+            "and",
+            "that",
+            "would",
+            "spoil",
+            "the",
+            "shape",
+            "of",
+            "my",
+            "head",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "Dorothy",
+            "saw",
+            "at",
+            "once",
+            "that",
+            "this",
+            "was",
+            "true",
+            ",",
+            "so",
+            "she",
+            "only",
+            "nodded",
+            "and",
+            "went",
+            "on",
+            "eating",
+            "her",
+            "bread",
+            "."
+        ],
+        [
+            "\"",
+            "Tell",
+            "me",
+            "something",
+            "about",
+            "yourself",
+            "and",
+            "the",
+            "country",
+            "you",
+            "came",
+            "from",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "Scarecrow",
+            ",",
+            "when",
+            "she",
+            "had",
+            "finished",
+            "her",
+            "dinner",
+            "."
+        ],
+        [
+            "So",
+            "she",
+            "told",
+            "him",
+            "all",
+            "about",
+            "Kansas",
+            ",",
+            "and",
+            "how",
+            "gray",
+            "everything",
+            "was",
+            "there",
+            ",",
+            "and",
+            "how",
+            "the",
+            "cyclone",
+            "had",
+            "carried",
+            "her",
+            "to",
+            "this",
+            "queer",
+            "Land",
+            "of",
+            "Oz."
+        ]
+    ]
+}

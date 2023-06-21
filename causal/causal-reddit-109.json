@@ -1,0 +1,247 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I want weekends off",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "without",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "feeling guilty",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the work never seems to be done",
+                "pos": [
+                    22,
+                    29
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it \u2019s hard to not feel guilty for that , esp as a social science PhD who studies things that directly effect me and the people I love",
+                "pos": [
+                    30,
+                    58
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-109",
+    "sents": [
+        [
+            "I",
+            "know",
+            "that",
+            "no",
+            "job",
+            "is",
+            "great",
+            "but",
+            "I",
+            "sometimes",
+            "I",
+            "wish",
+            "I",
+            "choose",
+            "a",
+            "different",
+            "career",
+            "."
+        ],
+        [
+            "One",
+            "that",
+            "had",
+            "me",
+            "on",
+            "a",
+            "strict",
+            "9-5",
+            "day",
+            "or",
+            "something",
+            "like",
+            "that",
+            "."
+        ],
+        [
+            "I",
+            "wan",
+            "na",
+            "go",
+            "home",
+            "and",
+            "be",
+            "able",
+            "to",
+            "turn",
+            "it",
+            "off",
+            "."
+        ],
+        [
+            "I",
+            "want",
+            "weekends",
+            "off",
+            "without",
+            "feeling",
+            "guilty",
+            "."
+        ],
+        [
+            "Should",
+            "clarify",
+            ",",
+            "I",
+            "do",
+            "all",
+            "the",
+            "typical",
+            "things",
+            "like",
+            "stop",
+            "checking",
+            "emails",
+            "after",
+            "5",
+            "and",
+            "on",
+            "weekends",
+            "etc",
+            "etc",
+            "but",
+            "when",
+            "the",
+            "work",
+            "never",
+            "seems",
+            "to",
+            "be",
+            "done",
+            ",",
+            "it",
+            "\u2019s",
+            "hard",
+            "to",
+            "not",
+            "feel",
+            "guilty",
+            "for",
+            "that",
+            ",",
+            "esp",
+            "as",
+            "a",
+            "social",
+            "science",
+            "PhD",
+            "who",
+            "studies",
+            "things",
+            "that",
+            "directly",
+            "effect",
+            "me",
+            "and",
+            "the",
+            "people",
+            "I",
+            "love",
+            "."
+        ],
+        [
+            "Lol",
+            "just",
+            "let",
+            "me",
+            "rant",
+            "yall",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "heard",
+            "it",
+            "all",
+            "before",
+            "."
+        ],
+        [
+            "Does",
+            "n\u2019t",
+            "make",
+            "it",
+            "any",
+            "easier"
+        ]
+    ]
+}

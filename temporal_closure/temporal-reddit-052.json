@@ -1,0 +1,497 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "convinced",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am currently majoring in",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "its easy",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "expect",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 11,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "being raised",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 12,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "meant",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 12,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was WAY cheaper",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 13,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 14,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-052",
+    "sents": [
+        [
+            "I",
+            "convinced",
+            "college",
+            "is",
+            "a",
+            "scam",
+            "..."
+        ],
+        [
+            "why",
+            "does",
+            "a",
+            "student",
+            "need",
+            "to",
+            "jump",
+            "through",
+            "hoops",
+            "just",
+            "to",
+            "learn",
+            "something",
+            "that",
+            "is",
+            "a",
+            "\"",
+            "requirement",
+            "\"",
+            "just",
+            "to",
+            "get",
+            "to",
+            "major",
+            "specific",
+            "classes",
+            "?!?!"
+        ],
+        [
+            "I",
+            "am",
+            "currently",
+            "majoring",
+            "in",
+            "Accounting",
+            "and",
+            "Finance",
+            "."
+        ],
+        [
+            "Accounting",
+            ",",
+            "its",
+            "easy",
+            "."
+        ],
+        [
+            "Record",
+            "transaction",
+            "."
+        ],
+        [
+            "Simple",
+            ",",
+            "plus",
+            "and",
+            "minus",
+            "Finance",
+            ",",
+            "easy",
+            "."
+        ],
+        [
+            "Buy",
+            "low",
+            "and",
+            "sell",
+            "high",
+            "."
+        ],
+        [
+            "Why",
+            "do",
+            "we",
+            "need",
+            "more",
+            "classes",
+            "to",
+            "justify",
+            "our",
+            "damn",
+            "majors",
+            "?"
+        ],
+        [
+            "Not",
+            "only",
+            "that",
+            ",",
+            "what",
+            "is",
+            "with",
+            "professors",
+            "with",
+            "a",
+            "hard",
+            "on",
+            "for",
+            "written",
+            "assignments",
+            "?!?!"
+        ],
+        [
+            "I",
+            "feel",
+            "like",
+            "I",
+            "am",
+            "wasting",
+            "my",
+            "life",
+            "in",
+            "school",
+            "..."
+        ],
+        [
+            "I",
+            "honestly",
+            "have",
+            "no",
+            "choice",
+            "..."
+        ],
+        [
+            "my",
+            "parents",
+            "expect",
+            "me",
+            "to",
+            "attend",
+            "college",
+            "...."
+        ],
+        [
+            "being",
+            "raised",
+            "in",
+            "a",
+            "time",
+            "where",
+            "college",
+            "actually",
+            "meant",
+            "for",
+            "something",
+            "..."
+        ],
+        [
+            "and",
+            "was",
+            "WAY",
+            "cheaper",
+            "..."
+        ],
+        [
+            "All",
+            "I",
+            "literally",
+            "want",
+            "to",
+            "know",
+            "is",
+            "how",
+            "to",
+            "do",
+            "my",
+            "damn",
+            "taxes",
+            "...."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "need",
+            "any",
+            "of",
+            "these",
+            "other",
+            "classes",
+            "...."
+        ]
+    ]
+}

@@ -1,0 +1,450 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "her friends",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "them",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The Lion",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "wonderful thoughts",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The Scarecrow",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the little girl",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his heart",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The Lion",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-25",
+    "sents": [
+        [
+            "For",
+            "three",
+            "days",
+            "Dorothy",
+            "heard",
+            "nothing",
+            "from",
+            "Oz."
+        ],
+        [
+            "These",
+            "were",
+            "sad",
+            "days",
+            "for",
+            "the",
+            "little",
+            "girl",
+            ",",
+            "although",
+            "her",
+            "friends",
+            "were",
+            "all",
+            "quite",
+            "happy",
+            "and",
+            "contented",
+            "."
+        ],
+        [
+            "The",
+            "Scarecrow",
+            "told",
+            "them",
+            "there",
+            "were",
+            "wonderful",
+            "thoughts",
+            "in",
+            "his",
+            "head",
+            ";",
+            "but",
+            "he",
+            "would",
+            "not",
+            "say",
+            "what",
+            "they",
+            "were",
+            "because",
+            "he",
+            "knew",
+            "no",
+            "one",
+            "could",
+            "understand",
+            "them",
+            "but",
+            "himself",
+            "."
+        ],
+        [
+            "When",
+            "the",
+            "Tin",
+            "Woodman",
+            "walked",
+            "about",
+            "he",
+            "felt",
+            "his",
+            "heart",
+            "rattling",
+            "around",
+            "in",
+            "his",
+            "breast",
+            ";",
+            "and",
+            "he",
+            "told",
+            "Dorothy",
+            "he",
+            "had",
+            "discovered",
+            "it",
+            "to",
+            "be",
+            "a",
+            "kinder",
+            "and",
+            "more",
+            "tender",
+            "heart",
+            "than",
+            "the",
+            "one",
+            "he",
+            "had",
+            "owned",
+            "when",
+            "he",
+            "was",
+            "made",
+            "of",
+            "flesh",
+            "."
+        ],
+        [
+            "The",
+            "Lion",
+            "declared",
+            "he",
+            "was",
+            "afraid",
+            "of",
+            "nothing",
+            "on",
+            "earth",
+            ",",
+            "and",
+            "would",
+            "gladly",
+            "face",
+            "an",
+            "army",
+            "or",
+            "a",
+            "dozen",
+            "of",
+            "the",
+            "fierce",
+            "Kalidahs",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,459 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "climbed",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "holding",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was safe",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went back",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sat down",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "panted",
+                "pos": [
+                    44,
+                    45
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been running",
+                "pos": [
+                    51,
+                    53
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-32",
+    "sents": [
+        [
+            "Dorothy",
+            "thought",
+            "she",
+            "would",
+            "go",
+            "next",
+            ";",
+            "so",
+            "she",
+            "took",
+            "Toto",
+            "in",
+            "her",
+            "arms",
+            "and",
+            "climbed",
+            "on",
+            "the",
+            "Lion",
+            "'",
+            "s",
+            "back",
+            ",",
+            "holding",
+            "tightly",
+            "to",
+            "his",
+            "mane",
+            "with",
+            "one",
+            "hand",
+            "."
+        ],
+        [
+            "The",
+            "next",
+            "moment",
+            "it",
+            "seemed",
+            "as",
+            "if",
+            "she",
+            "were",
+            "flying",
+            "through",
+            "the",
+            "air",
+            ";",
+            "and",
+            "then",
+            ",",
+            "before",
+            "she",
+            "had",
+            "time",
+            "to",
+            "think",
+            "about",
+            "it",
+            ",",
+            "she",
+            "was",
+            "safe",
+            "on",
+            "the",
+            "other",
+            "side",
+            "."
+        ],
+        [
+            "The",
+            "Lion",
+            "went",
+            "back",
+            "a",
+            "third",
+            "time",
+            "and",
+            "got",
+            "the",
+            "Tin",
+            "Woodman",
+            ",",
+            "and",
+            "then",
+            "they",
+            "all",
+            "sat",
+            "down",
+            "for",
+            "a",
+            "few",
+            "moments",
+            "to",
+            "give",
+            "the",
+            "beast",
+            "a",
+            "chance",
+            "to",
+            "rest",
+            ",",
+            "for",
+            "his",
+            "great",
+            "leaps",
+            "had",
+            "made",
+            "his",
+            "breath",
+            "short",
+            ",",
+            "and",
+            "he",
+            "panted",
+            "like",
+            "a",
+            "big",
+            "dog",
+            "that",
+            "has",
+            "been",
+            "running",
+            "too",
+            "long",
+            "."
+        ]
+    ]
+}

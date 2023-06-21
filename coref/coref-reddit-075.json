@@ -1,0 +1,295 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "an essay",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "small biweekly assignments",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "this assignment",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "i",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my paragraph",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-075",
+    "sents": [
+        [
+            "i",
+            "had",
+            "an",
+            "essay",
+            "worth",
+            "20%",
+            "of",
+            "my",
+            "grade",
+            ",",
+            "im",
+            "rlly",
+            "passionate",
+            "on",
+            "the",
+            "topic",
+            ",",
+            "spent",
+            "a",
+            "lot",
+            "of",
+            "time",
+            "on",
+            "it",
+            ",",
+            "got",
+            "personal",
+            "feedback",
+            "from",
+            "the",
+            "prof",
+            ",",
+            "and",
+            "I",
+            "only",
+            "got",
+            "78%",
+            "on",
+            "it",
+            "."
+        ],
+        [
+            "in",
+            "another",
+            "class",
+            ",",
+            "we",
+            "have",
+            "a",
+            "bunch",
+            "of",
+            "small",
+            "biweekly",
+            "assignments",
+            "."
+        ],
+        [
+            "this",
+            "assignment",
+            "was",
+            "literally",
+            "to",
+            "hand",
+            "in",
+            "a",
+            "paragraph",
+            "abt",
+            "a",
+            "topic",
+            "we",
+            "had",
+            "covered",
+            "that",
+            "week",
+            ",",
+            "my",
+            "paragraph",
+            "answered",
+            "the",
+            "question",
+            ",",
+            "was",
+            "concise",
+            ",",
+            "had",
+            "relevant",
+            "examples",
+            "/",
+            "evidence",
+            ",",
+            "and",
+            "I",
+            "got",
+            "an",
+            "80%",
+            "."
+        ],
+        [
+            "My",
+            "TA",
+            "said",
+            "it",
+            "was",
+            "\"",
+            "a",
+            "very",
+            "impressive",
+            "paragraph",
+            "\"",
+            "??"
+        ],
+        [
+            "im",
+            "genuinely",
+            "confused",
+            "about",
+            "what",
+            "it",
+            "would",
+            "take",
+            "to",
+            "earn",
+            "a",
+            "90%+",
+            "on",
+            "a",
+            "written",
+            "assignment",
+            "."
+        ],
+        [
+            "does",
+            "anyone",
+            "have",
+            "any",
+            "tips",
+            "or",
+            "advice",
+            "or",
+            "ANYTHING"
+        ]
+    ]
+}

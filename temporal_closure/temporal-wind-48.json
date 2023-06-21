@@ -1,0 +1,248 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was a gloomy luncheon",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "returned",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "passed over",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was painful",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saying",
+                "pos": [
+                    47,
+                    48
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-48",
+    "sents": [
+        [
+            "It",
+            "was",
+            "a",
+            "gloomy",
+            "luncheon",
+            "for",
+            "Rat",
+            "when",
+            "the",
+            "Badger",
+            "and",
+            "the",
+            "Mole",
+            "at",
+            "length",
+            "returned",
+            ",",
+            "and",
+            "he",
+            "had",
+            "to",
+            "face",
+            "them",
+            "at",
+            "table",
+            "with",
+            "his",
+            "pitiful",
+            "and",
+            "unconvincing",
+            "story",
+            "."
+        ],
+        [
+            "The",
+            "Badger",
+            "'s",
+            "caustic",
+            ",",
+            "not",
+            "to",
+            "say",
+            "brutal",
+            ",",
+            "remarks",
+            "may",
+            "be",
+            "imagined",
+            ",",
+            "and",
+            "therefore",
+            "passed",
+            "over",
+            ";",
+            "but",
+            "it",
+            "was",
+            "painful",
+            "to",
+            "the",
+            "Rat",
+            "that",
+            "even",
+            "the",
+            "Mole",
+            ",",
+            "though",
+            "he",
+            "took",
+            "his",
+            "friend",
+            "'s",
+            "side",
+            "as",
+            "far",
+            "as",
+            "possible",
+            ",",
+            "could",
+            "not",
+            "help",
+            "saying",
+            ",",
+            "\"",
+            "You",
+            "'ve",
+            "been",
+            "a",
+            "bit",
+            "of",
+            "a",
+            "duffer",
+            "this",
+            "time",
+            ",",
+            "Ratty",
+            "!",
+            "Toad",
+            ",",
+            "too",
+            ",",
+            "of",
+            "all",
+            "animals",
+            "!",
+            "\""
+        ]
+    ]
+}

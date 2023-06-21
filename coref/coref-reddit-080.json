@@ -1,0 +1,275 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "everyone",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "People",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "Everyone",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "everyone",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "yourself",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "your social life",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-080",
+    "sents": [
+        [
+            "In",
+            "high",
+            "school",
+            ",",
+            "everyone",
+            "is",
+            "close",
+            "to",
+            "each",
+            "other",
+            "and",
+            "is",
+            "super",
+            "friendly",
+            "to",
+            "you",
+            "."
+        ],
+        [
+            "People",
+            "talk",
+            "to",
+            "you",
+            "at",
+            "lunch",
+            "or",
+            "whatever",
+            "when",
+            "it",
+            "is",
+            "clear",
+            "you",
+            "are",
+            "sitting",
+            "by",
+            "yourself",
+            "."
+        ],
+        [
+            "In",
+            "college",
+            ",",
+            "no",
+            "one",
+            "cares",
+            "."
+        ],
+        [
+            "Someone",
+            "could",
+            "get",
+            "a",
+            "heart",
+            "attack",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "day",
+            "and",
+            "no",
+            "one",
+            "would",
+            "care",
+            "."
+        ],
+        [
+            "Everyone",
+            "is",
+            "so",
+            "busy",
+            "and",
+            "occupied",
+            "to",
+            "the",
+            "point",
+            "where",
+            "it",
+            "is",
+            "virtually",
+            "impossible",
+            "to",
+            "befriend",
+            "new",
+            "people",
+            "."
+        ],
+        [
+            "It",
+            "does",
+            "n't",
+            "help",
+            "that",
+            "at",
+            "the",
+            "beginning",
+            "in",
+            "the",
+            "school",
+            "year",
+            ",",
+            "everyone",
+            "just",
+            "seemed",
+            "to",
+            "hanged",
+            "out",
+            "with",
+            "their",
+            "high",
+            "school",
+            "friends",
+            "and",
+            "stick",
+            "with",
+            "that",
+            "group",
+            "for",
+            "the",
+            "rest",
+            "of",
+            "the",
+            "school",
+            "year",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "just",
+            "so",
+            "frustrating",
+            "when",
+            "people",
+            "say",
+            "your",
+            "social",
+            "life",
+            "gets",
+            "better",
+            "after",
+            "high",
+            "school",
+            "when",
+            "it",
+            "does",
+            "n't",
+            "."
+        ]
+    ]
+}

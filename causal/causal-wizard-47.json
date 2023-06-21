@@ -1,0 +1,242 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy put new paint on his eyes",
+                "pos": [
+                    8,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "he might see better",
+                "pos": [
+                    16,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "slept soundly",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "until",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "daylight",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-47",
+    "sents": [
+        [
+            "Therefore",
+            "it",
+            "was",
+            "decided",
+            "to",
+            "start",
+            "upon",
+            "their",
+            "journey",
+            "the",
+            "next",
+            "morning",
+            ",",
+            "and",
+            "the",
+            "Woodman",
+            "sharpened",
+            "his",
+            "axe",
+            "on",
+            "a",
+            "green",
+            "grindstone",
+            "and",
+            "had",
+            "all",
+            "his",
+            "joints",
+            "properly",
+            "oiled",
+            "."
+        ],
+        [
+            "The",
+            "Scarecrow",
+            "stuffed",
+            "himself",
+            "with",
+            "fresh",
+            "straw",
+            "and",
+            "Dorothy",
+            "put",
+            "new",
+            "paint",
+            "on",
+            "his",
+            "eyes",
+            "that",
+            "he",
+            "might",
+            "see",
+            "better",
+            "."
+        ],
+        [
+            "The",
+            "green",
+            "girl",
+            ",",
+            "who",
+            "was",
+            "very",
+            "kind",
+            "to",
+            "them",
+            ",",
+            "filled",
+            "Dorothy",
+            "'",
+            "s",
+            "basket",
+            "with",
+            "good",
+            "things",
+            "to",
+            "eat",
+            ",",
+            "and",
+            "fastened",
+            "a",
+            "little",
+            "bell",
+            "around",
+            "Toto",
+            "'",
+            "s",
+            "neck",
+            "with",
+            "a",
+            "green",
+            "ribbon",
+            "."
+        ],
+        [
+            "They",
+            "went",
+            "to",
+            "bed",
+            "quite",
+            "early",
+            "and",
+            "slept",
+            "soundly",
+            "until",
+            "daylight",
+            ",",
+            "when",
+            "they",
+            "were",
+            "awakened",
+            "by",
+            "the",
+            "crowing",
+            "of",
+            "a",
+            "green",
+            "cock",
+            "that",
+            "lived",
+            "in",
+            "the",
+            "back",
+            "yard",
+            "of",
+            "the",
+            "Palace",
+            ",",
+            "and",
+            "the",
+            "cackling",
+            "of",
+            "a",
+            "hen",
+            "that",
+            "had",
+            "laid",
+            "a",
+            "green",
+            "egg",
+            "."
+        ]
+    ]
+}

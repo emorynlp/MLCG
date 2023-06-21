@@ -1,0 +1,417 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "shone",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "turned",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were all in",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "laughed",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chatted",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "once more filled",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were glad",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sniffed",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "whisked",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "being in",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ran around",
+                "pos": [
+                    32,
+                    34
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chased",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "barking",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-48",
+    "sents": [
+        [
+            "The",
+            "sun",
+            "shone",
+            "brightly",
+            "as",
+            "our",
+            "friends",
+            "turned",
+            "their",
+            "faces",
+            "toward",
+            "the",
+            "Land",
+            "of",
+            "the",
+            "South",
+            "."
+        ],
+        [
+            "They",
+            "were",
+            "all",
+            "in",
+            "the",
+            "best",
+            "of",
+            "spirits",
+            ",",
+            "and",
+            "laughed",
+            "and",
+            "chatted",
+            "together",
+            "."
+        ],
+        [
+            "Dorothy",
+            "was",
+            "once",
+            "more",
+            "filled",
+            "with",
+            "the",
+            "hope",
+            "of",
+            "getting",
+            "home",
+            ",",
+            "and",
+            "the",
+            "Scarecrow",
+            "and",
+            "the",
+            "Tin",
+            "Woodman",
+            "were",
+            "glad",
+            "to",
+            "be",
+            "of",
+            "use",
+            "to",
+            "her",
+            "."
+        ],
+        [
+            "As",
+            "for",
+            "the",
+            "Lion",
+            ",",
+            "he",
+            "sniffed",
+            "the",
+            "fresh",
+            "air",
+            "with",
+            "delight",
+            "and",
+            "whisked",
+            "his",
+            "tail",
+            "from",
+            "side",
+            "to",
+            "side",
+            "in",
+            "pure",
+            "joy",
+            "at",
+            "being",
+            "in",
+            "the",
+            "country",
+            "again",
+            ",",
+            "while",
+            "Toto",
+            "ran",
+            "around",
+            "them",
+            "and",
+            "chased",
+            "the",
+            "moths",
+            "and",
+            "butterflies",
+            ",",
+            "barking",
+            "merrily",
+            "all",
+            "the",
+            "time",
+            "."
+        ]
+    ]
+}

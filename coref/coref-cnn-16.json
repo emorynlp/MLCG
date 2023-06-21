@@ -1,0 +1,332 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a mother",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "her three children",
+                "pos": [
+                    21,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a mother",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Eight people",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "All",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Stephen Coleman",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Coleman",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Massachusetts",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Massachusetts",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "crashed",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "the crash",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a public bus",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the bus",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-16",
+    "sents": [
+        [
+            "Eight",
+            "people",
+            "were",
+            "injured",
+            "when",
+            "a",
+            "public",
+            "bus",
+            "crashed",
+            "into",
+            "a",
+            "central",
+            "Massachusetts",
+            "home",
+            "Monday",
+            "evening",
+            ",",
+            "including",
+            "a",
+            "mother",
+            "and",
+            "her",
+            "three",
+            "children",
+            "who",
+            "were",
+            "inside",
+            "at",
+            "the",
+            "time",
+            "."
+        ],
+        [
+            "All",
+            "were",
+            "taken",
+            "to",
+            "the",
+            "hospital",
+            "for",
+            "minor",
+            "injuries",
+            ",",
+            "according",
+            "to",
+            "Chief",
+            "Stephen",
+            "Coleman",
+            "of",
+            "the",
+            "Auburn",
+            "Fire",
+            "Department",
+            "."
+        ],
+        [
+            "Coleman",
+            "told",
+            "CNN",
+            "that",
+            "it",
+            "took",
+            "an",
+            "hour",
+            "and",
+            "15",
+            "minutes",
+            "to",
+            "free",
+            "the",
+            "driver",
+            ",",
+            "describing",
+            "the",
+            "extrication",
+            "as",
+            "\"",
+            "very",
+            "lengthy",
+            "and",
+            "complicated",
+            ".",
+            "\""
+        ],
+        [
+            "Lt.",
+            "Richard",
+            "Wolanski",
+            "of",
+            "the",
+            "Massachusetts",
+            "State",
+            "Police",
+            "said",
+            "the",
+            "home",
+            ",",
+            "which",
+            "is",
+            "at",
+            "the",
+            "intersection",
+            "of",
+            "two",
+            "side",
+            "streets",
+            ",",
+            "was",
+            "\"",
+            "fully",
+            "compromised",
+            ".",
+            "\""
+        ],
+        [
+            "The",
+            "cause",
+            "of",
+            "the",
+            "crash",
+            "is",
+            "under",
+            "investigation",
+            "."
+        ],
+        [
+            "In",
+            "a",
+            "bit",
+            "of",
+            "irony",
+            ",",
+            "the",
+            "side",
+            "of",
+            "the",
+            "bus",
+            "that",
+            "is",
+            "visible",
+            "from",
+            "the",
+            "street",
+            "is",
+            "emblazoned",
+            "with",
+            "a",
+            "pitch",
+            "for",
+            "advertising",
+            "opportunities",
+            "that",
+            "reads",
+            ":",
+            "\"",
+            "Drive",
+            "Your",
+            "Message",
+            "Home",
+            "with",
+            "the",
+            "Worcester",
+            "Regional",
+            "Transportation",
+            "Authority",
+            ".",
+            "\""
+        ]
+    ]
+}

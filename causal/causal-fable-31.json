@@ -1,0 +1,518 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a Traveler hired a Mule with his driver",
+                "pos": [
+                    4,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "carry some merchandise to a distant place",
+                "pos": [
+                    13,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the Traveler called upon the driver",
+                "pos": [
+                    15,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "stop for rest",
+                "pos": [
+                    22,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "To",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "escape from the direct heat of the sun",
+                "pos": [
+                    1,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the Traveler proceeded to sit down in the shadow of the Mule",
+                "pos": [
+                    18,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "a violent dispute arose",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the shadow was sufficient for but one , and the driver , a lusty fellow , rudely pushed the Traveler one side , claiming the spot for himself , saying : \u201c When you hired this Mule of me , you said nothing about the shadow",
+                "pos": [
+                    7,
+                    53
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "now you want that too",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you must pay for it",
+                "pos": [
+                    7,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The discussion grew so violent",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they forgot the Mule",
+                "pos": [
+                    6,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "in",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "disputing about the shadow",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they lost the substance",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 14,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 19,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 20,
+            "t": 18,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-31",
+    "sents": [
+        [
+            "ONE",
+            "very",
+            "hot",
+            "day",
+            "a",
+            "Traveler",
+            "hired",
+            "a",
+            "Mule",
+            "with",
+            "his",
+            "driver",
+            "to",
+            "carry",
+            "some",
+            "merchandise",
+            "to",
+            "a",
+            "distant",
+            "place",
+            "."
+        ],
+        [
+            "The",
+            "way",
+            "lay",
+            "across",
+            "a",
+            "sandy",
+            "plain",
+            ",",
+            "and",
+            "the",
+            "day",
+            "being",
+            "intensely",
+            "hot",
+            ",",
+            "the",
+            "Traveler",
+            "called",
+            "upon",
+            "the",
+            "driver",
+            "to",
+            "stop",
+            "for",
+            "rest",
+            "."
+        ],
+        [
+            "To",
+            "escape",
+            "from",
+            "the",
+            "direct",
+            "heat",
+            "of",
+            "the",
+            "sun",
+            ",",
+            "which",
+            "was",
+            "shining",
+            "in",
+            "all",
+            "its",
+            "strength",
+            ",",
+            "the",
+            "Traveler",
+            "proceeded",
+            "to",
+            "sit",
+            "down",
+            "in",
+            "the",
+            "shadow",
+            "of",
+            "the",
+            "Mule",
+            "."
+        ],
+        [
+            "But",
+            "a",
+            "violent",
+            "dispute",
+            "arose",
+            ",",
+            "for",
+            "the",
+            "shadow",
+            "was",
+            "sufficient",
+            "for",
+            "but",
+            "one",
+            ",",
+            "and",
+            "the",
+            "driver",
+            ",",
+            "a",
+            "lusty",
+            "fellow",
+            ",",
+            "rudely",
+            "pushed",
+            "the",
+            "Traveler",
+            "one",
+            "side",
+            ",",
+            "claiming",
+            "the",
+            "spot",
+            "for",
+            "himself",
+            ",",
+            "saying",
+            ":",
+            "\u201c",
+            "When",
+            "you",
+            "hired",
+            "this",
+            "Mule",
+            "of",
+            "me",
+            ",",
+            "you",
+            "said",
+            "nothing",
+            "about",
+            "the",
+            "shadow",
+            "."
+        ],
+        [
+            "If",
+            "now",
+            "you",
+            "want",
+            "that",
+            "too",
+            ",",
+            "you",
+            "must",
+            "pay",
+            "for",
+            "it",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "discussion",
+            "grew",
+            "so",
+            "violent",
+            "that",
+            "they",
+            "forgot",
+            "the",
+            "Mule",
+            ",",
+            "who",
+            "took",
+            "advantage",
+            "of",
+            "his",
+            "freedom",
+            "and",
+            "ran",
+            "away",
+            "."
+        ],
+        [
+            "And",
+            "so",
+            ",",
+            "in",
+            "disputing",
+            "about",
+            "the",
+            "shadow",
+            "they",
+            "lost",
+            "the",
+            "substance",
+            "."
+        ]
+    ]
+}

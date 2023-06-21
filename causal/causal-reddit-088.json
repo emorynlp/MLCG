@@ -1,0 +1,218 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I moved to the other side of the country",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "start a life sciences PhD",
+                "pos": [
+                    10,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019m lucky",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "have funding , a stipend , etc.",
+                "pos": [
+                    22,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-088",
+    "sents": [
+        [
+            "It",
+            "\u2019s",
+            "just",
+            "garbage",
+            "."
+        ],
+        [
+            "That",
+            "\u2019s",
+            "all",
+            "."
+        ],
+        [
+            "I",
+            "moved",
+            "to",
+            "the",
+            "other",
+            "side",
+            "of",
+            "the",
+            "country",
+            "to",
+            "start",
+            "a",
+            "life",
+            "sciences",
+            "PhD",
+            "and",
+            "i",
+            "know",
+            "I",
+            "\u2019m",
+            "lucky",
+            "to",
+            "have",
+            "funding",
+            ",",
+            "a",
+            "stipend",
+            ",",
+            "etc.",
+            "but",
+            "everything",
+            "just",
+            "really",
+            "sucks",
+            "right",
+            "now",
+            "."
+        ],
+        [
+            "I",
+            "miss",
+            "my",
+            "friends",
+            "and",
+            "it",
+            "\u2019s",
+            "so",
+            "hard",
+            "to",
+            "make",
+            "new",
+            "ones",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "like",
+            "I",
+            "do",
+            "n\u2019t",
+            "learn",
+            "well",
+            "through",
+            "zoom",
+            "classes",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "wanted",
+            "this",
+            "for",
+            "so",
+            "long",
+            "but",
+            "now",
+            "I",
+            "\u2019m",
+            "just",
+            "unmotivated",
+            ",",
+            "stressed",
+            ",",
+            "and",
+            "questioning",
+            "every",
+            "decision",
+            "that",
+            "got",
+            "me",
+            "here",
+            "."
+        ],
+        [
+            "Just",
+            "needed",
+            "to",
+            "complain",
+            "that",
+            "\u2019s",
+            "all",
+            "."
+        ]
+    ]
+}

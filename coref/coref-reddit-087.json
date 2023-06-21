@@ -1,0 +1,258 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "most of the people",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "feel like",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "this way",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-087",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "a",
+            "23",
+            "year",
+            "old",
+            "woman",
+            "and",
+            "most",
+            "of",
+            "the",
+            "people",
+            "in",
+            "my",
+            "program",
+            "and",
+            "my",
+            "classes",
+            "have",
+            "at",
+            "least",
+            "5",
+            "years",
+            "on",
+            "me",
+            "."
+        ],
+        [
+            "They",
+            "have",
+            "so",
+            "much",
+            "more",
+            "life",
+            "and",
+            "real",
+            "world",
+            "experience",
+            "."
+        ],
+        [
+            "And",
+            "yeah",
+            "I",
+            "know",
+            "it",
+            "\u2019s",
+            "because",
+            "they",
+            "\u2019re",
+            "older",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "still",
+            "feel",
+            "like",
+            "I",
+            "\u2019m",
+            "not",
+            "as",
+            "smart",
+            "as",
+            "anyone",
+            "else",
+            "here",
+            "and",
+            "that",
+            "I",
+            "should",
+            "n\u2019t",
+            "have",
+            "even",
+            "been",
+            "admitted",
+            "to",
+            "grad",
+            "school",
+            "."
+        ],
+        [
+            "Any",
+            "other",
+            "young",
+            "women",
+            "feeling",
+            "this",
+            "way",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019m",
+            "in",
+            "a",
+            "mostly",
+            "male",
+            "dominated",
+            "field",
+            "as",
+            "well",
+            "(",
+            "politics",
+            "and",
+            "international",
+            "relations",
+            ",",
+            "though",
+            "it",
+            "\u2019s",
+            "been",
+            "changing",
+            "lately",
+            ")"
+        ]
+    ]
+}

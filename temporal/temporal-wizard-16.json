@@ -1,0 +1,368 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "ate",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "watched",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "played",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pulled",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "crowed",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "laughed",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "amused",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a fine curiosity",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asked",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "answered",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-16",
+    "sents": [
+        [
+            "She",
+            "ate",
+            "a",
+            "hearty",
+            "breakfast",
+            ",",
+            "and",
+            "watched",
+            "a",
+            "wee",
+            "Munchkin",
+            "baby",
+            ",",
+            "who",
+            "played",
+            "with",
+            "Toto",
+            "and",
+            "pulled",
+            "his",
+            "tail",
+            "and",
+            "crowed",
+            "and",
+            "laughed",
+            "in",
+            "a",
+            "way",
+            "that",
+            "greatly",
+            "amused",
+            "Dorothy",
+            "."
+        ],
+        [
+            "Toto",
+            "was",
+            "a",
+            "fine",
+            "curiosity",
+            "to",
+            "all",
+            "the",
+            "people",
+            ",",
+            "for",
+            "they",
+            "had",
+            "never",
+            "seen",
+            "a",
+            "dog",
+            "before",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "far",
+            "is",
+            "it",
+            "to",
+            "the",
+            "Emerald",
+            "City",
+            "?",
+            "\"",
+            "the",
+            "girl",
+            "asked",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "do",
+            "not",
+            "know",
+            ",",
+            "\"",
+            "answered",
+            "Boq",
+            "gravely",
+            ",",
+            "\"",
+            "for",
+            "I",
+            "have",
+            "never",
+            "been",
+            "there",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "better",
+            "for",
+            "people",
+            "to",
+            "keep",
+            "away",
+            "from",
+            "Oz",
+            ",",
+            "unless",
+            "they",
+            "have",
+            "business",
+            "with",
+            "him",
+            "."
+        ],
+        [
+            "But",
+            "it",
+            "is",
+            "a",
+            "long",
+            "way",
+            "to",
+            "the",
+            "Emerald",
+            "City",
+            ",",
+            "and",
+            "it",
+            "will",
+            "take",
+            "you",
+            "many",
+            "days",
+            "."
+        ],
+        [
+            "The",
+            "country",
+            "here",
+            "is",
+            "rich",
+            "and",
+            "pleasant",
+            ",",
+            "but",
+            "you",
+            "must",
+            "pass",
+            "through",
+            "rough",
+            "and",
+            "dangerous",
+            "places",
+            "before",
+            "you",
+            "reach",
+            "the",
+            "end",
+            "of",
+            "your",
+            "journey",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

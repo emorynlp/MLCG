@@ -1,0 +1,405 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "falling behind",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "struggle",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "prioritize",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is excellent",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "me falling behind",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "predisposes",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "harder",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "edit",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "opened",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "posting",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m really relieved",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 8,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-136",
+    "sents": [
+        [
+            "I",
+            "end",
+            "up",
+            "falling",
+            "behind",
+            "every",
+            "semester",
+            "because",
+            "I",
+            "struggle",
+            "to",
+            "balance",
+            "readings",
+            "*and*",
+            "homework",
+            ",",
+            "so",
+            "I",
+            "prioritize",
+            "homework",
+            "."
+        ],
+        [
+            "My",
+            "GPA",
+            "is",
+            "excellent",
+            "because",
+            "I",
+            "can",
+            "wing",
+            "things",
+            "like",
+            "a",
+            "boss",
+            ",",
+            "but",
+            "I",
+            "do",
+            "n't",
+            "feel",
+            "like",
+            "I",
+            "'m",
+            "ever",
+            "actually",
+            "learning",
+            "anything",
+            "."
+        ],
+        [
+            "And",
+            "I",
+            "do",
+            "n't",
+            "want",
+            "to",
+            "blame",
+            "mental",
+            "illness",
+            "as",
+            "a",
+            "*cause*",
+            "for",
+            "me",
+            "falling",
+            "behind",
+            ",",
+            "but",
+            "it",
+            "definitely",
+            "predisposes",
+            "me",
+            "to",
+            "higher",
+            "stress",
+            "and",
+            "makes",
+            "burnout",
+            "so",
+            "much",
+            "harder",
+            "to",
+            "avoid",
+            "."
+        ],
+        [
+            "Does",
+            "this",
+            "happen",
+            "to",
+            "you",
+            "?"
+        ],
+        [
+            "Is",
+            "there",
+            "any",
+            "actual",
+            "benefit",
+            "to",
+            "reaching",
+            "out",
+            "to",
+            "your",
+            "professors",
+            "to",
+            "tell",
+            "them",
+            "you",
+            "'re",
+            "\"",
+            "struggling",
+            ",",
+            "\"",
+            "even",
+            "if",
+            "your",
+            "grades",
+            "do",
+            "n't",
+            "reflect",
+            "that",
+            "?"
+        ],
+        [
+            "edit",
+            ":",
+            "I",
+            "just",
+            "opened",
+            "this",
+            "thread",
+            "again",
+            "a",
+            "day",
+            "after",
+            "posting",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "did",
+            "n't",
+            "expect",
+            "such",
+            "an",
+            "outpouring",
+            "of",
+            "support",
+            "and",
+            "solidarity",
+            "."
+        ],
+        [
+            "I",
+            "ca",
+            "n't",
+            "reply",
+            "to",
+            "everyone",
+            ",",
+            "but",
+            "thank",
+            "you",
+            "all",
+            "so",
+            "much",
+            "for",
+            "your",
+            "input",
+            "and",
+            "I",
+            "'m",
+            "really",
+            "relieved",
+            "to",
+            "hear",
+            "that",
+            "I",
+            "'m",
+            "not",
+            "the",
+            "only",
+            "one",
+            "going",
+            "through",
+            "this",
+            "!"
+        ]
+    ]
+}

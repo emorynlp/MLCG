@@ -1,0 +1,412 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "were traveling",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "crossed",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Seeing",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fell",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came up",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felt",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "smelt",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "held",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feigning",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "left",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gone",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came down",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "inquired",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "replied",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-29",
+    "sents": [
+        [
+            "TWO",
+            "men",
+            "were",
+            "traveling",
+            "together",
+            ",",
+            "when",
+            "a",
+            "Bear",
+            "suddenly",
+            "crossed",
+            "their",
+            "path",
+            "."
+        ],
+        [
+            "One",
+            "of",
+            "the",
+            "men",
+            "climbed",
+            "quickly",
+            "into",
+            "a",
+            "tree",
+            ",",
+            "and",
+            "tried",
+            "to",
+            "conceal",
+            "himself",
+            "in",
+            "its",
+            "branches",
+            "."
+        ],
+        [
+            "Seeing",
+            "that",
+            "he",
+            "must",
+            "be",
+            "attacked",
+            ",",
+            "the",
+            "other",
+            "one",
+            "fell",
+            "flat",
+            "upon",
+            "the",
+            "ground",
+            ";",
+            "and",
+            "when",
+            "the",
+            "Bear",
+            "came",
+            "up",
+            ",",
+            "felt",
+            "him",
+            "with",
+            "his",
+            "snout",
+            ",",
+            "and",
+            "smelt",
+            "him",
+            "all",
+            "over",
+            ",",
+            "the",
+            "man",
+            "held",
+            "his",
+            "breath",
+            ",",
+            "feigning",
+            "death",
+            "."
+        ],
+        [
+            "The",
+            "Bear",
+            "soon",
+            "left",
+            "him",
+            ",",
+            "for",
+            "it",
+            "is",
+            "said",
+            "a",
+            "Bear",
+            "will",
+            "not",
+            "touch",
+            "a",
+            "dead",
+            "body",
+            "."
+        ],
+        [
+            "When",
+            "the",
+            "Bear",
+            "had",
+            "gone",
+            ",",
+            "the",
+            "man",
+            "in",
+            "the",
+            "tree",
+            "came",
+            "down",
+            "to",
+            "join",
+            "his",
+            "companion",
+            ",",
+            "and",
+            ",",
+            "as",
+            "a",
+            "pleasant",
+            "joke",
+            ",",
+            "inquired",
+            ",",
+            "\u201c",
+            "What",
+            "was",
+            "it",
+            "that",
+            "the",
+            "Bear",
+            "whispered",
+            "in",
+            "your",
+            "ear",
+            "when",
+            "he",
+            "bent",
+            "over",
+            "you",
+            "for",
+            "so",
+            "long",
+            "?",
+            "\u201d"
+        ],
+        [
+            "His",
+            "friend",
+            "replied",
+            "very",
+            "gravely",
+            ":",
+            "\u201c",
+            "He",
+            "gave",
+            "me",
+            "this",
+            "bit",
+            "of",
+            "advice",
+            ",",
+            "\u2018",
+            "Never",
+            "travel",
+            "with",
+            "a",
+            "friend",
+            "who",
+            "deserts",
+            "you",
+            "at",
+            "the",
+            "approach",
+            "of",
+            "danger",
+            "."
+        ],
+        [
+            "\u2019",
+            "\u201d"
+        ]
+    ]
+}

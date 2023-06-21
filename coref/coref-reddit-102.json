@@ -1,0 +1,293 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "one of my committee members",
+                "pos": [
+                    8,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "my committee members",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "my work",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my committee members",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "everyone",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my talk",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my ( virtual ) defense",
+                "pos": [
+                    35,
+                    40
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-102",
+    "sents": [
+        [
+            "After",
+            "weeks",
+            "of",
+            "horrible",
+            "sleep",
+            "and",
+            "anxiety",
+            ",",
+            "and",
+            "constantly",
+            "thinking",
+            "about",
+            "how",
+            "my",
+            "work",
+            "is",
+            "meaningless",
+            ",",
+            "too",
+            "simple",
+            ",",
+            "going",
+            "to",
+            "be",
+            "torn",
+            "apart",
+            ",",
+            "it",
+            "all",
+            "went",
+            "well",
+            "!"
+        ],
+        [
+            "Just",
+            "got",
+            "one",
+            "kind",
+            "of",
+            "confusing",
+            "question",
+            "from",
+            "one",
+            "of",
+            "my",
+            "committee",
+            "members",
+            ",",
+            "but",
+            "overall",
+            "everyone",
+            "said",
+            "they",
+            "enjoyed",
+            "my",
+            "talk",
+            "!"
+        ],
+        [
+            "5",
+            "years",
+            "of",
+            "work",
+            "summarized",
+            "in",
+            "45",
+            "minutes",
+            "!"
+        ],
+        [
+            "If",
+            "there",
+            "'s",
+            "one",
+            "thing",
+            "that",
+            "I",
+            "could",
+            "have",
+            "told",
+            "myself",
+            "pre-defense",
+            ",",
+            "I",
+            "would",
+            "tell",
+            "myself",
+            "to",
+            "prep",
+            "a",
+            "little",
+            "less",
+            ",",
+            "sleep",
+            "a",
+            "little",
+            "more",
+            ",",
+            "and",
+            "have",
+            "a",
+            "little",
+            "more",
+            "fun",
+            "at",
+            "my",
+            "(",
+            "virtual",
+            ")",
+            "defense",
+            "."
+        ]
+    ]
+}

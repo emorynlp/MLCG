@@ -1,0 +1,264 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "China 's state and collective firms do not have enough cash to operate imported equipment",
+                "pos": [
+                    0,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "banks will issue more bonds to raise funds",
+                "pos": [
+                    17,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the present cash shortage",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "means",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "some state firms do not run at full capacity and are inefficient",
+                "pos": [
+                    10,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-34",
+    "sents": [
+        [
+            "China",
+            "'s",
+            "state",
+            "and",
+            "collective",
+            "firms",
+            "do",
+            "not",
+            "have",
+            "enough",
+            "cash",
+            "to",
+            "operate",
+            "imported",
+            "equipment",
+            ",",
+            "so",
+            "banks",
+            "will",
+            "issue",
+            "more",
+            "bonds",
+            "to",
+            "raise",
+            "funds",
+            ",",
+            "a",
+            "Chinese",
+            "bank",
+            "official",
+            "was",
+            "quoted",
+            "by",
+            "the",
+            "China",
+            "Daily",
+            "as",
+            "saying",
+            "."
+        ],
+        [
+            "Xie",
+            "was",
+            "quoted",
+            "as",
+            "saying",
+            "the",
+            "present",
+            "cash",
+            "shortage",
+            "means",
+            "some",
+            "state",
+            "firms",
+            "do",
+            "not",
+            "run",
+            "at",
+            "full",
+            "capacity",
+            "and",
+            "are",
+            "inefficient",
+            "."
+        ],
+        [
+            "The",
+            "central",
+            "government",
+            "does",
+            "not",
+            "have",
+            "enough",
+            "money",
+            "to",
+            "meet",
+            "their",
+            "needs",
+            "."
+        ],
+        [
+            "The",
+            "paper",
+            "said",
+            ",",
+            "\"",
+            "Reliable",
+            "sources",
+            "disclosed",
+            "that",
+            "the",
+            "country",
+            "is",
+            "running",
+            "a",
+            "budget",
+            "deficit",
+            ".",
+            "\""
+        ],
+        [
+            "It",
+            "gave",
+            "no",
+            "figure",
+            "."
+        ],
+        [
+            "Xie",
+            "said",
+            "her",
+            "bank",
+            "sooner",
+            "or",
+            "later",
+            "will",
+            "have",
+            "to",
+            "punish",
+            "the",
+            "many",
+            "firms",
+            "that",
+            "have",
+            "failed",
+            "to",
+            "repay",
+            "loans",
+            "made",
+            "to",
+            "them",
+            "over",
+            "the",
+            "past",
+            "two",
+            "years",
+            "at",
+            "high",
+            "interest",
+            "rates",
+            "."
+        ],
+        [
+            "The",
+            "bank",
+            "financed",
+            "the",
+            "loans",
+            "by",
+            "issuing",
+            "two",
+            "billion",
+            "yuan",
+            "of",
+            "bonds",
+            ",",
+            "but",
+            "she",
+            "gave",
+            "no",
+            "other",
+            "details",
+            "."
+        ]
+    ]
+}

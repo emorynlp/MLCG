@@ -1,0 +1,395 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "13",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "16 schools",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "safeties",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my family",
+                "pos": [
+                    29,
+                    31
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "getting rejected",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "got rejected",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "event"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-072",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "not",
+            "sad",
+            "about",
+            "getting",
+            "rejected",
+            "by",
+            "13",
+            "out",
+            "of",
+            "the",
+            "16",
+            "schools",
+            "I",
+            "applied",
+            "to",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "in",
+            "to",
+            "some",
+            "decent",
+            "safeties",
+            "so",
+            "I",
+            "\u2019ll",
+            "be",
+            "fine",
+            "."
+        ],
+        [
+            "What",
+            "I",
+            "\u2019m",
+            "sad",
+            "about",
+            "is",
+            "that",
+            "I",
+            "\u2019ll",
+            "never",
+            "be",
+            "able",
+            "to",
+            "feel",
+            "the",
+            "emotion",
+            "of",
+            "getting",
+            "accepted",
+            "into",
+            "the",
+            "school",
+            "I",
+            "really",
+            "wanted",
+            "."
+        ],
+        [
+            "Instead",
+            ",",
+            "when",
+            "I",
+            "look",
+            "back",
+            "on",
+            "this",
+            "part",
+            "of",
+            "my",
+            "life",
+            ",",
+            "I",
+            "\u2019ll",
+            "only",
+            "remember",
+            "the",
+            "boring",
+            ",",
+            "dull",
+            "feeling",
+            "of",
+            "opening",
+            "all",
+            "13",
+            "rejection",
+            "letters",
+            "."
+        ],
+        [
+            "I",
+            "wish",
+            "I",
+            "could",
+            "have",
+            "felt",
+            "that",
+            "emotion",
+            ",",
+            "opening",
+            "up",
+            "a",
+            "decision",
+            "letter",
+            ",",
+            "being",
+            "surprised",
+            "about",
+            "the",
+            "result",
+            ",",
+            "crying",
+            "tears",
+            "of",
+            "joy",
+            ",",
+            "rushing",
+            "to",
+            "find",
+            "my",
+            "family",
+            "and",
+            "tell",
+            "them",
+            "\u201c",
+            "I",
+            "got",
+            "in",
+            "!!!",
+            "\u201d"
+        ],
+        [
+            ".",
+            "Instead",
+            ",",
+            "each",
+            "time",
+            "was",
+            "me",
+            "casually",
+            "letting",
+            "them",
+            "know",
+            "I",
+            "got",
+            "rejected",
+            "from",
+            "somewhere",
+            "."
+        ]
+    ]
+}

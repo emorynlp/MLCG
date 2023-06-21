@@ -1,0 +1,351 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "chapter",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "taking notes",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "taking notes",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "those",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            },
+            {
+                "name": "You",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            },
+            {
+                "name": "yourself",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "active recall",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "event"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-100",
+    "sents": [
+        [
+            "The",
+            "entire",
+            "semester",
+            "I",
+            "have",
+            "done",
+            "active",
+            "recall",
+            "instead",
+            "of",
+            "taking",
+            "notes",
+            "."
+        ],
+        [
+            "I",
+            "swear",
+            "to",
+            "God",
+            "when",
+            "I",
+            "say",
+            "I",
+            "can",
+            "read",
+            "a",
+            "30",
+            "page",
+            "chapter",
+            "and",
+            "thoroughly",
+            "explain",
+            "you",
+            "everything",
+            "from",
+            "it",
+            "compared",
+            "to",
+            "taking",
+            "notes",
+            "and",
+            "having",
+            "to",
+            "refer",
+            "back",
+            "."
+        ],
+        [
+            "For",
+            "those",
+            "who",
+            "do",
+            "n\u2019t",
+            "know",
+            "what",
+            "it",
+            "is",
+            ",",
+            "you",
+            "simply",
+            "speak",
+            "back",
+            "what",
+            "you",
+            "learned",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "it",
+            "per",
+            "page",
+            "."
+        ],
+        [
+            "I",
+            "suggest",
+            "trying",
+            "it",
+            "!"
+        ],
+        [
+            "There",
+            "\u2019s",
+            "more",
+            "to",
+            "just",
+            "speaking",
+            "back",
+            "what",
+            "you",
+            "read",
+            "but",
+            "that",
+            "is",
+            "the",
+            "gist",
+            "of",
+            "it",
+            "."
+        ],
+        [
+            "You",
+            "pretty",
+            "much",
+            "have",
+            "a",
+            "conversation",
+            "with",
+            "yourself",
+            "."
+        ],
+        [
+            "Sorry",
+            "for",
+            "the",
+            "confusion",
+            "regarding",
+            "it",
+            "."
+        ],
+        [
+            "Just",
+            "look",
+            "up",
+            "\u201c",
+            "active",
+            "recall",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

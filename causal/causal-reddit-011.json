@@ -1,0 +1,219 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I feel stressed",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "i \u2019m in a magnet program and",
+                "pos": [
+                    4,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I do nt attempt a top school",
+                "pos": [
+                    12,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I would have wasted my time",
+                "pos": [
+                    19,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-011",
+    "sents": [
+        [
+            "Tonight",
+            "at",
+            "my",
+            "school",
+            "3",
+            "people",
+            "committed",
+            "to",
+            "yale",
+            "and",
+            "another",
+            "two",
+            "to",
+            "Stanford",
+            "."
+        ],
+        [
+            "While",
+            "I",
+            "did",
+            "n\u2019t",
+            "apply",
+            "to",
+            "these",
+            "schools",
+            "I",
+            "ca",
+            "n\u2019t",
+            "help",
+            "but",
+            "feel",
+            "jealous",
+            "."
+        ],
+        [
+            "Their",
+            "future",
+            "is",
+            "pretty",
+            "much",
+            "set",
+            "and",
+            "they",
+            "can",
+            "just",
+            "focus",
+            "on",
+            "school",
+            "."
+        ],
+        [
+            "They",
+            "all",
+            "have",
+            "such",
+            "amazing",
+            "ECs",
+            "and",
+            "grade",
+            "but",
+            "all",
+            "I",
+            "have",
+            "is",
+            "two",
+            "jobs",
+            "which",
+            "do",
+            "n\u2019t",
+            "look",
+            "as",
+            "cool",
+            "as",
+            "being",
+            "student",
+            "board",
+            "members",
+            "and",
+            "musicians",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "stressed",
+            "because",
+            "i",
+            "\u2019m",
+            "in",
+            "a",
+            "magnet",
+            "program",
+            "and",
+            "if",
+            "I",
+            "do",
+            "nt",
+            "attempt",
+            "a",
+            "top",
+            "school",
+            "I",
+            "would",
+            "have",
+            "wasted",
+            "my",
+            "time",
+            "."
+        ],
+        [
+            "How",
+            "do",
+            "I",
+            "combat",
+            "feeling",
+            "this",
+            "way",
+            "?"
+        ]
+    ]
+}

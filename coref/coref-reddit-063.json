@@ -1,0 +1,318 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "us",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "every reply",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "a reply",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "us",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "OUR",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The discussion post",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "our posts",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-063",
+    "sents": [
+        [
+            "Like",
+            "I",
+            "know",
+            "it",
+            "'s",
+            "to",
+            "get",
+            "us",
+            "to",
+            "engage",
+            "with",
+            "each",
+            "other",
+            "like",
+            "we",
+            "would",
+            "usually",
+            "be",
+            "forced",
+            "to",
+            "do",
+            "in",
+            "class",
+            "but",
+            "come",
+            "on",
+            "."
+        ],
+        [
+            "The",
+            "discussion",
+            "post",
+            "will",
+            "be",
+            "to",
+            "answer",
+            "questions",
+            "from",
+            "the",
+            "chapter",
+            "we",
+            "read",
+            ",",
+            "and",
+            "then",
+            "literally",
+            "every",
+            "reply",
+            "is",
+            "just",
+            ",",
+            "\"",
+            "I",
+            "like",
+            "how",
+            "you",
+            "answered",
+            "this",
+            ",",
+            "this",
+            "is",
+            "a",
+            "good",
+            "answer",
+            ",",
+            "good",
+            "job",
+            "\"",
+            "because",
+            "ALL",
+            "OF",
+            "OUR",
+            "ANSWERS",
+            "ARE",
+            "BASICALLY",
+            "THE",
+            "SAME",
+            "."
+        ],
+        [
+            "It",
+            "takes",
+            "like",
+            "2",
+            "brain",
+            "cells",
+            "to",
+            "come",
+            "up",
+            "with",
+            "a",
+            "reply",
+            "to",
+            "another",
+            "student",
+            "and",
+            "it",
+            "just",
+            "feels",
+            "like",
+            "a",
+            "waste",
+            "of",
+            "time",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "Maybe",
+            "it",
+            "'d",
+            "be",
+            "better",
+            "if",
+            "we",
+            "were",
+            "allowed",
+            "some",
+            "creative",
+            "freedom",
+            "in",
+            "our",
+            "posts",
+            "but",
+            "whatever",
+            "."
+        ]
+    ]
+}

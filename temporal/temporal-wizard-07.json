@@ -1,0 +1,397 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "looked",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "rested",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were sticking out",
+                "pos": [
+                    19,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shod",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "clasping",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asked",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "answered",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-07",
+    "sents": [
+        [
+            "Dorothy",
+            "looked",
+            ",",
+            "and",
+            "gave",
+            "a",
+            "little",
+            "cry",
+            "of",
+            "fright",
+            "."
+        ],
+        [
+            "There",
+            ",",
+            "indeed",
+            ",",
+            "just",
+            "under",
+            "the",
+            "corner",
+            "of",
+            "the",
+            "great",
+            "beam",
+            "the",
+            "house",
+            "rested",
+            "on",
+            ",",
+            "two",
+            "feet",
+            "were",
+            "sticking",
+            "out",
+            ",",
+            "shod",
+            "in",
+            "silver",
+            "shoes",
+            "with",
+            "pointed",
+            "toes",
+            "."
+        ],
+        [
+            "\"",
+            "Oh",
+            ",",
+            "dear",
+            "!",
+            "Oh",
+            ",",
+            "dear",
+            "!",
+            "\"",
+            "cried",
+            "Dorothy",
+            ",",
+            "clasping",
+            "her",
+            "hands",
+            "together",
+            "in",
+            "dismay",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "house",
+            "must",
+            "have",
+            "fallen",
+            "on",
+            "her",
+            "."
+        ],
+        [
+            "Whatever",
+            "shall",
+            "we",
+            "do",
+            "?",
+            "\""
+        ],
+        [
+            "\"",
+            "There",
+            "is",
+            "nothing",
+            "to",
+            "be",
+            "done",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "little",
+            "woman",
+            "calmly",
+            "."
+        ],
+        [
+            "\"",
+            "But",
+            "who",
+            "was",
+            "she",
+            "?",
+            "\"",
+            "asked",
+            "Dorothy",
+            "."
+        ],
+        [
+            "\"",
+            "She",
+            "was",
+            "the",
+            "Wicked",
+            "Witch",
+            "of",
+            "the",
+            "East",
+            ",",
+            "as",
+            "I",
+            "said",
+            ",",
+            "\"",
+            "answered",
+            "the",
+            "little",
+            "woman",
+            "."
+        ],
+        [
+            "\"",
+            "She",
+            "has",
+            "held",
+            "all",
+            "the",
+            "Munchkins",
+            "in",
+            "bondage",
+            "for",
+            "many",
+            "years",
+            ",",
+            "making",
+            "them",
+            "slave",
+            "for",
+            "her",
+            "night",
+            "and",
+            "day",
+            "."
+        ],
+        [
+            "Now",
+            "they",
+            "are",
+            "all",
+            "set",
+            "free",
+            ",",
+            "and",
+            "are",
+            "grateful",
+            "to",
+            "you",
+            "for",
+            "the",
+            "favor",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

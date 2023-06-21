@@ -1,0 +1,253 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "seems",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019re looking for",
+                "pos": [
+                    36,
+                    39
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Sounds",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-106",
+    "sents": [
+        [
+            "I",
+            "honestly",
+            "ca",
+            "n\u2019t",
+            "even",
+            "imagine",
+            "it",
+            "."
+        ],
+        [
+            "Grad",
+            "school",
+            "seems",
+            "so",
+            "fast",
+            "paced",
+            "and",
+            "a",
+            "constant",
+            "stream",
+            "of",
+            "information",
+            "and",
+            "reading",
+            ",",
+            "I",
+            "ca",
+            "n\u2019t",
+            "imagine",
+            "how",
+            "they",
+            "would",
+            "have",
+            "time",
+            "to",
+            "do",
+            "all",
+            "that",
+            "without",
+            "instant",
+            "access",
+            "."
+        ],
+        [
+            "So",
+            ",",
+            "please",
+            "correct",
+            "me",
+            "if",
+            "I",
+            "\u2019m",
+            "wrong",
+            ",",
+            "but",
+            "they",
+            "would",
+            "\u2019ve",
+            "had",
+            "to",
+            "go",
+            "to",
+            "the",
+            "library",
+            ",",
+            "find",
+            "relevant",
+            "journals",
+            "to",
+            "their",
+            "topic",
+            ",",
+            "sift",
+            "through",
+            "the",
+            "papers",
+            "to",
+            "find",
+            "what",
+            "they",
+            "\u2019re",
+            "looking",
+            "for",
+            ",",
+            "read",
+            "it",
+            ",",
+            "take",
+            "notes",
+            ",",
+            "redraw",
+            "figures",
+            "maybe",
+            ",",
+            "then",
+            "look",
+            "through",
+            "it",
+            "all",
+            "later",
+            "to",
+            "piece",
+            "it",
+            "together",
+            "?"
+        ],
+        [
+            "And",
+            "the",
+            "thought",
+            "of",
+            "having",
+            "to",
+            "manually",
+            "write",
+            "hundreds",
+            "of",
+            "citations",
+            "..."
+        ],
+        [
+            "Sounds",
+            "wild",
+            "."
+        ],
+        [
+            "Maybe",
+            "it",
+            "\u2019s",
+            "just",
+            "my",
+            "zoomer",
+            "brain",
+            "that",
+            "ca",
+            "n\u2019t",
+            "imagine",
+            "the",
+            "world",
+            "before",
+            "the",
+            "internet",
+            "haha",
+            "."
+        ]
+    ]
+}

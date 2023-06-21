@@ -1,0 +1,299 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The company",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Burdett Publications Inc.",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Burdett Publications Inc",
+                "pos": [
+                    35,
+                    38
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Burdett Publications",
+                "pos": [
+                    48,
+                    50
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Burdett",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Publications",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the former owners",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the former Burdett owners",
+                "pos": [
+                    7,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dale Burdett Inc",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Dale Burdett",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Nolex Development Inc",
+                "pos": [
+                    31,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Nolex",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "damages",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the damages",
+                "pos": [
+                    34,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-46",
+    "sents": [
+        [
+            "Dale",
+            "Burdett",
+            "Inc",
+            "said",
+            "it",
+            "faces",
+            "damages",
+            "claims",
+            "totalling",
+            "about",
+            "420,000",
+            "dlrs",
+            "from",
+            "the",
+            "former",
+            "owners",
+            "of",
+            "Burdett",
+            "Publications",
+            "Inc.",
+            "The",
+            "company",
+            "said",
+            "on",
+            "February",
+            "20",
+            ",",
+            "1986",
+            ",",
+            "its",
+            "predecessor",
+            "Nolex",
+            "Development",
+            "Inc",
+            "acquired",
+            "Burdett",
+            "Publications",
+            "Inc",
+            "in",
+            "an",
+            "exchange",
+            "of",
+            "17",
+            "mln",
+            "common",
+            "shares",
+            "for",
+            "all",
+            "Burdett",
+            "Publications",
+            "shares",
+            ",",
+            "but",
+            "the",
+            "transaction",
+            "was",
+            "not",
+            "qualified",
+            "with",
+            "the",
+            "California",
+            "Department",
+            "of",
+            "Corporations",
+            "."
+        ],
+        [
+            "As",
+            "a",
+            "result",
+            ",",
+            "it",
+            "said",
+            ",",
+            "the",
+            "former",
+            "Burdett",
+            "Publications",
+            "owners",
+            "have",
+            "a",
+            "claim",
+            "for",
+            "damages",
+            "against",
+            "Dale",
+            "Burdett",
+            "as",
+            "successor",
+            "to",
+            "Nolex",
+            "for",
+            "one",
+            "yuear",
+            "starting",
+            "January",
+            "21",
+            ",",
+            "1987",
+            ",",
+            "with",
+            "the",
+            "damages",
+            "measured",
+            "by",
+            "the",
+            "difference",
+            "in",
+            "values",
+            "of",
+            "shares",
+            "exchanged",
+            "plus",
+            "interest",
+            "from",
+            "February",
+            "20",
+            ",",
+            "1986",
+            "."
+        ]
+    ]
+}

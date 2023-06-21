@@ -1,0 +1,391 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "'m a freshman",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been taking",
+                "pos": [
+                    26,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knew",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hating",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "causing",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been a private and fairly clean person",
+                "pos": [
+                    3,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "messy",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reached",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-138",
+    "sents": [
+        [
+            "I",
+            "'m",
+            "a",
+            "freshman",
+            ",",
+            "and",
+            "while",
+            "I",
+            "feel",
+            "like",
+            "I",
+            "'m",
+            "doing",
+            "alright",
+            "with",
+            "actual",
+            "classwork",
+            "and",
+            "stuff",
+            ",",
+            "one",
+            "of",
+            "my",
+            "biggest",
+            "challenges",
+            "has",
+            "been",
+            "taking",
+            "showers",
+            "frequently",
+            "."
+        ],
+        [
+            "I",
+            "knew",
+            "dorm",
+            "showers",
+            "would",
+            "be",
+            "an",
+            "adjustment",
+            ",",
+            "but",
+            "more",
+            "and",
+            "more",
+            "I",
+            "find",
+            "myself",
+            "just",
+            "absolutely",
+            "hating",
+            "them",
+            ",",
+            "to",
+            "the",
+            "point",
+            "of",
+            "causing",
+            "me",
+            "anxiety",
+            "."
+        ],
+        [
+            "I",
+            "'ve",
+            "always",
+            "been",
+            "a",
+            "private",
+            "and",
+            "fairly",
+            "clean",
+            "person",
+            ",",
+            "though",
+            "not",
+            "to",
+            "an",
+            "extreme",
+            "level",
+            ",",
+            "but",
+            "I",
+            "just",
+            "ca",
+            "n't",
+            "bring",
+            "myself",
+            "to",
+            "feel",
+            "comfortable",
+            "in",
+            "a",
+            "dorm",
+            "shower",
+            "."
+        ],
+        [
+            "Between",
+            "the",
+            "lack",
+            "of",
+            "privacy",
+            "and",
+            "the",
+            "fact",
+            "that",
+            "my",
+            "hallmates",
+            "always",
+            "leave",
+            "everything",
+            "very",
+            "messy",
+            ",",
+            "I",
+            "just",
+            "ca",
+            "n't",
+            "do",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "this",
+            "is",
+            "something",
+            "that",
+            "should",
+            "n't",
+            "be",
+            "this",
+            "big",
+            "a",
+            "problem",
+            "and",
+            "I",
+            "should",
+            "just",
+            "get",
+            "over",
+            "it",
+            ",",
+            "but",
+            "I",
+            "'ve",
+            "reached",
+            "the",
+            "point",
+            "where",
+            "I",
+            "'ve",
+            "had",
+            "shower",
+            "related",
+            "panic",
+            "attacks",
+            "and",
+            "I",
+            "just",
+            "do",
+            "n't",
+            "know",
+            "what",
+            "to",
+            "do",
+            "."
+        ]
+    ]
+}

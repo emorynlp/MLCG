@@ -1,0 +1,230 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "seeking to sell its Triplett Electrical Instrument Corp subsidiary in Bluffton , Ohio , and Triplett 's Alltest division in Hoffman Estates , Ill",
+                "pos": [
+                    5,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "concentrate on its three profitable division and reduce its debt load",
+                "pos": [
+                    7,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "a plan",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "satisfy its obligations under its 10 - 7/8 pct subordinated notes",
+                "pos": [
+                    10,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-45",
+    "sents": [
+        [
+            "Penril",
+            "Corp",
+            "said",
+            "it",
+            "is",
+            "seeking",
+            "to",
+            "sell",
+            "its",
+            "Triplett",
+            "Electrical",
+            "Instrument",
+            "Corp",
+            "subsidiary",
+            "in",
+            "Bluffton",
+            ",",
+            "Ohio",
+            ",",
+            "and",
+            "Triplett",
+            "'s",
+            "Alltest",
+            "division",
+            "in",
+            "Hoffman",
+            "Estates",
+            ",",
+            "Ill",
+            "."
+        ],
+        [
+            ",",
+            "as",
+            "part",
+            "of",
+            "a",
+            "plan",
+            "to",
+            "concentrate",
+            "on",
+            "its",
+            "three",
+            "profitable",
+            "division",
+            "and",
+            "reduce",
+            "its",
+            "debt",
+            "load",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "also",
+            "said",
+            "it",
+            "is",
+            "evaluating",
+            "a",
+            "plan",
+            "to",
+            "satisfy",
+            "its",
+            "obligations",
+            "under",
+            "its",
+            "10",
+            "-",
+            "7/8",
+            "pct",
+            "subordinated",
+            "notes",
+            "but",
+            "gave",
+            "no",
+            "details",
+            "."
+        ],
+        [
+            "Interest",
+            "on",
+            "the",
+            "notes",
+            "is",
+            "due",
+            "today",
+            "."
+        ],
+        [
+            "Penril",
+            "further",
+            "said",
+            "director",
+            "Clifford",
+            "L.",
+            "Alexander",
+            "Jr.",
+            "has",
+            "resigned",
+            "from",
+            "the",
+            "board",
+            "."
+        ],
+        [
+            "It",
+            "gave",
+            "no",
+            "reason",
+            "."
+        ],
+        [
+            "Penril",
+            "said",
+            "shareholders",
+            "at",
+            "the",
+            "annual",
+            "meeting",
+            "approved",
+            "the",
+            "limitation",
+            "of",
+            "directors",
+            "'",
+            "liability",
+            "."
+        ]
+    ]
+}

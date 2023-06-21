@@ -1,0 +1,357 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "says",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "need",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "teach",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "run out",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been the worst experience",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "being diagnosed with",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dying",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been a living hell",
+                "pos": [
+                    31,
+                    35
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finish",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "think",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "just done",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-058",
+    "sents": [
+        [
+            "Like",
+            "the",
+            "title",
+            "says",
+            ",",
+            "the",
+            "one",
+            "class",
+            "I",
+            "need",
+            "this",
+            "semester",
+            "so",
+            "I",
+            "can",
+            "finally",
+            "graduate",
+            "is",
+            "n't",
+            "being",
+            "offered",
+            ",",
+            "my",
+            "last",
+            "foreign",
+            "language",
+            "requirement",
+            "and",
+            "the",
+            "Dean",
+            "'s",
+            "office",
+            "is",
+            "n't",
+            "budging",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "to",
+            "complete",
+            "all",
+            "my",
+            "classes",
+            "before",
+            "I",
+            "student",
+            "teach",
+            "this",
+            "spring",
+            "semester",
+            "."
+        ],
+        [
+            "I",
+            "ca",
+            "n't",
+            "stay",
+            "another",
+            "semester",
+            "because",
+            "my",
+            "loans",
+            "run",
+            "out",
+            "."
+        ],
+        [
+            "College",
+            "has",
+            "honestly",
+            "been",
+            "the",
+            "worst",
+            "experience",
+            "of",
+            "my",
+            "life",
+            ",",
+            "between",
+            "being",
+            "diagnosed",
+            "with",
+            "a",
+            "lifelong",
+            "disease",
+            ",",
+            "type",
+            "1",
+            "diabetes",
+            ",",
+            "to",
+            "my",
+            "father",
+            "dying",
+            "this",
+            "whole",
+            "experience",
+            "has",
+            "been",
+            "a",
+            "living",
+            "hell",
+            "and",
+            "when",
+            "I",
+            "'m",
+            "just",
+            "about",
+            "to",
+            "finish",
+            "this",
+            "happens",
+            "."
+        ],
+        [
+            "I",
+            "think",
+            "I",
+            "'m",
+            "just",
+            "done",
+            "."
+        ]
+    ]
+}

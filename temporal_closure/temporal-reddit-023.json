@@ -1,0 +1,608 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "seen",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "do",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "post",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "talk about",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "understand",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "realize",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "do",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be thoughtful",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looking",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m happy",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "achieved",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "deserve",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "congratulate",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be that",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-023",
+    "sents": [
+        [
+            "If",
+            "you",
+            "got",
+            "into",
+            "a",
+            "top",
+            "school",
+            "like",
+            "the",
+            "ivies",
+            "/",
+            "SM",
+            "-",
+            "please",
+            ",",
+            "please",
+            ",",
+            "please",
+            "DO",
+            "NT",
+            "preach",
+            "about",
+            "how",
+            "\u201c",
+            "where",
+            "you",
+            "go",
+            "to",
+            "college",
+            "does",
+            "n\u2019t",
+            "define",
+            "you",
+            "\u201d",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "seen",
+            "a",
+            "lot",
+            "of",
+            "kids",
+            "do",
+            "this",
+            "on",
+            "insta",
+            "where",
+            "they",
+            "post",
+            "their",
+            "commitment",
+            "post",
+            "(",
+            "as",
+            "they",
+            "should",
+            ")",
+            "and",
+            "then",
+            "in",
+            "the",
+            "caption",
+            "talk",
+            "about",
+            "how",
+            "random",
+            "and",
+            "arbitrary",
+            "the",
+            "process",
+            "is",
+            "like",
+            "just",
+            "do",
+            "n\u2019t",
+            "do",
+            "that",
+            "please",
+            "."
+        ],
+        [
+            "We",
+            "all",
+            "understand",
+            "how",
+            "chaotic",
+            "this",
+            "process",
+            "is",
+            ",",
+            "but",
+            "it",
+            "does",
+            "n\u2019t",
+            "make",
+            "it",
+            "hurt",
+            "any",
+            "less",
+            "."
+        ],
+        [
+            "And",
+            "I",
+            "realize",
+            "that",
+            "most",
+            "kids",
+            "do",
+            "this",
+            "out",
+            "of",
+            "a",
+            "place",
+            "of",
+            "goodwill",
+            "and",
+            "to",
+            "be",
+            "thoughtful",
+            "but",
+            "it",
+            "just",
+            "ends",
+            "up",
+            "looking",
+            "really",
+            "pretentious",
+            "and",
+            "almost",
+            "hurtful",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "happy",
+            "for",
+            "all",
+            "you",
+            "have",
+            "achieved",
+            "and",
+            "you",
+            "deserve",
+            "to",
+            "be",
+            "able",
+            "to",
+            "post",
+            "that",
+            "commitment",
+            "post",
+            ",",
+            "but",
+            "just",
+            "leave",
+            "it",
+            "there",
+            "."
+        ],
+        [
+            "We",
+            "will",
+            "all",
+            "congratulate",
+            "you",
+            "on",
+            "this",
+            "huge",
+            "commitment",
+            "and",
+            "then",
+            "that",
+            "\u2019ll",
+            "be",
+            "that",
+            "."
+        ]
+    ]
+}

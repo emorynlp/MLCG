@@ -1,0 +1,324 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "This adventure",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the travelers more anxious than ever to get out of the forest",
+                "pos": [
+                    3,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they walked so fast",
+                "pos": [
+                    17,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy became tired",
+                "pos": [
+                    22,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The Tin Woodman must build us a raft",
+                "pos": [
+                    1,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "we can float to the other side",
+                "pos": [
+                    11,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-33",
+    "sents": [
+        [
+            "This",
+            "adventure",
+            "made",
+            "the",
+            "travelers",
+            "more",
+            "anxious",
+            "than",
+            "ever",
+            "to",
+            "get",
+            "out",
+            "of",
+            "the",
+            "forest",
+            ",",
+            "and",
+            "they",
+            "walked",
+            "so",
+            "fast",
+            "that",
+            "Dorothy",
+            "became",
+            "tired",
+            ",",
+            "and",
+            "had",
+            "to",
+            "ride",
+            "on",
+            "the",
+            "Lion",
+            "'",
+            "s",
+            "back",
+            "."
+        ],
+        [
+            "To",
+            "their",
+            "great",
+            "joy",
+            "the",
+            "trees",
+            "became",
+            "thinner",
+            "the",
+            "farther",
+            "they",
+            "advanced",
+            ",",
+            "and",
+            "in",
+            "the",
+            "afternoon",
+            "they",
+            "suddenly",
+            "came",
+            "upon",
+            "a",
+            "broad",
+            "river",
+            ",",
+            "flowing",
+            "swiftly",
+            "just",
+            "before",
+            "them",
+            "."
+        ],
+        [
+            "On",
+            "the",
+            "other",
+            "side",
+            "of",
+            "the",
+            "water",
+            "they",
+            "could",
+            "see",
+            "the",
+            "road",
+            "of",
+            "yellow",
+            "brick",
+            "running",
+            "through",
+            "a",
+            "beautiful",
+            "country",
+            ",",
+            "with",
+            "green",
+            "meadows",
+            "dotted",
+            "with",
+            "bright",
+            "flowers",
+            "and",
+            "all",
+            "the",
+            "road",
+            "bordered",
+            "with",
+            "trees",
+            "hanging",
+            "full",
+            "of",
+            "delicious",
+            "fruits",
+            "."
+        ],
+        [
+            "They",
+            "were",
+            "greatly",
+            "pleased",
+            "to",
+            "see",
+            "this",
+            "delightful",
+            "country",
+            "before",
+            "them",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "shall",
+            "we",
+            "cross",
+            "the",
+            "river",
+            "?",
+            "\"",
+            "asked",
+            "Dorothy",
+            "."
+        ],
+        [
+            "\"",
+            "That",
+            "is",
+            "easily",
+            "done",
+            ",",
+            "\"",
+            "replied",
+            "the",
+            "Scarecrow",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "Tin",
+            "Woodman",
+            "must",
+            "build",
+            "us",
+            "a",
+            "raft",
+            ",",
+            "so",
+            "we",
+            "can",
+            "float",
+            "to",
+            "the",
+            "other",
+            "side",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

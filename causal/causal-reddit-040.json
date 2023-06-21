@@ -1,0 +1,259 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I \u2019m just so excited and felt the need to share",
+                "pos": [
+                    0,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I started off the semester seriously struggling",
+                "pos": [
+                    13,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I would stick it through",
+                "pos": [
+                    28,
+                    33
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "unless",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 3,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "they failed me out and kicked me out",
+                "pos": [
+                    34,
+                    42
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-040",
+    "sents": [
+        [
+            "Just",
+            "wrapped",
+            "up",
+            "my",
+            "first",
+            "semester",
+            "of",
+            "graduate",
+            "school",
+            "in",
+            "a",
+            "new",
+            "field",
+            "(",
+            "psychology",
+            "to",
+            "statistics",
+            ")",
+            "and",
+            "I",
+            "finally",
+            "got",
+            "my",
+            "grades",
+            "and",
+            "found",
+            "out",
+            "I",
+            "not",
+            "only",
+            "passed",
+            ",",
+            "but",
+            "I",
+            "got",
+            "A",
+            "\u2019s",
+            "!!"
+        ],
+        [
+            "Still",
+            "ca",
+            "n\u2019t",
+            "quite",
+            "believe",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "just",
+            "so",
+            "excited",
+            "and",
+            "felt",
+            "the",
+            "need",
+            "to",
+            "share",
+            ",",
+            "because",
+            "I",
+            "started",
+            "off",
+            "the",
+            "semester",
+            "seriously",
+            "struggling",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "dealing",
+            "with",
+            "really",
+            "bad",
+            "anxiety",
+            "and",
+            "imposter",
+            "syndrome",
+            "all",
+            "semester",
+            "and",
+            "thought",
+            "that",
+            "maybe",
+            "I",
+            "was",
+            "n\u2019t",
+            "cut",
+            "out",
+            "for",
+            "the",
+            "program",
+            ",",
+            "but",
+            "I",
+            "decided",
+            "I",
+            "would",
+            "stick",
+            "it",
+            "through",
+            "unless",
+            "they",
+            "failed",
+            "me",
+            "out",
+            "and",
+            "kicked",
+            "me",
+            "out",
+            ",",
+            "haha",
+            "."
+        ],
+        [
+            "To",
+            "anybody",
+            "who",
+            "is",
+            "questioning",
+            "whether",
+            "or",
+            "not",
+            "they",
+            "deserve",
+            "to",
+            "be",
+            "here",
+            ",",
+            "you",
+            "do",
+            "."
+        ],
+        [
+            "You",
+            "can",
+            "do",
+            "it",
+            "."
+        ],
+        [
+            "Cheers",
+            "and",
+            "happy",
+            "holidays",
+            "everyone",
+            "."
+        ],
+        [
+            "\u2665\ufe0f",
+            "Edit",
+            ":",
+            "spelling",
+            "error"
+        ]
+    ]
+}

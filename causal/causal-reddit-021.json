@@ -1,0 +1,184 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "once",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you get to school",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it becomes so much worse",
+                "pos": [
+                    6,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-021",
+    "sents": [
+        [
+            "i",
+            "\u2019m",
+            "currently",
+            "a",
+            "college",
+            "freshman",
+            "at",
+            "a",
+            "top",
+            "20",
+            "."
+        ],
+        [
+            "college",
+            "admissions",
+            "were",
+            "stressful",
+            ",",
+            "especially",
+            "being",
+            "surrounded",
+            "by",
+            "so",
+            "many",
+            "people",
+            "who",
+            "feel",
+            "more",
+            "qualified",
+            "than",
+            "you",
+            "."
+        ],
+        [
+            "once",
+            "you",
+            "get",
+            "to",
+            "school",
+            ",",
+            "it",
+            "becomes",
+            "so",
+            "much",
+            "worse",
+            "."
+        ],
+        [
+            "suddenly",
+            ",",
+            "every",
+            "one",
+            "around",
+            "you",
+            "has",
+            "had",
+            "incredible",
+            "internships",
+            "and",
+            "has",
+            "done",
+            "research",
+            "and",
+            "is",
+            "currently",
+            "curing",
+            "cancer",
+            "."
+        ],
+        [
+            "the",
+            "imposter",
+            "syndrome",
+            "is",
+            "real",
+            "."
+        ],
+        [
+            "please",
+            "keep",
+            "in",
+            "mind",
+            "while",
+            "you",
+            "\u2019re",
+            "applying",
+            "that",
+            "it",
+            "does",
+            "n\u2019t",
+            "end",
+            "once",
+            "you",
+            "get",
+            "accepted",
+            "and",
+            "pay",
+            "your",
+            "enrollment",
+            "deposit",
+            "."
+        ],
+        [
+            "do",
+            "n\u2019t",
+            "sign",
+            "up",
+            "for",
+            "something",
+            "you",
+            "are",
+            "n\u2019t",
+            "sure",
+            "if",
+            "you",
+            "can",
+            "handle",
+            "."
+        ],
+        [
+            "wishing",
+            "you",
+            "all",
+            "the",
+            "best",
+            "of",
+            "luck",
+            "<3"
+        ]
+    ]
+}

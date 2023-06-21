@@ -1,0 +1,270 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was the last",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "remembered",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "grieved",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-26",
+    "sents": [
+        [
+            "And",
+            "that",
+            "was",
+            "the",
+            "last",
+            "any",
+            "of",
+            "them",
+            "ever",
+            "saw",
+            "of",
+            "Oz",
+            ",",
+            "the",
+            "Wonderful",
+            "Wizard",
+            ",",
+            "though",
+            "he",
+            "may",
+            "have",
+            "reached",
+            "Omaha",
+            "safely",
+            ",",
+            "and",
+            "be",
+            "there",
+            "now",
+            ",",
+            "for",
+            "all",
+            "we",
+            "know",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "people",
+            "remembered",
+            "him",
+            "lovingly",
+            ",",
+            "and",
+            "said",
+            "to",
+            "one",
+            "another",
+            ":"
+        ],
+        [
+            "\"",
+            "Oz",
+            "was",
+            "always",
+            "our",
+            "friend",
+            "."
+        ],
+        [
+            "When",
+            "he",
+            "was",
+            "here",
+            "he",
+            "built",
+            "for",
+            "us",
+            "this",
+            "beautiful",
+            "Emerald",
+            "City",
+            ",",
+            "and",
+            "now",
+            "he",
+            "is",
+            "gone",
+            "he",
+            "has",
+            "left",
+            "the",
+            "Wise",
+            "Scarecrow",
+            "to",
+            "rule",
+            "over",
+            "us",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "Still",
+            ",",
+            "for",
+            "many",
+            "days",
+            "they",
+            "grieved",
+            "over",
+            "the",
+            "loss",
+            "of",
+            "the",
+            "Wonderful",
+            "Wizard",
+            ",",
+            "and",
+            "would",
+            "not",
+            "be",
+            "comforted",
+            "."
+        ]
+    ]
+}

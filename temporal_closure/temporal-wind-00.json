@@ -1,0 +1,282 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "struck",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "caressed",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lived in",
+                "pos": [
+                    32,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fell on",
+                "pos": [
+                    41,
+                    43
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Jumping off",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pursued",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reached",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-00",
+    "sents": [
+        [
+            "\"",
+            "This",
+            "is",
+            "fine",
+            "!",
+            "\"",
+            "he",
+            "said",
+            "to",
+            "himself",
+            "."
+        ],
+        [
+            "\"",
+            "This",
+            "is",
+            "better",
+            "than",
+            "whitewashing",
+            "!",
+            "\"",
+            "The",
+            "sunshine",
+            "struck",
+            "hot",
+            "on",
+            "his",
+            "fur",
+            ",",
+            "soft",
+            "breezes",
+            "caressed",
+            "his",
+            "heated",
+            "brow",
+            ",",
+            "and",
+            "after",
+            "the",
+            "seclusion",
+            "of",
+            "the",
+            "cellarage",
+            "he",
+            "had",
+            "lived",
+            "in",
+            "so",
+            "long",
+            "the",
+            "carol",
+            "of",
+            "happy",
+            "birds",
+            "fell",
+            "on",
+            "his",
+            "dulled",
+            "hearing",
+            "almost",
+            "like",
+            "a",
+            "shout",
+            "."
+        ],
+        [
+            "Jumping",
+            "off",
+            "all",
+            "his",
+            "four",
+            "legs",
+            "at",
+            "once",
+            ",",
+            "in",
+            "the",
+            "joy",
+            "of",
+            "living",
+            "and",
+            "the",
+            "delight",
+            "of",
+            "spring",
+            "without",
+            "its",
+            "cleaning",
+            ",",
+            "he",
+            "pursued",
+            "his",
+            "way",
+            "across",
+            "the",
+            "meadow",
+            "till",
+            "he",
+            "reached",
+            "the",
+            "hedge",
+            "on",
+            "the",
+            "further",
+            "side",
+            "."
+        ]
+    ]
+}

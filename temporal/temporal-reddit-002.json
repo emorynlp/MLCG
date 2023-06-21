@@ -1,0 +1,367 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "starting",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felt",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m always anxious",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "procrastinating",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m overwhelmed",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s a presentation",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m still working on",
+                "pos": [
+                    21,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m still here",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stuck",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-002",
+    "sents": [
+        [
+            "Ever",
+            "since",
+            "starting",
+            "graduate",
+            "studies",
+            "I",
+            "have",
+            "felt",
+            "like",
+            "none",
+            "of",
+            "my",
+            "work",
+            "is",
+            "something",
+            "to",
+            "be",
+            "happy",
+            "about",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "always",
+            "anxious",
+            "and",
+            "procrastinating",
+            "work",
+            "because",
+            "I",
+            "'m",
+            "overwhelmed",
+            "about",
+            "how",
+            "to",
+            "even",
+            "start",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "my",
+            "qualification",
+            "exam",
+            "for",
+            "my",
+            "PhD",
+            "in",
+            "less",
+            "than",
+            "12",
+            "hours",
+            "(",
+            "it",
+            "'s",
+            "a",
+            "presentation",
+            ")",
+            "and",
+            "I",
+            "'m",
+            "still",
+            "working",
+            "on",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "often",
+            "feel",
+            "like",
+            ",",
+            "no",
+            "I",
+            "'m",
+            "not",
+            "actually",
+            "qualified",
+            "for",
+            "this",
+            "so",
+            "I",
+            "should",
+            "n't",
+            "pass",
+            ",",
+            "I",
+            "should",
+            "drop",
+            "out",
+            "."
+        ],
+        [
+            "Yet",
+            "I",
+            "'m",
+            "still",
+            "here",
+            ",",
+            "stuck",
+            "in",
+            "a",
+            "cycle",
+            "of",
+            "anxiety",
+            "and",
+            "feelings",
+            "of",
+            "inadequacy",
+            "."
+        ],
+        [
+            "Is",
+            "this",
+            "something",
+            "others",
+            "feel",
+            "often",
+            "?"
+        ]
+    ]
+}

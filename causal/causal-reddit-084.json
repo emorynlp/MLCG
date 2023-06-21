@@ -1,0 +1,287 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "your application",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "admission to Lehigh",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The demand for international financial assistance exceeds the amount available to award",
+                "pos": [
+                    0,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "financial aid needs become an important factor",
+                "pos": [
+                    14,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "considering international applicants",
+                "pos": [
+                    22,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "my application went through",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "till",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "Fin Aid",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-084",
+    "sents": [
+        [
+            ">",
+            "The",
+            "Admissions",
+            "Committee",
+            "has",
+            "completed",
+            "a",
+            "careful",
+            "evaluation",
+            "of",
+            "your",
+            "application",
+            "for",
+            "admission",
+            "to",
+            "Lehigh",
+            "."
+        ],
+        [
+            "I",
+            "regret",
+            "to",
+            "inform",
+            "you",
+            "that",
+            ",",
+            "although",
+            "the",
+            "Committee",
+            "was",
+            "impressed",
+            "with",
+            "your",
+            "academic",
+            "credentials",
+            ",",
+            "we",
+            "are",
+            "unable",
+            "to",
+            "offer",
+            "you",
+            "admission",
+            "."
+        ],
+        [
+            "The",
+            "demand",
+            "for",
+            "international",
+            "financial",
+            "assistance",
+            "exceeds",
+            "the",
+            "amount",
+            "available",
+            "to",
+            "award",
+            "and",
+            "so",
+            "financial",
+            "aid",
+            "needs",
+            "become",
+            "an",
+            "important",
+            "factor",
+            "when",
+            "considering",
+            "international",
+            "applicants",
+            "."
+        ],
+        [
+            "Had",
+            "more",
+            "funding",
+            "been",
+            "available",
+            ",",
+            "we",
+            "would",
+            "have",
+            "been",
+            "able",
+            "to",
+            "extend",
+            "an",
+            "offer",
+            "of",
+            "admission",
+            "to",
+            "you",
+            "."
+        ],
+        [
+            "what",
+            "does",
+            "this",
+            "even",
+            "f\\*",
+            "mean",
+            "??"
+        ],
+        [
+            "my",
+            "application",
+            "went",
+            "through",
+            "till",
+            "Fin",
+            "Aid",
+            "??"
+        ]
+    ]
+}

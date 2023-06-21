@@ -1,0 +1,379 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "work",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the US",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the US",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the TAs",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            },
+            {
+                "name": "a TA",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "create",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "a professor",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the prof",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "this prof",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-003",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "working",
+            "for",
+            "a",
+            "professor",
+            "who",
+            "earned",
+            "their",
+            "doctorate",
+            "from",
+            "an",
+            "American",
+            "university",
+            "and",
+            "they",
+            "seem",
+            "to",
+            "think",
+            "that",
+            "TAs",
+            "in",
+            "Canada",
+            ",",
+            "despite",
+            "being",
+            "paid",
+            "a",
+            "fraction",
+            "of",
+            "what",
+            "they",
+            "are",
+            "paid",
+            ",",
+            "have",
+            "equal",
+            "responsibility",
+            "running",
+            "a",
+            "course",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "been",
+            "expected",
+            "to",
+            "create",
+            "grading",
+            "rubrics",
+            "for",
+            "assignments",
+            "and",
+            "exam",
+            "outlines",
+            "but",
+            "this",
+            "is",
+            "a",
+            "first",
+            "for",
+            "me",
+            "."
+        ],
+        [
+            "I",
+            "assumed",
+            "that",
+            "the",
+            "prof",
+            "just",
+            "did",
+            "n\u2019t",
+            "want",
+            "to",
+            "do",
+            "their",
+            "job",
+            "but",
+            "they",
+            "claim",
+            "that",
+            "in",
+            "the",
+            "US",
+            "the",
+            "TAs",
+            "and",
+            "the",
+            "prof",
+            "work",
+            "more",
+            "as",
+            "a",
+            "\u201c",
+            "teaching",
+            "team",
+            ".",
+            "\u201d"
+        ],
+        [
+            "Is",
+            "this",
+            "true",
+            "?"
+        ],
+        [
+            "Do",
+            "you",
+            "get",
+            "paid",
+            "more",
+            "in",
+            "the",
+            "US",
+            "as",
+            "a",
+            "TA",
+            "to",
+            "take",
+            "on",
+            "this",
+            "extra",
+            "responsibility",
+            "?"
+        ],
+        [
+            "Or",
+            "are",
+            "you",
+            "just",
+            "expected",
+            "to",
+            "do",
+            "more",
+            "?"
+        ],
+        [
+            "Or",
+            "is",
+            "this",
+            "prof",
+            "full",
+            "of",
+            "BS",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the walking grew so difficult",
+                "pos": [
+                    12,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the Scarecrow often stumbled over the yellow bricks",
+                "pos": [
+                    18,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he walked straight ahead",
+                "pos": [
+                    9,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "stepped into the holes and fell at full length on the hard bricks",
+                "pos": [
+                    16,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-20",
+    "sents": [
+        [
+            "After",
+            "a",
+            "few",
+            "hours",
+            "the",
+            "road",
+            "began",
+            "to",
+            "be",
+            "rough",
+            ",",
+            "and",
+            "the",
+            "walking",
+            "grew",
+            "so",
+            "difficult",
+            "that",
+            "the",
+            "Scarecrow",
+            "often",
+            "stumbled",
+            "over",
+            "the",
+            "yellow",
+            "bricks",
+            ",",
+            "which",
+            "were",
+            "here",
+            "very",
+            "uneven",
+            "."
+        ],
+        [
+            "Sometimes",
+            ",",
+            "indeed",
+            ",",
+            "they",
+            "were",
+            "broken",
+            "or",
+            "missing",
+            "altogether",
+            ",",
+            "leaving",
+            "holes",
+            "that",
+            "Toto",
+            "jumped",
+            "across",
+            "and",
+            "Dorothy",
+            "walked",
+            "around",
+            "."
+        ],
+        [
+            "As",
+            "for",
+            "the",
+            "Scarecrow",
+            ",",
+            "having",
+            "no",
+            "brains",
+            ",",
+            "he",
+            "walked",
+            "straight",
+            "ahead",
+            ",",
+            "and",
+            "so",
+            "stepped",
+            "into",
+            "the",
+            "holes",
+            "and",
+            "fell",
+            "at",
+            "full",
+            "length",
+            "on",
+            "the",
+            "hard",
+            "bricks",
+            "."
+        ],
+        [
+            "It",
+            "never",
+            "hurt",
+            "him",
+            ",",
+            "however",
+            ",",
+            "and",
+            "Dorothy",
+            "would",
+            "pick",
+            "him",
+            "up",
+            "and",
+            "set",
+            "him",
+            "upon",
+            "his",
+            "feet",
+            "again",
+            ",",
+            "while",
+            "he",
+            "joined",
+            "her",
+            "in",
+            "laughing",
+            "merrily",
+            "at",
+            "his",
+            "own",
+            "mishap",
+            "."
+        ]
+    ]
+}

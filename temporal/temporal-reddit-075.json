@@ -1,0 +1,412 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "im rlly passionate",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "spent",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hand in",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "covered",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "answered",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was concise",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "im genuinely confused about",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-075",
+    "sents": [
+        [
+            "i",
+            "had",
+            "an",
+            "essay",
+            "worth",
+            "20%",
+            "of",
+            "my",
+            "grade",
+            ",",
+            "im",
+            "rlly",
+            "passionate",
+            "on",
+            "the",
+            "topic",
+            ",",
+            "spent",
+            "a",
+            "lot",
+            "of",
+            "time",
+            "on",
+            "it",
+            ",",
+            "got",
+            "personal",
+            "feedback",
+            "from",
+            "the",
+            "prof",
+            ",",
+            "and",
+            "I",
+            "only",
+            "got",
+            "78%",
+            "on",
+            "it",
+            "."
+        ],
+        [
+            "in",
+            "another",
+            "class",
+            ",",
+            "we",
+            "have",
+            "a",
+            "bunch",
+            "of",
+            "small",
+            "biweekly",
+            "assignments",
+            "."
+        ],
+        [
+            "this",
+            "assignment",
+            "was",
+            "literally",
+            "to",
+            "hand",
+            "in",
+            "a",
+            "paragraph",
+            "abt",
+            "a",
+            "topic",
+            "we",
+            "had",
+            "covered",
+            "that",
+            "week",
+            ",",
+            "my",
+            "paragraph",
+            "answered",
+            "the",
+            "question",
+            ",",
+            "was",
+            "concise",
+            ",",
+            "had",
+            "relevant",
+            "examples",
+            "/",
+            "evidence",
+            ",",
+            "and",
+            "I",
+            "got",
+            "an",
+            "80%",
+            "."
+        ],
+        [
+            "My",
+            "TA",
+            "said",
+            "it",
+            "was",
+            "\"",
+            "a",
+            "very",
+            "impressive",
+            "paragraph",
+            "\"",
+            "??"
+        ],
+        [
+            "im",
+            "genuinely",
+            "confused",
+            "about",
+            "what",
+            "it",
+            "would",
+            "take",
+            "to",
+            "earn",
+            "a",
+            "90%+",
+            "on",
+            "a",
+            "written",
+            "assignment",
+            "."
+        ],
+        [
+            "does",
+            "anyone",
+            "have",
+            "any",
+            "tips",
+            "or",
+            "advice",
+            "or",
+            "ANYTHING"
+        ]
+    ]
+}

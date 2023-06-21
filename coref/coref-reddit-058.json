@@ -1,0 +1,284 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "College",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "this whole experience",
+                "pos": [
+                    27,
+                    30
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 3,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-058",
+    "sents": [
+        [
+            "Like",
+            "the",
+            "title",
+            "says",
+            ",",
+            "the",
+            "one",
+            "class",
+            "I",
+            "need",
+            "this",
+            "semester",
+            "so",
+            "I",
+            "can",
+            "finally",
+            "graduate",
+            "is",
+            "n't",
+            "being",
+            "offered",
+            ",",
+            "my",
+            "last",
+            "foreign",
+            "language",
+            "requirement",
+            "and",
+            "the",
+            "Dean",
+            "'s",
+            "office",
+            "is",
+            "n't",
+            "budging",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "to",
+            "complete",
+            "all",
+            "my",
+            "classes",
+            "before",
+            "I",
+            "student",
+            "teach",
+            "this",
+            "spring",
+            "semester",
+            "."
+        ],
+        [
+            "I",
+            "ca",
+            "n't",
+            "stay",
+            "another",
+            "semester",
+            "because",
+            "my",
+            "loans",
+            "run",
+            "out",
+            "."
+        ],
+        [
+            "College",
+            "has",
+            "honestly",
+            "been",
+            "the",
+            "worst",
+            "experience",
+            "of",
+            "my",
+            "life",
+            ",",
+            "between",
+            "being",
+            "diagnosed",
+            "with",
+            "a",
+            "lifelong",
+            "disease",
+            ",",
+            "type",
+            "1",
+            "diabetes",
+            ",",
+            "to",
+            "my",
+            "father",
+            "dying",
+            "this",
+            "whole",
+            "experience",
+            "has",
+            "been",
+            "a",
+            "living",
+            "hell",
+            "and",
+            "when",
+            "I",
+            "'m",
+            "just",
+            "about",
+            "to",
+            "finish",
+            "this",
+            "happens",
+            "."
+        ],
+        [
+            "I",
+            "think",
+            "I",
+            "'m",
+            "just",
+            "done",
+            "."
+        ]
+    ]
+}

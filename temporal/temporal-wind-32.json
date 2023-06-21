@@ -1,0 +1,633 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "ran",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "huddling",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "blowing out",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stamping",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thrown back",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "rising",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hastened",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were returning",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "outing",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hunting",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "exploring",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were closing in",
+                "pos": [
+                    43,
+                    46
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    51,
+                    52
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Plodding",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heard",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "leading",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "responded",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saying",
+                "pos": [
+                    57,
+                    58
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 20,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 18,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 18,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 20,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 21,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 19,
+            "t": 18,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-32",
+    "sents": [
+        [
+            "The",
+            "sheep",
+            "ran",
+            "huddling",
+            "together",
+            "against",
+            "the",
+            "hurdles",
+            ",",
+            "blowing",
+            "out",
+            "thin",
+            "nostrils",
+            "and",
+            "stamping",
+            "with",
+            "delicate",
+            "fore-feet",
+            ",",
+            "their",
+            "heads",
+            "thrown",
+            "back",
+            "and",
+            "a",
+            "light",
+            "steam",
+            "rising",
+            "from",
+            "the",
+            "crowded",
+            "sheep",
+            "-",
+            "pen",
+            "into",
+            "the",
+            "frosty",
+            "air",
+            ",",
+            "as",
+            "the",
+            "two",
+            "animals",
+            "hastened",
+            "by",
+            "in",
+            "high",
+            "spirits",
+            ",",
+            "with",
+            "much",
+            "chatter",
+            "and",
+            "laughter",
+            "."
+        ],
+        [
+            "They",
+            "were",
+            "returning",
+            "across",
+            "country",
+            "after",
+            "a",
+            "long",
+            "day",
+            "'s",
+            "outing",
+            "with",
+            "Otter",
+            ",",
+            "hunting",
+            "and",
+            "exploring",
+            "on",
+            "the",
+            "wide",
+            "uplands",
+            "where",
+            "certain",
+            "streams",
+            "tributary",
+            "to",
+            "their",
+            "own",
+            "River",
+            "had",
+            "their",
+            "first",
+            "small",
+            "beginnings",
+            ";",
+            "and",
+            "the",
+            "shades",
+            "of",
+            "the",
+            "short",
+            "winter",
+            "day",
+            "were",
+            "closing",
+            "in",
+            "on",
+            "them",
+            ",",
+            "and",
+            "they",
+            "had",
+            "still",
+            "some",
+            "distance",
+            "to",
+            "go",
+            "."
+        ],
+        [
+            "Plodding",
+            "at",
+            "random",
+            "across",
+            "the",
+            "plough",
+            ",",
+            "they",
+            "had",
+            "heard",
+            "the",
+            "sheep",
+            "and",
+            "had",
+            "made",
+            "for",
+            "them",
+            ";",
+            "and",
+            "now",
+            ",",
+            "leading",
+            "from",
+            "the",
+            "sheep",
+            "-",
+            "pen",
+            ",",
+            "they",
+            "found",
+            "a",
+            "beaten",
+            "track",
+            "that",
+            "made",
+            "walking",
+            "a",
+            "lighter",
+            "business",
+            ",",
+            "and",
+            "responded",
+            ",",
+            "moreover",
+            ",",
+            "to",
+            "that",
+            "small",
+            "inquiring",
+            "something",
+            "which",
+            "all",
+            "animals",
+            "carry",
+            "inside",
+            "them",
+            ",",
+            "saying",
+            "unmistakably",
+            ",",
+            "\"",
+            "Yes",
+            ",",
+            "quite",
+            "right",
+            ";",
+            "THIS",
+            "leads",
+            "home",
+            "!",
+            "\""
+        ]
+    ]
+}

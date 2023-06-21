@@ -1,0 +1,161 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "at 6.50 dlrs per full share",
+                "pos": [
+                    32,
+                    38
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "until",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 2,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "March 1991",
+                "pos": [
+                    39,
+                    41
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-15",
+    "sents": [
+        [
+            "Schult",
+            "Homes",
+            "Corp",
+            "announced",
+            "an",
+            "initial",
+            "public",
+            "offering",
+            "of",
+            "833",
+            ",",
+            "334",
+            "units",
+            "at",
+            "five",
+            "dlrs",
+            "per",
+            "unit",
+            ",",
+            "said",
+            "Janney",
+            "Montgomery",
+            "Scott",
+            "Inc",
+            "and",
+            "Woolcott",
+            "and",
+            "Co",
+            ",",
+            "managing",
+            "underwriters",
+            "of",
+            "the",
+            "offering",
+            "."
+        ],
+        [
+            "They",
+            "said",
+            "each",
+            "unit",
+            "consists",
+            "of",
+            "one",
+            "common",
+            "share",
+            "and",
+            "one",
+            "warrant",
+            "to",
+            "buy",
+            "one",
+            "-",
+            "half",
+            "share",
+            "of",
+            "common",
+            "."
+        ],
+        [
+            "The",
+            "warrant",
+            "will",
+            "entitle",
+            "holders",
+            "to",
+            "buy",
+            "one",
+            "-",
+            "half",
+            "common",
+            "share",
+            "at",
+            "5.50",
+            "dlrs",
+            "per",
+            "full",
+            "share",
+            "from",
+            "March",
+            "one",
+            ",",
+            "1988",
+            ",",
+            "to",
+            "September",
+            "one",
+            ",",
+            "1989",
+            ",",
+            "and",
+            "thereafter",
+            "at",
+            "6.50",
+            "dlrs",
+            "per",
+            "full",
+            "share",
+            "until",
+            "March",
+            "1991",
+            ",",
+            "they",
+            "said",
+            "."
+        ]
+    ]
+}

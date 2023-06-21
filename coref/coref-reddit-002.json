@@ -1,0 +1,311 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "my qualification exam",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "graduate studies",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my PhD",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "doc-situation"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-002",
+    "sents": [
+        [
+            "Ever",
+            "since",
+            "starting",
+            "graduate",
+            "studies",
+            "I",
+            "have",
+            "felt",
+            "like",
+            "none",
+            "of",
+            "my",
+            "work",
+            "is",
+            "something",
+            "to",
+            "be",
+            "happy",
+            "about",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "always",
+            "anxious",
+            "and",
+            "procrastinating",
+            "work",
+            "because",
+            "I",
+            "'m",
+            "overwhelmed",
+            "about",
+            "how",
+            "to",
+            "even",
+            "start",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "my",
+            "qualification",
+            "exam",
+            "for",
+            "my",
+            "PhD",
+            "in",
+            "less",
+            "than",
+            "12",
+            "hours",
+            "(",
+            "it",
+            "'s",
+            "a",
+            "presentation",
+            ")",
+            "and",
+            "I",
+            "'m",
+            "still",
+            "working",
+            "on",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "often",
+            "feel",
+            "like",
+            ",",
+            "no",
+            "I",
+            "'m",
+            "not",
+            "actually",
+            "qualified",
+            "for",
+            "this",
+            "so",
+            "I",
+            "should",
+            "n't",
+            "pass",
+            ",",
+            "I",
+            "should",
+            "drop",
+            "out",
+            "."
+        ],
+        [
+            "Yet",
+            "I",
+            "'m",
+            "still",
+            "here",
+            ",",
+            "stuck",
+            "in",
+            "a",
+            "cycle",
+            "of",
+            "anxiety",
+            "and",
+            "feelings",
+            "of",
+            "inadequacy",
+            "."
+        ],
+        [
+            "Is",
+            "this",
+            "something",
+            "others",
+            "feel",
+            "often",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "used",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "based",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "talked about",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "end",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m super nervous",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "applied",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-068",
+    "sents": [
+        [
+            "I",
+            "used",
+            "common",
+            "app",
+            "to",
+            "apply",
+            "to",
+            "colleges",
+            "."
+        ],
+        [
+            "I",
+            "based",
+            "my",
+            "essay",
+            "on",
+            "the",
+            "prompt",
+            "about",
+            "changing",
+            "my",
+            "view",
+            "point",
+            "."
+        ],
+        [
+            "My",
+            "essay",
+            "talked",
+            "about",
+            "growing",
+            "up",
+            "very",
+            "religious",
+            "(",
+            "I",
+            "tried",
+            "not",
+            "to",
+            "emphasize",
+            "losing",
+            "my",
+            "religion",
+            ",",
+            "but",
+            "rather",
+            "the",
+            "homophobia",
+            ")",
+            "but",
+            "eventually",
+            "waking",
+            "up",
+            "one",
+            "day",
+            "and",
+            "just",
+            "realizing",
+            "that",
+            "being",
+            "homophobic",
+            "is",
+            "wrong",
+            "."
+        ],
+        [
+            "I",
+            "end",
+            "it",
+            "with",
+            "accepting",
+            "myself",
+            "for",
+            "being",
+            "bisexual",
+            "and",
+            "forgiving",
+            "and",
+            "making",
+            "amends",
+            "to",
+            "the",
+            "people",
+            "I",
+            "hurt",
+            "."
+        ],
+        [
+            "What",
+            "do",
+            "you",
+            "think",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019m",
+            "super",
+            "nervous",
+            "because",
+            "I",
+            "have",
+            "n\u2019t",
+            "gotten",
+            "responses",
+            "from",
+            "colleges",
+            "yet",
+            ",",
+            "but",
+            "I",
+            "applied",
+            "beginning",
+            "of",
+            "September",
+            "."
+        ],
+        [
+            "\ud83d\ude05"
+        ]
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "stood",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked around",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "see",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "baked",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "running",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "burned",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were the same gray color",
+                "pos": [
+                    20,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been painted",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "blistered",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "washed it away",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was as dull",
+                "pos": [
+                    24,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gray",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-01",
+    "sents": [
+        [
+            "When",
+            "Dorothy",
+            "stood",
+            "in",
+            "the",
+            "doorway",
+            "and",
+            "looked",
+            "around",
+            ",",
+            "she",
+            "could",
+            "see",
+            "nothing",
+            "but",
+            "the",
+            "great",
+            "gray",
+            "prairie",
+            "on",
+            "every",
+            "side",
+            "."
+        ],
+        [
+            "Not",
+            "a",
+            "tree",
+            "nor",
+            "a",
+            "house",
+            "broke",
+            "the",
+            "broad",
+            "sweep",
+            "of",
+            "flat",
+            "country",
+            "that",
+            "reached",
+            "to",
+            "the",
+            "edge",
+            "of",
+            "the",
+            "sky",
+            "in",
+            "all",
+            "directions",
+            "."
+        ],
+        [
+            "The",
+            "sun",
+            "had",
+            "baked",
+            "the",
+            "plowed",
+            "land",
+            "into",
+            "a",
+            "gray",
+            "mass",
+            ",",
+            "with",
+            "little",
+            "cracks",
+            "running",
+            "through",
+            "it",
+            "."
+        ],
+        [
+            "Even",
+            "the",
+            "grass",
+            "was",
+            "not",
+            "green",
+            ",",
+            "for",
+            "the",
+            "sun",
+            "had",
+            "burned",
+            "the",
+            "tops",
+            "of",
+            "the",
+            "long",
+            "blades",
+            "until",
+            "they",
+            "were",
+            "the",
+            "same",
+            "gray",
+            "color",
+            "to",
+            "be",
+            "seen",
+            "everywhere",
+            "."
+        ],
+        [
+            "Once",
+            "the",
+            "house",
+            "had",
+            "been",
+            "painted",
+            ",",
+            "but",
+            "the",
+            "sun",
+            "blistered",
+            "the",
+            "paint",
+            "and",
+            "the",
+            "rains",
+            "washed",
+            "it",
+            "away",
+            ",",
+            "and",
+            "now",
+            "the",
+            "house",
+            "was",
+            "as",
+            "dull",
+            "and",
+            "gray",
+            "as",
+            "everything",
+            "else",
+            "."
+        ]
+    ]
+}

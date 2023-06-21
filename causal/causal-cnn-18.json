@@ -1,0 +1,379 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "At least 10 people were killed and more than 100 wounded",
+                "pos": [
+                    0,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "following",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a pair of bombings Saturday in the southern Thai city of Yala",
+                "pos": [
+                    12,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The two blasts",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "result",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "bombs stashed in stolen trucks",
+                "pos": [
+                    7,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "which itself exploded",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "leading to",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "initial reports of a third bomb",
+                "pos": [
+                    18,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Thai Prime Minister Yingluck Shinawatra said she has been informed of the Yala bombings and has instructed national police chief Gen. Prewpan Dhamapong",
+                "pos": [
+                    0,
+                    23
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "investigate the crime scene immediately",
+                "pos": [
+                    24,
+                    29
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-18",
+    "sents": [
+        [
+            "At",
+            "least",
+            "10",
+            "people",
+            "were",
+            "killed",
+            "and",
+            "more",
+            "than",
+            "100",
+            "wounded",
+            "following",
+            "a",
+            "pair",
+            "of",
+            "bombings",
+            "Saturday",
+            "in",
+            "the",
+            "southern",
+            "Thai",
+            "city",
+            "of",
+            "Yala",
+            ",",
+            "Thai",
+            "media",
+            "reported",
+            "."
+        ],
+        [
+            "The",
+            "two",
+            "blasts",
+            "were",
+            "the",
+            "result",
+            "of",
+            "bombs",
+            "stashed",
+            "in",
+            "stolen",
+            "trucks",
+            ",",
+            "Police",
+            "Lt.",
+            "Gen.",
+            "Paitoon",
+            "Chuchaiya",
+            "told",
+            "CNN",
+            "affiliate",
+            "MCOT",
+            "."
+        ],
+        [
+            "Video",
+            "from",
+            "the",
+            "scene",
+            "showed",
+            "damage",
+            "to",
+            "buildings",
+            ",",
+            "cars",
+            "and",
+            "motorcycles",
+            "on",
+            "the",
+            "street",
+            "."
+        ],
+        [
+            "The",
+            "blasts",
+            "set",
+            "fires",
+            "to",
+            "nearby",
+            "vehicles",
+            ",",
+            "including",
+            "a",
+            "van",
+            ",",
+            "which",
+            "itself",
+            "exploded",
+            ",",
+            "leading",
+            "to",
+            "initial",
+            "reports",
+            "of",
+            "a",
+            "third",
+            "bomb",
+            ",",
+            "Chuchaiya",
+            "said",
+            "."
+        ],
+        [
+            "Thai",
+            "Prime",
+            "Minister",
+            "Yingluck",
+            "Shinawatra",
+            "said",
+            "she",
+            "has",
+            "been",
+            "informed",
+            "of",
+            "the",
+            "Yala",
+            "bombings",
+            "and",
+            "has",
+            "instructed",
+            "national",
+            "police",
+            "chief",
+            "Gen.",
+            "Prewpan",
+            "Dhamapong",
+            "to",
+            "investigate",
+            "the",
+            "crime",
+            "scene",
+            "immediately",
+            ",",
+            "according",
+            "to",
+            "MCOT",
+            "."
+        ],
+        [
+            "Police",
+            "investigators",
+            "believe",
+            "suspected",
+            "insurgents",
+            "are",
+            "behind",
+            "the",
+            "attacks",
+            ",",
+            "MCOT",
+            "said",
+            "."
+        ],
+        [
+            "Last",
+            "month",
+            ",",
+            "a",
+            "series",
+            "of",
+            "bombs",
+            "detonated",
+            "in",
+            "Bangkok",
+            "."
+        ],
+        [
+            "No",
+            "one",
+            "was",
+            "killed",
+            "in",
+            "those",
+            "blasts",
+            ",",
+            "and",
+            "an",
+            "Iranian",
+            "suspect",
+            "was",
+            "arrested",
+            "in",
+            "connection",
+            "with",
+            "the",
+            "incident",
+            "."
+        ]
+    ]
+}

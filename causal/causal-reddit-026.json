@@ -1,0 +1,267 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "they 're so scared",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "leave",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they 're so scared to leave , but so excited",
+                "pos": [
+                    0,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "what 's coming next",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-026",
+    "sents": [
+        [
+            "the",
+            "high",
+            "school",
+            "class",
+            "of",
+            "2019",
+            "is",
+            "gearing",
+            "up",
+            "to",
+            "graduate",
+            "-",
+            "choosing",
+            "grad",
+            "schools",
+            ",",
+            "applying",
+            "to",
+            "jobs",
+            ",",
+            "saying",
+            "goodbye",
+            "to",
+            "friends",
+            "."
+        ],
+        [
+            "they",
+            "'re",
+            "so",
+            "scared",
+            "to",
+            "leave",
+            ",",
+            "but",
+            "so",
+            "excited",
+            "for",
+            "what",
+            "'s",
+            "coming",
+            "next",
+            "."
+        ],
+        [
+            "on",
+            "a",
+            "whim",
+            "born",
+            "of",
+            "nostalgia",
+            "and",
+            "emotion",
+            ",",
+            "they",
+            "decide",
+            "to",
+            "check",
+            "their",
+            "old",
+            "high",
+            "school",
+            "email",
+            "addresses",
+            "."
+        ],
+        [
+            "there",
+            "'s",
+            "hundreds",
+            "of",
+            "new",
+            "emails",
+            ",",
+            "but",
+            "only",
+            "from",
+            "one",
+            "source",
+            "."
+        ],
+        [
+            "the",
+            "university",
+            "of",
+            "kentucky",
+            "extended",
+            "their",
+            "application",
+            "deadline",
+            "just",
+            "*two",
+            "more",
+            "days*",
+            ",",
+            "and",
+            "this",
+            "exclusive",
+            "offer",
+            "is",
+            "only",
+            "for",
+            "YOU",
+            "."
+        ],
+        [
+            "they",
+            "'ve",
+            "been",
+            "extending",
+            "your",
+            "deadline",
+            "for",
+            "all",
+            "four",
+            "years",
+            "."
+        ],
+        [
+            "they",
+            "never",
+            "gave",
+            "up",
+            "on",
+            "you",
+            ",",
+            "even",
+            "when",
+            "you",
+            "might",
+            "'ve",
+            "given",
+            "up",
+            "on",
+            "yourself",
+            "."
+        ],
+        [
+            "even",
+            "without",
+            "knowing",
+            "it",
+            ",",
+            "the",
+            "one",
+            "constant",
+            "in",
+            "your",
+            "life",
+            "was",
+            "your",
+            "exclusive",
+            "wildcat",
+            "application",
+            ",",
+            "and",
+            "now",
+            "you",
+            "'ve",
+            "missed",
+            "the",
+            "chance",
+            "to",
+            "use",
+            "it",
+            "."
+        ]
+    ]
+}

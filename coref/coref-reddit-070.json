@@ -1,0 +1,422 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "safety",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "safe",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Safe",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "UW",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "admissions rate",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "admissions %",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "admissions rates",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "application rate",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "CS",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "CS",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "CS",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "engineering",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "Engineering",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the sauce",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            },
+            {
+                "name": "your source",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 7,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-070",
+    "sents": [
+        [
+            "A",
+            "lot",
+            "of",
+            "students",
+            "build",
+            "school",
+            "lists",
+            "based",
+            "on",
+            "\"",
+            "safety",
+            "\"",
+            "schools",
+            "that",
+            "are",
+            "n't",
+            "actually",
+            "safe",
+            "at",
+            "all",
+            "."
+        ],
+        [
+            "E.g.",
+            ",",
+            "UW",
+            "'s",
+            "non-resident",
+            "admissions",
+            "rate",
+            "is",
+            "a",
+            "51%",
+            "."
+        ],
+        [
+            "Safe",
+            ",",
+            "right",
+            "?"
+        ],
+        [
+            "Well",
+            ",",
+            "their",
+            "non-resident",
+            "CS",
+            "admissions",
+            "%",
+            "is",
+            ",",
+            "[",
+            "according",
+            "to",
+            "their",
+            "own",
+            "breakdowns",
+            "]",
+            "(",
+            "https://admit.washington.edu/apply/freshman/by-the-numbers/),",
+            "4%",
+            "."
+        ],
+        [
+            "Uh",
+            "."
+        ],
+        [
+            "I",
+            "would",
+            "really",
+            "like",
+            "to",
+            "write",
+            "a",
+            "post",
+            "for",
+            "the",
+            "community",
+            "about",
+            "the",
+            "**actual**",
+            "admissions",
+            "rates",
+            "for",
+            "popular",
+            "faux",
+            "-",
+            "safety",
+            "CS",
+            "(",
+            "and",
+            "potentially",
+            "engineering",
+            ")",
+            "programs",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "starting",
+            "the",
+            "research",
+            "process",
+            "but",
+            "I",
+            "figured",
+            "that",
+            "people",
+            "on",
+            "this",
+            "sub",
+            "probably",
+            "have",
+            "the",
+            "sauce",
+            "."
+        ],
+        [
+            "So",
+            "if",
+            "you",
+            "want",
+            "to",
+            "contribute",
+            ",",
+            "please",
+            "share",
+            "the",
+            "school",
+            "name",
+            "along",
+            "with",
+            "the",
+            "general",
+            "application",
+            "rate",
+            "and",
+            "CS",
+            "/",
+            "Engineering",
+            "rate",
+            ",",
+            "and",
+            "your",
+            "source",
+            "!"
+        ],
+        [
+            "Thank",
+            "you",
+            "!"
+        ],
+        [
+            "**Others",
+            "I",
+            "can",
+            "think",
+            "of",
+            "in",
+            "this",
+            "somewhat",
+            "deceptive",
+            "category*",
+            "*:",
+            "Maryland",
+            "College",
+            "Park",
+            ",",
+            "Wisconsin",
+            "Madison",
+            ",",
+            "Purdue",
+            ",",
+            "WPI/RPI",
+            ",",
+            "Umass",
+            "Amherst",
+            "."
+        ]
+    ]
+}

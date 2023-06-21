@@ -1,0 +1,281 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "My dad",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "colleges",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-019",
+    "sents": [
+        [
+            "My",
+            "dad",
+            "was",
+            "discussing",
+            "college",
+            "decisions",
+            "with",
+            "me",
+            "."
+        ],
+        [
+            "He",
+            "was",
+            "ranking",
+            "the",
+            "unis",
+            "in",
+            "\"",
+            "preference",
+            "\"",
+            "I",
+            "should",
+            "give",
+            "when",
+            "I",
+            "receive",
+            "my",
+            "decisions",
+            "."
+        ],
+        [
+            "Since",
+            "his",
+            "\"",
+            "acceptance",
+            "list",
+            "\"",
+            "consisted",
+            "of",
+            "colleges",
+            "like",
+            "Stanford",
+            ",",
+            "mit",
+            "and",
+            "Columbia",
+            ",",
+            "I",
+            "tried",
+            "telling",
+            "him",
+            "that",
+            "as",
+            "an",
+            "int",
+            "Indian",
+            "male",
+            "applying",
+            "for",
+            "STEM",
+            ",",
+            "my",
+            "chances",
+            "are",
+            "...."
+        ],
+        [
+            "subpar",
+            "at",
+            "best",
+            "."
+        ],
+        [
+            "And",
+            "then",
+            "he",
+            "'s",
+            "like",
+            "colleges",
+            "will",
+            "accept",
+            "me",
+            "because",
+            "their",
+            "class",
+            "wo",
+            "n't",
+            "be",
+            "balanced",
+            "with",
+            "only",
+            "toppers",
+            ",",
+            "and",
+            "that",
+            "they",
+            "would",
+            "want",
+            "kids",
+            "who",
+            "are",
+            "not",
+            "at",
+            "the",
+            "top",
+            ",",
+            "but",
+            "not",
+            "at",
+            "the",
+            "bottom",
+            "too",
+            "."
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "RIP"
+        ]
+    ]
+}

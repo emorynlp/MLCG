@@ -1,0 +1,387 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "continued",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lasting",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were suspended",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "soared",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cut",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is the world 's largest coffee producer and exporter",
+                "pos": [
+                    1,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-31",
+    "sents": [
+        [
+            "The",
+            "International",
+            "Coffee",
+            "Organization",
+            "(",
+            "ICO",
+            ")",
+            "council",
+            "talks",
+            "on",
+            "reintroducing",
+            "export",
+            "quotas",
+            "continued",
+            "with",
+            "an",
+            "extended",
+            "session",
+            "lasting",
+            "late",
+            "into",
+            "Sunday",
+            "night",
+            ",",
+            "but",
+            "delegates",
+            "said",
+            "prospects",
+            "for",
+            "an",
+            "accord",
+            "between",
+            "producers",
+            "and",
+            "consumers",
+            "were",
+            "diminishing",
+            "by",
+            "the",
+            "minute",
+            "."
+        ],
+        [
+            "The",
+            "special",
+            "meeting",
+            ",",
+            "called",
+            "to",
+            "stop",
+            "the",
+            "prolonged",
+            "slide",
+            "in",
+            "coffee",
+            "prices",
+            ",",
+            "was",
+            "likely",
+            "to",
+            "adjourn",
+            "sometime",
+            "tonight",
+            "without",
+            "agreement",
+            ",",
+            "delegates",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "council",
+            "is",
+            "expected",
+            "to",
+            "agree",
+            "to",
+            "reconvene",
+            "either",
+            "within",
+            "the",
+            "next",
+            "six",
+            "weeks",
+            "or",
+            "in",
+            "September",
+            ",",
+            "they",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "talks",
+            "foundered",
+            "on",
+            "Sunday",
+            "afternoon",
+            "when",
+            "it",
+            "became",
+            "apparent",
+            "consumers",
+            "and",
+            "producers",
+            "could",
+            "not",
+            "compromise",
+            "on",
+            "the",
+            "formula",
+            "for",
+            "calculating",
+            "any",
+            "future",
+            "quota",
+            "system",
+            ",",
+            "delegates",
+            "said",
+            "."
+        ],
+        [
+            "Coffee",
+            "export",
+            "quotas",
+            "were",
+            "suspended",
+            "a",
+            "year",
+            "ago",
+            "when",
+            "prices",
+            "soared",
+            "in",
+            "response",
+            "to",
+            "a",
+            "drought",
+            "which",
+            "cut",
+            "Brazil",
+            "'s",
+            "crop",
+            "by",
+            "nearly",
+            "two",
+            "-",
+            "thirds",
+            "."
+        ],
+        [
+            "Brazil",
+            "is",
+            "the",
+            "world",
+            "'s",
+            "largest",
+            "coffee",
+            "producer",
+            "and",
+            "exporter",
+            "."
+        ]
+    ]
+}

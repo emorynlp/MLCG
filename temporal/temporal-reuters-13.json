@@ -1,0 +1,245 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "marked",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ended",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Commenting",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are due",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-13",
+    "sents": [
+        [
+            "The",
+            "eight",
+            "major",
+            "New",
+            "York",
+            "City",
+            "banks",
+            "had",
+            "64",
+            "mln",
+            "dlrs",
+            "in",
+            "average",
+            "borrowings",
+            "from",
+            "the",
+            "Federal",
+            "Reserve",
+            "in",
+            "the",
+            "week",
+            "to",
+            "Wednesday",
+            "February",
+            "25",
+            ",",
+            "a",
+            "Fed",
+            "spokesman",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "week",
+            "marked",
+            "the",
+            "second",
+            "half",
+            "of",
+            "the",
+            "two",
+            "-",
+            "week",
+            "bank",
+            "statement",
+            "period",
+            "that",
+            "ended",
+            "on",
+            "Wednesday",
+            "."
+        ],
+        [
+            "The",
+            "banks",
+            "had",
+            "no",
+            "borrowings",
+            "in",
+            "the",
+            "prior",
+            "week",
+            "."
+        ],
+        [
+            "Commenting",
+            "on",
+            "the",
+            "latest",
+            "week",
+            ",",
+            "a",
+            "Fed",
+            "spokesman",
+            "said",
+            "that",
+            "all",
+            "of",
+            "the",
+            "borrowing",
+            "occurred",
+            "yesterday",
+            "and",
+            "was",
+            "done",
+            "by",
+            "fewer",
+            "than",
+            "half",
+            "of",
+            "the",
+            "banks",
+            "."
+        ],
+        [
+            "National",
+            "data",
+            "on",
+            "discount",
+            "window",
+            "borrowings",
+            "are",
+            "due",
+            "to",
+            "be",
+            "released",
+            "at",
+            "1630",
+            "EST",
+            "(",
+            "2130",
+            "GMT",
+            ")",
+            "."
+        ]
+    ]
+}

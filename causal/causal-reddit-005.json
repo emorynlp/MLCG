@@ -1,0 +1,169 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "people around me are applying",
+                "pos": [
+                    7,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "colleges",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-005",
+    "sents": [
+        [
+            "I",
+            "want",
+            "to",
+            "know",
+            "in",
+            "short",
+            "terms",
+            "am",
+            "I",
+            "fucked",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "in",
+            "a",
+            "group",
+            "home",
+            "through",
+            "freshman",
+            "year",
+            "high",
+            "school",
+            "but",
+            "had",
+            "good",
+            "grades",
+            "on",
+            "online",
+            "school",
+            "."
+        ],
+        [
+            "Came",
+            "back",
+            "to",
+            "town",
+            ",",
+            "mostly",
+            "bad",
+            "grades",
+            "and",
+            "a",
+            "lot",
+            "of",
+            "absences",
+            "/",
+            "some",
+            "trouble",
+            "for",
+            "the",
+            "rest",
+            "of",
+            "high",
+            "school",
+            "but",
+            "I",
+            "do",
+            "n\u2019t",
+            "think",
+            "I",
+            "\u2019ve",
+            "been",
+            "suspended",
+            "or",
+            "expelled",
+            "from",
+            "any",
+            "high",
+            "school",
+            "I",
+            "went",
+            "to",
+            "."
+        ],
+        [
+            "No",
+            "felony",
+            "\u2019s",
+            "on",
+            "my",
+            "record",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "now",
+            "in",
+            "my",
+            "senior",
+            "year",
+            "people",
+            "around",
+            "me",
+            "are",
+            "applying",
+            "for",
+            "colleges",
+            ",",
+            "should",
+            "I",
+            "even",
+            "bother",
+            "or",
+            "does",
+            "any",
+            "of",
+            "this",
+            "disqualify",
+            "me",
+            "?"
+        ]
+    ]
+}

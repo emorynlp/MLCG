@@ -1,0 +1,336 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was some advice",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "worked",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "edit",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "saying",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is about",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "needs",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-129",
+    "sents": [
+        [
+            "This",
+            "was",
+            "some",
+            "advice",
+            "that",
+            "worked",
+            "really",
+            "well",
+            "for",
+            "me",
+            "."
+        ],
+        [
+            "Read",
+            "one",
+            "paper",
+            "per",
+            "day",
+            "."
+        ],
+        [
+            "Print",
+            "it",
+            "out",
+            ",",
+            "read",
+            "it",
+            "entirely",
+            "(",
+            "edit",
+            "-",
+            "or",
+            "skim",
+            "the",
+            "relevant",
+            "sections",
+            ")",
+            ",",
+            "and",
+            "make",
+            "handwritten",
+            "notes",
+            "at",
+            "the",
+            "top",
+            "of",
+            "the",
+            "paper",
+            "that",
+            "will",
+            "summarize",
+            "the",
+            "one",
+            "-",
+            "sentence",
+            "importance",
+            "of",
+            "the",
+            "paper",
+            "and",
+            "how",
+            "it",
+            "may",
+            "apply",
+            "to",
+            "your",
+            "research",
+            "."
+        ],
+        [
+            "You",
+            "will",
+            "slowly",
+            "build",
+            "a",
+            "database",
+            "in",
+            "your",
+            "head",
+            "for",
+            "when",
+            "you",
+            "start",
+            "writing",
+            "."
+        ],
+        [
+            "Plus",
+            ",",
+            "one",
+            "paper",
+            "a",
+            "day",
+            "is",
+            "manageable",
+            "and",
+            "a",
+            "realistic",
+            "goal",
+            "and",
+            "helps",
+            "you",
+            "build",
+            "confidence",
+            "in",
+            "your",
+            "topic",
+            "."
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "edit",
+            "-",
+            "To",
+            "the",
+            "people",
+            "saying",
+            "this",
+            "is",
+            "n't",
+            "reasonable",
+            ":",
+            "that",
+            "'s",
+            "fine",
+            ",",
+            "each",
+            "field",
+            "is",
+            "different",
+            "."
+        ],
+        [
+            "This",
+            "post",
+            "is",
+            "about",
+            "setting",
+            "tangible",
+            "goals",
+            "."
+        ],
+        [
+            "Find",
+            "a",
+            "goal",
+            "that",
+            "works",
+            "for",
+            "you",
+            "and",
+            "stick",
+            "with",
+            "it",
+            "."
+        ],
+        [
+            "Create",
+            "a",
+            "program",
+            "and",
+            "stick",
+            "to",
+            "it",
+            "."
+        ],
+        [
+            "IMHO",
+            "this",
+            "sub",
+            "needs",
+            "more",
+            "contributions",
+            "on",
+            "how",
+            "to",
+            "be",
+            "successful",
+            "in",
+            "grad",
+            "school",
+            "and",
+            "where",
+            "to",
+            "start",
+            "."
+        ]
+    ]
+}

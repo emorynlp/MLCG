@@ -1,0 +1,472 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "nearly three years",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "35 months",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "sentencing",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "was sentenced",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "The sentencing",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a guilty plea",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "a March guilty plea",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "U.S.",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "U.S.",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "North Carolina",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "North Carolina",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "North Carolina",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a statement",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the statement",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a stolen firearm",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "a loaded semi-automatic 9 mm pistol",
+                "pos": [
+                    37,
+                    43
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the pistol",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Petey Pablo",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Pablo",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Pablo",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    46,
+                    47
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Pablo",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Pablo",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his sentence",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-02",
+    "sents": [
+        [
+            "Hip",
+            "-",
+            "hop",
+            "and",
+            "rap",
+            "artist",
+            "Petey",
+            "Pablo",
+            "is",
+            "facing",
+            "nearly",
+            "three",
+            "years",
+            "in",
+            "prison",
+            "after",
+            "sentencing",
+            "on",
+            "a",
+            "guilty",
+            "plea",
+            "of",
+            "possessing",
+            "a",
+            "stolen",
+            "firearm",
+            ",",
+            "according",
+            "to",
+            "federal",
+            "prosecutors",
+            "."
+        ],
+        [
+            "Pablo",
+            ",",
+            "whose",
+            "real",
+            "name",
+            "is",
+            "Moses",
+            "Barrett",
+            ",",
+            "was",
+            "sentenced",
+            "Monday",
+            "in",
+            "U.S.",
+            "District",
+            "Court",
+            "in",
+            "New",
+            "Bern",
+            ",",
+            "North",
+            "Carolina",
+            ",",
+            "to",
+            "35",
+            "months",
+            "in",
+            "prison",
+            "."
+        ],
+        [
+            "The",
+            "sentencing",
+            "came",
+            "following",
+            "a",
+            "March",
+            "guilty",
+            "plea",
+            "from",
+            "the",
+            "38",
+            "-",
+            "year",
+            "-",
+            "old",
+            "performer",
+            ",",
+            "who",
+            "lives",
+            "in",
+            "Wake",
+            "Forest",
+            ",",
+            "North",
+            "Carolina",
+            "."
+        ],
+        [
+            "According",
+            "to",
+            "a",
+            "statement",
+            "from",
+            "Thomas",
+            "G.",
+            "Walker",
+            ",",
+            "U.S.",
+            "attorney",
+            "for",
+            "the",
+            "Eastern",
+            "District",
+            "of",
+            "North",
+            "Carolina",
+            ",",
+            "Pablo",
+            "was",
+            "going",
+            "through",
+            "security",
+            "at",
+            "Raleigh",
+            "-",
+            "Durham",
+            "International",
+            "Airport",
+            "on",
+            "September",
+            "11",
+            ",",
+            "2010",
+            ",",
+            "when",
+            "a",
+            "loaded",
+            "semi-automatic",
+            "9",
+            "mm",
+            "pistol",
+            "was",
+            "found",
+            "in",
+            "his",
+            "bag",
+            "."
+        ],
+        [
+            "Pablo",
+            "was",
+            "attempting",
+            "to",
+            "board",
+            "a",
+            "flight",
+            "to",
+            "Los",
+            "Angeles",
+            ",",
+            "the",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "Federal",
+            "authorities",
+            "determined",
+            "that",
+            "the",
+            "pistol",
+            "had",
+            "been",
+            "stolen",
+            "during",
+            "a",
+            "residential",
+            "burglary",
+            "in",
+            "California",
+            "in",
+            "2005",
+            "."
+        ],
+        [
+            "Pablo",
+            ",",
+            "who",
+            "is",
+            "best",
+            "known",
+            "for",
+            "his",
+            "songs",
+            "\"",
+            "Raise",
+            "Up",
+            "\"",
+            "and",
+            "\"",
+            "Freek",
+            "-",
+            "a-Leek",
+            "\"",
+            "is",
+            "scheduled",
+            "to",
+            "begin",
+            "serving",
+            "his",
+            "sentence",
+            "in",
+            "December",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,455 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "sat",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "caught",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "considering",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gazed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "vanished",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "twinkled",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was too glittering",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "small",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "winked",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "declared",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "grow up",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-04",
+    "sents": [
+        [
+            "As",
+            "he",
+            "sat",
+            "on",
+            "the",
+            "grass",
+            "and",
+            "looked",
+            "across",
+            "the",
+            "river",
+            ",",
+            "a",
+            "dark",
+            "hole",
+            "in",
+            "the",
+            "bank",
+            "opposite",
+            ",",
+            "just",
+            "above",
+            "the",
+            "water",
+            "'s",
+            "edge",
+            ",",
+            "caught",
+            "his",
+            "eye",
+            ",",
+            "and",
+            "dreamily",
+            "he",
+            "fell",
+            "to",
+            "considering",
+            "what",
+            "a",
+            "nice",
+            "snug",
+            "dwelling",
+            "-",
+            "place",
+            "it",
+            "would",
+            "make",
+            "for",
+            "an",
+            "animal",
+            "with",
+            "few",
+            "wants",
+            "and",
+            "fond",
+            "of",
+            "a",
+            "bijou",
+            "riverside",
+            "residence",
+            ",",
+            "above",
+            "flood",
+            "level",
+            "and",
+            "remote",
+            "from",
+            "noise",
+            "and",
+            "dust",
+            "."
+        ],
+        [
+            "As",
+            "he",
+            "gazed",
+            ",",
+            "something",
+            "bright",
+            "and",
+            "small",
+            "seemed",
+            "to",
+            "twinkle",
+            "down",
+            "in",
+            "the",
+            "heart",
+            "of",
+            "it",
+            ",",
+            "vanished",
+            ",",
+            "then",
+            "twinkled",
+            "once",
+            "more",
+            "like",
+            "a",
+            "tiny",
+            "star",
+            "."
+        ],
+        [
+            "But",
+            "it",
+            "could",
+            "hardly",
+            "be",
+            "a",
+            "star",
+            "in",
+            "such",
+            "an",
+            "unlikely",
+            "situation",
+            ";",
+            "and",
+            "it",
+            "was",
+            "too",
+            "glittering",
+            "and",
+            "small",
+            "for",
+            "a",
+            "glow",
+            "-",
+            "worm",
+            "."
+        ],
+        [
+            "Then",
+            ",",
+            "as",
+            "he",
+            "looked",
+            ",",
+            "it",
+            "winked",
+            "at",
+            "him",
+            ",",
+            "and",
+            "so",
+            "declared",
+            "itself",
+            "to",
+            "be",
+            "an",
+            "eye",
+            ";",
+            "and",
+            "a",
+            "small",
+            "face",
+            "began",
+            "gradually",
+            "to",
+            "grow",
+            "up",
+            "round",
+            "it",
+            ",",
+            "like",
+            "a",
+            "frame",
+            "round",
+            "a",
+            "picture",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,329 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is unsecured",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "carries",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be priced",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be priced",
+                "pos": [
+                    38,
+                    40
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was established",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "acquired",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-38",
+    "sents": [
+        [
+            "Alaska",
+            "Housing",
+            "Finance",
+            "Corp",
+            ",",
+            "a",
+            "local",
+            "U.S.",
+            "Government",
+            "agency",
+            ",",
+            "has",
+            "become",
+            "the",
+            "first",
+            "municipal",
+            "entity",
+            "to",
+            "tap",
+            "the",
+            "syndicated",
+            "loan",
+            "market",
+            ",",
+            "receiving",
+            "a",
+            "150",
+            "mln",
+            "dlr",
+            ",",
+            "seven",
+            "-",
+            "year",
+            "revolving",
+            "loan",
+            ",",
+            "said",
+            "Merrill",
+            "Lynch",
+            "Capital",
+            "Markets",
+            "as",
+            "arranger",
+            "."
+        ],
+        [
+            "Merrill",
+            "said",
+            "the",
+            "loan",
+            "is",
+            "a",
+            "back",
+            "-",
+            "up",
+            "to",
+            "a",
+            "proposed",
+            "euro-commercial",
+            "paper",
+            "program",
+            "."
+        ],
+        [
+            "The",
+            "syndicated",
+            "loan",
+            ",",
+            "which",
+            "is",
+            "unsecured",
+            ",",
+            "carries",
+            "a",
+            "commitment",
+            "fee",
+            "of",
+            "0.10",
+            "pct",
+            "per",
+            "year",
+            "."
+        ],
+        [
+            "Advances",
+            "will",
+            "be",
+            "priced",
+            "at",
+            "31",
+            "-",
+            "1/4",
+            "basis",
+            "points",
+            "over",
+            "the",
+            "London",
+            "Interbank",
+            "Offered",
+            "Rate",
+            "while",
+            "notes",
+            ",",
+            "which",
+            "need",
+            "only",
+            "be",
+            "purchased",
+            "by",
+            "banks",
+            "if",
+            "third",
+            "party",
+            "investors",
+            "agree",
+            "to",
+            "buy",
+            "them",
+            "as",
+            "well",
+            ",",
+            "will",
+            "be",
+            "priced",
+            "at",
+            "offering",
+            "."
+        ],
+        [
+            "Alaska",
+            "Housing",
+            "Finance",
+            "was",
+            "established",
+            "by",
+            "the",
+            "legislature",
+            "of",
+            "the",
+            "state",
+            "of",
+            "Alaska",
+            "in",
+            "1971",
+            ",",
+            "and",
+            "has",
+            "so",
+            "far",
+            "acquired",
+            "6.1",
+            "billion",
+            "dlrs",
+            "of",
+            "mortgages",
+            "originated",
+            "in",
+            "Alaska",
+            "."
+        ]
+    ]
+}

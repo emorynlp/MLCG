@@ -1,0 +1,361 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "an internship offer",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "this offer",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "biochem / microbio",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my major",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "biotech company",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "biotech",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Biotech",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "biotech",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Im",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-096",
+    "sents": [
+        [
+            "Hi",
+            "guys",
+            ",",
+            "Im",
+            "an",
+            "upcoming",
+            "junior",
+            "in",
+            "biochem",
+            "/",
+            "microbio",
+            "and",
+            "got",
+            "an",
+            "internship",
+            "offer",
+            "from",
+            "biotech",
+            "company",
+            "(",
+            "this",
+            "summer",
+            ")",
+            "."
+        ],
+        [
+            "Biotech",
+            "is",
+            "not",
+            "something",
+            "that",
+            "I",
+            "\u2019m",
+            "interested",
+            "in",
+            "but",
+            "I",
+            "decided",
+            "to",
+            "take",
+            "this",
+            "offer",
+            "because",
+            "its",
+            "kind",
+            "of",
+            "related",
+            "to",
+            "my",
+            "major",
+            "and",
+            "its",
+            "hard",
+            "to",
+            "find",
+            "any",
+            "good",
+            "internship",
+            "that",
+            "is",
+            "not",
+            "virtual",
+            "."
+        ],
+        [
+            "They",
+            "told",
+            "me",
+            "that",
+            "I",
+            "\u2019ll",
+            "be",
+            "doing",
+            "some",
+            "lab",
+            "work",
+            "but",
+            ".."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "not",
+            "familiar",
+            "with",
+            "any",
+            "biotech",
+            "stuff",
+            "because",
+            "most",
+            "my",
+            "classes",
+            "were",
+            "microbio",
+            "/",
+            "biochem",
+            "."
+        ],
+        [
+            "Also",
+            ",",
+            "this",
+            "is",
+            "my",
+            "first",
+            "work",
+            "experience",
+            "(",
+            "do",
+            "n\u2019t",
+            "even",
+            "have",
+            "any",
+            "research",
+            "experience",
+            ")",
+            "."
+        ],
+        [
+            "What",
+            "should",
+            "I",
+            "do",
+            "or",
+            "prepare",
+            "for",
+            "this",
+            "internship",
+            "?"
+        ],
+        [
+            "Should",
+            "I",
+            "review",
+            "my",
+            "previous",
+            "class",
+            "materials",
+            "such",
+            "as",
+            "organic",
+            "chemistry",
+            "?"
+        ]
+    ]
+}

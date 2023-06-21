@@ -1,0 +1,407 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "struggled",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went under",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a shy and academically achieving kiddo",
+                "pos": [
+                    21,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019re statistically under-diagnoses",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been such a wake up call",
+                "pos": [
+                    4,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s only my first year",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s become",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "understand",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "switch",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tailor",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are looking up",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-153",
+    "sents": [
+        [
+            "I",
+            "feel",
+            "so",
+            "validated",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "struggled",
+            "with",
+            "my",
+            "ability",
+            "to",
+            "focus",
+            "for",
+            "my",
+            "entire",
+            "life",
+            ",",
+            "but",
+            "it",
+            "went",
+            "under",
+            "the",
+            "radar",
+            "because",
+            "I",
+            "was",
+            "a",
+            "shy",
+            "and",
+            "academically",
+            "achieving",
+            "kiddo",
+            "."
+        ],
+        [
+            "And",
+            "a",
+            "girl",
+            "(",
+            "we",
+            "\u2019re",
+            "statistically",
+            "under-diagnoses",
+            "!",
+            ")"
+        ],
+        [
+            ".",
+            "Grad",
+            "school",
+            "has",
+            "been",
+            "such",
+            "a",
+            "wake",
+            "up",
+            "call",
+            "."
+        ],
+        [
+            "It",
+            "\u2019s",
+            "only",
+            "my",
+            "first",
+            "year",
+            ",",
+            "but",
+            "it",
+            "\u2019s",
+            "become",
+            "glaringly",
+            "obvious",
+            "that",
+            "I",
+            "ca",
+            "n\u2019t",
+            "get",
+            "by",
+            "with",
+            "my",
+            "work",
+            "-",
+            "around",
+            "strategies",
+            "that",
+            "I",
+            "did",
+            "n\u2019t",
+            "even",
+            "realize",
+            "were",
+            "n\u2019t",
+            "normal",
+            "."
+        ],
+        [
+            "Now",
+            "I",
+            "finally",
+            "understand",
+            "why",
+            "I",
+            "was",
+            "never",
+            "able",
+            "to",
+            "read",
+            "a",
+            "single",
+            "text",
+            "book",
+            "during",
+            "undergrad",
+            "!"
+        ],
+        [
+            "My",
+            "psychiatrist",
+            "gave",
+            "me",
+            "the",
+            "diagnosis",
+            "today",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "going",
+            "to",
+            "switch",
+            "meds",
+            "and",
+            "tailor",
+            "my",
+            "therapy",
+            "sessions",
+            "."
+        ],
+        [
+            "Things",
+            "are",
+            "looking",
+            "up",
+            "."
+        ],
+        [
+            ":)"
+        ]
+    ]
+}

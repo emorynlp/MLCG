@@ -1,0 +1,239 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "closed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "based",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reported",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "expects",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-42",
+    "sents": [
+        [
+            "Scientific",
+            "Micro",
+            "Systems",
+            "Inc",
+            "said",
+            "it",
+            "has",
+            "acquired",
+            "Supermac",
+            "Technology",
+            ",",
+            "a",
+            "rapidly",
+            "growing",
+            "supplier",
+            "of",
+            "enhancement",
+            "products",
+            "and",
+            "disc",
+            "drive",
+            "subsystems",
+            "for",
+            "the",
+            "Apple",
+            "personal",
+            "computer",
+            "market",
+            "."
+        ],
+        [
+            "Scientific",
+            "Micro",
+            "said",
+            "it",
+            "acquired",
+            "all",
+            "the",
+            "common",
+            "stock",
+            "of",
+            "Supermac",
+            "in",
+            "exchange",
+            "for",
+            "1.05",
+            "mln",
+            "shares",
+            "of",
+            "its",
+            "own",
+            "common",
+            "stock",
+            "."
+        ],
+        [
+            "The",
+            "stock",
+            "closed",
+            "at",
+            "5.50",
+            "dlrs",
+            "bid",
+            "on",
+            "Friday",
+            "."
+        ],
+        [
+            "Supermac",
+            ",",
+            "a",
+            "privately",
+            "held",
+            "firm",
+            "based",
+            "in",
+            "Mountain",
+            "View",
+            ",",
+            "California",
+            ",",
+            "as",
+            "is",
+            "Scientific",
+            "Micro",
+            ",",
+            "reported",
+            "a",
+            "net",
+            "profit",
+            "of",
+            "300,000",
+            "dlrs",
+            "on",
+            "revenue",
+            "of",
+            "9.5",
+            "mln",
+            "dlrs",
+            "in",
+            "fiscal",
+            "1986",
+            "."
+        ],
+        [
+            "It",
+            "expects",
+            "its",
+            "revenue",
+            "to",
+            "approximately",
+            "double",
+            "in",
+            "1987",
+            "."
+        ]
+    ]
+}

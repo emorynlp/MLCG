@@ -1,0 +1,402 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Toto",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Lion",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    33,
+                    35
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    46,
+                    47
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    52,
+                    55
+                ],
+                "sent_id": 3,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "the Winkies",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The Winkies",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Winkies",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    55,
+                    56
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-30",
+    "sents": [
+        [
+            "This",
+            "they",
+            "decided",
+            "to",
+            "do",
+            "."
+        ],
+        [
+            "The",
+            "next",
+            "day",
+            "they",
+            "called",
+            "the",
+            "Winkies",
+            "together",
+            "and",
+            "bade",
+            "them",
+            "good",
+            "-",
+            "bye",
+            "."
+        ],
+        [
+            "The",
+            "Winkies",
+            "were",
+            "sorry",
+            "to",
+            "have",
+            "them",
+            "go",
+            ",",
+            "and",
+            "they",
+            "had",
+            "grown",
+            "so",
+            "fond",
+            "of",
+            "the",
+            "Tin",
+            "Woodman",
+            "that",
+            "they",
+            "begged",
+            "him",
+            "to",
+            "stay",
+            "and",
+            "rule",
+            "over",
+            "them",
+            "and",
+            "the",
+            "Yellow",
+            "Land",
+            "of",
+            "the",
+            "West",
+            "."
+        ],
+        [
+            "Finding",
+            "they",
+            "were",
+            "determined",
+            "to",
+            "go",
+            ",",
+            "the",
+            "Winkies",
+            "gave",
+            "Toto",
+            "and",
+            "the",
+            "Lion",
+            "each",
+            "a",
+            "golden",
+            "collar",
+            ";",
+            "and",
+            "to",
+            "Dorothy",
+            "they",
+            "presented",
+            "a",
+            "beautiful",
+            "bracelet",
+            "studded",
+            "with",
+            "diamonds",
+            ";",
+            "and",
+            "to",
+            "the",
+            "Scarecrow",
+            "they",
+            "gave",
+            "a",
+            "gold",
+            "-",
+            "headed",
+            "walking",
+            "stick",
+            ",",
+            "to",
+            "keep",
+            "him",
+            "from",
+            "stumbling",
+            ";",
+            "and",
+            "to",
+            "the",
+            "Tin",
+            "Woodman",
+            "they",
+            "offered",
+            "a",
+            "silver",
+            "oil",
+            "-",
+            "can",
+            ",",
+            "inlaid",
+            "with",
+            "gold",
+            "and",
+            "set",
+            "with",
+            "precious",
+            "jewels",
+            "."
+        ]
+    ]
+}

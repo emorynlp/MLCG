@@ -1,0 +1,163 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Stable interest rates and a growing economy are expected to provide favorable conditions",
+                "pos": [
+                    1,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "further growth in 1987",
+                "pos": [
+                    15,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-07",
+    "sents": [
+        [
+            "Standard",
+            "Trustco",
+            "said",
+            "it",
+            "expects",
+            "earnings",
+            "in",
+            "1987",
+            "to",
+            "increase",
+            "at",
+            "least",
+            "15",
+            "to",
+            "20",
+            "pct",
+            "from",
+            "the",
+            "9,140,000",
+            "dlrs",
+            ",",
+            "or",
+            "2.52",
+            "dlrs",
+            "per",
+            "share",
+            ",",
+            "recorded",
+            "in",
+            "1986",
+            "."
+        ],
+        [
+            "\"",
+            "Stable",
+            "interest",
+            "rates",
+            "and",
+            "a",
+            "growing",
+            "economy",
+            "are",
+            "expected",
+            "to",
+            "provide",
+            "favorable",
+            "conditions",
+            "for",
+            "further",
+            "growth",
+            "in",
+            "1987",
+            ",",
+            "\"",
+            "president",
+            "Brian",
+            "O'Malley",
+            "told",
+            "shareholders",
+            "at",
+            "the",
+            "annual",
+            "meeting",
+            "."
+        ],
+        [
+            "Standard",
+            "Trustco",
+            "previously",
+            "reported",
+            "assets",
+            "of",
+            "1.28",
+            "billion",
+            "dlrs",
+            "in",
+            "1986",
+            ",",
+            "up",
+            "from",
+            "1.10",
+            "billion",
+            "dlrs",
+            "in",
+            "1985",
+            "."
+        ],
+        [
+            "Return",
+            "on",
+            "common",
+            "shareholders",
+            "'",
+            "equity",
+            "was",
+            "18.6",
+            "pct",
+            "last",
+            "year",
+            ",",
+            "up",
+            "from",
+            "15",
+            "pct",
+            "in",
+            "1985",
+            "."
+        ]
+    ]
+}

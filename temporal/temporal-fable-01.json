@@ -1,0 +1,358 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "started off",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "smiled",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went back",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-01",
+    "sents": [
+        [
+            "\u201c",
+            "MY",
+            "child",
+            ",",
+            "\u201d",
+            "said",
+            "a",
+            "Crab",
+            "to",
+            "her",
+            "son",
+            ",",
+            "\u201c",
+            "why",
+            "do",
+            "you",
+            "walk",
+            "so",
+            "awkwardly",
+            "?"
+        ],
+        [
+            "If",
+            "you",
+            "wish",
+            "to",
+            "make",
+            "a",
+            "good",
+            "appearance",
+            ",",
+            "you",
+            "should",
+            "go",
+            "straight",
+            "forward",
+            ",",
+            "and",
+            "not",
+            "to",
+            "one",
+            "side",
+            "as",
+            "you",
+            "do",
+            "so",
+            "constantly",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "I",
+            "do",
+            "wish",
+            "to",
+            "make",
+            "a",
+            "good",
+            "appearance",
+            ",",
+            "mamma",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "young",
+            "Crab",
+            ";",
+            "\u201c",
+            "and",
+            "if",
+            "you",
+            "will",
+            "show",
+            "me",
+            "how",
+            ",",
+            "I",
+            "will",
+            "try",
+            "to",
+            "walk",
+            "straight",
+            "forward",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Why",
+            ",",
+            "this",
+            "is",
+            "the",
+            "way",
+            ",",
+            "of",
+            "course",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "mother",
+            ",",
+            "as",
+            "she",
+            "started",
+            "off",
+            "to",
+            "the",
+            "right",
+            "."
+        ],
+        [
+            "\u201c",
+            "No",
+            ",",
+            "this",
+            "is",
+            "the",
+            "way",
+            ",",
+            "\u201d",
+            "said",
+            "she",
+            ",",
+            "as",
+            "she",
+            "made",
+            "another",
+            "attempt",
+            ",",
+            "to",
+            "the",
+            "left",
+            "."
+        ],
+        [
+            "The",
+            "little",
+            "Crab",
+            "smiled",
+            "."
+        ],
+        [
+            "\u201c",
+            "When",
+            "you",
+            "learn",
+            "to",
+            "do",
+            "it",
+            "yourself",
+            ",",
+            "you",
+            "can",
+            "teach",
+            "me",
+            ",",
+            "\u201d",
+            "he",
+            "said",
+            ",",
+            "and",
+            "went",
+            "back",
+            "to",
+            "his",
+            "play",
+            "."
+        ]
+    ]
+}

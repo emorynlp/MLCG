@@ -1,0 +1,316 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "freshman year high school",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the rest of high school",
+                "pos": [
+                    17,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "senior year",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "high school",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "high school",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-005",
+    "sents": [
+        [
+            "I",
+            "want",
+            "to",
+            "know",
+            "in",
+            "short",
+            "terms",
+            "am",
+            "I",
+            "fucked",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "in",
+            "a",
+            "group",
+            "home",
+            "through",
+            "freshman",
+            "year",
+            "high",
+            "school",
+            "but",
+            "had",
+            "good",
+            "grades",
+            "on",
+            "online",
+            "school",
+            "."
+        ],
+        [
+            "Came",
+            "back",
+            "to",
+            "town",
+            ",",
+            "mostly",
+            "bad",
+            "grades",
+            "and",
+            "a",
+            "lot",
+            "of",
+            "absences",
+            "/",
+            "some",
+            "trouble",
+            "for",
+            "the",
+            "rest",
+            "of",
+            "high",
+            "school",
+            "but",
+            "I",
+            "do",
+            "n\u2019t",
+            "think",
+            "I",
+            "\u2019ve",
+            "been",
+            "suspended",
+            "or",
+            "expelled",
+            "from",
+            "any",
+            "high",
+            "school",
+            "I",
+            "went",
+            "to",
+            "."
+        ],
+        [
+            "No",
+            "felony",
+            "\u2019s",
+            "on",
+            "my",
+            "record",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "now",
+            "in",
+            "my",
+            "senior",
+            "year",
+            "people",
+            "around",
+            "me",
+            "are",
+            "applying",
+            "for",
+            "colleges",
+            ",",
+            "should",
+            "I",
+            "even",
+            "bother",
+            "or",
+            "does",
+            "any",
+            "of",
+            "this",
+            "disqualify",
+            "me",
+            "?"
+        ]
+    ]
+}

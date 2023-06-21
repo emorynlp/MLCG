@@ -1,0 +1,487 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "confirmed",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ill",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was monitored",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "performed",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "termed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was back",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "resumed",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was appointed",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been on",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was the second woman",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "appointed",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-12",
+    "sents": [
+        [
+            "U.S.",
+            "Supreme",
+            "Court",
+            "Justice",
+            "Ruth",
+            "Bader",
+            "Ginsburg",
+            "was",
+            "hospitalized",
+            "Thursday",
+            "after",
+            "falling",
+            "ill",
+            "in",
+            "her",
+            "chambers",
+            ",",
+            "the",
+            "court",
+            "confirmed",
+            "."
+        ],
+        [
+            "Supreme",
+            "Court",
+            "Justice",
+            "Ruth",
+            "Bader",
+            "Ginsburg",
+            "became",
+            "ill",
+            "in",
+            "her",
+            "chambers",
+            "on",
+            "Thursday",
+            "."
+        ],
+        [
+            "Ginsburg",
+            ",",
+            "76",
+            ",",
+            "felt",
+            "faint",
+            ",",
+            "light",
+            "-",
+            "headed",
+            "and",
+            "fatigued",
+            "about",
+            "4:50",
+            "p.m.",
+            ",",
+            "around",
+            "an",
+            "hour",
+            "after",
+            "receiving",
+            "a",
+            "treatment",
+            "for",
+            "iron",
+            "deficiency",
+            ",",
+            "the",
+            "court",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "."
+        ],
+        [
+            "She",
+            "was",
+            "monitored",
+            "by",
+            "an",
+            "in-house",
+            "physician",
+            ",",
+            "who",
+            "performed",
+            "blood",
+            "tests",
+            "and",
+            "found",
+            "her",
+            "to",
+            "be",
+            "in",
+            "stable",
+            "health",
+            "."
+        ],
+        [
+            "Her",
+            "symptoms",
+            "improved",
+            ",",
+            "though",
+            "she",
+            "was",
+            "taken",
+            "to",
+            "the",
+            "Washington",
+            "Hospital",
+            "Center",
+            "as",
+            "a",
+            "precaution",
+            "at",
+            "about",
+            "7:45",
+            "p.m.",
+            ",",
+            "according",
+            "to",
+            "the",
+            "court",
+            "statement",
+            "."
+        ],
+        [
+            "Ginsburg",
+            "had",
+            "surgery",
+            "in",
+            "February",
+            "for",
+            "pancreatic",
+            "cancer",
+            "."
+        ],
+        [
+            "She",
+            "termed",
+            "the",
+            "removal",
+            "of",
+            "her",
+            "cancer",
+            "\"",
+            "successful",
+            "\"",
+            "and",
+            "was",
+            "back",
+            "on",
+            "the",
+            "bench",
+            "18",
+            "days",
+            "later",
+            "when",
+            "the",
+            "high",
+            "court",
+            "resumed",
+            "oral",
+            "arguments",
+            "."
+        ],
+        [
+            "Ginsburg",
+            ",",
+            "who",
+            "was",
+            "appointed",
+            "by",
+            "President",
+            "Clinton",
+            ",",
+            "has",
+            "been",
+            "on",
+            "the",
+            "Supreme",
+            "Court",
+            "since",
+            "1993",
+            "."
+        ],
+        [
+            "She",
+            "was",
+            "the",
+            "second",
+            "woman",
+            "appointed",
+            "to",
+            "the",
+            "court",
+            "."
+        ]
+    ]
+}

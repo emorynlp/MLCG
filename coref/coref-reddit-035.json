@@ -1,0 +1,323 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "other classmates",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "those",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "We",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-035",
+    "sents": [
+        [
+            "I",
+            "am",
+            "currently",
+            "in",
+            "my",
+            "second",
+            "year",
+            "of",
+            "a",
+            "US",
+            "Masters",
+            "program",
+            "in",
+            "counseling",
+            "psychology",
+            "."
+        ],
+        [
+            "I",
+            ",",
+            "and",
+            "other",
+            "classmates",
+            ",",
+            "feel",
+            "that",
+            "we",
+            "have",
+            "learned",
+            "nothing",
+            "."
+        ],
+        [
+            "Especially",
+            "those",
+            "who",
+            "started",
+            "in",
+            "the",
+            "fall",
+            "of",
+            "2020",
+            "(",
+            "when",
+            "things",
+            "were",
+            "still",
+            "shut",
+            "down",
+            "a",
+            "bit",
+            ")",
+            "."
+        ],
+        [
+            "We",
+            "'re",
+            "all",
+            "supposed",
+            "to",
+            "be",
+            "taking",
+            "comprehensive",
+            "exams",
+            "soon",
+            "and",
+            "feel",
+            "that",
+            "we",
+            "have",
+            "n't",
+            "learned",
+            "much",
+            "and",
+            "I",
+            "was",
+            "wondering",
+            "if",
+            "anyone",
+            "else",
+            "felt",
+            "the",
+            "same",
+            "way",
+            "lately",
+            "."
+        ],
+        [
+            "I",
+            "thought",
+            "about",
+            "reading",
+            "books",
+            "on",
+            "the",
+            "subject",
+            "I",
+            "'m",
+            "interested",
+            "in",
+            "and",
+            "the",
+            "theories",
+            "I",
+            "like",
+            ",",
+            "but",
+            "will",
+            "that",
+            "only",
+            "do",
+            "so",
+            "much",
+            "..."
+        ],
+        [
+            "I",
+            "am",
+            "supposed",
+            "to",
+            "graduate",
+            "in",
+            "the",
+            "next",
+            "year",
+            "or",
+            "so",
+            ",",
+            "and",
+            "I",
+            "'m",
+            "feeling",
+            "very",
+            "defeated",
+            "and",
+            "just",
+            "absent",
+            "minded",
+            "about",
+            "my",
+            "studies",
+            "."
+        ],
+        [
+            "Anyone",
+            "else",
+            "in",
+            "the",
+            "same",
+            "\ud83d\udef6",
+            "?"
+        ]
+    ]
+}

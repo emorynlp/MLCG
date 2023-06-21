@@ -1,0 +1,314 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "when",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "they came out from its gloom",
+                "pos": [
+                    15,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "saw before them a steep hill",
+                "pos": [
+                    21,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "we must get over the hill , nevertheless",
+                "pos": [
+                    15,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "So",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he led the way and the others followed",
+                "pos": [
+                    1,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-34",
+    "sents": [
+        [
+            "The",
+            "four",
+            "travelers",
+            "passed",
+            "through",
+            "the",
+            "rest",
+            "of",
+            "the",
+            "forest",
+            "in",
+            "safety",
+            ",",
+            "and",
+            "when",
+            "they",
+            "came",
+            "out",
+            "from",
+            "its",
+            "gloom",
+            "saw",
+            "before",
+            "them",
+            "a",
+            "steep",
+            "hill",
+            ",",
+            "covered",
+            "from",
+            "top",
+            "to",
+            "bottom",
+            "with",
+            "great",
+            "pieces",
+            "of",
+            "rock",
+            "."
+        ],
+        [
+            "\"",
+            "That",
+            "will",
+            "be",
+            "a",
+            "hard",
+            "climb",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "Scarecrow",
+            ",",
+            "\"",
+            "but",
+            "we",
+            "must",
+            "get",
+            "over",
+            "the",
+            "hill",
+            ",",
+            "nevertheless",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "So",
+            "he",
+            "led",
+            "the",
+            "way",
+            "and",
+            "the",
+            "others",
+            "followed",
+            "."
+        ],
+        [
+            "They",
+            "had",
+            "nearly",
+            "reached",
+            "the",
+            "first",
+            "rock",
+            "when",
+            "they",
+            "heard",
+            "a",
+            "rough",
+            "voice",
+            "cry",
+            "out",
+            ",",
+            "\"",
+            "Keep",
+            "back",
+            "!",
+            "\""
+        ],
+        [
+            "\"",
+            "Who",
+            "are",
+            "you",
+            "?",
+            "\"",
+            "asked",
+            "the",
+            "Scarecrow",
+            "."
+        ],
+        [
+            "Then",
+            "a",
+            "head",
+            "showed",
+            "itself",
+            "over",
+            "the",
+            "rock",
+            "and",
+            "the",
+            "same",
+            "voice",
+            "said",
+            ",",
+            "\"",
+            "This",
+            "hill",
+            "belongs",
+            "to",
+            "us",
+            ",",
+            "and",
+            "we",
+            "do",
+            "n",
+            "'",
+            "t",
+            "allow",
+            "anyone",
+            "to",
+            "cross",
+            "it",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "\"",
+            "But",
+            "we",
+            "must",
+            "cross",
+            "it",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "Scarecrow",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "'",
+            "re",
+            "going",
+            "to",
+            "the",
+            "country",
+            "of",
+            "the",
+            "Quadlings",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "\"",
+            "But",
+            "you",
+            "shall",
+            "not",
+            "!",
+            "\"",
+            "replied",
+            "the",
+            "voice",
+            ",",
+            "and",
+            "there",
+            "stepped",
+            "from",
+            "behind",
+            "the",
+            "rock",
+            "the",
+            "strangest",
+            "man",
+            "the",
+            "travelers",
+            "had",
+            "ever",
+            "seen",
+            "."
+        ]
+    ]
+}

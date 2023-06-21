@@ -1,0 +1,327 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "She 's in the province",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "we 're just relying on",
+                "pos": [
+                    6,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "video calls and messages",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "update each other",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "we have a lot of requirements for this semester",
+                "pos": [
+                    3,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I 've been very busy that I can no longer call as often as I did",
+                "pos": [
+                    13,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I resorted to updating her",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "sending her photos of me studying , attending Zoom classes , and printing papers",
+                "pos": [
+                    6,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-054",
+    "sents": [
+        [
+            "This",
+            "is",
+            "what",
+            "my",
+            "mom",
+            "sent",
+            "to",
+            "me",
+            "before",
+            "she",
+            "went",
+            "to",
+            "bed",
+            "tonight",
+            "."
+        ],
+        [
+            "She",
+            "'s",
+            "in",
+            "the",
+            "province",
+            "so",
+            "we",
+            "'re",
+            "just",
+            "relying",
+            "on",
+            "video",
+            "calls",
+            "and",
+            "messages",
+            "to",
+            "update",
+            "each",
+            "other",
+            "."
+        ],
+        [
+            "However",
+            ",",
+            "because",
+            "we",
+            "have",
+            "a",
+            "lot",
+            "of",
+            "requirements",
+            "for",
+            "this",
+            "semester",
+            ",",
+            "I",
+            "'ve",
+            "been",
+            "very",
+            "busy",
+            "that",
+            "I",
+            "can",
+            "no",
+            "longer",
+            "call",
+            "as",
+            "often",
+            "as",
+            "I",
+            "did",
+            "."
+        ],
+        [
+            "I",
+            "resorted",
+            "to",
+            "updating",
+            "her",
+            "by",
+            "sending",
+            "her",
+            "photos",
+            "of",
+            "me",
+            "studying",
+            ",",
+            "attending",
+            "Zoom",
+            "classes",
+            ",",
+            "and",
+            "printing",
+            "papers",
+            "."
+        ],
+        [
+            "This",
+            "semester",
+            "may",
+            "be",
+            "tough",
+            "for",
+            "all",
+            "of",
+            "us",
+            "but",
+            "here",
+            "'s",
+            "a",
+            "reminder",
+            "that",
+            "our",
+            "loved",
+            "ones",
+            "are",
+            "proud",
+            "of",
+            "us",
+            "."
+        ],
+        [
+            "Their",
+            "support",
+            "will",
+            "be",
+            "of",
+            "significance",
+            "in",
+            "helping",
+            "us",
+            "finish",
+            "this",
+            "!"
+        ],
+        [
+            "Virtual",
+            "hugs",
+            "!"
+        ]
+    ]
+}

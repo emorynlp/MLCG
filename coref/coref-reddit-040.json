@@ -1,0 +1,365 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "got",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the program",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "anybody",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "You",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-040",
+    "sents": [
+        [
+            "Just",
+            "wrapped",
+            "up",
+            "my",
+            "first",
+            "semester",
+            "of",
+            "graduate",
+            "school",
+            "in",
+            "a",
+            "new",
+            "field",
+            "(",
+            "psychology",
+            "to",
+            "statistics",
+            ")",
+            "and",
+            "I",
+            "finally",
+            "got",
+            "my",
+            "grades",
+            "and",
+            "found",
+            "out",
+            "I",
+            "not",
+            "only",
+            "passed",
+            ",",
+            "but",
+            "I",
+            "got",
+            "A",
+            "\u2019s",
+            "!!"
+        ],
+        [
+            "Still",
+            "ca",
+            "n\u2019t",
+            "quite",
+            "believe",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "just",
+            "so",
+            "excited",
+            "and",
+            "felt",
+            "the",
+            "need",
+            "to",
+            "share",
+            ",",
+            "because",
+            "I",
+            "started",
+            "off",
+            "the",
+            "semester",
+            "seriously",
+            "struggling",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "dealing",
+            "with",
+            "really",
+            "bad",
+            "anxiety",
+            "and",
+            "imposter",
+            "syndrome",
+            "all",
+            "semester",
+            "and",
+            "thought",
+            "that",
+            "maybe",
+            "I",
+            "was",
+            "n\u2019t",
+            "cut",
+            "out",
+            "for",
+            "the",
+            "program",
+            ",",
+            "but",
+            "I",
+            "decided",
+            "I",
+            "would",
+            "stick",
+            "it",
+            "through",
+            "unless",
+            "they",
+            "failed",
+            "me",
+            "out",
+            "and",
+            "kicked",
+            "me",
+            "out",
+            ",",
+            "haha",
+            "."
+        ],
+        [
+            "To",
+            "anybody",
+            "who",
+            "is",
+            "questioning",
+            "whether",
+            "or",
+            "not",
+            "they",
+            "deserve",
+            "to",
+            "be",
+            "here",
+            ",",
+            "you",
+            "do",
+            "."
+        ],
+        [
+            "You",
+            "can",
+            "do",
+            "it",
+            "."
+        ],
+        [
+            "Cheers",
+            "and",
+            "happy",
+            "holidays",
+            "everyone",
+            "."
+        ],
+        [
+            "\u2665\ufe0f",
+            "Edit",
+            ":",
+            "spelling",
+            "error"
+        ]
+    ]
+}

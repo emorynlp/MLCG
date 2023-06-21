@@ -1,0 +1,366 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s really scaring",
+                "pos": [
+                    34,
+                    37
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "memorize",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "regurgitate",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "taking",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "labeling",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "forget",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-051",
+    "sents": [
+        [
+            "Idk",
+            "why",
+            ",",
+            "but",
+            "I",
+            "just",
+            "feel",
+            "like",
+            "that",
+            "all",
+            "of",
+            "this",
+            "stuff",
+            "I",
+            "\u2019m",
+            "\u201c",
+            "learning",
+            "\u201d",
+            "in",
+            "my",
+            "classes",
+            "are",
+            "just",
+            "going",
+            "through",
+            "one",
+            "ear",
+            "and",
+            "out",
+            "the",
+            "other",
+            ",",
+            "and",
+            "it",
+            "\u2019s",
+            "really",
+            "scaring",
+            "me",
+            "because",
+            "I",
+            "feel",
+            "like",
+            "I",
+            "should",
+            "fundamentally",
+            "understand",
+            "what",
+            "is",
+            "going",
+            "on",
+            "in",
+            "my",
+            "classes",
+            ",",
+            "especially",
+            "the",
+            "ones",
+            "major",
+            "-",
+            "related",
+            "."
+        ],
+        [
+            "Like",
+            "sure",
+            ",",
+            "I",
+            "\u2019ll",
+            "be",
+            "able",
+            "to",
+            "memorize",
+            "and",
+            "regurgitate",
+            "enough",
+            "relevant",
+            "information",
+            "to",
+            "do",
+            "relatively",
+            "well",
+            "on",
+            "exams",
+            "/",
+            "finals",
+            ",",
+            "but",
+            "once",
+            "I",
+            "\u2019m",
+            "done",
+            "with",
+            "the",
+            "class",
+            ",",
+            "you",
+            "can",
+            "forget",
+            "anything",
+            "that",
+            "was",
+            "taught",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "feel",
+            "really",
+            "dumb",
+            "taking",
+            "all",
+            "of",
+            "these",
+            "notes",
+            ",",
+            "labeling",
+            "all",
+            "of",
+            "these",
+            "diagrams",
+            ",",
+            "when",
+            "I",
+            "know",
+            "for",
+            "the",
+            "most",
+            "part",
+            "I",
+            "\u2019m",
+            "just",
+            "gon",
+            "na",
+            "forget",
+            "it",
+            "come",
+            "a",
+            "few",
+            "months",
+            ",",
+            "maybe",
+            "even",
+            "a",
+            "few",
+            "weeks",
+            "."
+        ],
+        [
+            "Is",
+            "it",
+            "just",
+            "me",
+            "?"
+        ]
+    ]
+}

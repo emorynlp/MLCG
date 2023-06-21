@@ -1,0 +1,378 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "faded away",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stumbling",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "see",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "declared",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took hold of",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "get along",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stopped",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "answered",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-24",
+    "sents": [
+        [
+            "After",
+            "an",
+            "hour",
+            "or",
+            "so",
+            "the",
+            "light",
+            "faded",
+            "away",
+            ",",
+            "and",
+            "they",
+            "found",
+            "themselves",
+            "stumbling",
+            "along",
+            "in",
+            "the",
+            "darkness",
+            "."
+        ],
+        [
+            "Dorothy",
+            "could",
+            "not",
+            "see",
+            "at",
+            "all",
+            ",",
+            "but",
+            "Toto",
+            "could",
+            ",",
+            "for",
+            "some",
+            "dogs",
+            "see",
+            "very",
+            "well",
+            "in",
+            "the",
+            "dark",
+            ";",
+            "and",
+            "the",
+            "Scarecrow",
+            "declared",
+            "he",
+            "could",
+            "see",
+            "as",
+            "well",
+            "as",
+            "by",
+            "day",
+            "."
+        ],
+        [
+            "So",
+            "she",
+            "took",
+            "hold",
+            "of",
+            "his",
+            "arm",
+            "and",
+            "managed",
+            "to",
+            "get",
+            "along",
+            "fairly",
+            "well",
+            "."
+        ],
+        [
+            "\"",
+            "If",
+            "you",
+            "see",
+            "any",
+            "house",
+            ",",
+            "or",
+            "any",
+            "place",
+            "where",
+            "we",
+            "can",
+            "pass",
+            "the",
+            "night",
+            ",",
+            "\"",
+            "she",
+            "said",
+            ",",
+            "\"",
+            "you",
+            "must",
+            "tell",
+            "me",
+            ";",
+            "for",
+            "it",
+            "is",
+            "very",
+            "uncomfortable",
+            "walking",
+            "in",
+            "the",
+            "dark",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "Soon",
+            "after",
+            "the",
+            "Scarecrow",
+            "stopped",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "see",
+            "a",
+            "little",
+            "cottage",
+            "at",
+            "the",
+            "right",
+            "of",
+            "us",
+            ",",
+            "\"",
+            "he",
+            "said",
+            ",",
+            "\"",
+            "built",
+            "of",
+            "logs",
+            "and",
+            "branches",
+            "."
+        ],
+        [
+            "Shall",
+            "we",
+            "go",
+            "there",
+            "?",
+            "\""
+        ],
+        [
+            "\"",
+            "Yes",
+            ",",
+            "indeed",
+            ",",
+            "\"",
+            "answered",
+            "the",
+            "child",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "am",
+            "all",
+            "tired",
+            "out",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

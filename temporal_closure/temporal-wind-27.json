@@ -1,0 +1,388 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "thrust them down",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bade",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fetched",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bathed",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "mended",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was just as good",
+                "pos": [
+                    32,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "propped up",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "being arranged",
+                "pos": [
+                    29,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-27",
+    "sents": [
+        [
+            "The",
+            "kindly",
+            "Badger",
+            "thrust",
+            "them",
+            "down",
+            "on",
+            "a",
+            "settle",
+            "to",
+            "toast",
+            "themselves",
+            "at",
+            "the",
+            "fire",
+            ",",
+            "and",
+            "bade",
+            "them",
+            "remove",
+            "their",
+            "wet",
+            "coats",
+            "and",
+            "boots",
+            "."
+        ],
+        [
+            "Then",
+            "he",
+            "fetched",
+            "them",
+            "dressing",
+            "-",
+            "gowns",
+            "and",
+            "slippers",
+            ",",
+            "and",
+            "himself",
+            "bathed",
+            "the",
+            "Mole",
+            "'s",
+            "shin",
+            "with",
+            "warm",
+            "water",
+            "and",
+            "mended",
+            "the",
+            "cut",
+            "with",
+            "sticking",
+            "-",
+            "plaster",
+            "till",
+            "the",
+            "whole",
+            "thing",
+            "was",
+            "just",
+            "as",
+            "good",
+            "as",
+            "new",
+            ",",
+            "if",
+            "not",
+            "better",
+            "."
+        ],
+        [
+            "In",
+            "the",
+            "embracing",
+            "light",
+            "and",
+            "warmth",
+            ",",
+            "warm",
+            "and",
+            "dry",
+            "at",
+            "last",
+            ",",
+            "with",
+            "weary",
+            "legs",
+            "propped",
+            "up",
+            "in",
+            "front",
+            "of",
+            "them",
+            ",",
+            "and",
+            "a",
+            "suggestive",
+            "clink",
+            "of",
+            "plates",
+            "being",
+            "arranged",
+            "on",
+            "the",
+            "table",
+            "behind",
+            ",",
+            "it",
+            "seemed",
+            "to",
+            "the",
+            "storm",
+            "-",
+            "driven",
+            "animals",
+            ",",
+            "now",
+            "in",
+            "safe",
+            "anchorage",
+            ",",
+            "that",
+            "the",
+            "cold",
+            "and",
+            "trackless",
+            "Wild",
+            "Wood",
+            "just",
+            "left",
+            "outside",
+            "was",
+            "miles",
+            "and",
+            "miles",
+            "away",
+            ",",
+            "and",
+            "all",
+            "that",
+            "they",
+            "had",
+            "suffered",
+            "in",
+            "it",
+            "a",
+            "half",
+            "-",
+            "forgotten",
+            "dream",
+            "."
+        ]
+    ]
+}

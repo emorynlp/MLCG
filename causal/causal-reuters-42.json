@@ -1,0 +1,171 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "enhancement products and disc drive subsystems",
+                "pos": [
+                    16,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the Apple personal computer market",
+                "pos": [
+                    23,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-42",
+    "sents": [
+        [
+            "Scientific",
+            "Micro",
+            "Systems",
+            "Inc",
+            "said",
+            "it",
+            "has",
+            "acquired",
+            "Supermac",
+            "Technology",
+            ",",
+            "a",
+            "rapidly",
+            "growing",
+            "supplier",
+            "of",
+            "enhancement",
+            "products",
+            "and",
+            "disc",
+            "drive",
+            "subsystems",
+            "for",
+            "the",
+            "Apple",
+            "personal",
+            "computer",
+            "market",
+            "."
+        ],
+        [
+            "Scientific",
+            "Micro",
+            "said",
+            "it",
+            "acquired",
+            "all",
+            "the",
+            "common",
+            "stock",
+            "of",
+            "Supermac",
+            "in",
+            "exchange",
+            "for",
+            "1.05",
+            "mln",
+            "shares",
+            "of",
+            "its",
+            "own",
+            "common",
+            "stock",
+            "."
+        ],
+        [
+            "The",
+            "stock",
+            "closed",
+            "at",
+            "5.50",
+            "dlrs",
+            "bid",
+            "on",
+            "Friday",
+            "."
+        ],
+        [
+            "Supermac",
+            ",",
+            "a",
+            "privately",
+            "held",
+            "firm",
+            "based",
+            "in",
+            "Mountain",
+            "View",
+            ",",
+            "California",
+            ",",
+            "as",
+            "is",
+            "Scientific",
+            "Micro",
+            ",",
+            "reported",
+            "a",
+            "net",
+            "profit",
+            "of",
+            "300,000",
+            "dlrs",
+            "on",
+            "revenue",
+            "of",
+            "9.5",
+            "mln",
+            "dlrs",
+            "in",
+            "fiscal",
+            "1986",
+            "."
+        ],
+        [
+            "It",
+            "expects",
+            "its",
+            "revenue",
+            "to",
+            "approximately",
+            "double",
+            "in",
+            "1987",
+            "."
+        ]
+    ]
+}

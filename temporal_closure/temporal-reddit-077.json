@@ -1,0 +1,644 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "been working on",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is **DONE",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Finished",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "final",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "complete",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "whole",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s this whole pandemic thing",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "spend",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reading news about",
+                "pos": [
+                    19,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "self-quarantine",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m finishing",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "take",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "refraining",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "think",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s it",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "done",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 11,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-077",
+    "sents": [
+        [
+            "A",
+            "paper",
+            "I",
+            "have",
+            "been",
+            "working",
+            "on",
+            "for",
+            "13",
+            "months",
+            "is",
+            "**DONE",
+            "!"
+        ],
+        [
+            "**",
+            "Done",
+            "done",
+            "done",
+            "done",
+            "doooooone",
+            "!"
+        ],
+        [
+            "Finished",
+            ",",
+            "final",
+            ",",
+            "complete",
+            ",",
+            "and",
+            "whole",
+            "(",
+            "at",
+            "least",
+            "until",
+            "the",
+            "revise",
+            "and",
+            "resubmit",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "not",
+            "sure",
+            "whether",
+            "my",
+            "feet",
+            "are",
+            "touching",
+            "the",
+            "ground",
+            "when",
+            "I",
+            "walk",
+            "or",
+            "if",
+            "I",
+            "'m",
+            "just",
+            "flying",
+            "around",
+            "my",
+            "apartment",
+            "right",
+            "now",
+            "."
+        ],
+        [
+            "Apparently",
+            "there",
+            "'s",
+            "this",
+            "whole",
+            "pandemic",
+            "thing",
+            "going",
+            "on",
+            "outside",
+            "that",
+            "I",
+            "used",
+            "to",
+            "spend",
+            "a",
+            "lot",
+            "of",
+            "time",
+            "reading",
+            "news",
+            "about",
+            ",",
+            "but",
+            "I",
+            "did",
+            "n't",
+            "think",
+            "about",
+            "it",
+            "at",
+            "all",
+            "today",
+            "."
+        ],
+        [
+            "I",
+            "always",
+            "self-quarantine",
+            "when",
+            "I",
+            "'m",
+            "finishing",
+            "a",
+            "project",
+            "anyway",
+            ",",
+            "and",
+            "even",
+            "take",
+            "additional",
+            "precautions",
+            "like",
+            "refraining",
+            "from",
+            "washing",
+            "my",
+            "laundry",
+            "because",
+            "..."
+        ],
+        [
+            "uhm",
+            "..."
+        ],
+        [
+            "at",
+            "the",
+            "moment",
+            "I",
+            "think",
+            "I",
+            "can",
+            "get",
+            "away",
+            "with",
+            "saying",
+            "I",
+            "was",
+            "doing",
+            "it",
+            "for",
+            "\"",
+            "olfactory",
+            "enforcement",
+            "of",
+            "social",
+            "distancing",
+            "\"",
+            "..."
+        ],
+        [
+            "yeah",
+            ",",
+            "that",
+            "'s",
+            "it",
+            "!"
+        ],
+        [
+            "Anyway",
+            "..."
+        ],
+        [
+            "project",
+            "!"
+        ],
+        [
+            "done",
+            "!"
+        ]
+    ]
+}

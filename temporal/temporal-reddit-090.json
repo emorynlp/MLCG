@@ -1,0 +1,357 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "lost",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gotten",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s my senior year",
+                "pos": [
+                    6,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m going",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019re surrounded",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be eating",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "appreciated",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-090",
+    "sents": [
+        [
+            "In",
+            "the",
+            "last",
+            "year",
+            "I",
+            "\u2019ve",
+            "lost",
+            "40",
+            "pounds",
+            ",",
+            "gotten",
+            "in",
+            "shape",
+            ",",
+            "and",
+            "feel",
+            "so",
+            "much",
+            "better",
+            "about",
+            "myself",
+            "."
+        ],
+        [
+            "I",
+            "did",
+            "this",
+            "partially",
+            "because",
+            "it",
+            "\u2019s",
+            "my",
+            "senior",
+            "year",
+            "and",
+            "I",
+            "\u2019m",
+            "going",
+            "to",
+            "college",
+            "in",
+            "the",
+            "fall",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "feel",
+            "like",
+            "everyone",
+            "eats",
+            "completely",
+            "unhealthy",
+            "in",
+            "college",
+            ",",
+            "and",
+            "you",
+            "\u2019re",
+            "surrounded",
+            "by",
+            "junk",
+            "food",
+            "."
+        ],
+        [
+            "To",
+            "make",
+            "this",
+            "even",
+            "harder",
+            ",",
+            "at",
+            "my",
+            "college",
+            "you",
+            "have",
+            "to",
+            "be",
+            "on",
+            "a",
+            "meal",
+            "plan",
+            "with",
+            "just",
+            "about",
+            "every",
+            "meal",
+            "being",
+            "on",
+            "the",
+            "plan",
+            "."
+        ],
+        [
+            "So",
+            "I",
+            "\u2019ll",
+            "be",
+            "eating",
+            "in",
+            "the",
+            "cafeteria",
+            "multiple",
+            "times",
+            "a",
+            "day",
+            "."
+        ],
+        [
+            "Do",
+            "college",
+            "cafeterias",
+            "have",
+            "healthy",
+            "eating",
+            "options",
+            "?"
+        ],
+        [
+            "I",
+            "just",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "get",
+            "out",
+            "of",
+            "shape",
+            "or",
+            "gain",
+            "the",
+            "\u201c",
+            "freshman",
+            "15",
+            "\u201d",
+            "or",
+            "anything",
+            "."
+        ],
+        [
+            "Any",
+            "comments",
+            "appreciated",
+            "."
+        ]
+    ]
+}

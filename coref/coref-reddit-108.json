@@ -1,0 +1,352 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a girlfriend",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "a girlfriend",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "have a crush",
+                "pos": [
+                    29,
+                    32
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "have a crush",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-108",
+    "sents": [
+        [
+            "Next",
+            "year",
+            "will",
+            "be",
+            "my",
+            "fifth",
+            "and",
+            "final",
+            "year",
+            "of",
+            "college",
+            "."
+        ],
+        [
+            "I",
+            "never",
+            "really",
+            "found",
+            "my",
+            "group",
+            "of",
+            "close",
+            "friends",
+            "or",
+            "had",
+            "a",
+            "girlfriend",
+            "or",
+            "anything",
+            "."
+        ],
+        [
+            "The",
+            "acquaintance",
+            "level",
+            "friends",
+            "I",
+            "did",
+            "have",
+            "basically",
+            "all",
+            "graduated",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "Now",
+            "I",
+            "'m",
+            "just",
+            "realizing",
+            "that",
+            "after",
+            "not",
+            "seeing",
+            "anyone",
+            "in",
+            "person",
+            "for",
+            "more",
+            "than",
+            "a",
+            "year",
+            ",",
+            "as",
+            "much",
+            "as",
+            "I",
+            "want",
+            "a",
+            "girlfriend",
+            "I",
+            "do",
+            "n't",
+            "even",
+            "have",
+            "a",
+            "crush",
+            "on",
+            "anyone",
+            "any",
+            "more",
+            "."
+        ],
+        [
+            "Just",
+            "feels",
+            "like",
+            "a",
+            "new",
+            "level",
+            "of",
+            "loneliness",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "Because",
+            "when",
+            "you",
+            "have",
+            "a",
+            "crush",
+            ",",
+            "at",
+            "least",
+            "you",
+            "have",
+            "someone",
+            "to",
+            "think",
+            "about",
+            "and",
+            "talk",
+            "to",
+            "and",
+            "plan",
+            "next",
+            "steps",
+            "with",
+            "."
+        ],
+        [
+            "When",
+            "you",
+            "do",
+            "n't",
+            "even",
+            "have",
+            "that",
+            ",",
+            "it",
+            "'s",
+            "just",
+            "..."
+        ],
+        [
+            "even",
+            "lonelier",
+            "."
+        ],
+        [
+            "Just",
+            "wanted",
+            "to",
+            "get",
+            "it",
+            "off",
+            "my",
+            "chest",
+            "."
+        ],
+        [
+            "Hopefully",
+            "next",
+            "year",
+            "will",
+            "be",
+            "better",
+            "and",
+            "I",
+            "'ll",
+            "make",
+            "some",
+            "friends",
+            "and",
+            "stuff",
+            "."
+        ]
+    ]
+}

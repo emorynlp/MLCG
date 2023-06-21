@@ -1,0 +1,336 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Monetary and credit growth rates in New Zealand are not expected to continue at current levels",
+                "pos": [
+                    0,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "following",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the Reserve Bank 's move to tighten liquidity late last year",
+                "pos": [
+                    17,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The monetary and credit growth figures for the December quarter were probably artifically inflated",
+                "pos": [
+                    0,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "unusually high growth in inter-institutional lending activity on the short term money market",
+                "pos": [
+                    15,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The bank moved to tighten liquidity",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "initial signs of the recent expansion became apparent",
+                "pos": [
+                    8,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-30",
+    "sents": [
+        [
+            "Monetary",
+            "and",
+            "credit",
+            "growth",
+            "rates",
+            "in",
+            "New",
+            "Zealand",
+            "are",
+            "not",
+            "expected",
+            "to",
+            "continue",
+            "at",
+            "current",
+            "levels",
+            "following",
+            "the",
+            "Reserve",
+            "Bank",
+            "'s",
+            "move",
+            "to",
+            "tighten",
+            "liquidity",
+            "late",
+            "last",
+            "year",
+            ",",
+            "Reserve",
+            "Bank",
+            "Governor",
+            "Spencer",
+            "Russell",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "monetary",
+            "and",
+            "credit",
+            "growth",
+            "figures",
+            "for",
+            "the",
+            "December",
+            "quarter",
+            "were",
+            "probably",
+            "artifically",
+            "inflated",
+            "by",
+            "unusually",
+            "high",
+            "growth",
+            "in",
+            "inter-institutional",
+            "lending",
+            "activity",
+            "on",
+            "the",
+            "short",
+            "term",
+            "money",
+            "market",
+            ",",
+            "Russell",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "."
+        ],
+        [
+            "The",
+            "bank",
+            "moved",
+            "to",
+            "tighten",
+            "liquidity",
+            "when",
+            "the",
+            "initial",
+            "signs",
+            "of",
+            "the",
+            "recent",
+            "expansion",
+            "became",
+            "apparent",
+            "in",
+            "September",
+            "and",
+            "October",
+            "last",
+            "year",
+            ",",
+            "Russell",
+            "said",
+            "."
+        ],
+        [
+            "Broadly",
+            "defined",
+            "M-3",
+            "figures",
+            "released",
+            "today",
+            "showed",
+            "growth",
+            "of",
+            "17.8",
+            "pct",
+            "in",
+            "the",
+            "year",
+            "ended",
+            "December",
+            "compared",
+            "with",
+            "13.1",
+            "pct",
+            "in",
+            "the",
+            "year",
+            "ended",
+            "September",
+            "."
+        ],
+        [
+            "Annual",
+            "growth",
+            "of",
+            "private",
+            "sector",
+            "credit",
+            "in",
+            "calendar",
+            "1986",
+            "was",
+            "30.7",
+            "pct",
+            "compared",
+            "with",
+            "16.5",
+            "pct",
+            "in",
+            "the",
+            "September",
+            "year",
+            "."
+        ],
+        [
+            "\"",
+            "Available",
+            "evidence",
+            "suggests",
+            "that",
+            "corporate",
+            "customers",
+            ",",
+            "including",
+            "non-bank",
+            "financial",
+            "institutions",
+            ",",
+            "have",
+            "been",
+            "exploiting",
+            "differences",
+            "between",
+            "interest",
+            "rates",
+            "on",
+            "overdrafts",
+            "with",
+            "trading",
+            "banks",
+            "and",
+            "rates",
+            "in",
+            "the",
+            "call",
+            "market",
+            ",",
+            "\"",
+            "Russell",
+            "said",
+            "."
+        ]
+    ]
+}

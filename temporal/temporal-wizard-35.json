@@ -1,0 +1,352 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was field upon field of ripening grain",
+                "pos": [
+                    1,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "running",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were all painted",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been painted",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were short",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fat",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were dressed",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "showed",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-35",
+    "sents": [
+        [
+            "The",
+            "country",
+            "of",
+            "the",
+            "Quadlings",
+            "seemed",
+            "rich",
+            "and",
+            "happy",
+            "."
+        ],
+        [
+            "There",
+            "was",
+            "field",
+            "upon",
+            "field",
+            "of",
+            "ripening",
+            "grain",
+            ",",
+            "with",
+            "well",
+            "-",
+            "paved",
+            "roads",
+            "running",
+            "between",
+            ",",
+            "and",
+            "pretty",
+            "rippling",
+            "brooks",
+            "with",
+            "strong",
+            "bridges",
+            "across",
+            "them",
+            "."
+        ],
+        [
+            "The",
+            "fences",
+            "and",
+            "houses",
+            "and",
+            "bridges",
+            "were",
+            "all",
+            "painted",
+            "bright",
+            "red",
+            ",",
+            "just",
+            "as",
+            "they",
+            "had",
+            "been",
+            "painted",
+            "yellow",
+            "in",
+            "the",
+            "country",
+            "of",
+            "the",
+            "Winkies",
+            "and",
+            "blue",
+            "in",
+            "the",
+            "country",
+            "of",
+            "the",
+            "Munchkins",
+            "."
+        ],
+        [
+            "The",
+            "Quadlings",
+            "themselves",
+            ",",
+            "who",
+            "were",
+            "short",
+            "and",
+            "fat",
+            "and",
+            "looked",
+            "chubby",
+            "and",
+            "good",
+            "-",
+            "natured",
+            ",",
+            "were",
+            "dressed",
+            "all",
+            "in",
+            "red",
+            ",",
+            "which",
+            "showed",
+            "bright",
+            "against",
+            "the",
+            "green",
+            "grass",
+            "and",
+            "the",
+            "yellowing",
+            "grain",
+            "."
+        ]
+    ]
+}

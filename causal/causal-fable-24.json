@@ -1,0 +1,293 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I will scratch up some nice worms and beetles",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "our breakfast",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Nothing can do us good",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 12,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 12,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it is not a thing that we ourselves want",
+                "pos": [
+                    7,
+                    16
+                ],
+                "sent_id": 12,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-24",
+    "sents": [
+        [
+            "\u201c",
+            "COME",
+            ",",
+            "my",
+            "dears",
+            ",",
+            "\u201d",
+            "said",
+            "a",
+            "Cock",
+            "to",
+            "his",
+            "hens",
+            "one",
+            "morning",
+            ";",
+            "\u201c",
+            "I",
+            "am",
+            "hungry",
+            ",",
+            "and",
+            "so",
+            "are",
+            "you",
+            "."
+        ],
+        [
+            "Let",
+            "us",
+            "go",
+            "out",
+            "."
+        ],
+        [
+            "I",
+            "will",
+            "scratch",
+            "up",
+            "some",
+            "nice",
+            "worms",
+            "and",
+            "beetles",
+            "for",
+            "our",
+            "breakfast",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "hens",
+            "stood",
+            "waiting",
+            "while",
+            "he",
+            "scratched",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "first",
+            "thing",
+            "that",
+            "he",
+            "found",
+            "was",
+            "neither",
+            "a",
+            "beetle",
+            "nor",
+            "a",
+            "worm",
+            "but",
+            "a",
+            "precious",
+            "stone",
+            "."
+        ],
+        [
+            "It",
+            "may",
+            "have",
+            "been",
+            "a",
+            "ruby",
+            "or",
+            "an",
+            "emerald",
+            "."
+        ],
+        [
+            "\u201c",
+            "Dear",
+            "me",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Cock",
+            ";",
+            "\u201c",
+            "what",
+            "is",
+            "this",
+            "?"
+        ],
+        [
+            "a",
+            "Jewel",
+            "!"
+        ],
+        [
+            "How",
+            "glad",
+            "anybody",
+            "else",
+            "might",
+            "be",
+            "to",
+            "have",
+            "found",
+            "such",
+            "a",
+            "prize",
+            ";",
+            "but",
+            "I",
+            "have",
+            "no",
+            "need",
+            "of",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "would",
+            "rather",
+            "have",
+            "a",
+            "few",
+            "kernels",
+            "of",
+            "good",
+            "corn",
+            "than",
+            "all",
+            "the",
+            "Jewels",
+            "in",
+            "the",
+            "world",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "And",
+            "so",
+            "would",
+            "we",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "hens",
+            "."
+        ],
+        [
+            "\u201c",
+            "Nothing",
+            "can",
+            "do",
+            "us",
+            "good",
+            "if",
+            "it",
+            "is",
+            "not",
+            "a",
+            "thing",
+            "that",
+            "we",
+            "ourselves",
+            "want",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

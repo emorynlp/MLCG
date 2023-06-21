@@ -1,0 +1,358 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a number of the Winkies",
+                "pos": [
+                    3,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Winkies",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the yellow Winkies",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Winkies",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Winkies",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a number of the",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "His",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-27",
+    "sents": [
+        [
+            "So",
+            "they",
+            "called",
+            "the",
+            "yellow",
+            "Winkies",
+            "and",
+            "asked",
+            "them",
+            "if",
+            "they",
+            "would",
+            "help",
+            "to",
+            "rescue",
+            "their",
+            "friends",
+            ",",
+            "and",
+            "the",
+            "Winkies",
+            "said",
+            "that",
+            "they",
+            "would",
+            "be",
+            "delighted",
+            "to",
+            "do",
+            "all",
+            "in",
+            "their",
+            "power",
+            "for",
+            "Dorothy",
+            ",",
+            "who",
+            "had",
+            "set",
+            "them",
+            "free",
+            "from",
+            "bondage",
+            "."
+        ],
+        [
+            "So",
+            "she",
+            "chose",
+            "a",
+            "number",
+            "of",
+            "the",
+            "Winkies",
+            "who",
+            "looked",
+            "as",
+            "if",
+            "they",
+            "knew",
+            "the",
+            "most",
+            ",",
+            "and",
+            "they",
+            "all",
+            "started",
+            "away",
+            "."
+        ],
+        [
+            "They",
+            "traveled",
+            "that",
+            "day",
+            "and",
+            "part",
+            "of",
+            "the",
+            "next",
+            "until",
+            "they",
+            "came",
+            "to",
+            "the",
+            "rocky",
+            "plain",
+            "where",
+            "the",
+            "Tin",
+            "Woodman",
+            "lay",
+            ",",
+            "all",
+            "battered",
+            "and",
+            "bent",
+            "."
+        ],
+        [
+            "His",
+            "axe",
+            "was",
+            "near",
+            "him",
+            ",",
+            "but",
+            "the",
+            "blade",
+            "was",
+            "rusted",
+            "and",
+            "the",
+            "handle",
+            "broken",
+            "off",
+            "short",
+            "."
+        ]
+    ]
+}

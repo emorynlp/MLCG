@@ -1,0 +1,197 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-048",
+    "sents": [
+        [
+            "Like",
+            "we",
+            "all",
+            "know",
+            "the",
+            "jump",
+            "from",
+            "in-person",
+            "to",
+            "remote",
+            "was",
+            "horrendous",
+            ",",
+            "especially",
+            "if",
+            "you",
+            "were",
+            "unlucky",
+            "enough",
+            "to",
+            "be",
+            "in",
+            "college",
+            "during",
+            "the",
+            "brunt",
+            "of",
+            "it",
+            "in",
+            "Spring",
+            "2020",
+            "But",
+            "idk",
+            ",",
+            "somehow",
+            "going",
+            "back",
+            "to",
+            "in-person",
+            "seems",
+            "worse",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "a",
+            "freshman",
+            "in",
+            "Fall",
+            "2020",
+            "and",
+            "I",
+            "finished",
+            "my",
+            "first",
+            "two",
+            "semesters",
+            "with",
+            "a",
+            "3.9",
+            "I",
+            "'m",
+            "now",
+            "a",
+            "sophomore",
+            "in",
+            "Fall",
+            "2021",
+            "after",
+            "already",
+            "having",
+            "to",
+            "drop",
+            "one",
+            "class",
+            ",",
+            "I",
+            "'m",
+            "fighting",
+            "to",
+            "just",
+            "barely",
+            "pass",
+            "my",
+            "remaining",
+            "three",
+            "classes",
+            "There",
+            "are",
+            "other",
+            "factors",
+            "of",
+            "course",
+            ",",
+            "but",
+            "somehow",
+            "online",
+            "classes",
+            "seemed",
+            "a",
+            "bit",
+            "nicer",
+            "if",
+            "that",
+            "'s",
+            "a",
+            "good",
+            "word",
+            "?"
+        ],
+        [
+            "Better",
+            "taught",
+            ",",
+            "more",
+            "materials",
+            "provided",
+            "to",
+            "review",
+            ",",
+            "better",
+            "modules",
+            "for",
+            "going",
+            "for",
+            "coursework",
+            "and",
+            "reviewing",
+            ",",
+            "etc."
+        ]
+    ]
+}

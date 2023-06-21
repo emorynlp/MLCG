@@ -1,0 +1,324 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "'re the one",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "waited",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "expect",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "jack up",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "costs",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-006",
+    "sents": [
+        [
+            "\"",
+            "Here",
+            "'s",
+            "the",
+            "textbook",
+            ",",
+            "have",
+            "it",
+            "by",
+            "tomorrow",
+            ".",
+            "\""
+        ],
+        [
+            "You",
+            "'re",
+            "the",
+            "one",
+            "who",
+            "waited",
+            "until",
+            "the",
+            "last",
+            "second",
+            "to",
+            "let",
+            "anyone",
+            "know",
+            "about",
+            "the",
+            "textbook",
+            "and",
+            "you",
+            "expect",
+            "us",
+            "to",
+            "be",
+            "ready",
+            "to",
+            "use",
+            "it",
+            "the",
+            "next",
+            "day",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "to",
+            "pay",
+            "for",
+            "it",
+            "with",
+            "my",
+            "own",
+            "money",
+            "because",
+            "the",
+            "bookstore",
+            "is",
+            "n't",
+            "open",
+            "anymore",
+            "and",
+            "it",
+            "'s",
+            "definitely",
+            "not",
+            "going",
+            "to",
+            "be",
+            "here",
+            "by",
+            "tomorrow",
+            "."
+        ],
+        [
+            "Do",
+            "n't",
+            "you",
+            "know",
+            "that",
+            "scalpers",
+            "jack",
+            "up",
+            "the",
+            "prices",
+            "of",
+            "textbooks",
+            "right",
+            "before",
+            "class",
+            "starts",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "to",
+            "buy",
+            "from",
+            "some",
+            "online",
+            "service",
+            "so",
+            "let",
+            "'s",
+            "add",
+            "shipping",
+            "costs",
+            "to",
+            "that",
+            "."
+        ],
+        [
+            "And",
+            "do",
+            "n't",
+            "forget",
+            "tax",
+            "!"
+        ],
+        [
+            "Oh",
+            ",",
+            "and",
+            "it",
+            "costs",
+            "just",
+            "as",
+            "much",
+            "to",
+            "rent",
+            "."
+        ],
+        [
+            "Tell",
+            "us",
+            "at",
+            "least",
+            "a",
+            "week",
+            "in",
+            "advance",
+            "if",
+            "you",
+            "want",
+            "us",
+            "to",
+            "have",
+            "the",
+            "book",
+            "by",
+            "the",
+            "next",
+            "day",
+            "!"
+        ],
+        [
+            "TL",
+            ";",
+            "DR",
+            ":",
+            "Do",
+            "n't",
+            "expect",
+            "us",
+            "to",
+            "have",
+            "the",
+            "textbook",
+            "ready",
+            "if",
+            "you",
+            "wait",
+            "until",
+            "the",
+            "very",
+            "last",
+            "second",
+            "to",
+            "tell",
+            "us",
+            "what",
+            "it",
+            "is",
+            "!"
+        ]
+    ]
+}

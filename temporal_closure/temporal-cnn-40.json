@@ -1,0 +1,217 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been lost",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been tracking",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-40",
+    "sents": [
+        [
+            "Pirates",
+            "have",
+            "hijacked",
+            "a",
+            "Norwegian",
+            "tanker",
+            "off",
+            "the",
+            "coast",
+            "of",
+            "Madagascar",
+            "and",
+            "are",
+            "steering",
+            "the",
+            "ship",
+            "toward",
+            "Somalia",
+            ",",
+            "the",
+            "ship",
+            "'s",
+            "owner",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "captain",
+            "of",
+            "the",
+            "UBT",
+            "Ocean",
+            "called",
+            "the",
+            "technical",
+            "director",
+            "for",
+            "Broevigtank",
+            ",",
+            "the",
+            "company",
+            "that",
+            "owns",
+            "the",
+            "ship",
+            ",",
+            "and",
+            "reported",
+            "that",
+            "pirates",
+            "had",
+            "come",
+            "aboard",
+            "Friday",
+            ",",
+            "said",
+            "Svenn",
+            "Pederson",
+            ",",
+            "CEO",
+            "of",
+            "Broevigtank",
+            "."
+        ],
+        [
+            "Contact",
+            "with",
+            "the",
+            "captain",
+            "has",
+            "since",
+            "been",
+            "lost",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "company",
+            "has",
+            "been",
+            "tracking",
+            "the",
+            "vessel",
+            "."
+        ],
+        [
+            "Pederson",
+            "said",
+            "the",
+            "ship",
+            "was",
+            "carrying",
+            "fuel",
+            "destined",
+            "for",
+            "Dar",
+            "es",
+            "Salaam",
+            ",",
+            "Tanzania",
+            ",",
+            "and",
+            "has",
+            "21",
+            "crew",
+            "members",
+            "aboard",
+            "."
+        ]
+    ]
+}

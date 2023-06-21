@@ -1,0 +1,461 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "all the notes",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "notes",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the book",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "rhe book",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the book",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The professor",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "that one exam",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "an essay exam",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    45,
+                    46
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 13,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-028",
+    "sents": [
+        [
+            "I",
+            "did",
+            "a",
+            "good",
+            "preperation",
+            "."
+        ],
+        [
+            "I",
+            "made",
+            "all",
+            "the",
+            "notes",
+            "in",
+            "class",
+            "and",
+            "memorized",
+            "them",
+            "."
+        ],
+        [
+            "The",
+            "professor",
+            "said",
+            "to",
+            "make",
+            "notes",
+            "and",
+            "not",
+            "to",
+            "preffer",
+            "the",
+            "book",
+            "."
+        ],
+        [
+            "Still",
+            "he",
+            "gave",
+            "questions",
+            "from",
+            "rhe",
+            "book",
+            "and",
+            "luckily",
+            "i",
+            "did",
+            "memorized",
+            "everything",
+            "from",
+            "the",
+            "book",
+            "."
+        ],
+        [
+            "And",
+            "what",
+            "i",
+            "got",
+            "?"
+        ],
+        [
+            "45",
+            "/",
+            "100",
+            "."
+        ],
+        [
+            "Fuck",
+            "!!!!!!!."
+        ],
+        [
+            "I",
+            "have",
+            "been",
+            "struggling",
+            "with",
+            "this",
+            "subject",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "bad",
+            "grades",
+            "in",
+            "3",
+            "of",
+            "the",
+            "exams",
+            "and",
+            "passed",
+            "in",
+            "one",
+            "and",
+            "that",
+            "one",
+            "exam",
+            "i",
+            "did",
+            "was",
+            "essay",
+            "type",
+            ",",
+            "(",
+            "we",
+            "have",
+            "multiple",
+            "choice",
+            "not",
+            "essay",
+            ",",
+            ")",
+            "because",
+            "i",
+            "arrived",
+            "5",
+            "minutes",
+            "late",
+            "and",
+            "he",
+            "said",
+            "i",
+            "can",
+            "not",
+            "take",
+            "my",
+            "exam",
+            "."
+        ],
+        [
+            "So",
+            "he",
+            "made",
+            "an",
+            "essay",
+            "exam",
+            "and",
+            "i",
+            "passed",
+            "in",
+            "that",
+            "."
+        ],
+        [
+            "But",
+            "worked",
+            "hard",
+            "in",
+            "my",
+            "final",
+            "exam",
+            "and",
+            "still",
+            "did",
+            "nt",
+            "pass",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "a",
+            "freshman",
+            "and",
+            "i",
+            "am",
+            "in",
+            "first",
+            "semester",
+            "."
+        ],
+        [
+            "Fuck",
+            "!!!!!"
+        ],
+        [
+            "I",
+            "really",
+            "wan",
+            "na",
+            "cry",
+            "and",
+            "break",
+            "things",
+            "."
+        ]
+    ]
+}

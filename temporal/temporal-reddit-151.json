@@ -1,0 +1,338 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "am in",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was very cut",
+                "pos": [
+                    20,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dry",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feels",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m having to",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "describe",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felt",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "overcome",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bring forward",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "think",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-151",
+    "sents": [
+        [
+            "I",
+            "am",
+            "in",
+            "a",
+            "STEM",
+            "field",
+            "and",
+            "I",
+            "took",
+            "a",
+            "short",
+            "break",
+            "between",
+            "my",
+            "BS",
+            "and",
+            "my",
+            "MS.",
+            "My",
+            "BS",
+            "was",
+            "very",
+            "cut",
+            "and",
+            "dry",
+            "."
+        ],
+        [
+            "My",
+            "masters",
+            "feels",
+            "uncomfortably",
+            "personal",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "having",
+            "to",
+            "submit",
+            "assignments",
+            "where",
+            "I",
+            "describe",
+            "times",
+            "in",
+            "my",
+            "life",
+            "where",
+            "I",
+            "felt",
+            "outcasted",
+            ",",
+            "or",
+            "hardships",
+            "that",
+            "I",
+            "have",
+            "overcome",
+            "."
+        ],
+        [
+            "My",
+            "life",
+            "has",
+            "not",
+            "been",
+            "easy",
+            ",",
+            "and",
+            "I",
+            "do",
+            "n\u2019t",
+            "like",
+            "bringing",
+            "up",
+            "memories",
+            "that",
+            "cause",
+            "pain",
+            "."
+        ],
+        [
+            "Despite",
+            "weather",
+            "I",
+            "am",
+            "truthful",
+            "in",
+            "my",
+            "response",
+            "or",
+            "not",
+            ",",
+            "the",
+            "questions",
+            "bring",
+            "forward",
+            "traumatic",
+            "memories",
+            "."
+        ],
+        [
+            "I",
+            "think",
+            "the",
+            "prompts",
+            "are",
+            "too",
+            "personal",
+            ",",
+            "and",
+            "my",
+            "professors",
+            "are",
+            "not",
+            "entitled",
+            "to",
+            "hearing",
+            "my",
+            "story",
+            "."
+        ]
+    ]
+}

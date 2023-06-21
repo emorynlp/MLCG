@@ -1,0 +1,335 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "rambled",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finding",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "building",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "budding",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thrusting",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "happy",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "progressive",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "occupied",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-02",
+    "sents": [
+        [
+            "It",
+            "all",
+            "seemed",
+            "too",
+            "good",
+            "to",
+            "be",
+            "true",
+            "."
+        ],
+        [
+            "Hither",
+            "and",
+            "thither",
+            "through",
+            "the",
+            "meadows",
+            "he",
+            "rambled",
+            "busily",
+            ",",
+            "along",
+            "the",
+            "hedgerows",
+            ",",
+            "across",
+            "the",
+            "copses",
+            ",",
+            "finding",
+            "everywhere",
+            "birds",
+            "building",
+            ",",
+            "flowers",
+            "budding",
+            ",",
+            "leaves",
+            "thrusting",
+            "\u2014",
+            "everything",
+            "happy",
+            ",",
+            "and",
+            "progressive",
+            ",",
+            "and",
+            "occupied",
+            "."
+        ],
+        [
+            "And",
+            "instead",
+            "of",
+            "having",
+            "an",
+            "uneasy",
+            "conscience",
+            "pricking",
+            "him",
+            "and",
+            "whispering",
+            "\"",
+            "whitewash",
+            "!",
+            "\"",
+            "he",
+            "somehow",
+            "could",
+            "only",
+            "feel",
+            "how",
+            "jolly",
+            "it",
+            "was",
+            "to",
+            "be",
+            "the",
+            "only",
+            "idle",
+            "dog",
+            "among",
+            "all",
+            "these",
+            "busy",
+            "citizens",
+            "."
+        ],
+        [
+            "After",
+            "all",
+            ",",
+            "the",
+            "best",
+            "part",
+            "of",
+            "a",
+            "holiday",
+            "is",
+            "perhaps",
+            "not",
+            "so",
+            "much",
+            "to",
+            "be",
+            "resting",
+            "yourself",
+            ",",
+            "as",
+            "to",
+            "see",
+            "all",
+            "the",
+            "other",
+            "fellows",
+            "busy",
+            "working",
+            "."
+        ]
+    ]
+}

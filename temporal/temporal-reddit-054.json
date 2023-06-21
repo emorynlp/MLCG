@@ -1,0 +1,465 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "is what",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sent",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s in",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'re just relying on",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been very busy",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "updating",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sending",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "studying",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "attending",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "printing",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s a reminder",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are proud of",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be of significance",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "helping",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-054",
+    "sents": [
+        [
+            "This",
+            "is",
+            "what",
+            "my",
+            "mom",
+            "sent",
+            "to",
+            "me",
+            "before",
+            "she",
+            "went",
+            "to",
+            "bed",
+            "tonight",
+            "."
+        ],
+        [
+            "She",
+            "'s",
+            "in",
+            "the",
+            "province",
+            "so",
+            "we",
+            "'re",
+            "just",
+            "relying",
+            "on",
+            "video",
+            "calls",
+            "and",
+            "messages",
+            "to",
+            "update",
+            "each",
+            "other",
+            "."
+        ],
+        [
+            "However",
+            ",",
+            "because",
+            "we",
+            "have",
+            "a",
+            "lot",
+            "of",
+            "requirements",
+            "for",
+            "this",
+            "semester",
+            ",",
+            "I",
+            "'ve",
+            "been",
+            "very",
+            "busy",
+            "that",
+            "I",
+            "can",
+            "no",
+            "longer",
+            "call",
+            "as",
+            "often",
+            "as",
+            "I",
+            "did",
+            "."
+        ],
+        [
+            "I",
+            "resorted",
+            "to",
+            "updating",
+            "her",
+            "by",
+            "sending",
+            "her",
+            "photos",
+            "of",
+            "me",
+            "studying",
+            ",",
+            "attending",
+            "Zoom",
+            "classes",
+            ",",
+            "and",
+            "printing",
+            "papers",
+            "."
+        ],
+        [
+            "This",
+            "semester",
+            "may",
+            "be",
+            "tough",
+            "for",
+            "all",
+            "of",
+            "us",
+            "but",
+            "here",
+            "'s",
+            "a",
+            "reminder",
+            "that",
+            "our",
+            "loved",
+            "ones",
+            "are",
+            "proud",
+            "of",
+            "us",
+            "."
+        ],
+        [
+            "Their",
+            "support",
+            "will",
+            "be",
+            "of",
+            "significance",
+            "in",
+            "helping",
+            "us",
+            "finish",
+            "this",
+            "!"
+        ],
+        [
+            "Virtual",
+            "hugs",
+            "!"
+        ]
+    ]
+}

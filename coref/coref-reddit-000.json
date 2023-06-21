@@ -1,0 +1,289 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "we",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "setting",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the thought process",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the process",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "forget",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "event"
+            },
+            {
+                "name": "this one",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "event"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-000",
+    "sents": [
+        [
+            "I",
+            "would",
+            "like",
+            "to",
+            "know",
+            "the",
+            "thought",
+            "process",
+            "behind",
+            "setting",
+            "a",
+            "due",
+            "date",
+            "for",
+            "10:30",
+            "AM",
+            "."
+        ],
+        [
+            "It",
+            "seems",
+            "like",
+            "95%",
+            "percent",
+            "of",
+            "things",
+            "are",
+            "due",
+            "at",
+            "11:59",
+            "PM",
+            ";",
+            "and",
+            "then",
+            "I",
+            "always",
+            "have",
+            "that",
+            "one",
+            "oddball",
+            "due",
+            "date",
+            "time",
+            "assignment",
+            "every",
+            "couple",
+            "weeks",
+            "."
+        ],
+        [
+            "Are",
+            "we",
+            "doing",
+            "me",
+            "a",
+            "favor",
+            "with",
+            "this",
+            "?"
+        ],
+        [
+            "or",
+            "what",
+            "'s",
+            "the",
+            "process",
+            "?"
+        ],
+        [
+            "Simulating",
+            "a",
+            "\"",
+            "class",
+            "experience",
+            "\"",
+            "."
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "I",
+            "'ve",
+            "finally",
+            "annotated",
+            "my",
+            "entire",
+            "calendar",
+            ",",
+            "because",
+            "I",
+            "forget",
+            "to",
+            "read",
+            "the",
+            "times",
+            "for",
+            "all",
+            "4",
+            "or",
+            "5",
+            "things",
+            "in",
+            "the",
+            "color",
+            "coded",
+            "square",
+            "on",
+            "any",
+            "given",
+            "day",
+            "."
+        ],
+        [
+            "Is",
+            "this",
+            "just",
+            "me",
+            ",",
+            "anyone",
+            "else",
+            "getting",
+            "burned",
+            "on",
+            "this",
+            "one",
+            "."
+        ]
+    ]
+}

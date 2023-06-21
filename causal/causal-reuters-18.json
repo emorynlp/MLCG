@@ -1,0 +1,171 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "it bought the stock",
+                "pos": [
+                    14,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "investment purposes",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-18",
+    "sents": [
+        [
+            "Industrial",
+            "Equity",
+            "(",
+            "Pacific",
+            ")",
+            "Ltd",
+            ",",
+            "a",
+            "Hong",
+            "Kong",
+            "investment",
+            "firm",
+            ",",
+            "said",
+            "it",
+            "raised",
+            "its",
+            "stake",
+            "in",
+            "Wrather",
+            "Corp",
+            "to",
+            "816,000",
+            "shares",
+            ",",
+            "or",
+            "11.3",
+            "pct",
+            "of",
+            "the",
+            "total",
+            "outstanding",
+            "common",
+            "stock",
+            ",",
+            "from",
+            "453,300",
+            "shares",
+            ",",
+            "or",
+            "6.3",
+            "pct",
+            "."
+        ],
+        [
+            "In",
+            "a",
+            "filing",
+            "with",
+            "the",
+            "Securities",
+            "and",
+            "Exchange",
+            "Commission",
+            ",",
+            "Industrial",
+            "Equity",
+            ",",
+            "which",
+            "is",
+            "principally",
+            "owned",
+            "by",
+            "Brierley",
+            "Investments",
+            "Ltd",
+            ",",
+            "a",
+            "publicly",
+            "held",
+            "New",
+            "Zealand",
+            "company",
+            ",",
+            "said",
+            "it",
+            "bought",
+            "362,700",
+            "Wrather",
+            "common",
+            "shares",
+            "between",
+            "Feb",
+            "13",
+            "and",
+            "24",
+            "for",
+            "6.6",
+            "mln",
+            "dlrs",
+            "."
+        ],
+        [
+            "When",
+            "it",
+            "first",
+            "disclosed",
+            "its",
+            "stake",
+            "in",
+            "Wrather",
+            "earlier",
+            "this",
+            "month",
+            ",",
+            "it",
+            "said",
+            "it",
+            "bought",
+            "the",
+            "stock",
+            "for",
+            "investment",
+            "purposes",
+            "."
+        ]
+    ]
+}

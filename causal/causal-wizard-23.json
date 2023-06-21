@@ -1,0 +1,414 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the trees grew so big and close together",
+                "pos": [
+                    10,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "branches met over the road of yellow brick",
+                "pos": [
+                    20,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "It was almost dark under the trees",
+                "pos": [
+                    0,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the branches shut out the daylight",
+                "pos": [
+                    9,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "this road goes in",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it must come out",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "is why",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "I know it",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it required brains to figure it out",
+                "pos": [
+                    2,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I never should have said it",
+                "pos": [
+                    10,
+                    16
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 14,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-23",
+    "sents": [
+        [
+            "There",
+            "were",
+            "no",
+            "fences",
+            "at",
+            "all",
+            "by",
+            "the",
+            "roadside",
+            "now",
+            ",",
+            "and",
+            "the",
+            "land",
+            "was",
+            "rough",
+            "and",
+            "untilled",
+            "."
+        ],
+        [
+            "Toward",
+            "evening",
+            "they",
+            "came",
+            "to",
+            "a",
+            "great",
+            "forest",
+            ",",
+            "where",
+            "the",
+            "trees",
+            "grew",
+            "so",
+            "big",
+            "and",
+            "close",
+            "together",
+            "that",
+            "their",
+            "branches",
+            "met",
+            "over",
+            "the",
+            "road",
+            "of",
+            "yellow",
+            "brick",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "almost",
+            "dark",
+            "under",
+            "the",
+            "trees",
+            ",",
+            "for",
+            "the",
+            "branches",
+            "shut",
+            "out",
+            "the",
+            "daylight",
+            ";",
+            "but",
+            "the",
+            "travelers",
+            "did",
+            "not",
+            "stop",
+            ",",
+            "and",
+            "went",
+            "on",
+            "into",
+            "the",
+            "forest",
+            "."
+        ],
+        [
+            "\"",
+            "If",
+            "this",
+            "road",
+            "goes",
+            "in",
+            ",",
+            "it",
+            "must",
+            "come",
+            "out",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "Scarecrow",
+            ",",
+            "\"",
+            "and",
+            "as",
+            "the",
+            "Emerald",
+            "City",
+            "is",
+            "at",
+            "the",
+            "other",
+            "end",
+            "of",
+            "the",
+            "road",
+            ",",
+            "we",
+            "must",
+            "go",
+            "wherever",
+            "it",
+            "leads",
+            "us",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "\"",
+            "Anyone",
+            "would",
+            "know",
+            "that",
+            ",",
+            "\"",
+            "said",
+            "Dorothy",
+            "."
+        ],
+        [
+            "\"",
+            "Certainly",
+            ";",
+            "that",
+            "is",
+            "why",
+            "I",
+            "know",
+            "it",
+            ",",
+            "\"",
+            "returned",
+            "the",
+            "Scarecrow",
+            "."
+        ],
+        [
+            "\"",
+            "If",
+            "it",
+            "required",
+            "brains",
+            "to",
+            "figure",
+            "it",
+            "out",
+            ",",
+            "I",
+            "never",
+            "should",
+            "have",
+            "said",
+            "it",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a Colombian proposal",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "resume quotas April 1 under the ad hoc system used historically",
+                "pos": [
+                    11,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "a pledge to meet again in September",
+                "pos": [
+                    24,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "discuss how quotas would be worked out in the future",
+                "pos": [
+                    32,
+                    42
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-00",
+    "sents": [
+        [
+            "Coffee",
+            "quota",
+            "talks",
+            "at",
+            "the",
+            "International",
+            "Coffee",
+            "Organization",
+            "council",
+            "meeting",
+            "here",
+            "continued",
+            "this",
+            "afternoon",
+            ",",
+            "but",
+            "producers",
+            "and",
+            "consumers",
+            "still",
+            "had",
+            "not",
+            "reached",
+            "common",
+            "ground",
+            "on",
+            "the",
+            "key",
+            "issue",
+            "of",
+            "how",
+            "to",
+            "estimate",
+            "export",
+            "quotas",
+            ",",
+            "delegates",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "54",
+            "member",
+            "contact",
+            "group",
+            "was",
+            "examining",
+            "a",
+            "Colombian",
+            "proposal",
+            "to",
+            "resume",
+            "quotas",
+            "April",
+            "1",
+            "under",
+            "the",
+            "ad",
+            "hoc",
+            "system",
+            "used",
+            "historically",
+            ",",
+            "with",
+            "a",
+            "pledge",
+            "to",
+            "meet",
+            "again",
+            "in",
+            "September",
+            "to",
+            "discuss",
+            "how",
+            "quotas",
+            "would",
+            "be",
+            "worked",
+            "out",
+            "in",
+            "the",
+            "future",
+            ",",
+            "they",
+            "said",
+            "."
+        ],
+        [
+            "Delegates",
+            "would",
+            "not",
+            "speculate",
+            "on",
+            "the",
+            "prospects",
+            "for",
+            "agreement",
+            "at",
+            "this",
+            "time",
+            "."
+        ],
+        [
+            "\"",
+            "Anything",
+            "could",
+            "happen",
+            ",",
+            "\"",
+            "one",
+            "delegate",
+            "said",
+            "."
+        ]
+    ]
+}

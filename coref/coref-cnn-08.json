@@ -1,0 +1,542 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Bono",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Jimmy Fallon",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "everyone",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "their",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "injured",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "The Tonight Show",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Tonight Show",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "injured",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Central Park",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Central Park",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his arm",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his arm",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "U2",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the band",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the band",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the band",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "We",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a statement",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The statement",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the statement",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the statement",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Bono",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Bono",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "the singer",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 9,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-08",
+    "sents": [
+        [
+            "U2",
+            "front",
+            "man",
+            "Bono",
+            "injured",
+            "his",
+            "arm",
+            "in",
+            "a",
+            "Central",
+            "Park",
+            "cycling",
+            "accident",
+            "and",
+            "now",
+            "needs",
+            "surgery",
+            ",",
+            "a",
+            "statement",
+            "on",
+            "the",
+            "band",
+            "'s",
+            "official",
+            "website",
+            "said",
+            "Sunday",
+            "."
+        ],
+        [
+            "The",
+            "statement",
+            "said",
+            "the",
+            "band",
+            "is",
+            "calling",
+            "off",
+            "its",
+            "scheduled",
+            "appearances",
+            "this",
+            "week",
+            "on",
+            "NBC",
+            "'s",
+            "\"",
+            "The",
+            "Tonight",
+            "Show",
+            ".",
+            "\""
+        ],
+        [
+            "\"",
+            "It",
+            "looks",
+            "like",
+            "we",
+            "will",
+            "have",
+            "to",
+            "do",
+            "our",
+            "Tonight",
+            "Show",
+            "residency",
+            "another",
+            "time",
+            "-",
+            "we",
+            "'re",
+            "one",
+            "man",
+            "down",
+            ",",
+            "\"",
+            "the",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "Bono",
+            "has",
+            "injured",
+            "his",
+            "arm",
+            "in",
+            "a",
+            "cycling",
+            "spill",
+            "in",
+            "Central",
+            "Park",
+            "and",
+            "requires",
+            "some",
+            "surgery",
+            "to",
+            "repair",
+            "it",
+            ".",
+            "\""
+        ],
+        [
+            "Reps",
+            "for",
+            "the",
+            "band",
+            "could",
+            "not",
+            "be",
+            "immediately",
+            "reached",
+            "for",
+            "comment",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "'re",
+            "sure",
+            "he",
+            "'ll",
+            "make",
+            "a",
+            "full",
+            "recovery",
+            "soon",
+            ",",
+            "so",
+            "we",
+            "'ll",
+            "be",
+            "back",
+            "!",
+            "\""
+        ],
+        [
+            "the",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "Much",
+            "thanks",
+            "to",
+            "Jimmy",
+            "Fallon",
+            "and",
+            "everyone",
+            "at",
+            "the",
+            "show",
+            "for",
+            "their",
+            "understanding",
+            ".",
+            "\""
+        ],
+        [
+            "News",
+            "of",
+            "the",
+            "fall",
+            "comes",
+            "just",
+            "days",
+            "after",
+            "the",
+            "rear",
+            "hatch",
+            "flew",
+            "off",
+            "an",
+            "aircraft",
+            "taking",
+            "the",
+            "singer",
+            "from",
+            "Dublin",
+            "to",
+            "Berlin",
+            "."
+        ]
+    ]
+}

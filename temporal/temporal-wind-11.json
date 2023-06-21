@@ -1,0 +1,402 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was excellent",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "let",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "go",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "play",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "mastered",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "painted",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "allowed",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were already deep",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "planning out",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-11",
+    "sents": [
+        [
+            "During",
+            "luncheon",
+            "\u2014",
+            "which",
+            "was",
+            "excellent",
+            ",",
+            "of",
+            "course",
+            ",",
+            "as",
+            "everything",
+            "at",
+            "Toad",
+            "Hall",
+            "always",
+            "was",
+            "\u2014",
+            "the",
+            "Toad",
+            "simply",
+            "let",
+            "himself",
+            "go",
+            "."
+        ],
+        [
+            "Disregarding",
+            "the",
+            "Rat",
+            ",",
+            "he",
+            "proceeded",
+            "to",
+            "play",
+            "upon",
+            "the",
+            "inexperienced",
+            "Mole",
+            "as",
+            "on",
+            "a",
+            "harp",
+            "."
+        ],
+        [
+            "Naturally",
+            "a",
+            "voluble",
+            "animal",
+            ",",
+            "and",
+            "always",
+            "mastered",
+            "by",
+            "his",
+            "imagination",
+            ",",
+            "he",
+            "painted",
+            "the",
+            "prospects",
+            "of",
+            "the",
+            "trip",
+            "and",
+            "the",
+            "joys",
+            "of",
+            "the",
+            "open",
+            "life",
+            "and",
+            "the",
+            "roadside",
+            "in",
+            "such",
+            "glowing",
+            "colours",
+            "that",
+            "the",
+            "Mole",
+            "could",
+            "hardly",
+            "sit",
+            "in",
+            "his",
+            "chair",
+            "for",
+            "excitement",
+            "."
+        ],
+        [
+            "Somehow",
+            ",",
+            "it",
+            "soon",
+            "seemed",
+            "taken",
+            "for",
+            "granted",
+            "by",
+            "all",
+            "three",
+            "of",
+            "them",
+            "that",
+            "the",
+            "trip",
+            "was",
+            "a",
+            "settled",
+            "thing",
+            ";",
+            "and",
+            "the",
+            "Rat",
+            ",",
+            "though",
+            "still",
+            "unconvinced",
+            "in",
+            "his",
+            "mind",
+            ",",
+            "allowed",
+            "his",
+            "good",
+            "-",
+            "nature",
+            "to",
+            "over-ride",
+            "his",
+            "personal",
+            "objections",
+            "."
+        ],
+        [
+            "He",
+            "could",
+            "not",
+            "bear",
+            "to",
+            "disappoint",
+            "his",
+            "two",
+            "friends",
+            ",",
+            "who",
+            "were",
+            "already",
+            "deep",
+            "in",
+            "schemes",
+            "and",
+            "anticipations",
+            ",",
+            "planning",
+            "out",
+            "each",
+            "day",
+            "'s",
+            "separate",
+            "occupation",
+            "for",
+            "several",
+            "weeks",
+            "ahead",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,439 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m in",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "being offered",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "return",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stay",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is appreciated",
+                "pos": [
+                    40,
+                    42
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dislike",
+                "pos": [
+                    45,
+                    46
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "EDIT",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "took off",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was expecting",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "being a great community",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "really nice",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "read",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 7,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 7,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-036",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "in",
+            "the",
+            "same",
+            "boat",
+            "as",
+            "many",
+            "of",
+            "you",
+            "-",
+            "being",
+            "offered",
+            "the",
+            "choice",
+            "to",
+            "return",
+            "to",
+            "living",
+            "on",
+            "campus",
+            ",",
+            "or",
+            "stay",
+            "an",
+            "online",
+            "student",
+            "."
+        ],
+        [
+            "Going",
+            "back",
+            "to",
+            "campus",
+            "I",
+            "..."
+        ],
+        [
+            "+",
+            "Have",
+            "independence",
+            "/",
+            "freedom",
+            "+",
+            "Get",
+            "away",
+            "from",
+            "my",
+            "family",
+            "-",
+            "Might",
+            "end",
+            "up",
+            "in",
+            "a",
+            "tiny",
+            "dorm",
+            "room",
+            "80%",
+            "of",
+            "the",
+            "time",
+            "since",
+            "we",
+            "ca",
+            "n\u2019t",
+            "do",
+            "much",
+            "on",
+            "campus",
+            "now",
+            "Staying",
+            "home",
+            "I",
+            "..."
+        ],
+        [
+            "+",
+            "Save",
+            "money",
+            "+",
+            "Have",
+            "a",
+            "car",
+            "and",
+            "more",
+            "places",
+            "to",
+            "escape",
+            "to",
+            "(",
+            "not",
+            "just",
+            "a",
+            "dorm",
+            "room",
+            ")",
+            "-",
+            "Have",
+            "to",
+            "be",
+            "around",
+            "my",
+            "family",
+            "constantly",
+            "for",
+            "another",
+            "3",
+            "months",
+            "-",
+            "FOMO",
+            "and",
+            "lack",
+            "of",
+            "socialization",
+            "Any",
+            "input",
+            "is",
+            "appreciated",
+            ",",
+            "I",
+            "really",
+            "dislike",
+            "both",
+            "options",
+            "and",
+            "do",
+            "n\u2019t",
+            "know",
+            "if",
+            "either",
+            "is",
+            "a",
+            "winner",
+            "."
+        ],
+        [
+            "EDIT",
+            ":",
+            "This",
+            "really",
+            "took",
+            "off",
+            ",",
+            "I",
+            "was",
+            "expecting",
+            "maybe",
+            "one",
+            "or",
+            "two",
+            "comments",
+            "."
+        ],
+        [
+            "Thank",
+            "you",
+            "guys",
+            "for",
+            "being",
+            "a",
+            "great",
+            "community",
+            ",",
+            "really",
+            "nice",
+            "to",
+            "read",
+            "the",
+            "comments",
+            "and",
+            "know",
+            "none",
+            "of",
+            "us",
+            "are",
+            "alone",
+            "."
+        ]
+    ]
+}

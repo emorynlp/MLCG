@@ -1,0 +1,411 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "all witches",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two of them",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Those",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one of them",
+                "pos": [
+                    22,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "four witches",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two of them",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "those",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "one of them",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the girl",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Those",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one Wicked Witch",
+                "pos": [
+                    29,
+                    32
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the one",
+                "pos": [
+                    39,
+                    41
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 9,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-08",
+    "sents": [
+        [
+            "\"",
+            "But",
+            "I",
+            "thought",
+            "all",
+            "witches",
+            "were",
+            "wicked",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "girl",
+            ",",
+            "who",
+            "was",
+            "half",
+            "frightened",
+            "at",
+            "facing",
+            "a",
+            "real",
+            "witch",
+            "."
+        ],
+        [
+            "\"",
+            "Oh",
+            ",",
+            "no",
+            ",",
+            "that",
+            "is",
+            "a",
+            "great",
+            "mistake",
+            "."
+        ],
+        [
+            "There",
+            "were",
+            "only",
+            "four",
+            "witches",
+            "in",
+            "all",
+            "the",
+            "Land",
+            "of",
+            "Oz",
+            ",",
+            "and",
+            "two",
+            "of",
+            "them",
+            ",",
+            "those",
+            "who",
+            "live",
+            "in",
+            "the",
+            "North",
+            "and",
+            "the",
+            "South",
+            ",",
+            "are",
+            "good",
+            "witches",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "this",
+            "is",
+            "true",
+            ",",
+            "for",
+            "I",
+            "am",
+            "one",
+            "of",
+            "them",
+            "myself",
+            ",",
+            "and",
+            "can",
+            "not",
+            "be",
+            "mistaken",
+            "."
+        ],
+        [
+            "Those",
+            "who",
+            "dwelt",
+            "in",
+            "the",
+            "East",
+            "and",
+            "the",
+            "West",
+            "were",
+            ",",
+            "indeed",
+            ",",
+            "wicked",
+            "witches",
+            ";",
+            "but",
+            "now",
+            "that",
+            "you",
+            "have",
+            "killed",
+            "one",
+            "of",
+            "them",
+            ",",
+            "there",
+            "is",
+            "but",
+            "one",
+            "Wicked",
+            "Witch",
+            "in",
+            "all",
+            "the",
+            "Land",
+            "of",
+            "Oz",
+            "--",
+            "the",
+            "one",
+            "who",
+            "lives",
+            "in",
+            "the",
+            "West",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heads",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "remarked",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "noted",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "believe",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-43",
+    "sents": [
+        [
+            "Around",
+            "1.2",
+            "million",
+            "children",
+            "are",
+            "believed",
+            "to",
+            "be",
+            "involved",
+            "in",
+            "prostitution",
+            "in",
+            "India",
+            ",",
+            "the",
+            "country",
+            "'s",
+            "federal",
+            "police",
+            "said",
+            "Monday",
+            "."
+        ],
+        [
+            "Ashwani",
+            "Kumar",
+            ",",
+            "who",
+            "heads",
+            "the",
+            "Central",
+            "Bureau",
+            "of",
+            "Investigation",
+            "(",
+            "CBI",
+            ")",
+            ",",
+            "told",
+            "a",
+            "seminar",
+            "on",
+            "human",
+            "trafficking",
+            ",",
+            "that",
+            "India",
+            "occupied",
+            "a",
+            "\"",
+            "unique",
+            "position",
+            "\"",
+            "as",
+            "what",
+            "he",
+            "called",
+            "a",
+            "source",
+            ",",
+            "transit",
+            "nation",
+            "and",
+            "destination",
+            "of",
+            "this",
+            "trade",
+            "."
+        ],
+        [
+            "India",
+            "'s",
+            "home",
+            "secretary",
+            "Madhukar",
+            "Gupta",
+            "remarked",
+            "that",
+            "at",
+            "least",
+            "100",
+            "million",
+            "people",
+            "were",
+            "involved",
+            "in",
+            "human",
+            "trafficking",
+            "in",
+            "India",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "number",
+            "of",
+            "trafficked",
+            "persons",
+            "is",
+            "difficult",
+            "to",
+            "determine",
+            "due",
+            "to",
+            "the",
+            "secrecy",
+            "and",
+            "clandestine",
+            "nature",
+            "of",
+            "the",
+            "crime",
+            ".",
+            "\""
+        ],
+        [
+            "However",
+            ",",
+            "studies",
+            "and",
+            "surveys",
+            "sponsored",
+            "by",
+            "the",
+            "ministry",
+            "of",
+            "women",
+            "and",
+            "child",
+            "development",
+            "estimate",
+            "that",
+            "there",
+            "are",
+            "about",
+            "three",
+            "million",
+            "prostitutes",
+            "in",
+            "the",
+            "country",
+            ",",
+            "of",
+            "which",
+            "an",
+            "estimated",
+            "40",
+            "percent",
+            "are",
+            "children",
+            ",",
+            "\"",
+            "a",
+            "CBI",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "Prostitution",
+            "in",
+            "pilgrim",
+            "towns",
+            ",",
+            "exploitation",
+            "through",
+            "sex",
+            "tourism",
+            "and",
+            "pedophilia",
+            "are",
+            "some",
+            "of",
+            "the",
+            "\"",
+            "alarming",
+            "trends",
+            "\"",
+            "that",
+            "have",
+            "emerged",
+            "in",
+            "recent",
+            "years",
+            "in",
+            "India",
+            ",",
+            "it",
+            "noted",
+            "."
+        ],
+        [
+            "Authorities",
+            "believe",
+            "90",
+            "percent",
+            "of",
+            "human",
+            "trafficking",
+            "in",
+            "India",
+            "is",
+            "\"",
+            "intra-country",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

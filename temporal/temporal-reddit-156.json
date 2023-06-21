@@ -1,0 +1,296 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "been having",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feels",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m about halfway",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feels",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m also losing",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m struggling",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m planning",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-156",
+    "sents": [
+        [
+            "I",
+            "'ve",
+            "been",
+            "having",
+            "some",
+            "problems",
+            "with",
+            "motivation",
+            "lately",
+            "because",
+            "it",
+            "feels",
+            "like",
+            "all",
+            "I",
+            "'m",
+            "doing",
+            "is",
+            "running",
+            "batches",
+            "of",
+            "code",
+            "and",
+            "sending",
+            "them",
+            "off",
+            "to",
+            "my",
+            "supervisor",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "about",
+            "halfway",
+            "through",
+            "my",
+            "first",
+            "year",
+            "as",
+            "a",
+            "PhD",
+            "student",
+            "and",
+            "I",
+            "'d",
+            "really",
+            "hoped",
+            "it",
+            "'d",
+            "be",
+            "more",
+            "hands",
+            "on",
+            "than",
+            "this",
+            ",",
+            "I",
+            "want",
+            "to",
+            "do",
+            "more",
+            "work",
+            "but",
+            "it",
+            "feels",
+            "like",
+            "my",
+            "supervisor",
+            "is",
+            "holding",
+            "it",
+            "back",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "also",
+            "losing",
+            "motivation",
+            "because",
+            "covid",
+            "restrictions",
+            "and",
+            "the",
+            "general",
+            "feel",
+            "of",
+            "the",
+            "office",
+            "make",
+            "it",
+            "a",
+            "bit",
+            "unpleasant",
+            "to",
+            "work",
+            "in",
+            "."
+        ],
+        [
+            "All",
+            "in",
+            "all",
+            "I",
+            "'m",
+            "struggling",
+            "to",
+            "keep",
+            "going",
+            "and",
+            "I",
+            "'m",
+            "planning",
+            "to",
+            "speak",
+            "to",
+            "my",
+            "supervisor",
+            "about",
+            "this",
+            "to",
+            "see",
+            "if",
+            "there",
+            "'s",
+            "a",
+            "way",
+            "for",
+            "me",
+            "to",
+            "get",
+            "back",
+            "on",
+            "track",
+            "."
+        ]
+    ]
+}

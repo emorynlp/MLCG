@@ -1,0 +1,386 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "five oil tankers",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Armed militants",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "four gunmen",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "oil",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Azam Shahwani",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Shahwani",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a convey of five tankers",
+                "pos": [
+                    20,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "were heading toward",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Afghanistan",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Afghanistan",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "oil",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two oil tankers",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "two of the tankers",
+                "pos": [
+                    6,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "five tankers",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the oil tankers",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the tankers",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "torched",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "opened fire",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "were destroyed",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "the attack",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Shahwani",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Shahwani",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this report",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "post"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-03",
+    "sents": [
+        [
+            "Armed",
+            "militants",
+            "in",
+            "southwest",
+            "Pakistan",
+            "torched",
+            "two",
+            "oil",
+            "tankers",
+            "carrying",
+            "fuel",
+            "for",
+            "U.S.",
+            "and",
+            "NATO",
+            "forces",
+            "in",
+            "Afghanistan",
+            ",",
+            "a",
+            "government",
+            "official",
+            "told",
+            "CNN",
+            "."
+        ],
+        [
+            "Azam",
+            "Shahwani",
+            ",",
+            "a",
+            "senior",
+            "government",
+            "official",
+            "in",
+            "Baluchistan",
+            "province",
+            ",",
+            "said",
+            "four",
+            "gunmen",
+            "riding",
+            "on",
+            "motorcycles",
+            "opened",
+            "fire",
+            "on",
+            "a",
+            "convey",
+            "of",
+            "five",
+            "oil",
+            "tankers",
+            "in",
+            "the",
+            "area",
+            "of",
+            "Mithri",
+            ",",
+            "a",
+            "village",
+            "in",
+            "the",
+            "district",
+            "of",
+            "Bolan",
+            "."
+        ],
+        [
+            "Shahwani",
+            "said",
+            "the",
+            "oil",
+            "tankers",
+            "were",
+            "heading",
+            "toward",
+            "Afghanistan",
+            "."
+        ],
+        [
+            "No",
+            "one",
+            "was",
+            "injured",
+            ",",
+            "but",
+            "two",
+            "of",
+            "the",
+            "oil",
+            "tankers",
+            "were",
+            "destroyed",
+            ",",
+            "Shahwani",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "could",
+            "see",
+            "roaring",
+            "flames",
+            "of",
+            "fire",
+            "even",
+            "three",
+            "hours",
+            "after",
+            "the",
+            "attack",
+            ",",
+            "\"",
+            "Shahwani",
+            "said",
+            "."
+        ],
+        [
+            "Journalist",
+            "Nasir",
+            "Habib",
+            "contributed",
+            "to",
+            "this",
+            "report",
+            "."
+        ]
+    ]
+}

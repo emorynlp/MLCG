@@ -1,0 +1,478 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I acted as the on - the - field captain",
+                "pos": [
+                    7,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "my soccer team",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "was not given the \" official \" name of captain",
+                "pos": [
+                    28,
+                    38
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the coach really did not like me",
+                "pos": [
+                    39,
+                    46
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "whenever",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I would call him out",
+                "pos": [
+                    18,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he would get mad",
+                "pos": [
+                    23,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he later quit",
+                "pos": [
+                    28,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "due to",
+                "pos": [
+                    31,
+                    33
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "bad results with the team",
+                "pos": [
+                    33,
+                    38
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he fucked a players mom and",
+                "pos": [
+                    40,
+                    46
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "threatened to take away the kids playing time",
+                "pos": [
+                    46,
+                    54
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    54,
+                    55
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "she did n't continue",
+                "pos": [
+                    55,
+                    59
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I was the best \" Captain \" on the team",
+                "pos": [
+                    2,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "as",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "the official captains would n't lead for crap and were super negative all the time",
+                "pos": [
+                    14,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 17,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 19,
+            "t": 18,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-014",
+    "sents": [
+        [
+            "So",
+            "basically",
+            "I",
+            "want",
+            "to",
+            "say",
+            "that",
+            "I",
+            "acted",
+            "as",
+            "the",
+            "on",
+            "-",
+            "the",
+            "-",
+            "field",
+            "captain",
+            "for",
+            "my",
+            "soccer",
+            "team",
+            "my",
+            "sophomore",
+            "and",
+            "junior",
+            "year",
+            ",",
+            "but",
+            "was",
+            "not",
+            "given",
+            "the",
+            "\"",
+            "official",
+            "\"",
+            "name",
+            "of",
+            "captain",
+            "because",
+            "the",
+            "coach",
+            "really",
+            "did",
+            "not",
+            "like",
+            "me",
+            "."
+        ],
+        [
+            "(",
+            "He",
+            "would",
+            "goof",
+            "off",
+            "all",
+            "practice",
+            "and",
+            "not",
+            "help",
+            "our",
+            "team",
+            ",",
+            "we",
+            "did",
+            "poorly",
+            "and",
+            "whenever",
+            "I",
+            "would",
+            "call",
+            "him",
+            "out",
+            "he",
+            "would",
+            "get",
+            "mad",
+            ",",
+            "he",
+            "later",
+            "quit",
+            "due",
+            "to",
+            "bad",
+            "results",
+            "with",
+            "the",
+            "team",
+            "and",
+            "because",
+            "he",
+            "fucked",
+            "a",
+            "players",
+            "mom",
+            "and",
+            "threatened",
+            "to",
+            "take",
+            "away",
+            "the",
+            "kids",
+            "playing",
+            "time",
+            "if",
+            "she",
+            "did",
+            "n't",
+            "continue",
+            "...",
+            ")"
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "Where",
+            ",",
+            "if",
+            "at",
+            "all",
+            ",",
+            "should",
+            "I",
+            "put",
+            "this",
+            "information",
+            "."
+        ],
+        [
+            "Because",
+            "truly",
+            "I",
+            "was",
+            "the",
+            "best",
+            "\"",
+            "Captain",
+            "\"",
+            "on",
+            "the",
+            "team",
+            ",",
+            "as",
+            "the",
+            "official",
+            "captains",
+            "would",
+            "n't",
+            "lead",
+            "for",
+            "crap",
+            "and",
+            "were",
+            "super",
+            "negative",
+            "all",
+            "the",
+            "time",
+            "."
+        ],
+        [
+            "Everyone",
+            "agreed",
+            "I",
+            "should",
+            "'ve",
+            "been",
+            "captain",
+            "lol"
+        ]
+    ]
+}

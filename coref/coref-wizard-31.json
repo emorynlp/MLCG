@@ -1,0 +1,246 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a great ditch",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "a very wide ditch",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the travelers",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-wizard-31",
+    "sents": [
+        [
+            "This",
+            "was",
+            "to",
+            "be",
+            "an",
+            "eventful",
+            "day",
+            "for",
+            "the",
+            "travelers",
+            "."
+        ],
+        [
+            "They",
+            "had",
+            "hardly",
+            "been",
+            "walking",
+            "an",
+            "hour",
+            "when",
+            "they",
+            "saw",
+            "before",
+            "them",
+            "a",
+            "great",
+            "ditch",
+            "that",
+            "crossed",
+            "the",
+            "road",
+            "and",
+            "divided",
+            "the",
+            "forest",
+            "as",
+            "far",
+            "as",
+            "they",
+            "could",
+            "see",
+            "on",
+            "either",
+            "side",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "a",
+            "very",
+            "wide",
+            "ditch",
+            ",",
+            "and",
+            "when",
+            "they",
+            "crept",
+            "up",
+            "to",
+            "the",
+            "edge",
+            "and",
+            "looked",
+            "into",
+            "it",
+            "they",
+            "could",
+            "see",
+            "it",
+            "was",
+            "also",
+            "very",
+            "deep",
+            ",",
+            "and",
+            "there",
+            "were",
+            "many",
+            "big",
+            ",",
+            "jagged",
+            "rocks",
+            "at",
+            "the",
+            "bottom",
+            "."
+        ],
+        [
+            "The",
+            "sides",
+            "were",
+            "so",
+            "steep",
+            "that",
+            "none",
+            "of",
+            "them",
+            "could",
+            "climb",
+            "down",
+            ",",
+            "and",
+            "for",
+            "a",
+            "moment",
+            "it",
+            "seemed",
+            "that",
+            "their",
+            "journey",
+            "must",
+            "end",
+            "."
+        ]
+    ]
+}

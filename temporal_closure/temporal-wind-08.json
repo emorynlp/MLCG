@@ -1,0 +1,475 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was quiet",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sculling",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "whisper",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "jumped up",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seized",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was gazing out",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saying",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was taken",
+                "pos": [
+                    31,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fell backwards off",
+                "pos": [
+                    36,
+                    39
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took",
+                "pos": [
+                    56,
+                    57
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "grabbed",
+                "pos": [
+                    60,
+                    61
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-08",
+    "sents": [
+        [
+            "The",
+            "Mole",
+            "was",
+            "quiet",
+            "for",
+            "a",
+            "minute",
+            "or",
+            "two",
+            "."
+        ],
+        [
+            "But",
+            "he",
+            "began",
+            "to",
+            "feel",
+            "more",
+            "and",
+            "more",
+            "jealous",
+            "of",
+            "Rat",
+            ",",
+            "sculling",
+            "so",
+            "strongly",
+            "and",
+            "so",
+            "easily",
+            "along",
+            ",",
+            "and",
+            "his",
+            "pride",
+            "began",
+            "to",
+            "whisper",
+            "that",
+            "he",
+            "could",
+            "do",
+            "it",
+            "every",
+            "bit",
+            "as",
+            "well",
+            "."
+        ],
+        [
+            "He",
+            "jumped",
+            "up",
+            "and",
+            "seized",
+            "the",
+            "sculls",
+            ",",
+            "so",
+            "suddenly",
+            ",",
+            "that",
+            "the",
+            "Rat",
+            ",",
+            "who",
+            "was",
+            "gazing",
+            "out",
+            "over",
+            "the",
+            "water",
+            "and",
+            "saying",
+            "more",
+            "poetry",
+            "-",
+            "things",
+            "to",
+            "himself",
+            ",",
+            "was",
+            "taken",
+            "by",
+            "surprise",
+            "and",
+            "fell",
+            "backwards",
+            "off",
+            "his",
+            "seat",
+            "with",
+            "his",
+            "legs",
+            "in",
+            "the",
+            "air",
+            "for",
+            "the",
+            "second",
+            "time",
+            ",",
+            "while",
+            "the",
+            "triumphant",
+            "Mole",
+            "took",
+            "his",
+            "place",
+            "and",
+            "grabbed",
+            "the",
+            "sculls",
+            "with",
+            "entire",
+            "confidence",
+            "."
+        ]
+    ]
+}

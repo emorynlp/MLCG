@@ -1,0 +1,584 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "brought",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "helped",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "swung out",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "begged",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was very pleased",
+                "pos": [
+                    19,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "indulge",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sprawl",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shook out",
+                "pos": [
+                    42,
+                    44
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "spread",
+                "pos": [
+                    49,
+                    50
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took out",
+                "pos": [
+                    52,
+                    54
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "arranged",
+                "pos": [
+                    62,
+                    63
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gasping",
+                "pos": [
+                    70,
+                    71
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was ready",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was indeed very glad",
+                "pos": [
+                    22,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "obey",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "started",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been through",
+                "pos": [
+                    62,
+                    64
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    74,
+                    75
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 20,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-06",
+    "sents": [
+        [
+            "The",
+            "Rat",
+            "brought",
+            "the",
+            "boat",
+            "alongside",
+            "the",
+            "bank",
+            ",",
+            "made",
+            "her",
+            "fast",
+            ",",
+            "helped",
+            "the",
+            "still",
+            "awkward",
+            "Mole",
+            "safely",
+            "ashore",
+            ",",
+            "and",
+            "swung",
+            "out",
+            "the",
+            "luncheon",
+            "-",
+            "basket",
+            "."
+        ],
+        [
+            "The",
+            "Mole",
+            "begged",
+            "as",
+            "a",
+            "favour",
+            "to",
+            "be",
+            "allowed",
+            "to",
+            "unpack",
+            "it",
+            "all",
+            "by",
+            "himself",
+            ";",
+            "and",
+            "the",
+            "Rat",
+            "was",
+            "very",
+            "pleased",
+            "to",
+            "indulge",
+            "him",
+            ",",
+            "and",
+            "to",
+            "sprawl",
+            "at",
+            "full",
+            "length",
+            "on",
+            "the",
+            "grass",
+            "and",
+            "rest",
+            ",",
+            "while",
+            "his",
+            "excited",
+            "friend",
+            "shook",
+            "out",
+            "the",
+            "table",
+            "-",
+            "cloth",
+            "and",
+            "spread",
+            "it",
+            ",",
+            "took",
+            "out",
+            "all",
+            "the",
+            "mysterious",
+            "packets",
+            "one",
+            "by",
+            "one",
+            "and",
+            "arranged",
+            "their",
+            "contents",
+            "in",
+            "due",
+            "order",
+            ",",
+            "still",
+            "gasping",
+            ",",
+            "\"",
+            "O",
+            "my",
+            "!",
+            "O",
+            "my",
+            "!",
+            "\"",
+            "at",
+            "each",
+            "fresh",
+            "revelation",
+            "."
+        ],
+        [
+            "When",
+            "all",
+            "was",
+            "ready",
+            ",",
+            "the",
+            "Rat",
+            "said",
+            ",",
+            "\"",
+            "Now",
+            ",",
+            "pitch",
+            "in",
+            ",",
+            "old",
+            "fellow",
+            "!",
+            "\"",
+            "and",
+            "the",
+            "Mole",
+            "was",
+            "indeed",
+            "very",
+            "glad",
+            "to",
+            "obey",
+            ",",
+            "for",
+            "he",
+            "had",
+            "started",
+            "his",
+            "spring",
+            "-",
+            "cleaning",
+            "at",
+            "a",
+            "very",
+            "early",
+            "hour",
+            "that",
+            "morning",
+            ",",
+            "as",
+            "people",
+            "WILL",
+            "do",
+            ",",
+            "and",
+            "had",
+            "not",
+            "paused",
+            "for",
+            "bite",
+            "or",
+            "sup",
+            ";",
+            "and",
+            "he",
+            "had",
+            "been",
+            "through",
+            "a",
+            "very",
+            "great",
+            "deal",
+            "since",
+            "that",
+            "distant",
+            "time",
+            "which",
+            "now",
+            "seemed",
+            "so",
+            "many",
+            "days",
+            "ago",
+            "."
+        ]
+    ]
+}

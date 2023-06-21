@@ -1,0 +1,420 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "cold the water was",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felt",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sang",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went down",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "rose",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "coughing",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "spluttering",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "black was",
+                "pos": [
+                    33,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felt",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gripped",
+                "pos": [
+                    48,
+                    49
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was the Rat",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was evidently laughing",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-09",
+    "sents": [
+        [
+            "O",
+            "my",
+            ",",
+            "how",
+            "cold",
+            "the",
+            "water",
+            "was",
+            ",",
+            "and",
+            "O",
+            ",",
+            "how",
+            "VERY",
+            "wet",
+            "it",
+            "felt",
+            "."
+        ],
+        [
+            "How",
+            "it",
+            "sang",
+            "in",
+            "his",
+            "ears",
+            "as",
+            "he",
+            "went",
+            "down",
+            ",",
+            "down",
+            ",",
+            "down",
+            "!",
+            "How",
+            "bright",
+            "and",
+            "welcome",
+            "the",
+            "sun",
+            "looked",
+            "as",
+            "he",
+            "rose",
+            "to",
+            "the",
+            "surface",
+            "coughing",
+            "and",
+            "spluttering",
+            "!",
+            "How",
+            "black",
+            "was",
+            "his",
+            "despair",
+            "when",
+            "he",
+            "felt",
+            "himself",
+            "sinking",
+            "again",
+            "!",
+            "Then",
+            "a",
+            "firm",
+            "paw",
+            "gripped",
+            "him",
+            "by",
+            "the",
+            "back",
+            "of",
+            "his",
+            "neck",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "the",
+            "Rat",
+            ",",
+            "and",
+            "he",
+            "was",
+            "evidently",
+            "laughing",
+            "\u2014",
+            "the",
+            "Mole",
+            "could",
+            "FEEL",
+            "him",
+            "laughing",
+            ",",
+            "right",
+            "down",
+            "his",
+            "arm",
+            "and",
+            "through",
+            "his",
+            "paw",
+            ",",
+            "and",
+            "so",
+            "into",
+            "his",
+            "\u2014",
+            "the",
+            "Mole",
+            "'s",
+            "\u2014",
+            "neck",
+            "."
+        ]
+    ]
+}

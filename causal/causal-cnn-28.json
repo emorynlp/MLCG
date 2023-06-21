@@ -1,0 +1,307 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a kidnapping cell",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "responsible for",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "kidnapping , raping and torturing victims along the U.S. - Mexico border",
+                "pos": [
+                    16,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The danger has grown",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "as",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "Mexico 's drug gangs expand their reach",
+                "pos": [
+                    5,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-28",
+    "sents": [
+        [
+            "Authorities",
+            "have",
+            "arrested",
+            "a",
+            "man",
+            "they",
+            "say",
+            "was",
+            "the",
+            "leader",
+            "of",
+            "a",
+            "kidnapping",
+            "cell",
+            "responsible",
+            "for",
+            "kidnapping",
+            ",",
+            "raping",
+            "and",
+            "torturing",
+            "victims",
+            "along",
+            "the",
+            "U.S.",
+            "-",
+            "Mexico",
+            "border",
+            "."
+        ],
+        [
+            "Serafin",
+            "Medina",
+            "-",
+            "Angel",
+            "was",
+            "arrested",
+            "at",
+            "his",
+            "home",
+            "in",
+            "Tijuana",
+            ",",
+            "Mexico",
+            ",",
+            "on",
+            "September",
+            "1",
+            ",",
+            "according",
+            "to",
+            "a",
+            "Monday",
+            "statement",
+            "from",
+            "U.S.",
+            "Customs",
+            "and",
+            "Border",
+            "Protection",
+            "(",
+            "C",
+            "BP)",
+            "."
+        ],
+        [
+            "He",
+            "is",
+            "accused",
+            "of",
+            "kidnapping",
+            "Mexican",
+            "citizens",
+            "attempting",
+            "to",
+            "cross",
+            "into",
+            "the",
+            "United",
+            "States",
+            "from",
+            "Mexico",
+            "."
+        ],
+        [
+            "His",
+            "victims",
+            "were",
+            "tortured",
+            "and",
+            "raped",
+            "while",
+            "accomplices",
+            "tried",
+            "to",
+            "collect",
+            "ransoms",
+            "from",
+            "their",
+            "families",
+            ",",
+            "CBP",
+            "said",
+            "."
+        ],
+        [
+            "Medina",
+            "-",
+            "Angel",
+            "was",
+            "arraigned",
+            "last",
+            "week",
+            "and",
+            "charged",
+            "with",
+            "three",
+            "counts",
+            "of",
+            "kidnapping",
+            ",",
+            "the",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "Many",
+            "migrants",
+            "moving",
+            "through",
+            "Mexico",
+            "on",
+            "their",
+            "way",
+            "to",
+            "the",
+            "United",
+            "States",
+            "are",
+            "victims",
+            "of",
+            "violence",
+            "along",
+            "the",
+            "border",
+            ",",
+            "but",
+            "the",
+            "journey",
+            "is",
+            "perilous",
+            "from",
+            "the",
+            "moment",
+            "it",
+            "begins",
+            "."
+        ],
+        [
+            "The",
+            "danger",
+            "has",
+            "grown",
+            "as",
+            "Mexico",
+            "'s",
+            "drug",
+            "gangs",
+            "expand",
+            "their",
+            "reach",
+            "."
+        ],
+        [
+            "Slayings",
+            "frighten",
+            "Ciudad",
+            "Juarez",
+            "bus",
+            "drivers",
+            ",",
+            "commuters",
+            "Mexico",
+            "arrests",
+            "'",
+            "Ugly",
+            "Betty",
+            ",",
+            "'",
+            "alleged",
+            "leader",
+            "of",
+            "New",
+            "Juarez",
+            "Cartel",
+            "CNN",
+            "'s",
+            "Catherine",
+            "E.",
+            "Shoichet",
+            "contributed",
+            "to",
+            "this",
+            "report",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "acknowledged",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "declared",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "scarred",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "attracted",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "published",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "travelling",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "refused",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "published",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "left",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "repeated",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "done",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "broke",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-08",
+    "sents": [
+        [
+            "Secretary",
+            "of",
+            "State",
+            "George",
+            "Shultz",
+            "acknowledged",
+            "failings",
+            "in",
+            "the",
+            "Iran",
+            "arms",
+            "affair",
+            "but",
+            "declared",
+            "he",
+            "would",
+            "not",
+            "resign",
+            "."
+        ],
+        [
+            "His",
+            "role",
+            "in",
+            "the",
+            "scandal",
+            "that",
+            "has",
+            "scarred",
+            "the",
+            "Reagan",
+            "administration",
+            "attracted",
+            "harsh",
+            "criticism",
+            "from",
+            "the",
+            "Tower",
+            "commission",
+            "in",
+            "its",
+            "report",
+            "on",
+            "the",
+            "affair",
+            "published",
+            "today",
+            "."
+        ],
+        [
+            "Shultz",
+            ",",
+            "travelling",
+            "to",
+            "China",
+            "for",
+            "a",
+            "week",
+            "-",
+            "long",
+            "visit",
+            ",",
+            "refused",
+            "to",
+            "comment",
+            "directly",
+            "on",
+            "the",
+            "report",
+            ",",
+            "published",
+            "after",
+            "he",
+            "had",
+            "left",
+            "Washington",
+            "."
+        ],
+        [
+            "But",
+            "he",
+            "repeated",
+            "--",
+            "as",
+            "he",
+            "has",
+            "done",
+            "since",
+            "the",
+            "crisis",
+            "broke",
+            "last",
+            "November",
+            "--",
+            "that",
+            "he",
+            "was",
+            "not",
+            "going",
+            "to",
+            "resign",
+            "."
+        ],
+        [
+            "\"",
+            "You",
+            "can",
+            "wipe",
+            "that",
+            "off",
+            "your",
+            "slate",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "my English teacher",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "use write letters to our future senior selves",
+                "pos": [
+                    8,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "My friends and I got kick",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "out of",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "reading it",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "two schools that were arbitrarily picked",
+                "pos": [
+                    24,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they sounded cool",
+                "pos": [
+                    31,
+                    34
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-061",
+    "sents": [
+        [
+            "So",
+            "in",
+            "8th",
+            "grade",
+            "my",
+            "English",
+            "teacher",
+            "made",
+            "use",
+            "write",
+            "letters",
+            "to",
+            "our",
+            "future",
+            "senior",
+            "selves",
+            ",",
+            "and",
+            "I",
+            "recently",
+            "received",
+            "mine",
+            "!"
+        ],
+        [
+            "Part",
+            "of",
+            "the",
+            "assignment",
+            "was",
+            "to",
+            "list",
+            "predictions",
+            "for",
+            "the",
+            "future",
+            ",",
+            "including",
+            "where",
+            "you",
+            "think",
+            "you",
+            "\u2019re",
+            "going",
+            "to",
+            "college",
+            "."
+        ],
+        [
+            "I",
+            "had",
+            "completely",
+            "forgotten",
+            "what",
+            "I",
+            "had",
+            "written",
+            "4",
+            "years",
+            "ago",
+            ",",
+            "but",
+            "I",
+            "was",
+            "so",
+            "surprised",
+            "to",
+            "see",
+            "how",
+            "accurate",
+            "it",
+            "was",
+            "."
+        ],
+        [
+            "My",
+            "friends",
+            "and",
+            "I",
+            "got",
+            "kick",
+            "out",
+            "of",
+            "reading",
+            "it",
+            "."
+        ],
+        [
+            "My",
+            "8th",
+            "grade",
+            "self",
+            "claimed",
+            ",",
+            "with",
+            "a",
+            "decent",
+            "amount",
+            "of",
+            "certainty",
+            ",",
+            "that",
+            "I",
+            "would",
+            "either",
+            "be",
+            "going",
+            "to",
+            "Cornell",
+            "or",
+            "Yale",
+            ",",
+            "two",
+            "schools",
+            "that",
+            "were",
+            "arbitrarily",
+            "picked",
+            "because",
+            "they",
+            "sounded",
+            "cool",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "now",
+            "extremely",
+            "excited",
+            "to",
+            "say",
+            "that",
+            "I",
+            "have",
+            "been",
+            "accepted",
+            "to",
+            "Yale",
+            "!"
+        ],
+        [
+            "It",
+            "\u2019s",
+            "crazy",
+            "to",
+            "think",
+            "that",
+            "my",
+            "extremely",
+            "overconfident",
+            "\u201c",
+            "prediction",
+            ",",
+            "\u201d",
+            "more",
+            "like",
+            "crapshot",
+            ",",
+            "actually",
+            "came",
+            "true",
+            "."
+        ],
+        [
+            "I",
+            "thought",
+            "that",
+            "you",
+            "guys",
+            "would",
+            "enjoy",
+            "this",
+            "wack",
+            "story",
+            "Disclaimer",
+            ":",
+            "I",
+            "\u2019m",
+            "not",
+            "a",
+            "legacy",
+            "nor",
+            "have",
+            "my",
+            "parents",
+            "donated",
+            "a",
+            "building"
+        ]
+    ]
+}

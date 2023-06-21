@@ -1,0 +1,316 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be to answer",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "read",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ARE BASICALLY THE SAME",
+                "pos": [
+                    44,
+                    48
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "takes",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feels",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-063",
+    "sents": [
+        [
+            "Like",
+            "I",
+            "know",
+            "it",
+            "'s",
+            "to",
+            "get",
+            "us",
+            "to",
+            "engage",
+            "with",
+            "each",
+            "other",
+            "like",
+            "we",
+            "would",
+            "usually",
+            "be",
+            "forced",
+            "to",
+            "do",
+            "in",
+            "class",
+            "but",
+            "come",
+            "on",
+            "."
+        ],
+        [
+            "The",
+            "discussion",
+            "post",
+            "will",
+            "be",
+            "to",
+            "answer",
+            "questions",
+            "from",
+            "the",
+            "chapter",
+            "we",
+            "read",
+            ",",
+            "and",
+            "then",
+            "literally",
+            "every",
+            "reply",
+            "is",
+            "just",
+            ",",
+            "\"",
+            "I",
+            "like",
+            "how",
+            "you",
+            "answered",
+            "this",
+            ",",
+            "this",
+            "is",
+            "a",
+            "good",
+            "answer",
+            ",",
+            "good",
+            "job",
+            "\"",
+            "because",
+            "ALL",
+            "OF",
+            "OUR",
+            "ANSWERS",
+            "ARE",
+            "BASICALLY",
+            "THE",
+            "SAME",
+            "."
+        ],
+        [
+            "It",
+            "takes",
+            "like",
+            "2",
+            "brain",
+            "cells",
+            "to",
+            "come",
+            "up",
+            "with",
+            "a",
+            "reply",
+            "to",
+            "another",
+            "student",
+            "and",
+            "it",
+            "just",
+            "feels",
+            "like",
+            "a",
+            "waste",
+            "of",
+            "time",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "Maybe",
+            "it",
+            "'d",
+            "be",
+            "better",
+            "if",
+            "we",
+            "were",
+            "allowed",
+            "some",
+            "creative",
+            "freedom",
+            "in",
+            "our",
+            "posts",
+            "but",
+            "whatever",
+            "."
+        ]
+    ]
+}

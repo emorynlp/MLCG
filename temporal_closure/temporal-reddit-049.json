@@ -1,0 +1,814 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m a 4.0 student",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "received",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was incredibly distressed",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "worried",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "emailed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asking",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "received",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "responded",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a written take home final",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "drove",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "turned it in",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bet",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "remember",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was there",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "emailed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saying",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was there",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "handed",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "followed up",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is why",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Im totally fuming",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 20,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 20,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 20,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 20,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 20,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 21,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 21,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 21,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 21,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 21,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 17,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-049",
+    "sents": [
+        [
+            "So",
+            "I",
+            "\u2019m",
+            "a",
+            "4.0",
+            "student",
+            "in",
+            "uni",
+            "."
+        ],
+        [
+            "I",
+            "received",
+            "a",
+            "D",
+            "on",
+            "my",
+            "final",
+            "grade",
+            "for",
+            "an",
+            "anthropology",
+            "class",
+            ",",
+            "and",
+            "was",
+            "incredibly",
+            "distressed",
+            "and",
+            "worried",
+            "how",
+            "this",
+            "could",
+            "\u2019ve",
+            "happened",
+            "."
+        ],
+        [
+            "I",
+            "immediately",
+            "emailed",
+            "my",
+            "professor",
+            "asking",
+            "why",
+            "I",
+            "received",
+            "this",
+            "grade",
+            ",",
+            "a",
+            "week",
+            "later",
+            "he",
+            "responded",
+            "that",
+            "I",
+            "never",
+            "handed",
+            "in",
+            "the",
+            "final",
+            "!"
+        ],
+        [
+            "It",
+            "was",
+            "a",
+            "written",
+            "take",
+            "home",
+            "final",
+            ",",
+            "I",
+            "drove",
+            "all",
+            "the",
+            "way",
+            "to",
+            "school",
+            "and",
+            "turned",
+            "it",
+            "in",
+            "personally",
+            "to",
+            "him",
+            "in",
+            "his",
+            "office",
+            "on",
+            "the",
+            "due",
+            "date",
+            ",",
+            "per",
+            "his",
+            "instructions",
+            "."
+        ],
+        [
+            "I",
+            "bet",
+            "if",
+            "they",
+            "checked",
+            "the",
+            "cameras",
+            "they",
+            "\u2019d",
+            "see",
+            "me",
+            "walking",
+            "to",
+            "his",
+            "office",
+            ",",
+            "as",
+            "I",
+            "remember",
+            "the",
+            "day",
+            "and",
+            "time",
+            "I",
+            "was",
+            "there",
+            "."
+        ],
+        [
+            "I",
+            "emailed",
+            "him",
+            "back",
+            "saying",
+            "I",
+            "was",
+            "there",
+            "and",
+            "handed",
+            "it",
+            "to",
+            "him",
+            "personally",
+            "."
+        ],
+        [
+            "And",
+            "followed",
+            "up",
+            "with",
+            "an",
+            "attachment",
+            "of",
+            "my",
+            "exam",
+            "."
+        ],
+        [
+            "Honestly",
+            "this",
+            "is",
+            "why",
+            "all",
+            "professors",
+            "should",
+            "utilize",
+            "online",
+            "submission",
+            "\ud83d\ude44",
+            "The",
+            "only",
+            "conclusive",
+            "thing",
+            "is",
+            "that",
+            "he",
+            "had",
+            "to",
+            "have",
+            "lost",
+            "my",
+            "final",
+            "exam",
+            "."
+        ],
+        [
+            "Im",
+            "totally",
+            "fuming",
+            "!"
+        ],
+        [
+            "What",
+            "should",
+            "I",
+            "do",
+            "if",
+            "he",
+            "refuses",
+            "to",
+            "go",
+            "back",
+            "and",
+            "look",
+            "for",
+            "my",
+            "exam",
+            "or",
+            "change",
+            "my",
+            "grade",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,418 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "men",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            },
+            {
+                "name": "People",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "a Vase of Sweet Herbs",
+                "pos": [
+                    5,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The Vase",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    50,
+                    51
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A DRUM",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-09",
+    "sents": [
+        [
+            "A",
+            "DRUM",
+            "once",
+            "boasted",
+            "to",
+            "a",
+            "Vase",
+            "of",
+            "Sweet",
+            "Herbs",
+            "in",
+            "this",
+            "way",
+            ":",
+            "\u201c",
+            "Listen",
+            "to",
+            "me",
+            "!"
+        ],
+        [
+            "My",
+            "voice",
+            "is",
+            "loud",
+            "and",
+            "can",
+            "be",
+            "heard",
+            "far",
+            "off",
+            "."
+        ],
+        [
+            "I",
+            "stir",
+            "the",
+            "hearts",
+            "of",
+            "men",
+            "so",
+            "that",
+            "when",
+            "they",
+            "hear",
+            "my",
+            "bold",
+            "roaring",
+            "they",
+            "march",
+            "out",
+            "bravely",
+            "to",
+            "battle",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Vase",
+            "spoke",
+            "no",
+            "words",
+            ",",
+            "but",
+            "gave",
+            "out",
+            "a",
+            "fine",
+            ",",
+            "sweet",
+            "perfume",
+            ",",
+            "which",
+            "filled",
+            "the",
+            "air",
+            "and",
+            "seemed",
+            "to",
+            "say",
+            ":",
+            "\u201c",
+            "I",
+            "can",
+            "not",
+            "speak",
+            ",",
+            "and",
+            "it",
+            "is",
+            "not",
+            "well",
+            "to",
+            "be",
+            "proud",
+            ",",
+            "but",
+            "I",
+            "am",
+            "full",
+            "of",
+            "good",
+            "things",
+            "that",
+            "are",
+            "hidden",
+            "within",
+            "me",
+            ",",
+            "and",
+            "that",
+            "gladly",
+            "come",
+            "forth",
+            "to",
+            "give",
+            "cheer",
+            "and",
+            "comfort",
+            "."
+        ],
+        [
+            "People",
+            "are",
+            "drawn",
+            "to",
+            "me",
+            "in",
+            "their",
+            "need",
+            ",",
+            "and",
+            "they",
+            "remember",
+            "me",
+            "afterward",
+            "with",
+            "gratitude",
+            "."
+        ],
+        [
+            "But",
+            "you",
+            "have",
+            "nothing",
+            "in",
+            "you",
+            "but",
+            "noise",
+            ",",
+            "and",
+            "you",
+            "must",
+            "be",
+            "struck",
+            "to",
+            "make",
+            "you",
+            "give",
+            "that",
+            "out",
+            "."
+        ],
+        [
+            "I",
+            "would",
+            "not",
+            "boast",
+            "so",
+            "much",
+            "if",
+            "I",
+            "were",
+            "you",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

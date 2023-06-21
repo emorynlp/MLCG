@@ -1,0 +1,210 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the U.S. sugar import quota",
+                "pos": [
+                    4,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The sugar import quota",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the 1987 sugar quota year",
+                "pos": [
+                    20,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the 1987 quota year",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Agriculture Department",
+                "pos": [
+                    37,
+                    40
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The department",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "cumulative imports",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "cumulative import",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-09",
+    "sents": [
+        [
+            "Sugar",
+            "imports",
+            "subject",
+            "to",
+            "the",
+            "U.S.",
+            "sugar",
+            "import",
+            "quota",
+            "during",
+            "the",
+            "week",
+            "ended",
+            "January",
+            "9",
+            ",",
+            "the",
+            "initial",
+            "week",
+            "of",
+            "the",
+            "1987",
+            "sugar",
+            "quota",
+            "year",
+            ",",
+            "totaled",
+            "5,988",
+            "short",
+            "tons",
+            "versus",
+            "46,254",
+            "tons",
+            "the",
+            "previous",
+            "week",
+            ",",
+            "the",
+            "Agriculture",
+            "Department",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "sugar",
+            "import",
+            "quota",
+            "for",
+            "the",
+            "1987",
+            "quota",
+            "year",
+            "(",
+            "January",
+            "-",
+            "December",
+            ")",
+            "has",
+            "been",
+            "set",
+            "at",
+            "1,001,430",
+            "short",
+            "tons",
+            "compared",
+            "with",
+            "1,850,000",
+            "tons",
+            "in",
+            "the",
+            "1986",
+            "quota",
+            "year",
+            ",",
+            "which",
+            "was",
+            "extended",
+            "three",
+            "months",
+            "to",
+            "December",
+            "31",
+            "."
+        ],
+        [
+            "The",
+            "department",
+            "said",
+            "the",
+            "Customs",
+            "Service",
+            "has",
+            "reported",
+            "that",
+            "weekly",
+            "and",
+            "cumulative",
+            "imports",
+            "are",
+            "reported",
+            "on",
+            "an",
+            "actual",
+            "weight",
+            "basis",
+            "and",
+            "when",
+            "final",
+            "polarizations",
+            "are",
+            "received",
+            ",",
+            "cumulative",
+            "import",
+            "data",
+            "are",
+            "adjusted",
+            "accordingly",
+            "."
+        ]
+    ]
+}

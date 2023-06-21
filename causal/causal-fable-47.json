@@ -1,0 +1,314 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The leaves were so large and the flowers and fruit so fair",
+                "pos": [
+                    0,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the Gourd , comparing them with the slender needles of the Pine , had the assurance to think itself of greater value in the comparison",
+                "pos": [
+                    13,
+                    38
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "your race is put to the proof",
+                "pos": [
+                    2,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the first blight or frost is sure to bring down that pride of yours",
+                "pos": [
+                    10,
+                    24
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-47",
+    "sents": [
+        [
+            "A",
+            "GOURD",
+            "was",
+            "once",
+            "planted",
+            "close",
+            "beside",
+            "a",
+            "large",
+            "and",
+            "noble",
+            "Pine",
+            "Tree",
+            "."
+        ],
+        [
+            "The",
+            "season",
+            "was",
+            "kindly",
+            ",",
+            "and",
+            "the",
+            "Gourd",
+            "shot",
+            "itself",
+            "up",
+            "in",
+            "a",
+            "short",
+            "time",
+            ",",
+            "climbing",
+            "by",
+            "the",
+            "boughs",
+            "and",
+            "twining",
+            "about",
+            "them",
+            ",",
+            "till",
+            "it",
+            "covered",
+            "and",
+            "overtopped",
+            "the",
+            "Tree",
+            "itself",
+            "."
+        ],
+        [
+            "The",
+            "leaves",
+            "were",
+            "so",
+            "large",
+            "and",
+            "the",
+            "flowers",
+            "and",
+            "fruit",
+            "so",
+            "fair",
+            "that",
+            "the",
+            "Gourd",
+            ",",
+            "comparing",
+            "them",
+            "with",
+            "the",
+            "slender",
+            "needles",
+            "of",
+            "the",
+            "Pine",
+            ",",
+            "had",
+            "the",
+            "assurance",
+            "to",
+            "think",
+            "itself",
+            "of",
+            "greater",
+            "value",
+            "in",
+            "the",
+            "comparison",
+            "."
+        ],
+        [
+            "\u201c",
+            "Why",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Gourd",
+            ",",
+            "\u201c",
+            "you",
+            "have",
+            "been",
+            "more",
+            "years",
+            "in",
+            "growing",
+            "to",
+            "this",
+            "stature",
+            "than",
+            "I",
+            "have",
+            "been",
+            "days",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "That",
+            "is",
+            "true",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Pine",
+            ";",
+            "\u201c",
+            "but",
+            "after",
+            "the",
+            "many",
+            "winters",
+            "and",
+            "summers",
+            "that",
+            "I",
+            "have",
+            "endured",
+            ",",
+            "the",
+            "many",
+            "blasting",
+            "colds",
+            "and",
+            "parching",
+            "heats",
+            ",",
+            "you",
+            "see",
+            "me",
+            "the",
+            "very",
+            "same",
+            "that",
+            "I",
+            "was",
+            "long",
+            "years",
+            "ago",
+            "."
+        ],
+        [
+            "Nothing",
+            "has",
+            "overcome",
+            "me",
+            "."
+        ],
+        [
+            "But",
+            "when",
+            "your",
+            "race",
+            "is",
+            "put",
+            "to",
+            "the",
+            "proof",
+            ",",
+            "the",
+            "first",
+            "blight",
+            "or",
+            "frost",
+            "is",
+            "sure",
+            "to",
+            "bring",
+            "down",
+            "that",
+            "pride",
+            "of",
+            "yours",
+            "."
+        ],
+        [
+            "In",
+            "an",
+            "hour",
+            "you",
+            "are",
+            "stripped",
+            "of",
+            "all",
+            "your",
+            "glory",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

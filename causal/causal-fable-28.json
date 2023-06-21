@@ -1,0 +1,407 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "THE Pigeons , terrified",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the frequent appearance of a Kite",
+                "pos": [
+                    5,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "asked the Hawk",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "help them",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you will take care of us",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "we shall feel safe",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "Pigeons",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the had",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "let",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "him come in",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they found that he slew more of them in a single day than the Kite could possibly pounce upon in a whole year",
+                "pos": [
+                    10,
+                    33
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 14,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-28",
+    "sents": [
+        [
+            "THE",
+            "Pigeons",
+            ",",
+            "terrified",
+            "by",
+            "the",
+            "frequent",
+            "appearance",
+            "of",
+            "a",
+            "Kite",
+            ",",
+            "asked",
+            "the",
+            "Hawk",
+            "to",
+            "help",
+            "them",
+            "."
+        ],
+        [
+            "\u201c",
+            "You",
+            "are",
+            "the",
+            "only",
+            "bird",
+            "of",
+            "our",
+            "acquaintance",
+            ",",
+            "\u201d",
+            "they",
+            "said",
+            ",",
+            "\u201c",
+            "that",
+            "can",
+            "protect",
+            "us",
+            "from",
+            "our",
+            "enemy",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "will",
+            "take",
+            "care",
+            "of",
+            "us",
+            ",",
+            "we",
+            "shall",
+            "feel",
+            "safe",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Hawk",
+            "at",
+            "once",
+            "consented",
+            ",",
+            "and",
+            "took",
+            "up",
+            "his",
+            "abode",
+            "in",
+            "the",
+            "dovecote",
+            "."
+        ],
+        [
+            "But",
+            "when",
+            "the",
+            "Pigeons",
+            "had",
+            "let",
+            "him",
+            "come",
+            "in",
+            ",",
+            "they",
+            "found",
+            "that",
+            "he",
+            "slew",
+            "more",
+            "of",
+            "them",
+            "in",
+            "a",
+            "single",
+            "day",
+            "than",
+            "the",
+            "Kite",
+            "could",
+            "possibly",
+            "pounce",
+            "upon",
+            "in",
+            "a",
+            "whole",
+            "year",
+            "."
+        ],
+        [
+            "The",
+            "oldest",
+            ",",
+            "wisest",
+            "pigeon",
+            "among",
+            "them",
+            "said",
+            ":",
+            "\u201c",
+            "When",
+            "we",
+            "are",
+            "in",
+            "trouble",
+            ",",
+            "we",
+            "must",
+            "not",
+            "forget",
+            "that",
+            "there",
+            "are",
+            "other",
+            "dangers",
+            "than",
+            "the",
+            "ones",
+            "we",
+            "are",
+            "suffering",
+            "from",
+            "."
+        ],
+        [
+            "There",
+            "is",
+            "a",
+            "proverb",
+            "among",
+            "men",
+            "that",
+            "tells",
+            "them",
+            "to",
+            "avoid",
+            "a",
+            "remedy",
+            "that",
+            "is",
+            "worse",
+            "than",
+            "the",
+            "disease",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

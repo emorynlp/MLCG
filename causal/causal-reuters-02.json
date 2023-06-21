@@ -1,0 +1,300 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "any decline",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "due to",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "expenses related to the acquisitions in the middle of the current quarter of seven licensees of Sealy Inc , as well as 82 pct of the outstanding capital stock of Sealy",
+                "pos": [
+                    9,
+                    40
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Because of",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "these acquisitions",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "first quarter sales will be substantially higher than last year 's 67.1 mln dlrs",
+                "pos": [
+                    8,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the delay",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "due to",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "administrative considerations , including conducting appraisals , in connection with the acquisitions",
+                "pos": [
+                    7,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-02",
+    "sents": [
+        [
+            "Ohio",
+            "Mattress",
+            "Co",
+            "said",
+            "its",
+            "first",
+            "quarter",
+            ",",
+            "ending",
+            "February",
+            "28",
+            ",",
+            "profits",
+            "may",
+            "be",
+            "below",
+            "the",
+            "2.4",
+            "mln",
+            "dlrs",
+            ",",
+            "or",
+            "15",
+            "cts",
+            "a",
+            "share",
+            ",",
+            "earned",
+            "in",
+            "the",
+            "first",
+            "quarter",
+            "of",
+            "fiscal",
+            "1986",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "said",
+            "any",
+            "decline",
+            "would",
+            "be",
+            "due",
+            "to",
+            "expenses",
+            "related",
+            "to",
+            "the",
+            "acquisitions",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "current",
+            "quarter",
+            "of",
+            "seven",
+            "licensees",
+            "of",
+            "Sealy",
+            "Inc",
+            ",",
+            "as",
+            "well",
+            "as",
+            "82",
+            "pct",
+            "of",
+            "the",
+            "outstanding",
+            "capital",
+            "stock",
+            "of",
+            "Sealy",
+            "."
+        ],
+        [
+            "Because",
+            "of",
+            "these",
+            "acquisitions",
+            ",",
+            "it",
+            "said",
+            ",",
+            "first",
+            "quarter",
+            "sales",
+            "will",
+            "be",
+            "substantially",
+            "higher",
+            "than",
+            "last",
+            "year",
+            "'s",
+            "67.1",
+            "mln",
+            "dlrs",
+            "."
+        ],
+        [
+            "Noting",
+            "that",
+            "it",
+            "typically",
+            "reports",
+            "first",
+            "quarter",
+            "results",
+            "in",
+            "late",
+            "march",
+            ",",
+            "said",
+            "the",
+            "report",
+            "is",
+            "likely",
+            "to",
+            "be",
+            "issued",
+            "in",
+            "early",
+            "April",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "the",
+            "delay",
+            "is",
+            "due",
+            "to",
+            "administrative",
+            "considerations",
+            ",",
+            "including",
+            "conducting",
+            "appraisals",
+            ",",
+            "in",
+            "connection",
+            "with",
+            "the",
+            "acquisitions",
+            "."
+        ]
+    ]
+}

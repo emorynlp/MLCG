@@ -1,0 +1,171 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "make",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "them dive",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-21",
+    "sents": [
+        [
+            "SOME",
+            "Boys",
+            ",",
+            "playing",
+            "near",
+            "a",
+            "pond",
+            ",",
+            "saw",
+            "a",
+            "number",
+            "of",
+            "Frogs",
+            "sporting",
+            "in",
+            "the",
+            "water",
+            "."
+        ],
+        [
+            "\u201c",
+            "Let",
+            "us",
+            "see",
+            "if",
+            "we",
+            "can",
+            "hit",
+            "them",
+            ";",
+            "it",
+            "is",
+            "great",
+            "fun",
+            "to",
+            "make",
+            "them",
+            "dive",
+            ",",
+            "\u201d",
+            "said",
+            "one",
+            ";",
+            "and",
+            "they",
+            "all",
+            "began",
+            "to",
+            "pelt",
+            "them",
+            "with",
+            "stones",
+            "."
+        ],
+        [
+            "At",
+            "last",
+            ",",
+            "after",
+            "several",
+            "Frogs",
+            "had",
+            "been",
+            "hit",
+            ",",
+            "one",
+            "of",
+            "them",
+            "put",
+            "his",
+            "head",
+            "up",
+            "out",
+            "of",
+            "the",
+            "water",
+            ",",
+            "and",
+            "said",
+            ":",
+            "\u201c",
+            "Pray",
+            "stop",
+            ",",
+            "Boys",
+            "."
+        ],
+        [
+            "Throwing",
+            "stones",
+            "at",
+            "us",
+            "may",
+            "be",
+            "great",
+            "sport",
+            "for",
+            "you",
+            ",",
+            "but",
+            "it",
+            "is",
+            "death",
+            "to",
+            "us",
+            "."
+        ],
+        [
+            "We",
+            "have",
+            "done",
+            "you",
+            "no",
+            "harm",
+            ",",
+            "and",
+            "alas",
+            "!"
+        ],
+        [
+            "you",
+            "have",
+            "already",
+            "killed",
+            "or",
+            "wounded",
+            "three",
+            "of",
+            "our",
+            "family",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

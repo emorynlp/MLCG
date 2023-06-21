@@ -1,0 +1,305 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "it",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the jar",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the house",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the soft bed",
+                "pos": [
+                    19,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her bed",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Toto",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Toto",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-wizard-04",
+    "sents": [
+        [
+            "She",
+            "was",
+            "awakened",
+            "by",
+            "a",
+            "shock",
+            ",",
+            "so",
+            "sudden",
+            "and",
+            "severe",
+            "that",
+            "if",
+            "Dorothy",
+            "had",
+            "not",
+            "been",
+            "lying",
+            "on",
+            "the",
+            "soft",
+            "bed",
+            "she",
+            "might",
+            "have",
+            "been",
+            "hurt",
+            "."
+        ],
+        [
+            "As",
+            "it",
+            "was",
+            ",",
+            "the",
+            "jar",
+            "made",
+            "her",
+            "catch",
+            "her",
+            "breath",
+            "and",
+            "wonder",
+            "what",
+            "had",
+            "happened",
+            ";",
+            "and",
+            "Toto",
+            "put",
+            "his",
+            "cold",
+            "little",
+            "nose",
+            "into",
+            "her",
+            "face",
+            "and",
+            "whined",
+            "dismally",
+            "."
+        ],
+        [
+            "Dorothy",
+            "sat",
+            "up",
+            "and",
+            "noticed",
+            "that",
+            "the",
+            "house",
+            "was",
+            "not",
+            "moving",
+            ";",
+            "nor",
+            "was",
+            "it",
+            "dark",
+            ",",
+            "for",
+            "the",
+            "bright",
+            "sunshine",
+            "came",
+            "in",
+            "at",
+            "the",
+            "window",
+            ",",
+            "flooding",
+            "the",
+            "little",
+            "room",
+            "."
+        ],
+        [
+            "She",
+            "sprang",
+            "from",
+            "her",
+            "bed",
+            "and",
+            "with",
+            "Toto",
+            "at",
+            "her",
+            "heels",
+            "ran",
+            "and",
+            "opened",
+            "the",
+            "door",
+            "."
+        ]
+    ]
+}

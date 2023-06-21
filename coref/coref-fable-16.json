@@ -1,0 +1,324 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A GNAT",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "such a tiny creature",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Bull",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Bull",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Bull",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the sleepy Bull",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-16",
+    "sents": [
+        [
+            "A",
+            "GNAT",
+            ",",
+            "who",
+            "had",
+            "flown",
+            "about",
+            "until",
+            "he",
+            "was",
+            "tired",
+            ",",
+            "sat",
+            "down",
+            "to",
+            "rest",
+            "on",
+            "the",
+            "horn",
+            "of",
+            "a",
+            "Bull",
+            "."
+        ],
+        [
+            "After",
+            "sitting",
+            "there",
+            "a",
+            "long",
+            "time",
+            ",",
+            "he",
+            "thought",
+            "he",
+            "would",
+            "go",
+            "home",
+            "."
+        ],
+        [
+            "So",
+            "he",
+            "made",
+            "a",
+            "loud",
+            "buzzing",
+            "noise",
+            "and",
+            "said",
+            "to",
+            "the",
+            "Bull",
+            ",",
+            "\u201c",
+            "Would",
+            "you",
+            "like",
+            "to",
+            "have",
+            "me",
+            "stay",
+            "longer",
+            ",",
+            "or",
+            "shall",
+            "I",
+            "go",
+            "now",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Just",
+            "as",
+            "you",
+            "please",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Bull",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "did",
+            "not",
+            "know",
+            "when",
+            "you",
+            "came",
+            ",",
+            "and",
+            "I",
+            "am",
+            "sure",
+            "I",
+            "shall",
+            "not",
+            "miss",
+            "you",
+            "when",
+            "you",
+            "go",
+            "away",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "What",
+            "an",
+            "amount",
+            "of",
+            "self-importance",
+            "for",
+            "such",
+            "a",
+            "tiny",
+            "creature",
+            ",",
+            "\u201d",
+            "thought",
+            "the",
+            "sleepy",
+            "Bull",
+            "."
+        ]
+    ]
+}

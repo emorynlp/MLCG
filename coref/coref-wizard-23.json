@@ -1,0 +1,459 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "we",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "the trees",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the trees",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "their branches",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the branches",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the travelers",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a great forest",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the forest",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this road",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the road",
+                "pos": [
+                    29,
+                    31
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "go",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-23",
+    "sents": [
+        [
+            "There",
+            "were",
+            "no",
+            "fences",
+            "at",
+            "all",
+            "by",
+            "the",
+            "roadside",
+            "now",
+            ",",
+            "and",
+            "the",
+            "land",
+            "was",
+            "rough",
+            "and",
+            "untilled",
+            "."
+        ],
+        [
+            "Toward",
+            "evening",
+            "they",
+            "came",
+            "to",
+            "a",
+            "great",
+            "forest",
+            ",",
+            "where",
+            "the",
+            "trees",
+            "grew",
+            "so",
+            "big",
+            "and",
+            "close",
+            "together",
+            "that",
+            "their",
+            "branches",
+            "met",
+            "over",
+            "the",
+            "road",
+            "of",
+            "yellow",
+            "brick",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "almost",
+            "dark",
+            "under",
+            "the",
+            "trees",
+            ",",
+            "for",
+            "the",
+            "branches",
+            "shut",
+            "out",
+            "the",
+            "daylight",
+            ";",
+            "but",
+            "the",
+            "travelers",
+            "did",
+            "not",
+            "stop",
+            ",",
+            "and",
+            "went",
+            "on",
+            "into",
+            "the",
+            "forest",
+            "."
+        ],
+        [
+            "\"",
+            "If",
+            "this",
+            "road",
+            "goes",
+            "in",
+            ",",
+            "it",
+            "must",
+            "come",
+            "out",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "Scarecrow",
+            ",",
+            "\"",
+            "and",
+            "as",
+            "the",
+            "Emerald",
+            "City",
+            "is",
+            "at",
+            "the",
+            "other",
+            "end",
+            "of",
+            "the",
+            "road",
+            ",",
+            "we",
+            "must",
+            "go",
+            "wherever",
+            "it",
+            "leads",
+            "us",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "\"",
+            "Anyone",
+            "would",
+            "know",
+            "that",
+            ",",
+            "\"",
+            "said",
+            "Dorothy",
+            "."
+        ],
+        [
+            "\"",
+            "Certainly",
+            ";",
+            "that",
+            "is",
+            "why",
+            "I",
+            "know",
+            "it",
+            ",",
+            "\"",
+            "returned",
+            "the",
+            "Scarecrow",
+            "."
+        ],
+        [
+            "\"",
+            "If",
+            "it",
+            "required",
+            "brains",
+            "to",
+            "figure",
+            "it",
+            "out",
+            ",",
+            "I",
+            "never",
+            "should",
+            "have",
+            "said",
+            "it",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

@@ -1,0 +1,282 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "Heard",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "crying",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was in",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shut",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019re friendly",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019m bad at",
+                "pos": [
+                    21,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-135",
+    "sents": [
+        [
+            "Heard",
+            "my",
+            "roommate",
+            "crying",
+            "last",
+            "night",
+            "(",
+            "I",
+            "was",
+            "in",
+            "the",
+            "next",
+            "room",
+            ",",
+            "they",
+            "had",
+            "the",
+            "door",
+            "shut",
+            ",",
+            "thin",
+            "walls",
+            ")",
+            "."
+        ],
+        [
+            "We",
+            "\u2019re",
+            "friendly",
+            "enough",
+            ",",
+            "but",
+            "I",
+            "know",
+            "I",
+            "\u2019m",
+            "not",
+            "the",
+            "person",
+            "they",
+            "go",
+            "to",
+            "for",
+            "comfort",
+            ",",
+            "and",
+            "also",
+            "I",
+            "\u2019m",
+            "bad",
+            "at",
+            "giving",
+            "emotional",
+            "support",
+            "."
+        ],
+        [
+            "Do",
+            "I",
+            "leave",
+            "them",
+            "be",
+            ",",
+            "and",
+            "mention",
+            "that",
+            "I",
+            "\u2019m",
+            "here",
+            "for",
+            "them",
+            "when",
+            "I",
+            "see",
+            "them",
+            "next",
+            "?"
+        ],
+        [
+            "Do",
+            "I",
+            "send",
+            "them",
+            "a",
+            "text",
+            "?"
+        ],
+        [
+            "Do",
+            "I",
+            "just",
+            "pretend",
+            "it",
+            "never",
+            "happened",
+            "?"
+        ],
+        [
+            "I",
+            "want",
+            "to",
+            "be",
+            "a",
+            "good",
+            "friend",
+            "but",
+            "I",
+            "do",
+            "n\u2019t",
+            "know",
+            "how",
+            "."
+        ]
+    ]
+}

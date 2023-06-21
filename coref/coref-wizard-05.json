@@ -1,0 +1,163 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The cyclone",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "a cyclone",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "stately trees",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the trees",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-wizard-05",
+    "sents": [
+        [
+            "The",
+            "cyclone",
+            "had",
+            "set",
+            "the",
+            "house",
+            "down",
+            "very",
+            "gently",
+            "--",
+            "for",
+            "a",
+            "cyclone",
+            "--",
+            "in",
+            "the",
+            "midst",
+            "of",
+            "a",
+            "country",
+            "of",
+            "marvelous",
+            "beauty",
+            "."
+        ],
+        [
+            "There",
+            "were",
+            "lovely",
+            "patches",
+            "of",
+            "greensward",
+            "all",
+            "about",
+            ",",
+            "with",
+            "stately",
+            "trees",
+            "bearing",
+            "rich",
+            "and",
+            "luscious",
+            "fruits",
+            "."
+        ],
+        [
+            "Banks",
+            "of",
+            "gorgeous",
+            "flowers",
+            "were",
+            "on",
+            "every",
+            "hand",
+            ",",
+            "and",
+            "birds",
+            "with",
+            "rare",
+            "and",
+            "brilliant",
+            "plumage",
+            "sang",
+            "and",
+            "fluttered",
+            "in",
+            "the",
+            "trees",
+            "and",
+            "bushes",
+            "."
+        ],
+        [
+            "A",
+            "little",
+            "way",
+            "off",
+            "was",
+            "a",
+            "small",
+            "brook",
+            ",",
+            "rushing",
+            "and",
+            "sparkling",
+            "along",
+            "between",
+            "green",
+            "banks",
+            ",",
+            "and",
+            "murmuring",
+            "in",
+            "a",
+            "voice",
+            "very",
+            "grateful",
+            "to",
+            "a",
+            "little",
+            "girl",
+            "who",
+            "had",
+            "lived",
+            "so",
+            "long",
+            "on",
+            "the",
+            "dry",
+            ",",
+            "gray",
+            "prairies",
+            "."
+        ]
+    ]
+}

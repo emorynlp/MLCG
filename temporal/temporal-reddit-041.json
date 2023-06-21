@@ -1,0 +1,405 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m a sophomore",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Former student athlete",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "joined",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m enrolled in",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "go",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are lecture based",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are still pretty much what they \u2019ve been",
+                "pos": [
+                    2,
+                    10
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "do",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "need",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 11,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-041",
+    "sents": [
+        [
+            "hey",
+            "y\u2019all",
+            "."
+        ],
+        [
+            "came",
+            "here",
+            "for",
+            "unbiased",
+            "opinions",
+            "."
+        ],
+        [
+            "i",
+            "\u2019m",
+            "a",
+            "sophomore",
+            "in",
+            "my",
+            "business",
+            "school",
+            "."
+        ],
+        [
+            "recently",
+            "i",
+            "\u2019ve",
+            "had",
+            "no",
+            "motivation",
+            "to",
+            "go",
+            "to",
+            "my",
+            "classes",
+            "."
+        ],
+        [
+            "Former",
+            "student",
+            "athlete",
+            ",",
+            "recently",
+            "joined",
+            "a",
+            "frat",
+            "."
+        ],
+        [
+            "currently",
+            "i",
+            "\u2019m",
+            "enrolled",
+            "in",
+            "4",
+            "classes",
+            "."
+        ],
+        [
+            "2",
+            "of",
+            "them",
+            "i",
+            "go",
+            "to",
+            "95%",
+            "of",
+            "the",
+            "time",
+            ",",
+            "basically",
+            "every",
+            "single",
+            "time",
+            "."
+        ],
+        [
+            "the",
+            "other",
+            "two",
+            "are",
+            "lecture",
+            "based",
+            "and",
+            "i",
+            "have",
+            "a",
+            "strong",
+            "disliking",
+            "for",
+            "these",
+            "professors",
+            "."
+        ],
+        [
+            "my",
+            "grades",
+            "are",
+            "still",
+            "pretty",
+            "much",
+            "what",
+            "they",
+            "\u2019ve",
+            "been",
+            "for",
+            "the",
+            "past",
+            "year",
+            "and",
+            "a",
+            "half",
+            "."
+        ],
+        [
+            "Inside",
+            "i",
+            "feel",
+            "like",
+            "it",
+            "\u2019s",
+            "wrong",
+            "that",
+            "i",
+            "\u2019m",
+            "missing",
+            "classes",
+            "just",
+            "to",
+            "sit",
+            "on",
+            "my",
+            "ass",
+            "but",
+            "on",
+            "the",
+            "other",
+            "side",
+            ",",
+            "i",
+            "have",
+            "zero",
+            "motivation",
+            "to",
+            "try",
+            "when",
+            "i",
+            "will",
+            "get",
+            "the",
+            "same",
+            "grades",
+            "i",
+            "do",
+            "now",
+            "."
+        ],
+        [
+            "Is",
+            "this",
+            "wrong",
+            "?"
+        ],
+        [
+            "probably",
+            "but",
+            "i",
+            "need",
+            "some",
+            "of",
+            "y\u2019all",
+            "to",
+            "help",
+            "get",
+            "me",
+            "back",
+            "on",
+            "track",
+            ";)"
+        ]
+    ]
+}

@@ -1,0 +1,484 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "died",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went into",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "go",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "telling",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "broke",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was so proud of",
+                "pos": [
+                    40,
+                    44
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "being in",
+                "pos": [
+                    46,
+                    48
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "need",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finished out",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Kept",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fulfilled",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Right on track",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finished",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-020",
+    "sents": [
+        [
+            "I",
+            "just",
+            "had",
+            "the",
+            "semester",
+            "from",
+            "hell",
+            "\u2014",
+            "my",
+            "dad",
+            "died",
+            "unexpectedly",
+            "2",
+            "weeks",
+            "before",
+            "the",
+            "world",
+            "went",
+            "into",
+            "pandemic",
+            "lockdown",
+            "."
+        ],
+        [
+            "I",
+            "go",
+            "to",
+            "school",
+            "5",
+            "hours",
+            "away",
+            "from",
+            "my",
+            "family",
+            "and",
+            "I",
+            "remember",
+            "telling",
+            "my",
+            "mom",
+            "that",
+            "I",
+            "just",
+            "could",
+            "n\u2019t",
+            "do",
+            "it",
+            "\u2014",
+            "I",
+            "could",
+            "n\u2019t",
+            "finish",
+            "the",
+            "semester",
+            "or",
+            "my",
+            "degree",
+            "which",
+            "broke",
+            "my",
+            "heart",
+            "because",
+            "my",
+            "dad",
+            "was",
+            "so",
+            "proud",
+            "of",
+            "me",
+            "for",
+            "being",
+            "in",
+            "grad",
+            "school",
+            "."
+        ],
+        [
+            "Because",
+            "of",
+            "the",
+            "pandemic",
+            "I",
+            "have",
+            "not",
+            "seen",
+            "the",
+            "rest",
+            "of",
+            "my",
+            "family",
+            "for",
+            "over",
+            "2",
+            "months",
+            "(",
+            "at",
+            "a",
+            "time",
+            "when",
+            "I",
+            "really",
+            "need",
+            "their",
+            "support",
+            ")",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "finished",
+            "out",
+            "the",
+            "semester",
+            "!"
+        ],
+        [
+            "Kept",
+            "my",
+            "4.0",
+            ",",
+            "did",
+            "my",
+            "research",
+            "(",
+            "still",
+            "a",
+            "little",
+            "behind",
+            "but",
+            "oh",
+            "well",
+            ")",
+            ",",
+            "and",
+            "fulfilled",
+            "my",
+            "TA",
+            "duties",
+            "."
+        ],
+        [
+            "Right",
+            "on",
+            "track",
+            "to",
+            "finish",
+            "my",
+            "masters",
+            "in",
+            "December",
+            "."
+        ],
+        [
+            "I",
+            "had",
+            "days",
+            "when",
+            "I",
+            "could",
+            "n\u2019t",
+            "get",
+            "out",
+            "of",
+            "bed",
+            "but",
+            "I",
+            "still",
+            "finished",
+            "the",
+            "semester",
+            "strong",
+            "."
+        ],
+        [
+            "If",
+            "I",
+            "can",
+            "do",
+            "it",
+            ",",
+            "y\u2019all",
+            "can",
+            "too"
+        ]
+    ]
+}

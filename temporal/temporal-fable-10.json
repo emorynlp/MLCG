@@ -1,0 +1,341 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ask",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fitted",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chop down",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fell",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "groaning",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "crashing",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-10",
+    "sents": [
+        [
+            "ONCE",
+            "upon",
+            "a",
+            "time",
+            "a",
+            "man",
+            "came",
+            "to",
+            "a",
+            "forest",
+            "to",
+            "ask",
+            "the",
+            "Trees",
+            "if",
+            "they",
+            "would",
+            "give",
+            "him",
+            "some",
+            "wood",
+            "to",
+            "make",
+            "a",
+            "handle",
+            "for",
+            "his",
+            "Ax",
+            "."
+        ],
+        [
+            "The",
+            "Trees",
+            "thought",
+            "this",
+            "was",
+            "very",
+            "little",
+            "to",
+            "ask",
+            "of",
+            "them",
+            ",",
+            "and",
+            "they",
+            "gave",
+            "him",
+            "a",
+            "good",
+            "piece",
+            "of",
+            "hard",
+            "wood",
+            "."
+        ],
+        [
+            "But",
+            "as",
+            "soon",
+            "as",
+            "the",
+            "man",
+            "had",
+            "fitted",
+            "the",
+            "handle",
+            "to",
+            "his",
+            "Ax",
+            ",",
+            "he",
+            "went",
+            "to",
+            "work",
+            "to",
+            "chop",
+            "down",
+            "all",
+            "the",
+            "best",
+            "Trees",
+            "in",
+            "the",
+            "forest",
+            "."
+        ],
+        [
+            "As",
+            "they",
+            "fell",
+            "groaning",
+            "and",
+            "crashing",
+            "to",
+            "the",
+            "ground",
+            ",",
+            "they",
+            "said",
+            "mournfully",
+            "one",
+            "to",
+            "another",
+            ",",
+            "\u201c",
+            "Our",
+            "kindness",
+            "was",
+            "misplaced",
+            "."
+        ],
+        [
+            "We",
+            "suffer",
+            "for",
+            "our",
+            "own",
+            "foolishness",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

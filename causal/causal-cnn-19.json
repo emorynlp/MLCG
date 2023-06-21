@@ -1,0 +1,481 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Spain is officially clear of Ebola , the World Health Organization declared Tuesday",
+                "pos": [
+                    0,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "no new cases were reported",
+                "pos": [
+                    15,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "42 days have passed -- double the maximum known incubation period for the virus -- without another case",
+                "pos": [
+                    3,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "allowing",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "Spain to be declared free of Ebola",
+                "pos": [
+                    23,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The WHO statement said it \" commends Spain",
+                "pos": [
+                    0,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the measures put in place",
+                "pos": [
+                    9,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "identify potential cases and",
+                "pos": [
+                    15,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "prevent",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "further transmission of the Ebola virus",
+                "pos": [
+                    20,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Romero contracted the illness",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "while",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "helping to care",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "an infected missionary who had been brought back from West Africa",
+                "pos": [
+                    9,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause|cause|effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "cause|effect",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-19",
+    "sents": [
+        [
+            "Spain",
+            "is",
+            "officially",
+            "clear",
+            "of",
+            "Ebola",
+            ",",
+            "the",
+            "World",
+            "Health",
+            "Organization",
+            "declared",
+            "Tuesday",
+            ",",
+            "after",
+            "no",
+            "new",
+            "cases",
+            "were",
+            "reported",
+            "since",
+            "a",
+            "nurse",
+            "'s",
+            "assistant",
+            "who",
+            "contracted",
+            "the",
+            "virus",
+            "there",
+            "tested",
+            "negative",
+            "for",
+            "it",
+            "."
+        ],
+        [
+            "Since",
+            "then",
+            ",",
+            "42",
+            "days",
+            "have",
+            "passed",
+            "--",
+            "double",
+            "the",
+            "maximum",
+            "known",
+            "incubation",
+            "period",
+            "for",
+            "the",
+            "virus",
+            "--",
+            "without",
+            "another",
+            "case",
+            ",",
+            "allowing",
+            "Spain",
+            "to",
+            "be",
+            "declared",
+            "free",
+            "of",
+            "Ebola",
+            "."
+        ],
+        [
+            "Spanish",
+            "authorities",
+            "had",
+            "been",
+            "monitoring",
+            "87",
+            "people",
+            "who",
+            "came",
+            "into",
+            "contact",
+            "with",
+            "healthcare",
+            "worker",
+            "Teresa",
+            "Romero",
+            "Ramos",
+            ",",
+            "15",
+            "of",
+            "whom",
+            "were",
+            "considered",
+            "high",
+            "-",
+            "risk",
+            "and",
+            "were",
+            "quarantined",
+            "at",
+            "a",
+            "Madrid",
+            "hospital",
+            ",",
+            "WHO",
+            "said",
+            "."
+        ],
+        [
+            "Another",
+            "145",
+            "hospital",
+            "employees",
+            "who",
+            "helped",
+            "care",
+            "for",
+            "Romero",
+            "during",
+            "her",
+            "month",
+            "-",
+            "long",
+            "stay",
+            "at",
+            "the",
+            "Carlos",
+            "III",
+            "Hospital",
+            "were",
+            "also",
+            "monitored",
+            "."
+        ],
+        [
+            "The",
+            "WHO",
+            "statement",
+            "said",
+            "it",
+            "\"",
+            "commends",
+            "Spain",
+            "for",
+            "the",
+            "measures",
+            "put",
+            "in",
+            "place",
+            "to",
+            "identify",
+            "potential",
+            "cases",
+            "and",
+            "prevent",
+            "further",
+            "transmission",
+            "of",
+            "the",
+            "Ebola",
+            "virus",
+            ".",
+            "\""
+        ],
+        [
+            "Romero",
+            "contracted",
+            "the",
+            "illness",
+            "while",
+            "helping",
+            "to",
+            "care",
+            "for",
+            "an",
+            "infected",
+            "missionary",
+            "who",
+            "had",
+            "been",
+            "brought",
+            "back",
+            "from",
+            "West",
+            "Africa",
+            "."
+        ],
+        [
+            "He",
+            "died",
+            "of",
+            "the",
+            "disease",
+            "."
+        ],
+        [
+            "CNN",
+            "'s",
+            "Anna",
+            "Maja",
+            "Rappard",
+            "contributed",
+            "to",
+            "this",
+            "report",
+            "."
+        ]
+    ]
+}

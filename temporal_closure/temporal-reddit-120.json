@@ -1,0 +1,417 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was struggling",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was doing",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "discovered",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s tailored",
+                "pos": [
+                    43,
+                    45
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    49,
+                    50
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was so happy",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "excited",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fits in",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-120",
+    "sents": [
+        [
+            "I",
+            "was",
+            "struggling",
+            "w",
+            "my",
+            "\u201c",
+            "why",
+            "usc",
+            "/",
+            "this",
+            "major",
+            "\u201d",
+            "essay",
+            "and",
+            "was",
+            "doing",
+            "more",
+            "in",
+            "depth",
+            "research",
+            "on",
+            "the",
+            "school",
+            "and",
+            "while",
+            "i",
+            "found",
+            "several",
+            "opps",
+            "related",
+            "to",
+            "my",
+            "major",
+            ",",
+            "I",
+            "discovered",
+            "this",
+            "gem",
+            "of",
+            "a",
+            "research",
+            "program",
+            "that",
+            "\u2019s",
+            "tailored",
+            "for",
+            "specifically",
+            "what",
+            "I",
+            "want",
+            "to",
+            "accomplish",
+            "&",
+            "address",
+            "in",
+            "my",
+            "career",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "so",
+            "happy",
+            "that",
+            "I",
+            "found",
+            "it",
+            "cuz",
+            "it",
+            "actually",
+            "makes",
+            "me",
+            "so",
+            "excited",
+            "to",
+            "write",
+            "abt",
+            "the",
+            "school",
+            "now",
+            "cuz",
+            "this",
+            "program",
+            "fits",
+            "in",
+            "perfectly",
+            "with",
+            "literally",
+            "my",
+            "overarching",
+            "career",
+            "goal",
+            "."
+        ],
+        [
+            "Anyways",
+            "I",
+            "just",
+            "wanted",
+            "to",
+            "share",
+            "that",
+            "small",
+            "win",
+            "with",
+            "u",
+            "guys",
+            "."
+        ],
+        [
+            "Moral",
+            "of",
+            "the",
+            "story",
+            "is",
+            "to",
+            "not",
+            "just",
+            "put",
+            "a",
+            "school",
+            "on",
+            "ur",
+            "list",
+            "but",
+            "to",
+            "go",
+            "in",
+            "depth",
+            "when",
+            "u",
+            "do",
+            "research",
+            "on",
+            "a",
+            "school",
+            "cuz",
+            "when",
+            "u",
+            "find",
+            "that",
+            "gem",
+            "of",
+            "a",
+            "program",
+            "that",
+            "speaks",
+            "to",
+            "u",
+            "it",
+            "feels",
+            "great",
+            "\ud83e\udd20\ud83d\udc4d\ud83c\udffe"
+        ]
+    ]
+}

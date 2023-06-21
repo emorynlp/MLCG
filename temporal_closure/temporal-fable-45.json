@@ -1,0 +1,483 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was so kindly taken",
+                "pos": [
+                    13,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bade",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ask",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was nursing",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "desired",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was loath",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was annoyed",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "does",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "acts from",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "falls",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 10,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-45",
+    "sents": [
+        [
+            "A",
+            "BEE",
+            "made",
+            "Jupiter",
+            "a",
+            "present",
+            "of",
+            "a",
+            "pot",
+            "of",
+            "honey",
+            ",",
+            "which",
+            "was",
+            "so",
+            "kindly",
+            "taken",
+            "that",
+            "he",
+            "bade",
+            "her",
+            "ask",
+            "what",
+            "she",
+            "would",
+            "in",
+            "exchange",
+            "."
+        ],
+        [
+            "The",
+            "Bee",
+            ",",
+            "who",
+            "was",
+            "nursing",
+            "a",
+            "private",
+            "spite",
+            "for",
+            "the",
+            "loss",
+            "of",
+            "some",
+            "of",
+            "her",
+            "winter",
+            "\u2019s",
+            "store",
+            ",",
+            "desired",
+            "of",
+            "Jupiter",
+            "that",
+            "wherever",
+            "she",
+            "should",
+            "set",
+            "her",
+            "sting",
+            "it",
+            "might",
+            "be",
+            "mortal",
+            "."
+        ],
+        [
+            "Jupiter",
+            "was",
+            "loath",
+            "to",
+            "leave",
+            "mankind",
+            "at",
+            "the",
+            "mercy",
+            "of",
+            "a",
+            "little",
+            "spiteful",
+            "insect",
+            ",",
+            "and",
+            "was",
+            "annoyed",
+            "at",
+            "the",
+            "ill",
+            "nature",
+            "shown",
+            "in",
+            "her",
+            "wish",
+            "."
+        ],
+        [
+            "He",
+            "said",
+            ",",
+            "therefore",
+            ",",
+            "that",
+            "while",
+            ",",
+            "for",
+            "his",
+            "promise",
+            "\u2019s",
+            "sake",
+            ",",
+            "he",
+            "would",
+            "give",
+            "her",
+            "the",
+            "power",
+            "to",
+            "harm",
+            ",",
+            "she",
+            "must",
+            "be",
+            "careful",
+            "how",
+            "she",
+            "used",
+            "the",
+            "power",
+            ",",
+            "for",
+            "where",
+            "she",
+            "planted",
+            "her",
+            "sting",
+            ",",
+            "she",
+            "would",
+            "leave",
+            "it",
+            ",",
+            "and",
+            "would",
+            "thereby",
+            "risk",
+            "her",
+            "own",
+            "life",
+            "."
+        ],
+        [
+            "Ill",
+            "will",
+            "often",
+            "does",
+            "greater",
+            "harm",
+            "to",
+            "the",
+            "one",
+            "who",
+            "acts",
+            "from",
+            "it",
+            "than",
+            "to",
+            "the",
+            "one",
+            "on",
+            "whom",
+            "it",
+            "falls",
+            "."
+        ]
+    ]
+}

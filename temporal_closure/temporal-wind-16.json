@@ -1,0 +1,386 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "danced",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "transported",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shouted",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shaking",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "slipped away",
+                "pos": [
+                    55,
+                    57
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was the skipper",
+                "pos": [
+                    65,
+                    68
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "driven",
+                "pos": [
+                    74,
+                    75
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was trying",
+                "pos": [
+                    88,
+                    90
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "say",
+                "pos": [
+                    101,
+                    102
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "drove",
+                "pos": [
+                    114,
+                    115
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "flood",
+                "pos": [
+                    122,
+                    123
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-16",
+    "sents": [
+        [
+            "The",
+            "Rat",
+            "danced",
+            "up",
+            "and",
+            "down",
+            "in",
+            "the",
+            "road",
+            ",",
+            "simply",
+            "transported",
+            "with",
+            "passion",
+            "."
+        ],
+        [
+            "\"",
+            "You",
+            "villains",
+            "!",
+            "\"",
+            "he",
+            "shouted",
+            ",",
+            "shaking",
+            "both",
+            "fists",
+            ",",
+            "\"",
+            "You",
+            "scoundrels",
+            ",",
+            "you",
+            "highwaymen",
+            ",",
+            "you",
+            "\u2014",
+            "you",
+            "\u2014",
+            "roadhogs",
+            "!",
+            "\u2014",
+            "I",
+            "'ll",
+            "have",
+            "the",
+            "law",
+            "of",
+            "you",
+            "!",
+            "I",
+            "'ll",
+            "report",
+            "you",
+            "!",
+            "I",
+            "'ll",
+            "take",
+            "you",
+            "through",
+            "all",
+            "the",
+            "Courts",
+            "!",
+            "\"",
+            "His",
+            "home",
+            "-",
+            "sickness",
+            "had",
+            "quite",
+            "slipped",
+            "away",
+            "from",
+            "him",
+            ",",
+            "and",
+            "for",
+            "the",
+            "moment",
+            "he",
+            "was",
+            "the",
+            "skipper",
+            "of",
+            "the",
+            "canary",
+            "-",
+            "coloured",
+            "vessel",
+            "driven",
+            "on",
+            "a",
+            "shoal",
+            "by",
+            "the",
+            "reckless",
+            "jockeying",
+            "of",
+            "rival",
+            "mariners",
+            ",",
+            "and",
+            "he",
+            "was",
+            "trying",
+            "to",
+            "recollect",
+            "all",
+            "the",
+            "fine",
+            "and",
+            "biting",
+            "things",
+            "he",
+            "used",
+            "to",
+            "say",
+            "to",
+            "masters",
+            "of",
+            "steam",
+            "-",
+            "launches",
+            "when",
+            "their",
+            "wash",
+            ",",
+            "as",
+            "they",
+            "drove",
+            "too",
+            "near",
+            "the",
+            "bank",
+            ",",
+            "used",
+            "to",
+            "flood",
+            "his",
+            "parlour",
+            "-",
+            "carpet",
+            "at",
+            "home",
+            "."
+        ]
+    ]
+}

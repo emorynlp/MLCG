@@ -1,0 +1,359 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "them",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Cowardly Lion",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the raft",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the raft",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the raft",
+                "pos": [
+                    45,
+                    47
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 8,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-38",
+    "sents": [
+        [
+            "To",
+            "be",
+            "sure",
+            ",",
+            "the",
+            "broad",
+            "river",
+            "now",
+            "cut",
+            "them",
+            "off",
+            "from",
+            "this",
+            "beautiful",
+            "land",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "raft",
+            "was",
+            "nearly",
+            "done",
+            ",",
+            "and",
+            "after",
+            "the",
+            "Tin",
+            "Woodman",
+            "had",
+            "cut",
+            "a",
+            "few",
+            "more",
+            "logs",
+            "and",
+            "fastened",
+            "them",
+            "together",
+            "with",
+            "wooden",
+            "pins",
+            ",",
+            "they",
+            "were",
+            "ready",
+            "to",
+            "start",
+            "."
+        ],
+        [
+            "Dorothy",
+            "sat",
+            "down",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "raft",
+            "and",
+            "held",
+            "Toto",
+            "in",
+            "her",
+            "arms",
+            "."
+        ],
+        [
+            "When",
+            "the",
+            "Cowardly",
+            "Lion",
+            "stepped",
+            "upon",
+            "the",
+            "raft",
+            "it",
+            "tipped",
+            "badly",
+            ",",
+            "for",
+            "he",
+            "was",
+            "big",
+            "and",
+            "heavy",
+            ";",
+            "but",
+            "the",
+            "Scarecrow",
+            "and",
+            "the",
+            "Tin",
+            "Woodman",
+            "stood",
+            "upon",
+            "the",
+            "other",
+            "end",
+            "to",
+            "steady",
+            "it",
+            ",",
+            "and",
+            "they",
+            "had",
+            "long",
+            "poles",
+            "in",
+            "their",
+            "hands",
+            "to",
+            "push",
+            "the",
+            "raft",
+            "through",
+            "the",
+            "water",
+            "."
+        ]
+    ]
+}

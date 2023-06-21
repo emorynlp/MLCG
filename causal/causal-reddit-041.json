@@ -1,0 +1,370 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "came here",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "unbiased opinions",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "motivation",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "go to my classes",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "i \u2019m missing classes",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 9,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "sit on my ass",
+                "pos": [
+                    14,
+                    18
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "i have zero motivation to try",
+                "pos": [
+                    24,
+                    30
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 9,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "i will get the same grades i do now",
+                "pos": [
+                    31,
+                    40
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-041",
+    "sents": [
+        [
+            "hey",
+            "y\u2019all",
+            "."
+        ],
+        [
+            "came",
+            "here",
+            "for",
+            "unbiased",
+            "opinions",
+            "."
+        ],
+        [
+            "i",
+            "\u2019m",
+            "a",
+            "sophomore",
+            "in",
+            "my",
+            "business",
+            "school",
+            "."
+        ],
+        [
+            "recently",
+            "i",
+            "\u2019ve",
+            "had",
+            "no",
+            "motivation",
+            "to",
+            "go",
+            "to",
+            "my",
+            "classes",
+            "."
+        ],
+        [
+            "Former",
+            "student",
+            "athlete",
+            ",",
+            "recently",
+            "joined",
+            "a",
+            "frat",
+            "."
+        ],
+        [
+            "currently",
+            "i",
+            "\u2019m",
+            "enrolled",
+            "in",
+            "4",
+            "classes",
+            "."
+        ],
+        [
+            "2",
+            "of",
+            "them",
+            "i",
+            "go",
+            "to",
+            "95%",
+            "of",
+            "the",
+            "time",
+            ",",
+            "basically",
+            "every",
+            "single",
+            "time",
+            "."
+        ],
+        [
+            "the",
+            "other",
+            "two",
+            "are",
+            "lecture",
+            "based",
+            "and",
+            "i",
+            "have",
+            "a",
+            "strong",
+            "disliking",
+            "for",
+            "these",
+            "professors",
+            "."
+        ],
+        [
+            "my",
+            "grades",
+            "are",
+            "still",
+            "pretty",
+            "much",
+            "what",
+            "they",
+            "\u2019ve",
+            "been",
+            "for",
+            "the",
+            "past",
+            "year",
+            "and",
+            "a",
+            "half",
+            "."
+        ],
+        [
+            "Inside",
+            "i",
+            "feel",
+            "like",
+            "it",
+            "\u2019s",
+            "wrong",
+            "that",
+            "i",
+            "\u2019m",
+            "missing",
+            "classes",
+            "just",
+            "to",
+            "sit",
+            "on",
+            "my",
+            "ass",
+            "but",
+            "on",
+            "the",
+            "other",
+            "side",
+            ",",
+            "i",
+            "have",
+            "zero",
+            "motivation",
+            "to",
+            "try",
+            "when",
+            "i",
+            "will",
+            "get",
+            "the",
+            "same",
+            "grades",
+            "i",
+            "do",
+            "now",
+            "."
+        ],
+        [
+            "Is",
+            "this",
+            "wrong",
+            "?"
+        ],
+        [
+            "probably",
+            "but",
+            "i",
+            "need",
+            "some",
+            "of",
+            "y\u2019all",
+            "to",
+            "help",
+            "get",
+            "me",
+            "back",
+            "on",
+            "track",
+            ";)"
+        ]
+    ]
+}

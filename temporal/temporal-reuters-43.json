@@ -1,0 +1,280 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "owned",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "starting",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-43",
+    "sents": [
+        [
+            "Ropak",
+            "Corp",
+            "said",
+            "it",
+            "received",
+            "and",
+            "accepted",
+            "about",
+            "456,968",
+            "common",
+            "shares",
+            "and",
+            "527,035",
+            "Series",
+            "A",
+            "convertible",
+            "preferred",
+            "shares",
+            "of",
+            "Buckhorn",
+            "Inc",
+            "at",
+            "four",
+            "dlrs",
+            "and",
+            "5.75",
+            "dlrs",
+            "each",
+            "respectively",
+            "in",
+            "response",
+            "to",
+            "its",
+            "tender",
+            "offer",
+            "that",
+            "expired",
+            "Friday",
+            ",",
+            "and",
+            "it",
+            "now",
+            "owns",
+            "34.4",
+            "pct",
+            "of",
+            "Buckhorn",
+            "voting",
+            "power",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "had",
+            "owned",
+            "63,000",
+            "common",
+            "and",
+            "25,100",
+            "preferred",
+            "shares",
+            "before",
+            "starting",
+            "the",
+            "hostile",
+            "tender",
+            "."
+        ],
+        [
+            "Ropak",
+            "said",
+            "it",
+            "is",
+            "borrowing",
+            "the",
+            "funds",
+            "needed",
+            "to",
+            "buy",
+            "the",
+            "Buckhorn",
+            "shares",
+            "from",
+            "its",
+            "bank",
+            "lender",
+            "and",
+            "will",
+            "not",
+            "need",
+            "to",
+            "use",
+            "any",
+            "funds",
+            "that",
+            "another",
+            "bank",
+            "had",
+            "committed",
+            "to",
+            "provide",
+            "under",
+            "a",
+            "margin",
+            "loan",
+            "."
+        ],
+        [
+            "Ropak",
+            "said",
+            "it",
+            "waived",
+            "minimum",
+            "acceptance",
+            "requirements",
+            "to",
+            "buy",
+            "the",
+            "shares",
+            "and",
+            "intends",
+            "to",
+            "evaluate",
+            "a",
+            "number",
+            "of",
+            "possible",
+            "ways",
+            "of",
+            "completing",
+            "an",
+            "acquisition",
+            "of",
+            "Buckhorn",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "it",
+            "hopes",
+            "that",
+            "Buckhorn",
+            "'s",
+            "board",
+            "will",
+            "reevaluate",
+            "its",
+            "position",
+            "and",
+            "enter",
+            "into",
+            "meaningful",
+            "negotiations",
+            "."
+        ]
+    ]
+}

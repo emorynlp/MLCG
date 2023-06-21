@@ -1,0 +1,236 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A CAT",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "himself look as much as possible like a doctor",
+                "pos": [
+                    28,
+                    37
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I hear that you are all sick , \u201d said he , \u201c and have come",
+                "pos": [
+                    1,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "_"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "call on you",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-19",
+    "sents": [
+        [
+            "A",
+            "CAT",
+            ",",
+            "hearing",
+            "that",
+            "some",
+            "Birds",
+            "who",
+            "lived",
+            "in",
+            "a",
+            "martin",
+            "box",
+            "near",
+            "by",
+            "were",
+            "ill",
+            ",",
+            "put",
+            "on",
+            "his",
+            "spectacles",
+            "and",
+            "his",
+            "overcoat",
+            ",",
+            "and",
+            "made",
+            "himself",
+            "look",
+            "as",
+            "much",
+            "as",
+            "possible",
+            "like",
+            "a",
+            "doctor",
+            ",",
+            "and",
+            "went",
+            "and",
+            "knocked",
+            "at",
+            "their",
+            "door",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "hear",
+            "that",
+            "you",
+            "are",
+            "all",
+            "sick",
+            ",",
+            "\u201d",
+            "said",
+            "he",
+            ",",
+            "\u201c",
+            "and",
+            "have",
+            "come",
+            "to",
+            "call",
+            "on",
+            "you",
+            "."
+        ],
+        [
+            "Let",
+            "me",
+            "in",
+            ",",
+            "and",
+            "I",
+            "will",
+            "give",
+            "you",
+            "some",
+            "medicine",
+            "and",
+            "cure",
+            "you",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "No",
+            ",",
+            "thank",
+            "you",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Birds",
+            ",",
+            "who",
+            "saw",
+            "his",
+            "whiskers",
+            "and",
+            "knew",
+            "he",
+            "was",
+            "their",
+            "enemy",
+            "the",
+            "Cat",
+            ";",
+            "\u201c",
+            "we",
+            "are",
+            "well",
+            "enough",
+            "\u2014",
+            "much",
+            "better",
+            "than",
+            "if",
+            "we",
+            "should",
+            "open",
+            "our",
+            "door",
+            "and",
+            "let",
+            "you",
+            "in",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

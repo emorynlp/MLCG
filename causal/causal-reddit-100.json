@@ -1,0 +1,187 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Sorry",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the confusion regarding it",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-100",
+    "sents": [
+        [
+            "The",
+            "entire",
+            "semester",
+            "I",
+            "have",
+            "done",
+            "active",
+            "recall",
+            "instead",
+            "of",
+            "taking",
+            "notes",
+            "."
+        ],
+        [
+            "I",
+            "swear",
+            "to",
+            "God",
+            "when",
+            "I",
+            "say",
+            "I",
+            "can",
+            "read",
+            "a",
+            "30",
+            "page",
+            "chapter",
+            "and",
+            "thoroughly",
+            "explain",
+            "you",
+            "everything",
+            "from",
+            "it",
+            "compared",
+            "to",
+            "taking",
+            "notes",
+            "and",
+            "having",
+            "to",
+            "refer",
+            "back",
+            "."
+        ],
+        [
+            "For",
+            "those",
+            "who",
+            "do",
+            "n\u2019t",
+            "know",
+            "what",
+            "it",
+            "is",
+            ",",
+            "you",
+            "simply",
+            "speak",
+            "back",
+            "what",
+            "you",
+            "learned",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "it",
+            "per",
+            "page",
+            "."
+        ],
+        [
+            "I",
+            "suggest",
+            "trying",
+            "it",
+            "!"
+        ],
+        [
+            "There",
+            "\u2019s",
+            "more",
+            "to",
+            "just",
+            "speaking",
+            "back",
+            "what",
+            "you",
+            "read",
+            "but",
+            "that",
+            "is",
+            "the",
+            "gist",
+            "of",
+            "it",
+            "."
+        ],
+        [
+            "You",
+            "pretty",
+            "much",
+            "have",
+            "a",
+            "conversation",
+            "with",
+            "yourself",
+            "."
+        ],
+        [
+            "Sorry",
+            "for",
+            "the",
+            "confusion",
+            "regarding",
+            "it",
+            "."
+        ],
+        [
+            "Just",
+            "look",
+            "up",
+            "\u201c",
+            "active",
+            "recall",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

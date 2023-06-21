@@ -1,0 +1,470 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "my dears",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "us",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a precious stone",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "such a prize",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "a Cock",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the Cock",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my dears",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his hens",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The hens",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            },
+            {
+                "name": "the hens",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "us",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 12,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 12,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-24",
+    "sents": [
+        [
+            "\u201c",
+            "COME",
+            ",",
+            "my",
+            "dears",
+            ",",
+            "\u201d",
+            "said",
+            "a",
+            "Cock",
+            "to",
+            "his",
+            "hens",
+            "one",
+            "morning",
+            ";",
+            "\u201c",
+            "I",
+            "am",
+            "hungry",
+            ",",
+            "and",
+            "so",
+            "are",
+            "you",
+            "."
+        ],
+        [
+            "Let",
+            "us",
+            "go",
+            "out",
+            "."
+        ],
+        [
+            "I",
+            "will",
+            "scratch",
+            "up",
+            "some",
+            "nice",
+            "worms",
+            "and",
+            "beetles",
+            "for",
+            "our",
+            "breakfast",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "hens",
+            "stood",
+            "waiting",
+            "while",
+            "he",
+            "scratched",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "first",
+            "thing",
+            "that",
+            "he",
+            "found",
+            "was",
+            "neither",
+            "a",
+            "beetle",
+            "nor",
+            "a",
+            "worm",
+            "but",
+            "a",
+            "precious",
+            "stone",
+            "."
+        ],
+        [
+            "It",
+            "may",
+            "have",
+            "been",
+            "a",
+            "ruby",
+            "or",
+            "an",
+            "emerald",
+            "."
+        ],
+        [
+            "\u201c",
+            "Dear",
+            "me",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Cock",
+            ";",
+            "\u201c",
+            "what",
+            "is",
+            "this",
+            "?"
+        ],
+        [
+            "a",
+            "Jewel",
+            "!"
+        ],
+        [
+            "How",
+            "glad",
+            "anybody",
+            "else",
+            "might",
+            "be",
+            "to",
+            "have",
+            "found",
+            "such",
+            "a",
+            "prize",
+            ";",
+            "but",
+            "I",
+            "have",
+            "no",
+            "need",
+            "of",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "would",
+            "rather",
+            "have",
+            "a",
+            "few",
+            "kernels",
+            "of",
+            "good",
+            "corn",
+            "than",
+            "all",
+            "the",
+            "Jewels",
+            "in",
+            "the",
+            "world",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "And",
+            "so",
+            "would",
+            "we",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "hens",
+            "."
+        ],
+        [
+            "\u201c",
+            "Nothing",
+            "can",
+            "do",
+            "us",
+            "good",
+            "if",
+            "it",
+            "is",
+            "not",
+            "a",
+            "thing",
+            "that",
+            "we",
+            "ourselves",
+            "want",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

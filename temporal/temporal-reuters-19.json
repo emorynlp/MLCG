@@ -1,0 +1,254 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is the latest",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cut",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "posted",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "citing",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-19",
+    "sents": [
+        [
+            "Diamond",
+            "Shamrock",
+            "Corp",
+            "said",
+            "that",
+            "effective",
+            "today",
+            "it",
+            "had",
+            "cut",
+            "its",
+            "contract",
+            "prices",
+            "for",
+            "crude",
+            "oil",
+            "by",
+            "1.50",
+            "dlrs",
+            "a",
+            "barrel",
+            "."
+        ],
+        [
+            "The",
+            "reduction",
+            "brings",
+            "its",
+            "posted",
+            "price",
+            "for",
+            "West",
+            "Texas",
+            "Intermediate",
+            "to",
+            "16.00",
+            "dlrs",
+            "a",
+            "barrel",
+            ",",
+            "the",
+            "copany",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "price",
+            "reduction",
+            "today",
+            "was",
+            "made",
+            "in",
+            "the",
+            "light",
+            "of",
+            "falling",
+            "oil",
+            "product",
+            "prices",
+            "and",
+            "a",
+            "weak",
+            "crude",
+            "oil",
+            "market",
+            ",",
+            "\"",
+            "a",
+            "company",
+            "spokeswoman",
+            "said",
+            "."
+        ],
+        [
+            "Diamond",
+            "is",
+            "the",
+            "latest",
+            "in",
+            "a",
+            "line",
+            "of",
+            "U.S.",
+            "oil",
+            "companies",
+            "that",
+            "have",
+            "cut",
+            "its",
+            "contract",
+            ",",
+            "or",
+            "posted",
+            ",",
+            "prices",
+            "over",
+            "the",
+            "last",
+            "two",
+            "days",
+            "citing",
+            "weak",
+            "oil",
+            "markets",
+            "."
+        ]
+    ]
+}

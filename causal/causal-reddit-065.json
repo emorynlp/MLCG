@@ -1,0 +1,239 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "i \u2019ve spent so much time on this sub ( and stressing about college apps even prior to this sub",
+                "pos": [
+                    0,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "i literally just realised that\u2026 it \u2019s not normal",
+                "pos": [
+                    22,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it did n\u2019t sink in",
+                "pos": [
+                    12,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "until",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "i saw that comment",
+                "pos": [
+                    18,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-065",
+    "sents": [
+        [
+            "i",
+            "\u2019ve",
+            "spent",
+            "so",
+            "much",
+            "time",
+            "on",
+            "this",
+            "sub",
+            "(",
+            "and",
+            "stressing",
+            "about",
+            "college",
+            "apps",
+            "even",
+            "prior",
+            "to",
+            "this",
+            "sub",
+            ")",
+            "that",
+            "i",
+            "literally",
+            "just",
+            "realised",
+            "that\u2026",
+            "it",
+            "\u2019s",
+            "not",
+            "normal",
+            "??"
+        ],
+        [
+            "i",
+            "saw",
+            "a",
+            "comment",
+            "on",
+            "r",
+            "/",
+            "chanceme",
+            "where",
+            "someone",
+            "was",
+            "like",
+            "\u201c",
+            "*what",
+            "student",
+            "is",
+            "likely",
+            "to",
+            "spend",
+            "their",
+            "free",
+            "time",
+            "on",
+            "a",
+            "subreddit",
+            "about",
+            "applying",
+            "to",
+            "college",
+            "???"
+        ],
+        [
+            "*",
+            "\u201c",
+            "and",
+            "like",
+            "i",
+            "know",
+            "this",
+            "is",
+            "all",
+            "obvious",
+            "asf",
+            "but",
+            "it",
+            "did",
+            "n\u2019t",
+            "sink",
+            "in",
+            "until",
+            "i",
+            "saw",
+            "that",
+            "comment",
+            "?"
+        ],
+        [
+            "like",
+            "literally",
+            "what",
+            "high",
+            "school",
+            "student",
+            "is",
+            "going",
+            "to",
+            "voluntarily",
+            "drown",
+            "themselves",
+            "in",
+            "info",
+            "and",
+            "stress",
+            "about",
+            "college",
+            "\ud83d\ude2d",
+            "i",
+            "also",
+            "just",
+            "retraced",
+            "my",
+            "day",
+            "and",
+            "realised",
+            "i",
+            "spent",
+            "all",
+            "my",
+            "waking",
+            "hours",
+            "on",
+            "school",
+            "and",
+            "college",
+            "apps",
+            "(",
+            "with",
+            "the",
+            "occasional",
+            "netflix",
+            "binge",
+            "ofc",
+            ")",
+            "\ud83d\ude2d\ud83d\ude2d"
+        ]
+    ]
+}

@@ -1,0 +1,295 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "in it he could frighten all the timid , foolish little animals",
+                "pos": [
+                    13,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "he amused himself",
+                "pos": [
+                    27,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "chasing them about",
+                "pos": [
+                    31,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I might , perhaps , have been frightened by your looks",
+                "pos": [
+                    0,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "you had not tried to roar",
+                "pos": [
+                    13,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I know your voice too well",
+                "pos": [
+                    21,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 4,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "mistake you for a Lion",
+                "pos": [
+                    28,
+                    33
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "means",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-02",
+    "sents": [
+        [
+            "A",
+            "DONKEY",
+            "once",
+            "put",
+            "on",
+            "a",
+            "Lion",
+            "\u2019s",
+            "skin",
+            "which",
+            "some",
+            "hunters",
+            "had",
+            "spread",
+            "out",
+            "to",
+            "dry",
+            "."
+        ],
+        [
+            "It",
+            "did",
+            "not",
+            "fit",
+            "the",
+            "Donkey",
+            "very",
+            "well",
+            ",",
+            "but",
+            "he",
+            "found",
+            "that",
+            "in",
+            "it",
+            "he",
+            "could",
+            "frighten",
+            "all",
+            "the",
+            "timid",
+            ",",
+            "foolish",
+            "little",
+            "animals",
+            ",",
+            "so",
+            "he",
+            "amused",
+            "himself",
+            "by",
+            "chasing",
+            "them",
+            "about",
+            "."
+        ],
+        [
+            "By",
+            "and",
+            "by",
+            "he",
+            "met",
+            "a",
+            "Fox",
+            ",",
+            "and",
+            "tried",
+            "to",
+            "frighten",
+            "him",
+            "by",
+            "roaring",
+            "."
+        ],
+        [
+            "\u201c",
+            "My",
+            "dear",
+            "Donkey",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "wise",
+            "Fox",
+            ",",
+            "\u201c",
+            "you",
+            "are",
+            "braying",
+            ",",
+            "and",
+            "not",
+            "roaring",
+            "."
+        ],
+        [
+            "I",
+            "might",
+            ",",
+            "perhaps",
+            ",",
+            "have",
+            "been",
+            "frightened",
+            "by",
+            "your",
+            "looks",
+            ",",
+            "if",
+            "you",
+            "had",
+            "not",
+            "tried",
+            "to",
+            "roar",
+            ";",
+            "but",
+            "I",
+            "know",
+            "your",
+            "voice",
+            "too",
+            "well",
+            "to",
+            "mistake",
+            "you",
+            "for",
+            "a",
+            "Lion",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

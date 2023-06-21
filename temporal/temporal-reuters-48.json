@@ -1,0 +1,245 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "remain",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-48",
+    "sents": [
+        [
+            "DH",
+            "Technology",
+            "Inc",
+            "said",
+            "it",
+            "has",
+            "repurchased",
+            "500,000",
+            "of",
+            "its",
+            "shares",
+            "from",
+            "cofounder",
+            "Helmut",
+            "Falk",
+            "at",
+            "4.25",
+            "dlrs",
+            "each",
+            "and",
+            "Falks",
+            "has",
+            "sold",
+            "another",
+            "500,000",
+            "shares",
+            "to",
+            "venture",
+            "capital",
+            "firm",
+            "TA",
+            "Associates",
+            "at",
+            "the",
+            "same",
+            "price",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "said",
+            "Falk",
+            "has",
+            "resigned",
+            "as",
+            "chairman",
+            "of",
+            "DHL",
+            "and",
+            "now",
+            "owns",
+            "213,567",
+            "shares",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "TA",
+            "now",
+            "owns",
+            "928",
+            ",",
+            "0000",
+            "shares",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "said",
+            "Falk",
+            ",",
+            "who",
+            "will",
+            "remain",
+            "on",
+            "the",
+            "board",
+            ",",
+            "has",
+            "agreed",
+            "to",
+            "sell",
+            "no",
+            "more",
+            "than",
+            "75,000",
+            "of",
+            "his",
+            "remaining",
+            "shares",
+            "in",
+            "the",
+            "next",
+            "year",
+            "without",
+            "company",
+            "consent",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "president",
+            "and",
+            "chief",
+            "executive",
+            "officer",
+            "William",
+            "H.",
+            "Gibb",
+            "has",
+            "assumed",
+            "the",
+            "added",
+            "post",
+            "of",
+            "chairman",
+            "."
+        ]
+    ]
+}

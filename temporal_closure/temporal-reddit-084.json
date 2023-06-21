@@ -1,0 +1,285 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "completed",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "regret",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was impressed",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "exceeds",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "become",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "considering",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-084",
+    "sents": [
+        [
+            ">",
+            "The",
+            "Admissions",
+            "Committee",
+            "has",
+            "completed",
+            "a",
+            "careful",
+            "evaluation",
+            "of",
+            "your",
+            "application",
+            "for",
+            "admission",
+            "to",
+            "Lehigh",
+            "."
+        ],
+        [
+            "I",
+            "regret",
+            "to",
+            "inform",
+            "you",
+            "that",
+            ",",
+            "although",
+            "the",
+            "Committee",
+            "was",
+            "impressed",
+            "with",
+            "your",
+            "academic",
+            "credentials",
+            ",",
+            "we",
+            "are",
+            "unable",
+            "to",
+            "offer",
+            "you",
+            "admission",
+            "."
+        ],
+        [
+            "The",
+            "demand",
+            "for",
+            "international",
+            "financial",
+            "assistance",
+            "exceeds",
+            "the",
+            "amount",
+            "available",
+            "to",
+            "award",
+            "and",
+            "so",
+            "financial",
+            "aid",
+            "needs",
+            "become",
+            "an",
+            "important",
+            "factor",
+            "when",
+            "considering",
+            "international",
+            "applicants",
+            "."
+        ],
+        [
+            "Had",
+            "more",
+            "funding",
+            "been",
+            "available",
+            ",",
+            "we",
+            "would",
+            "have",
+            "been",
+            "able",
+            "to",
+            "extend",
+            "an",
+            "offer",
+            "of",
+            "admission",
+            "to",
+            "you",
+            "."
+        ],
+        [
+            "what",
+            "does",
+            "this",
+            "even",
+            "f\\*",
+            "mean",
+            "??"
+        ],
+        [
+            "my",
+            "application",
+            "went",
+            "through",
+            "till",
+            "Fin",
+            "Aid",
+            "??"
+        ]
+    ]
+}

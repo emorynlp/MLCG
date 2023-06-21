@@ -1,0 +1,234 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "seems",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Simulating",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "annotated",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "forget",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-000",
+    "sents": [
+        [
+            "I",
+            "would",
+            "like",
+            "to",
+            "know",
+            "the",
+            "thought",
+            "process",
+            "behind",
+            "setting",
+            "a",
+            "due",
+            "date",
+            "for",
+            "10:30",
+            "AM",
+            "."
+        ],
+        [
+            "It",
+            "seems",
+            "like",
+            "95%",
+            "percent",
+            "of",
+            "things",
+            "are",
+            "due",
+            "at",
+            "11:59",
+            "PM",
+            ";",
+            "and",
+            "then",
+            "I",
+            "always",
+            "have",
+            "that",
+            "one",
+            "oddball",
+            "due",
+            "date",
+            "time",
+            "assignment",
+            "every",
+            "couple",
+            "weeks",
+            "."
+        ],
+        [
+            "Are",
+            "we",
+            "doing",
+            "me",
+            "a",
+            "favor",
+            "with",
+            "this",
+            "?"
+        ],
+        [
+            "or",
+            "what",
+            "'s",
+            "the",
+            "process",
+            "?"
+        ],
+        [
+            "Simulating",
+            "a",
+            "\"",
+            "class",
+            "experience",
+            "\"",
+            "."
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "I",
+            "'ve",
+            "finally",
+            "annotated",
+            "my",
+            "entire",
+            "calendar",
+            ",",
+            "because",
+            "I",
+            "forget",
+            "to",
+            "read",
+            "the",
+            "times",
+            "for",
+            "all",
+            "4",
+            "or",
+            "5",
+            "things",
+            "in",
+            "the",
+            "color",
+            "coded",
+            "square",
+            "on",
+            "any",
+            "given",
+            "day",
+            "."
+        ],
+        [
+            "Is",
+            "this",
+            "just",
+            "me",
+            ",",
+            "anyone",
+            "else",
+            "getting",
+            "burned",
+            "on",
+            "this",
+            "one",
+            "."
+        ]
+    ]
+}

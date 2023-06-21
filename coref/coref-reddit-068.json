@@ -1,0 +1,308 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "my essay",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "My essay",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "homophobia",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "being homophobic",
+                "pos": [
+                    33,
+                    35
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "colleges",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "colleges",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-068",
+    "sents": [
+        [
+            "I",
+            "used",
+            "common",
+            "app",
+            "to",
+            "apply",
+            "to",
+            "colleges",
+            "."
+        ],
+        [
+            "I",
+            "based",
+            "my",
+            "essay",
+            "on",
+            "the",
+            "prompt",
+            "about",
+            "changing",
+            "my",
+            "view",
+            "point",
+            "."
+        ],
+        [
+            "My",
+            "essay",
+            "talked",
+            "about",
+            "growing",
+            "up",
+            "very",
+            "religious",
+            "(",
+            "I",
+            "tried",
+            "not",
+            "to",
+            "emphasize",
+            "losing",
+            "my",
+            "religion",
+            ",",
+            "but",
+            "rather",
+            "the",
+            "homophobia",
+            ")",
+            "but",
+            "eventually",
+            "waking",
+            "up",
+            "one",
+            "day",
+            "and",
+            "just",
+            "realizing",
+            "that",
+            "being",
+            "homophobic",
+            "is",
+            "wrong",
+            "."
+        ],
+        [
+            "I",
+            "end",
+            "it",
+            "with",
+            "accepting",
+            "myself",
+            "for",
+            "being",
+            "bisexual",
+            "and",
+            "forgiving",
+            "and",
+            "making",
+            "amends",
+            "to",
+            "the",
+            "people",
+            "I",
+            "hurt",
+            "."
+        ],
+        [
+            "What",
+            "do",
+            "you",
+            "think",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019m",
+            "super",
+            "nervous",
+            "because",
+            "I",
+            "have",
+            "n\u2019t",
+            "gotten",
+            "responses",
+            "from",
+            "colleges",
+            "yet",
+            ",",
+            "but",
+            "I",
+            "applied",
+            "beginning",
+            "of",
+            "September",
+            "."
+        ],
+        [
+            "\ud83d\ude05"
+        ]
+    ]
+}

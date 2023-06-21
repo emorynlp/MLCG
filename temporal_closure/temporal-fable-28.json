@@ -1,0 +1,294 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "terrified",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asked",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "consented",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took up",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "slew",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-28",
+    "sents": [
+        [
+            "THE",
+            "Pigeons",
+            ",",
+            "terrified",
+            "by",
+            "the",
+            "frequent",
+            "appearance",
+            "of",
+            "a",
+            "Kite",
+            ",",
+            "asked",
+            "the",
+            "Hawk",
+            "to",
+            "help",
+            "them",
+            "."
+        ],
+        [
+            "\u201c",
+            "You",
+            "are",
+            "the",
+            "only",
+            "bird",
+            "of",
+            "our",
+            "acquaintance",
+            ",",
+            "\u201d",
+            "they",
+            "said",
+            ",",
+            "\u201c",
+            "that",
+            "can",
+            "protect",
+            "us",
+            "from",
+            "our",
+            "enemy",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "will",
+            "take",
+            "care",
+            "of",
+            "us",
+            ",",
+            "we",
+            "shall",
+            "feel",
+            "safe",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Hawk",
+            "at",
+            "once",
+            "consented",
+            ",",
+            "and",
+            "took",
+            "up",
+            "his",
+            "abode",
+            "in",
+            "the",
+            "dovecote",
+            "."
+        ],
+        [
+            "But",
+            "when",
+            "the",
+            "Pigeons",
+            "had",
+            "let",
+            "him",
+            "come",
+            "in",
+            ",",
+            "they",
+            "found",
+            "that",
+            "he",
+            "slew",
+            "more",
+            "of",
+            "them",
+            "in",
+            "a",
+            "single",
+            "day",
+            "than",
+            "the",
+            "Kite",
+            "could",
+            "possibly",
+            "pounce",
+            "upon",
+            "in",
+            "a",
+            "whole",
+            "year",
+            "."
+        ],
+        [
+            "The",
+            "oldest",
+            ",",
+            "wisest",
+            "pigeon",
+            "among",
+            "them",
+            "said",
+            ":",
+            "\u201c",
+            "When",
+            "we",
+            "are",
+            "in",
+            "trouble",
+            ",",
+            "we",
+            "must",
+            "not",
+            "forget",
+            "that",
+            "there",
+            "are",
+            "other",
+            "dangers",
+            "than",
+            "the",
+            "ones",
+            "we",
+            "are",
+            "suffering",
+            "from",
+            "."
+        ],
+        [
+            "There",
+            "is",
+            "a",
+            "proverb",
+            "among",
+            "men",
+            "that",
+            "tells",
+            "them",
+            "to",
+            "avoid",
+            "a",
+            "remedy",
+            "that",
+            "is",
+            "worse",
+            "than",
+            "the",
+            "disease",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

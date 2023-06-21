@@ -1,0 +1,490 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "she",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "We",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Witch of the East",
+                "pos": [
+                    16,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the silver shoes",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the silver ones",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the door",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Toto",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Toto",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "Toto",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-13",
+    "sents": [
+        [
+            "At",
+            "that",
+            "moment",
+            "Dorothy",
+            "saw",
+            "lying",
+            "on",
+            "the",
+            "table",
+            "the",
+            "silver",
+            "shoes",
+            "that",
+            "had",
+            "belonged",
+            "to",
+            "the",
+            "Witch",
+            "of",
+            "the",
+            "East",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "wonder",
+            "if",
+            "they",
+            "will",
+            "fit",
+            "me",
+            ",",
+            "\"",
+            "she",
+            "said",
+            "to",
+            "Toto",
+            "."
+        ],
+        [
+            "\"",
+            "They",
+            "would",
+            "be",
+            "just",
+            "the",
+            "thing",
+            "to",
+            "take",
+            "a",
+            "long",
+            "walk",
+            "in",
+            ",",
+            "for",
+            "they",
+            "could",
+            "not",
+            "wear",
+            "out",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "She",
+            "took",
+            "off",
+            "her",
+            "old",
+            "leather",
+            "shoes",
+            "and",
+            "tried",
+            "on",
+            "the",
+            "silver",
+            "ones",
+            ",",
+            "which",
+            "fitted",
+            "her",
+            "as",
+            "well",
+            "as",
+            "if",
+            "they",
+            "had",
+            "been",
+            "made",
+            "for",
+            "her",
+            "."
+        ],
+        [
+            "Finally",
+            "she",
+            "picked",
+            "up",
+            "her",
+            "basket",
+            "."
+        ],
+        [
+            "\"",
+            "Come",
+            "along",
+            ",",
+            "Toto",
+            ",",
+            "\"",
+            "she",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "will",
+            "go",
+            "to",
+            "the",
+            "Emerald",
+            "City",
+            "and",
+            "ask",
+            "the",
+            "Great",
+            "Oz",
+            "how",
+            "to",
+            "get",
+            "back",
+            "to",
+            "Kansas",
+            "again",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "She",
+            "closed",
+            "the",
+            "door",
+            ",",
+            "locked",
+            "it",
+            ",",
+            "and",
+            "put",
+            "the",
+            "key",
+            "carefully",
+            "in",
+            "the",
+            "pocket",
+            "of",
+            "her",
+            "dress",
+            "."
+        ],
+        [
+            "And",
+            "so",
+            ",",
+            "with",
+            "Toto",
+            "trotting",
+            "along",
+            "soberly",
+            "behind",
+            "her",
+            ",",
+            "she",
+            "started",
+            "on",
+            "her",
+            "journey",
+            "."
+        ]
+    ]
+}

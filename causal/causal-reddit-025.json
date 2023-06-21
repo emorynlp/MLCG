@@ -1,0 +1,168 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I also now have to watch a 30 second ad",
+                "pos": [
+                    0,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "TO",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "CITE A SOURCE",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-025",
+    "sents": [
+        [
+            "Younger",
+            "Zoomers",
+            "might",
+            "not",
+            "catch",
+            "my",
+            "drift",
+            "here",
+            "but",
+            "damn",
+            "I",
+            "remember",
+            "when",
+            "easybib",
+            "was",
+            "a",
+            "accessible",
+            "website",
+            "with",
+            "literally",
+            "two",
+            "buttons",
+            "\u201c",
+            "cite",
+            "\u201d",
+            "and",
+            "\u201c",
+            "search",
+            "\u201d",
+            "Now",
+            "it",
+            "\u2019s",
+            "the",
+            "digital",
+            "equivalent",
+            "of",
+            "a",
+            "magazine",
+            "tabloid",
+            "."
+        ],
+        [
+            "There",
+            "\u2019s",
+            "a",
+            "ton",
+            "of",
+            "ads",
+            "everywhere",
+            ",",
+            "a",
+            "bunch",
+            "of",
+            "annoying",
+            "pop",
+            "ups",
+            ",",
+            "a",
+            "lot",
+            "of",
+            "text",
+            "all",
+            "around",
+            "the",
+            "site",
+            "that",
+            "blocks",
+            "and",
+            "obstructs",
+            "everything",
+            "."
+        ],
+        [
+            "I",
+            "also",
+            "now",
+            "have",
+            "to",
+            "watch",
+            "a",
+            "30",
+            "second",
+            "ad",
+            "JUST",
+            "TO",
+            "CITE",
+            "A",
+            "SOURCE",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "just",
+            "saddened",
+            "to",
+            "see",
+            "what",
+            "was",
+            "a",
+            "simple",
+            "and",
+            "helpful",
+            "service",
+            "now",
+            "become",
+            "a",
+            "monstrosity",
+            "of",
+            "web",
+            "design",
+            "."
+        ]
+    ]
+}

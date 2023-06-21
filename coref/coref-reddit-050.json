@@ -1,0 +1,326 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "one car",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the car",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "My dad",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "campus",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "campus",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "me",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-050",
+    "sents": [
+        [
+            "It",
+            "'s",
+            "me",
+            "."
+        ],
+        [
+            "My",
+            "family",
+            "only",
+            "has",
+            "one",
+            "car",
+            "and",
+            "I",
+            "do",
+            "n't",
+            "have",
+            "my",
+            "license",
+            "anyway",
+            "."
+        ],
+        [
+            "My",
+            "mom",
+            "wo",
+            "n't",
+            "let",
+            "me",
+            "take",
+            "the",
+            "bus",
+            "."
+        ],
+        [
+            "My",
+            "dad",
+            "needs",
+            "the",
+            "car",
+            "to",
+            "go",
+            "to",
+            "work",
+            "and",
+            "he",
+            "has",
+            "to",
+            "go",
+            "work",
+            "super",
+            "early",
+            "so",
+            "if",
+            "I",
+            "want",
+            "to",
+            "get",
+            "to",
+            "campus",
+            "I",
+            "have",
+            "to",
+            "tag",
+            "along",
+            "with",
+            "him",
+            "."
+        ],
+        [
+            "My",
+            "earliest",
+            "classes",
+            "do",
+            "n't",
+            "even",
+            "start",
+            "until",
+            "10",
+            "am",
+            ",",
+            "so",
+            "at",
+            "least",
+            "I",
+            "have",
+            "a",
+            "nice",
+            "four",
+            "hours",
+            "to",
+            "myself",
+            "on",
+            "campus",
+            "I",
+            "guess",
+            "."
+        ],
+        [
+            "Yep",
+            "."
+        ],
+        [
+            "This",
+            "semester",
+            "is",
+            "probably",
+            "going",
+            "to",
+            "include",
+            "an",
+            "~~",
+            "un",
+            "~~",
+            "healthy",
+            "amount",
+            "of",
+            "coffee",
+            "and",
+            "other",
+            "dubius",
+            ",",
+            "but",
+            "still",
+            "legal",
+            "caffeine",
+            "supplements",
+            "\ud83d\ude43"
+        ]
+    ]
+}

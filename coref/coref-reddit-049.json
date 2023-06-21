@@ -1,0 +1,675 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "received",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a D",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "this grade",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his office",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his office",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "my professor",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the final",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my exam",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my final exam",
+                "pos": [
+                    22,
+                    25
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "my exam",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "Im",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my final grade",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my grade",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-049",
+    "sents": [
+        [
+            "So",
+            "I",
+            "\u2019m",
+            "a",
+            "4.0",
+            "student",
+            "in",
+            "uni",
+            "."
+        ],
+        [
+            "I",
+            "received",
+            "a",
+            "D",
+            "on",
+            "my",
+            "final",
+            "grade",
+            "for",
+            "an",
+            "anthropology",
+            "class",
+            ",",
+            "and",
+            "was",
+            "incredibly",
+            "distressed",
+            "and",
+            "worried",
+            "how",
+            "this",
+            "could",
+            "\u2019ve",
+            "happened",
+            "."
+        ],
+        [
+            "I",
+            "immediately",
+            "emailed",
+            "my",
+            "professor",
+            "asking",
+            "why",
+            "I",
+            "received",
+            "this",
+            "grade",
+            ",",
+            "a",
+            "week",
+            "later",
+            "he",
+            "responded",
+            "that",
+            "I",
+            "never",
+            "handed",
+            "in",
+            "the",
+            "final",
+            "!"
+        ],
+        [
+            "It",
+            "was",
+            "a",
+            "written",
+            "take",
+            "home",
+            "final",
+            ",",
+            "I",
+            "drove",
+            "all",
+            "the",
+            "way",
+            "to",
+            "school",
+            "and",
+            "turned",
+            "it",
+            "in",
+            "personally",
+            "to",
+            "him",
+            "in",
+            "his",
+            "office",
+            "on",
+            "the",
+            "due",
+            "date",
+            ",",
+            "per",
+            "his",
+            "instructions",
+            "."
+        ],
+        [
+            "I",
+            "bet",
+            "if",
+            "they",
+            "checked",
+            "the",
+            "cameras",
+            "they",
+            "\u2019d",
+            "see",
+            "me",
+            "walking",
+            "to",
+            "his",
+            "office",
+            ",",
+            "as",
+            "I",
+            "remember",
+            "the",
+            "day",
+            "and",
+            "time",
+            "I",
+            "was",
+            "there",
+            "."
+        ],
+        [
+            "I",
+            "emailed",
+            "him",
+            "back",
+            "saying",
+            "I",
+            "was",
+            "there",
+            "and",
+            "handed",
+            "it",
+            "to",
+            "him",
+            "personally",
+            "."
+        ],
+        [
+            "And",
+            "followed",
+            "up",
+            "with",
+            "an",
+            "attachment",
+            "of",
+            "my",
+            "exam",
+            "."
+        ],
+        [
+            "Honestly",
+            "this",
+            "is",
+            "why",
+            "all",
+            "professors",
+            "should",
+            "utilize",
+            "online",
+            "submission",
+            "\ud83d\ude44",
+            "The",
+            "only",
+            "conclusive",
+            "thing",
+            "is",
+            "that",
+            "he",
+            "had",
+            "to",
+            "have",
+            "lost",
+            "my",
+            "final",
+            "exam",
+            "."
+        ],
+        [
+            "Im",
+            "totally",
+            "fuming",
+            "!"
+        ],
+        [
+            "What",
+            "should",
+            "I",
+            "do",
+            "if",
+            "he",
+            "refuses",
+            "to",
+            "go",
+            "back",
+            "and",
+            "look",
+            "for",
+            "my",
+            "exam",
+            "or",
+            "change",
+            "my",
+            "grade",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "asks",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gives",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be quirky",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wrote about",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "refuse",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is actually my essay",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "*edit",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "trashed out",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "guess*",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 8,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-056",
+    "sents": [
+        [
+            "last",
+            "minute",
+            "essay",
+            "panic",
+            "here",
+            "."
+        ],
+        [
+            "On",
+            "the",
+            "Princeton",
+            "ed",
+            "app",
+            ",",
+            "it",
+            "asks",
+            "what",
+            "you",
+            "want",
+            "to",
+            "learn",
+            "in",
+            "college",
+            "and",
+            "gives",
+            "you",
+            "50",
+            "words",
+            "."
+        ],
+        [
+            "I",
+            "tried",
+            "to",
+            "be",
+            "quirky",
+            "and",
+            "wrote",
+            "about",
+            "how",
+            "I",
+            "refuse",
+            "to",
+            "poop",
+            "in",
+            "public",
+            ",",
+            "and",
+            "I",
+            "want",
+            "to",
+            "learn",
+            "to",
+            "be",
+            "fine",
+            "with",
+            "it",
+            "."
+        ],
+        [
+            "Is",
+            "it",
+            "too",
+            "risky",
+            "?"
+        ],
+        [
+            "or",
+            "is",
+            "it",
+            "a",
+            "chance",
+            "worth",
+            "taking",
+            "given",
+            "that",
+            "princeton",
+            "is",
+            "out",
+            "of",
+            "my",
+            "league",
+            "anyways",
+            "?"
+        ],
+        [
+            "no",
+            ",",
+            "this",
+            "is",
+            "n't",
+            "a",
+            "shitpost",
+            "..."
+        ],
+        [
+            "this",
+            "is",
+            "actually",
+            "my",
+            "essay",
+            ",",
+            "seriously",
+            "&",
+            "#x200B",
+            ";",
+            "*edit",
+            ":",
+            "lmaooo",
+            "im",
+            "getting",
+            "trashed",
+            "out",
+            "here",
+            "."
+        ],
+        [
+            "dw",
+            "yall",
+            "i",
+            "had",
+            "a",
+            "backup",
+            "."
+        ],
+        [
+            "no",
+            "more",
+            "\"",
+            "dropping",
+            "coins",
+            "in",
+            "the",
+            "public",
+            "can",
+            "\"",
+            "i",
+            "guess*"
+        ]
+    ]
+}

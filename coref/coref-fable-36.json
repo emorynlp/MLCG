@@ -1,0 +1,365 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Filberts",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "them",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his nuts",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his hand",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his hand",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his closed fist",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his hand",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A person",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A BOY",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my boy",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-36",
+    "sents": [
+        [
+            "A",
+            "BOY",
+            "once",
+            "thrust",
+            "his",
+            "hand",
+            "into",
+            "a",
+            "pitcher",
+            "nearly",
+            "filled",
+            "with",
+            "Filberts",
+            "."
+        ],
+        [
+            "He",
+            "grasped",
+            "as",
+            "many",
+            "as",
+            "his",
+            "hand",
+            "could",
+            "possibly",
+            "hold",
+            ";",
+            "but",
+            "when",
+            "he",
+            "tried",
+            "to",
+            "draw",
+            "out",
+            "his",
+            "closed",
+            "fist",
+            ",",
+            "the",
+            "narrowness",
+            "of",
+            "the",
+            "neck",
+            "prevented",
+            "him",
+            "from",
+            "doing",
+            "so",
+            "."
+        ],
+        [
+            "Unwilling",
+            "to",
+            "lose",
+            "his",
+            "nuts",
+            ",",
+            "yet",
+            "unable",
+            "to",
+            "get",
+            "them",
+            "by",
+            "drawing",
+            "out",
+            "his",
+            "hand",
+            ",",
+            "he",
+            "burst",
+            "into",
+            "tears",
+            "and",
+            "bitterly",
+            "lamented",
+            "his",
+            "hard",
+            "fortune",
+            "."
+        ],
+        [
+            "A",
+            "person",
+            "standing",
+            "by",
+            "finally",
+            "gave",
+            "him",
+            "this",
+            "wise",
+            "and",
+            "reasonable",
+            "advice",
+            ":",
+            "\u201c",
+            "Be",
+            "satisfied",
+            "to",
+            "take",
+            "half",
+            "as",
+            "many",
+            ",",
+            "my",
+            "boy",
+            ",",
+            "and",
+            "you",
+            "will",
+            "get",
+            "them",
+            "easily",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

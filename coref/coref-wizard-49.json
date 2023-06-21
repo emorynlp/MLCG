@@ -1,0 +1,449 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    29,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Toto",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a big branch",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the others",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the first tree",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the tree",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the tree",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Woodman",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Woodman",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the Woodman",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a small branch",
+                "pos": [
+                    24,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the branch",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Toto",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the little dog",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-49",
+    "sents": [
+        [
+            "\"",
+            "I",
+            "believe",
+            "I",
+            "will",
+            "try",
+            "it",
+            "myself",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "Woodman",
+            ",",
+            "and",
+            "shouldering",
+            "his",
+            "axe",
+            ",",
+            "he",
+            "marched",
+            "up",
+            "to",
+            "the",
+            "first",
+            "tree",
+            "that",
+            "had",
+            "handled",
+            "the",
+            "Scarecrow",
+            "so",
+            "roughly",
+            "."
+        ],
+        [
+            "When",
+            "a",
+            "big",
+            "branch",
+            "bent",
+            "down",
+            "to",
+            "seize",
+            "him",
+            "the",
+            "Woodman",
+            "chopped",
+            "at",
+            "it",
+            "so",
+            "fiercely",
+            "that",
+            "he",
+            "cut",
+            "it",
+            "in",
+            "two",
+            "."
+        ],
+        [
+            "At",
+            "once",
+            "the",
+            "tree",
+            "began",
+            "shaking",
+            "all",
+            "its",
+            "branches",
+            "as",
+            "if",
+            "in",
+            "pain",
+            ",",
+            "and",
+            "the",
+            "Tin",
+            "Woodman",
+            "passed",
+            "safely",
+            "under",
+            "it",
+            "."
+        ],
+        [
+            "\"",
+            "Come",
+            "on",
+            "!",
+            "\"",
+            "he",
+            "shouted",
+            "to",
+            "the",
+            "others",
+            "."
+        ],
+        [
+            "\"",
+            "Be",
+            "quick",
+            "!",
+            "\"",
+            "They",
+            "all",
+            "ran",
+            "forward",
+            "and",
+            "passed",
+            "under",
+            "the",
+            "tree",
+            "without",
+            "injury",
+            ",",
+            "except",
+            "Toto",
+            ",",
+            "who",
+            "was",
+            "caught",
+            "by",
+            "a",
+            "small",
+            "branch",
+            "and",
+            "shaken",
+            "until",
+            "he",
+            "howled",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "Woodman",
+            "promptly",
+            "chopped",
+            "off",
+            "the",
+            "branch",
+            "and",
+            "set",
+            "the",
+            "little",
+            "dog",
+            "free",
+            "."
+        ]
+    ]
+}

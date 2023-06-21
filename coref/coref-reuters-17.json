@@ -1,0 +1,281 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "pressure",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "increase",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "those conditions",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "1986",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "1986",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Ivaco Inc",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Ivaco",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the company",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the previous year",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "1985",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reuters-17",
+    "sents": [
+        [
+            "(",
+            "Ivaco",
+            "Inc",
+            ")",
+            "said",
+            "price",
+            "pressure",
+            "on",
+            "steel",
+            "products",
+            ",",
+            "particularly",
+            "in",
+            "the",
+            "U.S.",
+            ",",
+            "and",
+            "the",
+            "recent",
+            "increase",
+            "in",
+            "the",
+            "value",
+            "of",
+            "the",
+            "Canadian",
+            "dollar",
+            "is",
+            "expected",
+            "to",
+            "result",
+            "in",
+            "\"",
+            "minimal",
+            "\"",
+            "first",
+            "quarter",
+            "earnings",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "subsequent",
+            "quarters",
+            "should",
+            "show",
+            "substantial",
+            "improvement",
+            "from",
+            "first",
+            "quarter",
+            "levels",
+            "but",
+            "1987",
+            "earnings",
+            "will",
+            "not",
+            "reach",
+            "1986",
+            "levels",
+            "as",
+            "long",
+            "as",
+            "those",
+            "conditions",
+            "continue",
+            "."
+        ],
+        [
+            "Ivaco",
+            "earlier",
+            "reported",
+            "1986",
+            "profit",
+            "rose",
+            "to",
+            "44.1",
+            "mln",
+            "dlrs",
+            ",",
+            "after",
+            "a",
+            "one",
+            "mln",
+            "dlr",
+            "extraordinary",
+            "gain",
+            ",",
+            "from",
+            "35.1",
+            "mln",
+            "dlrs",
+            "the",
+            "previous",
+            "year",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "demand",
+            "for",
+            "the",
+            "company",
+            "'s",
+            "products",
+            "are",
+            "continuing",
+            "at",
+            "high",
+            "levels",
+            "and",
+            "sales",
+            "are",
+            "expected",
+            "to",
+            "show",
+            "further",
+            "growth",
+            "."
+        ],
+        [
+            "Revenues",
+            "last",
+            "year",
+            "rose",
+            "to",
+            "1.94",
+            "billion",
+            "dlrs",
+            "from",
+            "1.34",
+            "billion",
+            "dlrs",
+            "in",
+            "1985",
+            "."
+        ]
+    ]
+}

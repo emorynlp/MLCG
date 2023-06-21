@@ -1,0 +1,279 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Might end up in a tiny dorm room 80% of the time",
+                "pos": [
+                    12,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "since",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "we ca n\u2019t do much on campus now",
+                "pos": [
+                    25,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Thank you guys",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "being a great community",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-036",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "in",
+            "the",
+            "same",
+            "boat",
+            "as",
+            "many",
+            "of",
+            "you",
+            "-",
+            "being",
+            "offered",
+            "the",
+            "choice",
+            "to",
+            "return",
+            "to",
+            "living",
+            "on",
+            "campus",
+            ",",
+            "or",
+            "stay",
+            "an",
+            "online",
+            "student",
+            "."
+        ],
+        [
+            "Going",
+            "back",
+            "to",
+            "campus",
+            "I",
+            "..."
+        ],
+        [
+            "+",
+            "Have",
+            "independence",
+            "/",
+            "freedom",
+            "+",
+            "Get",
+            "away",
+            "from",
+            "my",
+            "family",
+            "-",
+            "Might",
+            "end",
+            "up",
+            "in",
+            "a",
+            "tiny",
+            "dorm",
+            "room",
+            "80%",
+            "of",
+            "the",
+            "time",
+            "since",
+            "we",
+            "ca",
+            "n\u2019t",
+            "do",
+            "much",
+            "on",
+            "campus",
+            "now",
+            "Staying",
+            "home",
+            "I",
+            "..."
+        ],
+        [
+            "+",
+            "Save",
+            "money",
+            "+",
+            "Have",
+            "a",
+            "car",
+            "and",
+            "more",
+            "places",
+            "to",
+            "escape",
+            "to",
+            "(",
+            "not",
+            "just",
+            "a",
+            "dorm",
+            "room",
+            ")",
+            "-",
+            "Have",
+            "to",
+            "be",
+            "around",
+            "my",
+            "family",
+            "constantly",
+            "for",
+            "another",
+            "3",
+            "months",
+            "-",
+            "FOMO",
+            "and",
+            "lack",
+            "of",
+            "socialization",
+            "Any",
+            "input",
+            "is",
+            "appreciated",
+            ",",
+            "I",
+            "really",
+            "dislike",
+            "both",
+            "options",
+            "and",
+            "do",
+            "n\u2019t",
+            "know",
+            "if",
+            "either",
+            "is",
+            "a",
+            "winner",
+            "."
+        ],
+        [
+            "EDIT",
+            ":",
+            "This",
+            "really",
+            "took",
+            "off",
+            ",",
+            "I",
+            "was",
+            "expecting",
+            "maybe",
+            "one",
+            "or",
+            "two",
+            "comments",
+            "."
+        ],
+        [
+            "Thank",
+            "you",
+            "guys",
+            "for",
+            "being",
+            "a",
+            "great",
+            "community",
+            ",",
+            "really",
+            "nice",
+            "to",
+            "read",
+            "the",
+            "comments",
+            "and",
+            "know",
+            "none",
+            "of",
+            "us",
+            "are",
+            "alone",
+            "."
+        ]
+    ]
+}

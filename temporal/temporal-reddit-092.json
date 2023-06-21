@@ -1,0 +1,443 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "is procrastinating",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been using",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is hard",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s kinda like",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "customizable",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "easy",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is free",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is a productivity management tool",
+                "pos": [
+                    4,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "used",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "super easy",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was looking for",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is free",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Edit",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 9,
+                "type": "DCT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-092",
+    "sents": [
+        [
+            "For",
+            "everyone",
+            "that",
+            "is",
+            "procrastinating",
+            "at",
+            "these",
+            "late",
+            "hours",
+            "like",
+            "I",
+            "am",
+            ",",
+            "what",
+            "are",
+            "your",
+            "favorite",
+            "student",
+            "tools",
+            "?"
+        ],
+        [
+            "Recently",
+            "I",
+            "'ve",
+            "been",
+            "using",
+            "Notion",
+            "and",
+            "[",
+            "Monday",
+            "."
+        ],
+        [
+            "com",
+            "]",
+            "(",
+            "https://Monday.com)",
+            "a",
+            "lot",
+            "."
+        ],
+        [
+            "Notion",
+            "is",
+            "hard",
+            "to",
+            "explain",
+            ",",
+            "it",
+            "'s",
+            "kinda",
+            "like",
+            "a",
+            "personal",
+            "database",
+            "of",
+            "pages",
+            "you",
+            "create",
+            "."
+        ],
+        [
+            "Highly",
+            "customizable",
+            "and",
+            "easy",
+            "to",
+            "use",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "free",
+            "for",
+            "students",
+            "[",
+            "Monday",
+            "."
+        ],
+        [
+            "com",
+            "]",
+            "(",
+            "https://Monday.com)",
+            "is",
+            "a",
+            "productivity",
+            "management",
+            "tool",
+            "used",
+            "by",
+            "companies",
+            "."
+        ],
+        [
+            "It",
+            "makes",
+            "it",
+            "super",
+            "easy",
+            "to",
+            "track",
+            "deadlines",
+            "and",
+            "manage",
+            "multiple",
+            "projects",
+            "."
+        ],
+        [
+            "I",
+            "found",
+            "it",
+            "when",
+            "I",
+            "was",
+            "looking",
+            "for",
+            "something",
+            "to",
+            "replace",
+            "to",
+            "-",
+            "do",
+            "lists",
+            "and",
+            "track",
+            "assignments",
+            "better",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "free",
+            "for",
+            "students",
+            "Edit",
+            ":",
+            "wow",
+            "so",
+            "many",
+            "replies",
+            "haha",
+            "."
+        ],
+        [
+            "Good",
+            "luck",
+            "with",
+            "finals",
+            "everyone"
+        ]
+    ]
+}

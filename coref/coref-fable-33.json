@@ -1,0 +1,397 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "one",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two Pots",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "We",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A RIVER",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the river",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the other",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The Brass Pot",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Earthen Pot",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-33",
+    "sents": [
+        [
+            "A",
+            "RIVER",
+            "carried",
+            "down",
+            ",",
+            "in",
+            "its",
+            "stream",
+            ",",
+            "two",
+            "Pots",
+            ",",
+            "one",
+            "made",
+            "of",
+            "Earthenware",
+            "and",
+            "the",
+            "other",
+            "of",
+            "Brass",
+            "."
+        ],
+        [
+            "The",
+            "Brass",
+            "Pot",
+            "was",
+            "disposed",
+            "to",
+            "be",
+            "social",
+            "."
+        ],
+        [
+            "\u201c",
+            "Since",
+            "we",
+            "must",
+            "be",
+            "companions",
+            ",",
+            "let",
+            "us",
+            "be",
+            "friendly",
+            ",",
+            "\u201d",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "\u201c",
+            "In",
+            "union",
+            "is",
+            "strength",
+            "."
+        ],
+        [
+            "Though",
+            "we",
+            "are",
+            "carried",
+            "away",
+            "against",
+            "our",
+            "will",
+            ",",
+            "it",
+            "is",
+            "of",
+            "no",
+            "use",
+            "to",
+            "repine",
+            "."
+        ],
+        [
+            "We",
+            "may",
+            "yet",
+            "see",
+            "much",
+            "good",
+            ".",
+            "\u201d"
+        ],
+        [
+            "But",
+            "the",
+            "Earthen",
+            "Pot",
+            "said",
+            ":",
+            "\u201c",
+            "I",
+            "beg",
+            "you",
+            "not",
+            "to",
+            "come",
+            "so",
+            "near",
+            "me",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "as",
+            "much",
+            "afraid",
+            "of",
+            "you",
+            "as",
+            "of",
+            "the",
+            "river",
+            ";",
+            "for",
+            "if",
+            "you",
+            "do",
+            "but",
+            "touch",
+            "me",
+            "ever",
+            "so",
+            "slightly",
+            ",",
+            "I",
+            "shall",
+            "be",
+            "sure",
+            "to",
+            "break",
+            "."
+        ],
+        [
+            "To",
+            "be",
+            "really",
+            "social",
+            "and",
+            "friendly",
+            "people",
+            "must",
+            "have",
+            "ways",
+            "and",
+            "needs",
+            "in",
+            "common",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "some",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "colleges",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "students",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "colleges",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "doc-situation"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "doc-situation"
+            },
+            {
+                "name": "this way",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-097",
+    "sents": [
+        [
+            "I",
+            "know",
+            "this",
+            "is",
+            "a",
+            "super",
+            "minor",
+            ",",
+            "and",
+            "basically",
+            "inconsequential",
+            "thing",
+            ",",
+            "but",
+            "I",
+            "look",
+            "young",
+            "."
+        ],
+        [
+            "People",
+            "have",
+            "told",
+            "me",
+            "I",
+            "look",
+            "like",
+            "I",
+            "could",
+            "be",
+            "a",
+            "highschool",
+            "freshmen",
+            "when",
+            "i",
+            "'m",
+            "really",
+            "turning",
+            "19",
+            "in",
+            "a",
+            "few",
+            "weeks",
+            "."
+        ],
+        [
+            "Then",
+            "I",
+            "look",
+            "at",
+            "colleges",
+            "and",
+            "their",
+            "pages",
+            "have",
+            "pictures",
+            "of",
+            "students",
+            "who",
+            "actually",
+            "look",
+            "their",
+            "age",
+            ",",
+            "and",
+            "some",
+            "even",
+            "have",
+            "beards",
+            "and",
+            "everything",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "this",
+            "does",
+            "n't",
+            "matter",
+            "at",
+            "all",
+            "when",
+            "picking",
+            "colleges",
+            "but",
+            "it",
+            "'s",
+            "just",
+            "something",
+            "I",
+            "noticed",
+            "."
+        ],
+        [
+            "Anyone",
+            "else",
+            "feel",
+            "this",
+            "way",
+            "?"
+        ],
+        [
+            "Or",
+            "maybe",
+            "I",
+            "am",
+            "just",
+            "weird",
+            ",",
+            "I",
+            "think",
+            "i",
+            "'m",
+            "just",
+            "weird",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "We shall be far better friends",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "we live together",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "then",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "our housekeeping expenses will be greatly lessened",
+                "pos": [
+                    19,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The arrangement would not suit me in the least",
+                "pos": [
+                    5,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "whatever I should take pains to whiten , your charcoal would immediately blacken",
+                "pos": [
+                    16,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause|cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-38",
+    "sents": [
+        [
+            "A",
+            "CHARCOAL",
+            "Burner",
+            "carried",
+            "on",
+            "his",
+            "trade",
+            "at",
+            "his",
+            "own",
+            "house",
+            "."
+        ],
+        [
+            "One",
+            "day",
+            "he",
+            "met",
+            "a",
+            "friend",
+            "who",
+            "was",
+            "a",
+            "Fuller",
+            ",",
+            "and",
+            "begged",
+            "him",
+            "to",
+            "come",
+            "and",
+            "live",
+            "with",
+            "him",
+            "."
+        ],
+        [
+            "\u201c",
+            "We",
+            "shall",
+            "be",
+            "far",
+            "better",
+            "friends",
+            "if",
+            "we",
+            "live",
+            "together",
+            ",",
+            "\u201d",
+            "he",
+            "said",
+            ",",
+            "\u201c",
+            "and",
+            "then",
+            "our",
+            "housekeeping",
+            "expenses",
+            "will",
+            "be",
+            "greatly",
+            "lessened",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Fuller",
+            "replied",
+            ":",
+            "\u201c",
+            "The",
+            "arrangement",
+            "would",
+            "not",
+            "suit",
+            "me",
+            "in",
+            "the",
+            "least",
+            ",",
+            "for",
+            "whatever",
+            "I",
+            "should",
+            "take",
+            "pains",
+            "to",
+            "whiten",
+            ",",
+            "your",
+            "charcoal",
+            "would",
+            "immediately",
+            "blacken",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "afraid",
+            "we",
+            "should",
+            "not",
+            "grow",
+            "better",
+            "friends",
+            "under",
+            "such",
+            "circumstances",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

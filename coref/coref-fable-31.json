@@ -1,0 +1,510 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Traveler",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the sun",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his driver",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the driver",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the driver",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    45,
+                    46
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Traveler",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Traveler",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Traveler",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Traveler",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    47,
+                    48
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Mule",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Mule",
+                "pos": [
+                    28,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "this Mule",
+                "pos": [
+                    42,
+                    44
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the Mule",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the shadow",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the shadow",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the shadow",
+                "pos": [
+                    51,
+                    53
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the shadow",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-31",
+    "sents": [
+        [
+            "ONE",
+            "very",
+            "hot",
+            "day",
+            "a",
+            "Traveler",
+            "hired",
+            "a",
+            "Mule",
+            "with",
+            "his",
+            "driver",
+            "to",
+            "carry",
+            "some",
+            "merchandise",
+            "to",
+            "a",
+            "distant",
+            "place",
+            "."
+        ],
+        [
+            "The",
+            "way",
+            "lay",
+            "across",
+            "a",
+            "sandy",
+            "plain",
+            ",",
+            "and",
+            "the",
+            "day",
+            "being",
+            "intensely",
+            "hot",
+            ",",
+            "the",
+            "Traveler",
+            "called",
+            "upon",
+            "the",
+            "driver",
+            "to",
+            "stop",
+            "for",
+            "rest",
+            "."
+        ],
+        [
+            "To",
+            "escape",
+            "from",
+            "the",
+            "direct",
+            "heat",
+            "of",
+            "the",
+            "sun",
+            ",",
+            "which",
+            "was",
+            "shining",
+            "in",
+            "all",
+            "its",
+            "strength",
+            ",",
+            "the",
+            "Traveler",
+            "proceeded",
+            "to",
+            "sit",
+            "down",
+            "in",
+            "the",
+            "shadow",
+            "of",
+            "the",
+            "Mule",
+            "."
+        ],
+        [
+            "But",
+            "a",
+            "violent",
+            "dispute",
+            "arose",
+            ",",
+            "for",
+            "the",
+            "shadow",
+            "was",
+            "sufficient",
+            "for",
+            "but",
+            "one",
+            ",",
+            "and",
+            "the",
+            "driver",
+            ",",
+            "a",
+            "lusty",
+            "fellow",
+            ",",
+            "rudely",
+            "pushed",
+            "the",
+            "Traveler",
+            "one",
+            "side",
+            ",",
+            "claiming",
+            "the",
+            "spot",
+            "for",
+            "himself",
+            ",",
+            "saying",
+            ":",
+            "\u201c",
+            "When",
+            "you",
+            "hired",
+            "this",
+            "Mule",
+            "of",
+            "me",
+            ",",
+            "you",
+            "said",
+            "nothing",
+            "about",
+            "the",
+            "shadow",
+            "."
+        ],
+        [
+            "If",
+            "now",
+            "you",
+            "want",
+            "that",
+            "too",
+            ",",
+            "you",
+            "must",
+            "pay",
+            "for",
+            "it",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "discussion",
+            "grew",
+            "so",
+            "violent",
+            "that",
+            "they",
+            "forgot",
+            "the",
+            "Mule",
+            ",",
+            "who",
+            "took",
+            "advantage",
+            "of",
+            "his",
+            "freedom",
+            "and",
+            "ran",
+            "away",
+            "."
+        ],
+        [
+            "And",
+            "so",
+            ",",
+            "in",
+            "disputing",
+            "about",
+            "the",
+            "shadow",
+            "they",
+            "lost",
+            "the",
+            "substance",
+            "."
+        ]
+    ]
+}

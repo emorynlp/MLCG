@@ -1,0 +1,336 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "is typically fixed",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m sitting",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sick",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is amazing",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cares about",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was forced",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m tired",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-073",
+    "sents": [
+        [
+            "As",
+            "grad",
+            "students",
+            ",",
+            "we",
+            "are",
+            "probably",
+            "one",
+            "of",
+            "the",
+            "most",
+            "sensitive",
+            "groups",
+            "to",
+            "changes",
+            "in",
+            "cost",
+            "of",
+            "living",
+            ",",
+            "as",
+            "our",
+            "income",
+            "is",
+            "typically",
+            "fixed",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "sitting",
+            "in",
+            "my",
+            "room",
+            ",",
+            "sick",
+            "possibly",
+            "because",
+            "of",
+            "the",
+            "lack",
+            "of",
+            "COVID",
+            "protocol",
+            "at",
+            "my",
+            "university",
+            "(",
+            "although",
+            "I",
+            "'m",
+            "not",
+            "fully",
+            "convinced",
+            "that",
+            "I",
+            "have",
+            "COVID",
+            ")",
+            ",",
+            "and",
+            "not",
+            "having",
+            "eaten",
+            "a",
+            "real",
+            "meal",
+            "since",
+            "Monday",
+            ",",
+            "with",
+            "$",
+            "40",
+            "in",
+            "bank",
+            "that",
+            "is",
+            "supposed",
+            "to",
+            "last",
+            "till",
+            "the",
+            "first",
+            "of",
+            "October",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "amazing",
+            "how",
+            "little",
+            "the",
+            "University",
+            "cares",
+            "about",
+            "its",
+            "grad",
+            "students",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "300",
+            "students",
+            "and",
+            "was",
+            "forced",
+            "to",
+            "cancel",
+            "class",
+            "twice",
+            "this",
+            "week",
+            "due",
+            "to",
+            "a",
+            "possible",
+            "super",
+            "spreader",
+            "event",
+            "."
+        ],
+        [
+            "Is",
+            "it",
+            "against",
+            "University",
+            "protocol",
+            "?"
+        ],
+        [
+            "Idk",
+            "but",
+            "I",
+            "'m",
+            "not",
+            "gon",
+            "na",
+            "subject",
+            "my",
+            "students",
+            "to",
+            "unnecessary",
+            "exposure",
+            "to",
+            "COVID",
+            ",",
+            "especially",
+            "when",
+            "I",
+            "ca",
+            "n't",
+            "even",
+            "regularly",
+            "eat",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "tired",
+            "."
+        ]
+    ]
+}

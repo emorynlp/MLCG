@@ -1,0 +1,350 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "went",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was too deep",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sinking",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried out",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "passing by",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asked",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "replied",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-20",
+    "sents": [
+        [
+            "A",
+            "LITTLE",
+            "Boy",
+            "once",
+            "went",
+            "in",
+            "bathing",
+            "where",
+            "the",
+            "water",
+            "was",
+            "too",
+            "deep",
+            "for",
+            "him",
+            "."
+        ],
+        [
+            "When",
+            "he",
+            "found",
+            "himself",
+            "sinking",
+            ",",
+            "he",
+            "cried",
+            "out",
+            "to",
+            "a",
+            "Man",
+            "who",
+            "was",
+            "passing",
+            "by",
+            ",",
+            "to",
+            "come",
+            "and",
+            "help",
+            "him",
+            "."
+        ],
+        [
+            "\u201c",
+            "Ca",
+            "n\u2019t",
+            "you",
+            "swim",
+            "?",
+            "\u201d"
+        ],
+        [
+            "asked",
+            "the",
+            "Man",
+            "."
+        ],
+        [
+            "\u201c",
+            "No",
+            ",",
+            "\u201d",
+            "replied",
+            "the",
+            "Boy",
+            ",",
+            "\u201c",
+            "I",
+            "do",
+            "n\u2019t",
+            "know",
+            "how",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "How",
+            "foolish",
+            "you",
+            "were",
+            ",",
+            "then",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Man",
+            ",",
+            "\u201c",
+            "to",
+            "go",
+            "into",
+            "deep",
+            "water",
+            "!"
+        ],
+        [
+            "Did",
+            "n\u2019t",
+            "you",
+            "know",
+            "better",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Oh",
+            ",",
+            "good",
+            "sir",
+            ",",
+            "please",
+            "help",
+            "me",
+            "now",
+            ",",
+            "or",
+            "I",
+            "shall",
+            "drown",
+            "!",
+            "\u201d"
+        ],
+        [
+            "cried",
+            "the",
+            "Boy",
+            "."
+        ],
+        [
+            "\u201c",
+            "You",
+            "can",
+            "scold",
+            "me",
+            "when",
+            "I",
+            "am",
+            "safe",
+            "on",
+            "shore",
+            "again",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

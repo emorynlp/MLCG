@@ -1,0 +1,346 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is pandemic celebrations",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Had",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s good",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s plenty of time",
+                "pos": [
+                    23,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dedicating",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Really excited",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "a bit nervous",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m hopeful",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-112",
+    "sents": [
+        [
+            "In",
+            "the",
+            "span",
+            "of",
+            "a",
+            "couple",
+            "hours",
+            "haha",
+            ":",
+            "https://i.imgur.com/BJsHNBm.png,",
+            "made",
+            "for",
+            "some",
+            "excellent",
+            "vibes",
+            "."
+        ],
+        [
+            "Even",
+            "with",
+            "the",
+            "anticlimax",
+            "that",
+            "is",
+            "pandemic",
+            "celebrations",
+            "."
+        ],
+        [
+            "Dat",
+            "Dr.",
+            "--",
+            "MCMC",
+            "--",
+            "!"
+        ],
+        [
+            "Had",
+            "a",
+            "total",
+            "blast",
+            "in",
+            "grad",
+            "school",
+            "but",
+            "it",
+            "'s",
+            "good",
+            "to",
+            "be",
+            "PhDone",
+            "!"
+        ],
+        [
+            "(",
+            "well",
+            ",",
+            "not",
+            "really",
+            ",",
+            "still",
+            "have",
+            "to",
+            "actually",
+            "publish",
+            "my",
+            "dissertation",
+            "chapters",
+            "and",
+            "give",
+            "an",
+            "exit",
+            "talk",
+            "haha",
+            ",",
+            "but",
+            "there",
+            "'s",
+            "plenty",
+            "of",
+            "time",
+            "for",
+            "that",
+            ")",
+            "."
+        ],
+        [
+            "Ended",
+            "up",
+            "dedicating",
+            "the",
+            "dissertation",
+            "to",
+            "[",
+            "this",
+            "moste",
+            "anciente",
+            "creatur",
+            "]",
+            "(",
+            "https://imgur.com/a/a1EtY4x)",
+            "and",
+            "labmate",
+            "."
+        ],
+        [
+            "Really",
+            "excited",
+            "--",
+            "and",
+            "a",
+            "bit",
+            "nervous",
+            "--",
+            "for",
+            "these",
+            "next",
+            "steps",
+            "!"
+        ],
+        [
+            "Lotsa",
+            "learns",
+            "ahead",
+            "but",
+            "I",
+            "'m",
+            "hopeful",
+            "(",
+            "from",
+            "early",
+            "conversations",
+            "with",
+            "my",
+            "awesome",
+            "new",
+            "PI",
+            ")",
+            "that",
+            "this",
+            "pivot",
+            "to",
+            "a",
+            "new",
+            "field",
+            "will",
+            "go",
+            "smoothly",
+            "!"
+        ],
+        [
+            "AMA",
+            "if",
+            "you",
+            "want",
+            "me",
+            "to",
+            "drop",
+            "any",
+            "of",
+            "this",
+            "recently",
+            "graduated",
+            "wisdom",
+            "."
+        ]
+    ]
+}

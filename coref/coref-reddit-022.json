@@ -1,0 +1,233 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-022",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "in",
+            "my",
+            "sophomore",
+            "year",
+            "and",
+            "I",
+            "\u2019m",
+            "taking",
+            "next",
+            "semester",
+            "off",
+            "to",
+            "think",
+            "about",
+            "what",
+            "to",
+            "major",
+            "in",
+            "."
+        ],
+        [
+            "I",
+            "need",
+            "a",
+            "really",
+            "good",
+            "paying",
+            "job",
+            "because",
+            "I",
+            "do",
+            "not",
+            "want",
+            "to",
+            "get",
+            "a",
+            "MINIMUM",
+            "wage",
+            "job",
+            "for",
+            "the",
+            "rest",
+            "of",
+            "my",
+            "life",
+            "!"
+        ],
+        [
+            "What",
+            "interestes",
+            "me",
+            "most",
+            ":",
+            "art",
+            ",",
+            "social",
+            "work",
+            ",",
+            "nursing",
+            "(",
+            "having",
+            "problems",
+            "getting",
+            "into",
+            "program",
+            "though",
+            "so",
+            "unlikely",
+            "I",
+            "can",
+            ")",
+            ",",
+            "graphic",
+            "design",
+            ",",
+            "health",
+            ",",
+            "environmental",
+            "health",
+            "."
+        ],
+        [
+            "As",
+            "you",
+            "can",
+            "see",
+            "ALOT",
+            "interests",
+            "me",
+            "but",
+            "choosing",
+            "ONE",
+            "is",
+            "hard",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "getting",
+            "a",
+            "minor",
+            "too",
+            "but",
+            "have",
+            "no",
+            "idea",
+            "what",
+            "\u2019s",
+            "a",
+            "better",
+            "field",
+            "to",
+            "get",
+            "into",
+            "to",
+            "make",
+            "good",
+            "money",
+            "."
+        ]
+    ]
+}

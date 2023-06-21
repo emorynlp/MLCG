@@ -1,0 +1,368 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "We",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "stranded",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a rail line",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the rail line",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "April 1",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "April 1",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "We",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Martin Perez",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "hundreds of tourists",
+                "pos": [
+                    20,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "more than 1,000 stranded tourists",
+                "pos": [
+                    9,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "rain",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Heavy rain",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the rain",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Machu Picchu",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Machu Picchu",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Machu Picchu",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-33",
+    "sents": [
+        [
+            "Peru",
+            "'s",
+            "ancient",
+            "Inca",
+            "ruins",
+            "of",
+            "Machu",
+            "Picchu",
+            "should",
+            "reopen",
+            "April",
+            "1",
+            ",",
+            "more",
+            "than",
+            "two",
+            "months",
+            "after",
+            "rain",
+            "stranded",
+            "hundreds",
+            "of",
+            "tourists",
+            "at",
+            "the",
+            "popular",
+            "spot",
+            ",",
+            "the",
+            "government",
+            "said",
+            "."
+        ],
+        [
+            "Heavy",
+            "rain",
+            "in",
+            "January",
+            "unleashed",
+            "mudslides",
+            "that",
+            "cut",
+            "off",
+            "roads",
+            "and",
+            "blocked",
+            "a",
+            "rail",
+            "line",
+            "between",
+            "Machu",
+            "Picchu",
+            "and",
+            "the",
+            "nearby",
+            "city",
+            "of",
+            "Cusco",
+            "."
+        ],
+        [
+            "Water",
+            "levels",
+            "at",
+            "the",
+            "Vilcanota",
+            "River",
+            "have",
+            "receded",
+            "enough",
+            "to",
+            "allow",
+            "repairs",
+            "to",
+            "the",
+            "rail",
+            "line",
+            ",",
+            "said",
+            "Martin",
+            "Perez",
+            ",",
+            "head",
+            "of",
+            "Peru",
+            "'s",
+            "Ministry",
+            "of",
+            "Exterior",
+            "Commerce",
+            "and",
+            "Tourism",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "expect",
+            "that",
+            "starting",
+            "April",
+            "1",
+            ",",
+            "we",
+            "will",
+            "start",
+            "to",
+            "receive",
+            "the",
+            "millions",
+            "of",
+            "tourists",
+            "who",
+            "always",
+            "have",
+            "come",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "Tuesday",
+            "."
+        ],
+        [
+            "Peruvian",
+            "officials",
+            "were",
+            "forced",
+            "to",
+            "use",
+            "helicopters",
+            "to",
+            "evacuate",
+            "more",
+            "than",
+            "1,000",
+            "stranded",
+            "tourists",
+            "last",
+            "month",
+            "."
+        ],
+        [
+            "Authorities",
+            "estimated",
+            "that",
+            "10,000",
+            "people",
+            "were",
+            "affected",
+            "by",
+            "the",
+            "rain",
+            "and",
+            "2,000",
+            "homes",
+            "were",
+            "ruined",
+            "near",
+            "Machu",
+            "Picchu",
+            "."
+        ],
+        [
+            "At",
+            "least",
+            "seven",
+            "deaths",
+            "were",
+            "reported",
+            "."
+        ]
+    ]
+}

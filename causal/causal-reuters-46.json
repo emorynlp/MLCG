@@ -1,0 +1,221 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "damages claims totalling about 420,000 dlrs",
+                "pos": [
+                    6,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "from",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the former owners of Burdett Publications Inc.",
+                "pos": [
+                    13,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the transaction was not qualified with the California Department of Corporations",
+                "pos": [
+                    53,
+                    64
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "As a result",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the former Burdett Publications owners have a claim for damages against Dale Burdett as successor to Nolex for one yuear starting January 21 , 1987",
+                "pos": [
+                    7,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-46",
+    "sents": [
+        [
+            "Dale",
+            "Burdett",
+            "Inc",
+            "said",
+            "it",
+            "faces",
+            "damages",
+            "claims",
+            "totalling",
+            "about",
+            "420,000",
+            "dlrs",
+            "from",
+            "the",
+            "former",
+            "owners",
+            "of",
+            "Burdett",
+            "Publications",
+            "Inc.",
+            "The",
+            "company",
+            "said",
+            "on",
+            "February",
+            "20",
+            ",",
+            "1986",
+            ",",
+            "its",
+            "predecessor",
+            "Nolex",
+            "Development",
+            "Inc",
+            "acquired",
+            "Burdett",
+            "Publications",
+            "Inc",
+            "in",
+            "an",
+            "exchange",
+            "of",
+            "17",
+            "mln",
+            "common",
+            "shares",
+            "for",
+            "all",
+            "Burdett",
+            "Publications",
+            "shares",
+            ",",
+            "but",
+            "the",
+            "transaction",
+            "was",
+            "not",
+            "qualified",
+            "with",
+            "the",
+            "California",
+            "Department",
+            "of",
+            "Corporations",
+            "."
+        ],
+        [
+            "As",
+            "a",
+            "result",
+            ",",
+            "it",
+            "said",
+            ",",
+            "the",
+            "former",
+            "Burdett",
+            "Publications",
+            "owners",
+            "have",
+            "a",
+            "claim",
+            "for",
+            "damages",
+            "against",
+            "Dale",
+            "Burdett",
+            "as",
+            "successor",
+            "to",
+            "Nolex",
+            "for",
+            "one",
+            "yuear",
+            "starting",
+            "January",
+            "21",
+            ",",
+            "1987",
+            ",",
+            "with",
+            "the",
+            "damages",
+            "measured",
+            "by",
+            "the",
+            "difference",
+            "in",
+            "values",
+            "of",
+            "shares",
+            "exchanged",
+            "plus",
+            "interest",
+            "from",
+            "February",
+            "20",
+            ",",
+            "1986",
+            "."
+        ]
+    ]
+}

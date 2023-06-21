@@ -1,0 +1,304 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The tinsmiths",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the tinsmiths",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Woodman",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    43,
+                    46
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    50,
+                    51
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    55,
+                    56
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    60,
+                    61
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Woodman",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "several patches",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the patches",
+                "pos": [
+                    32,
+                    34
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-wizard-28",
+    "sents": [
+        [
+            "The",
+            "tinsmiths",
+            "looked",
+            "the",
+            "Woodman",
+            "over",
+            "carefully",
+            "and",
+            "then",
+            "answered",
+            "that",
+            "they",
+            "thought",
+            "they",
+            "could",
+            "mend",
+            "him",
+            "so",
+            "he",
+            "would",
+            "be",
+            "as",
+            "good",
+            "as",
+            "ever",
+            "."
+        ],
+        [
+            "So",
+            "they",
+            "set",
+            "to",
+            "work",
+            "in",
+            "one",
+            "of",
+            "the",
+            "big",
+            "yellow",
+            "rooms",
+            "of",
+            "the",
+            "castle",
+            "and",
+            "worked",
+            "for",
+            "three",
+            "days",
+            "and",
+            "four",
+            "nights",
+            ",",
+            "hammering",
+            "and",
+            "twisting",
+            "and",
+            "bending",
+            "and",
+            "soldering",
+            "and",
+            "polishing",
+            "and",
+            "pounding",
+            "at",
+            "the",
+            "legs",
+            "and",
+            "body",
+            "and",
+            "head",
+            "of",
+            "the",
+            "Tin",
+            "Woodman",
+            ",",
+            "until",
+            "at",
+            "last",
+            "he",
+            "was",
+            "straightened",
+            "out",
+            "into",
+            "his",
+            "old",
+            "form",
+            ",",
+            "and",
+            "his",
+            "joints",
+            "worked",
+            "as",
+            "well",
+            "as",
+            "ever",
+            "."
+        ],
+        [
+            "To",
+            "be",
+            "sure",
+            ",",
+            "there",
+            "were",
+            "several",
+            "patches",
+            "on",
+            "him",
+            ",",
+            "but",
+            "the",
+            "tinsmiths",
+            "did",
+            "a",
+            "good",
+            "job",
+            ",",
+            "and",
+            "as",
+            "the",
+            "Woodman",
+            "was",
+            "not",
+            "a",
+            "vain",
+            "man",
+            "he",
+            "did",
+            "not",
+            "mind",
+            "the",
+            "patches",
+            "at",
+            "all",
+            "."
+        ]
+    ]
+}

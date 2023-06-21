@@ -1,0 +1,278 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were priced",
+                "pos": [
+                    36,
+                    38
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Non-refundable",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is rated",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "starts",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "giving",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "co-managed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-23",
+    "sents": [
+        [
+            "Torchmark",
+            "Corp",
+            "is",
+            "raising",
+            "200",
+            "mln",
+            "dlrs",
+            "through",
+            "an",
+            "offering",
+            "of",
+            "sinking",
+            "fund",
+            "debentures",
+            "due",
+            "2017",
+            "yielding",
+            "8.65",
+            "pct",
+            ",",
+            "said",
+            "lead",
+            "manager",
+            "First",
+            "Boston",
+            "Corp.",
+            "The",
+            "debentures",
+            "have",
+            "an",
+            "8-5",
+            "/",
+            "8",
+            "pct",
+            "coupon",
+            "and",
+            "were",
+            "priced",
+            "at",
+            "99.73",
+            "to",
+            "yield",
+            "100",
+            "basis",
+            "points",
+            "over",
+            "the",
+            "off",
+            "-",
+            "the",
+            "-",
+            "run",
+            "9-1",
+            "/",
+            "4",
+            "pct",
+            "Treasury",
+            "bonds",
+            "of",
+            "2016",
+            "."
+        ],
+        [
+            "Non-refundable",
+            "for",
+            "10",
+            "years",
+            ",",
+            "the",
+            "issue",
+            "is",
+            "rated",
+            "A-2",
+            "by",
+            "Moody",
+            "'s",
+            "and",
+            "AA",
+            "by",
+            "Standard",
+            "and",
+            "Poor",
+            "'s",
+            "."
+        ],
+        [
+            "A",
+            "sinking",
+            "fund",
+            "starts",
+            "in",
+            "1998",
+            "to",
+            "retire",
+            "76",
+            "pct",
+            "of",
+            "the",
+            "debentures",
+            "by",
+            "maturity",
+            ",",
+            "giving",
+            "them",
+            "an",
+            "estimated",
+            "maximum",
+            "life",
+            "of",
+            "22.4",
+            "years",
+            "."
+        ],
+        [
+            "Merrill",
+            "Lynch",
+            "co-managed",
+            "the",
+            "deal",
+            "."
+        ]
+    ]
+}

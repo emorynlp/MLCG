@@ -1,0 +1,254 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The port of Philadelphia was closed",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a Cypriot oil tanker , Seapride II , ran aground",
+                "pos": [
+                    7,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "hitting a 200 - foot tower supporting power lines across the river",
+                "pos": [
+                    18,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the port would be closed until today",
+                "pos": [
+                    2,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they hoped to refloat the ship on the high tide",
+                "pos": [
+                    10,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause|effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-44",
+    "sents": [
+        [
+            "The",
+            "port",
+            "of",
+            "Philadelphia",
+            "was",
+            "closed",
+            "when",
+            "a",
+            "Cypriot",
+            "oil",
+            "tanker",
+            ",",
+            "Seapride",
+            "II",
+            ",",
+            "ran",
+            "aground",
+            "after",
+            "hitting",
+            "a",
+            "200",
+            "-",
+            "foot",
+            "tower",
+            "supporting",
+            "power",
+            "lines",
+            "across",
+            "the",
+            "river",
+            ",",
+            "a",
+            "Coast",
+            "Guard",
+            "spokesman",
+            "said",
+            "."
+        ],
+        [
+            "He",
+            "said",
+            "there",
+            "was",
+            "no",
+            "oil",
+            "spill",
+            "but",
+            "the",
+            "ship",
+            "is",
+            "lodged",
+            "on",
+            "rocks",
+            "opposite",
+            "the",
+            "Hope",
+            "Creek",
+            "nuclear",
+            "power",
+            "plant",
+            "in",
+            "New",
+            "Jersey",
+            "."
+        ],
+        [
+            "He",
+            "said",
+            "the",
+            "port",
+            "would",
+            "be",
+            "closed",
+            "until",
+            "today",
+            "when",
+            "they",
+            "hoped",
+            "to",
+            "refloat",
+            "the",
+            "ship",
+            "on",
+            "the",
+            "high",
+            "tide",
+            "."
+        ],
+        [
+            "After",
+            "delivering",
+            "oil",
+            "to",
+            "a",
+            "refinery",
+            "in",
+            "Paulsboro",
+            ",",
+            "New",
+            "Jersey",
+            ",",
+            "the",
+            "ship",
+            "apparently",
+            "lost",
+            "its",
+            "steering",
+            "and",
+            "hit",
+            "the",
+            "power",
+            "transmission",
+            "line",
+            "carrying",
+            "power",
+            "from",
+            "the",
+            "nuclear",
+            "plant",
+            "to",
+            "the",
+            "state",
+            "of",
+            "Delaware",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "tried",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "caught",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "answered",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-12",
+    "sents": [
+        [
+            "A",
+            "HUNGRY",
+            "Cat",
+            ",",
+            "who",
+            "had",
+            "tried",
+            "in",
+            "vain",
+            "to",
+            "find",
+            "a",
+            "Mouse",
+            "for",
+            "her",
+            "supper",
+            ",",
+            "at",
+            "last",
+            "caught",
+            "a",
+            "young",
+            "Cock",
+            "."
+        ],
+        [
+            "\u201c",
+            "You",
+            "are",
+            "a",
+            "noisy",
+            "creature",
+            ",",
+            "\u201d",
+            "she",
+            "said",
+            "to",
+            "him",
+            ",",
+            "\u201c",
+            "and",
+            "have",
+            "lived",
+            "long",
+            "enough",
+            "."
+        ],
+        [
+            "You",
+            "disturb",
+            "every",
+            "one",
+            "in",
+            "the",
+            "house",
+            "by",
+            "your",
+            "loud",
+            "crowing",
+            "in",
+            "the",
+            "morning",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "You",
+            "are",
+            "mistaken",
+            ",",
+            "\u201d",
+            "answered",
+            "the",
+            "Cock",
+            ";",
+            "\u201c",
+            "I",
+            "disturb",
+            "no",
+            "one",
+            "."
+        ],
+        [
+            "I",
+            "crow",
+            "to",
+            "wake",
+            "the",
+            "family",
+            "."
+        ],
+        [
+            "They",
+            "would",
+            "not",
+            "know",
+            "when",
+            "to",
+            "get",
+            "up",
+            "but",
+            "for",
+            "me",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Never",
+            "mind",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Cat",
+            ";",
+            "\u201c",
+            "do",
+            "n\u2019t",
+            "trouble",
+            "yourself",
+            "to",
+            "make",
+            "excuses",
+            ";",
+            "I",
+            "have",
+            "had",
+            "no",
+            "breakfast",
+            "and",
+            "no",
+            "dinner",
+            ";",
+            "I",
+            "shall",
+            "eat",
+            "you",
+            "for",
+            "my",
+            "supper",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

@@ -1,0 +1,449 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "looked the Woodman over",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "answered",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "work",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "worked",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hammering",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "twisting",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bending",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "soldering",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "polishing",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pounding",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was straightened out",
+                "pos": [
+                    51,
+                    54
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "worked",
+                "pos": [
+                    62,
+                    63
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were several patches",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-28",
+    "sents": [
+        [
+            "The",
+            "tinsmiths",
+            "looked",
+            "the",
+            "Woodman",
+            "over",
+            "carefully",
+            "and",
+            "then",
+            "answered",
+            "that",
+            "they",
+            "thought",
+            "they",
+            "could",
+            "mend",
+            "him",
+            "so",
+            "he",
+            "would",
+            "be",
+            "as",
+            "good",
+            "as",
+            "ever",
+            "."
+        ],
+        [
+            "So",
+            "they",
+            "set",
+            "to",
+            "work",
+            "in",
+            "one",
+            "of",
+            "the",
+            "big",
+            "yellow",
+            "rooms",
+            "of",
+            "the",
+            "castle",
+            "and",
+            "worked",
+            "for",
+            "three",
+            "days",
+            "and",
+            "four",
+            "nights",
+            ",",
+            "hammering",
+            "and",
+            "twisting",
+            "and",
+            "bending",
+            "and",
+            "soldering",
+            "and",
+            "polishing",
+            "and",
+            "pounding",
+            "at",
+            "the",
+            "legs",
+            "and",
+            "body",
+            "and",
+            "head",
+            "of",
+            "the",
+            "Tin",
+            "Woodman",
+            ",",
+            "until",
+            "at",
+            "last",
+            "he",
+            "was",
+            "straightened",
+            "out",
+            "into",
+            "his",
+            "old",
+            "form",
+            ",",
+            "and",
+            "his",
+            "joints",
+            "worked",
+            "as",
+            "well",
+            "as",
+            "ever",
+            "."
+        ],
+        [
+            "To",
+            "be",
+            "sure",
+            ",",
+            "there",
+            "were",
+            "several",
+            "patches",
+            "on",
+            "him",
+            ",",
+            "but",
+            "the",
+            "tinsmiths",
+            "did",
+            "a",
+            "good",
+            "job",
+            ",",
+            "and",
+            "as",
+            "the",
+            "Woodman",
+            "was",
+            "not",
+            "a",
+            "vain",
+            "man",
+            "he",
+            "did",
+            "not",
+            "mind",
+            "the",
+            "patches",
+            "at",
+            "all",
+            "."
+        ]
+    ]
+}

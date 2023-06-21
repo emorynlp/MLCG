@@ -1,0 +1,657 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "stiff",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was at",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gather",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stretched",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dozing",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "nibbling",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was passing",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been a favorite",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "in great numbers",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "call upon",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wish",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "welcome",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "helped",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "provided",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "died",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "eaten",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "doing",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is well",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 21,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-49",
+    "sents": [
+        [
+            "A",
+            "STAG",
+            ",",
+            "whose",
+            "joints",
+            "had",
+            "become",
+            "stiff",
+            "with",
+            "age",
+            ",",
+            "was",
+            "at",
+            "great",
+            "pains",
+            "to",
+            "gather",
+            "an",
+            "abundant",
+            "supply",
+            "of",
+            "food",
+            "\u2014",
+            "enough",
+            ",",
+            "as",
+            "he",
+            "thought",
+            ",",
+            "for",
+            "the",
+            "remainder",
+            "of",
+            "his",
+            "days",
+            "."
+        ],
+        [
+            "He",
+            "stretched",
+            "himself",
+            "beside",
+            "it",
+            ",",
+            "in",
+            "a",
+            "quiet",
+            ",",
+            "sunny",
+            "corner",
+            "of",
+            "his",
+            "pasture",
+            ",",
+            "and",
+            "now",
+            "dozing",
+            ",",
+            "now",
+            "nibbling",
+            ",",
+            "was",
+            "passing",
+            "a",
+            "happy",
+            "old",
+            "age",
+            "."
+        ],
+        [
+            "He",
+            "had",
+            "been",
+            "a",
+            "favorite",
+            "among",
+            "his",
+            "companions",
+            ",",
+            "and",
+            "they",
+            "now",
+            "came",
+            "often",
+            ",",
+            "and",
+            "in",
+            "great",
+            "numbers",
+            ",",
+            "to",
+            "call",
+            "upon",
+            "him",
+            "and",
+            "wish",
+            "him",
+            "good",
+            "luck",
+            "."
+        ],
+        [
+            "He",
+            "made",
+            "them",
+            "welcome",
+            "in",
+            "a",
+            "hospitable",
+            "manner",
+            ",",
+            "and",
+            "each",
+            ",",
+            "as",
+            "often",
+            "as",
+            "he",
+            "came",
+            ",",
+            "helped",
+            "himself",
+            "to",
+            "a",
+            "little",
+            "of",
+            "the",
+            "food",
+            "so",
+            "abundantly",
+            "provided",
+            "."
+        ],
+        [
+            "The",
+            "end",
+            "of",
+            "the",
+            "matter",
+            "was",
+            ",",
+            "that",
+            "the",
+            "poor",
+            "Stag",
+            "died",
+            ",",
+            "not",
+            "so",
+            "much",
+            "from",
+            "either",
+            "sickness",
+            "or",
+            "old",
+            "age",
+            "as",
+            "from",
+            "want",
+            "of",
+            "the",
+            "food",
+            "which",
+            "his",
+            "friends",
+            "had",
+            "eaten",
+            "for",
+            "him",
+            "."
+        ],
+        [
+            "Before",
+            "doing",
+            "a",
+            "thing",
+            ",",
+            "it",
+            "is",
+            "well",
+            "sometimes",
+            "to",
+            "consider",
+            ",",
+            "\u201c",
+            "What",
+            "if",
+            "every",
+            "one",
+            "should",
+            "do",
+            "it",
+            "?",
+            "\u201d"
+        ]
+    ]
+}

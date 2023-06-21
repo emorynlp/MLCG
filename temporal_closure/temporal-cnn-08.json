@@ -1,0 +1,343 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "comes",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "flew off",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "taking",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-08",
+    "sents": [
+        [
+            "U2",
+            "front",
+            "man",
+            "Bono",
+            "injured",
+            "his",
+            "arm",
+            "in",
+            "a",
+            "Central",
+            "Park",
+            "cycling",
+            "accident",
+            "and",
+            "now",
+            "needs",
+            "surgery",
+            ",",
+            "a",
+            "statement",
+            "on",
+            "the",
+            "band",
+            "'s",
+            "official",
+            "website",
+            "said",
+            "Sunday",
+            "."
+        ],
+        [
+            "The",
+            "statement",
+            "said",
+            "the",
+            "band",
+            "is",
+            "calling",
+            "off",
+            "its",
+            "scheduled",
+            "appearances",
+            "this",
+            "week",
+            "on",
+            "NBC",
+            "'s",
+            "\"",
+            "The",
+            "Tonight",
+            "Show",
+            ".",
+            "\""
+        ],
+        [
+            "\"",
+            "It",
+            "looks",
+            "like",
+            "we",
+            "will",
+            "have",
+            "to",
+            "do",
+            "our",
+            "Tonight",
+            "Show",
+            "residency",
+            "another",
+            "time",
+            "-",
+            "we",
+            "'re",
+            "one",
+            "man",
+            "down",
+            ",",
+            "\"",
+            "the",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "Bono",
+            "has",
+            "injured",
+            "his",
+            "arm",
+            "in",
+            "a",
+            "cycling",
+            "spill",
+            "in",
+            "Central",
+            "Park",
+            "and",
+            "requires",
+            "some",
+            "surgery",
+            "to",
+            "repair",
+            "it",
+            ".",
+            "\""
+        ],
+        [
+            "Reps",
+            "for",
+            "the",
+            "band",
+            "could",
+            "not",
+            "be",
+            "immediately",
+            "reached",
+            "for",
+            "comment",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "'re",
+            "sure",
+            "he",
+            "'ll",
+            "make",
+            "a",
+            "full",
+            "recovery",
+            "soon",
+            ",",
+            "so",
+            "we",
+            "'ll",
+            "be",
+            "back",
+            "!",
+            "\""
+        ],
+        [
+            "the",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "Much",
+            "thanks",
+            "to",
+            "Jimmy",
+            "Fallon",
+            "and",
+            "everyone",
+            "at",
+            "the",
+            "show",
+            "for",
+            "their",
+            "understanding",
+            ".",
+            "\""
+        ],
+        [
+            "News",
+            "of",
+            "the",
+            "fall",
+            "comes",
+            "just",
+            "days",
+            "after",
+            "the",
+            "rear",
+            "hatch",
+            "flew",
+            "off",
+            "an",
+            "aircraft",
+            "taking",
+            "the",
+            "singer",
+            "from",
+            "Dublin",
+            "to",
+            "Berlin",
+            "."
+        ]
+    ]
+}

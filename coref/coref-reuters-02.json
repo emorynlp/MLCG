@@ -1,0 +1,327 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Ohio Mattress Co",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The company",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "its first quarter",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the first quarter of fiscal 1986",
+                "pos": [
+                    29,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "first quarter",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "first quarter",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Sealy Inc",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Sealy",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "be issued",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "the delay",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the acquisitions",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "these acquisitions",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the acquisitions",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-02",
+    "sents": [
+        [
+            "Ohio",
+            "Mattress",
+            "Co",
+            "said",
+            "its",
+            "first",
+            "quarter",
+            ",",
+            "ending",
+            "February",
+            "28",
+            ",",
+            "profits",
+            "may",
+            "be",
+            "below",
+            "the",
+            "2.4",
+            "mln",
+            "dlrs",
+            ",",
+            "or",
+            "15",
+            "cts",
+            "a",
+            "share",
+            ",",
+            "earned",
+            "in",
+            "the",
+            "first",
+            "quarter",
+            "of",
+            "fiscal",
+            "1986",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "said",
+            "any",
+            "decline",
+            "would",
+            "be",
+            "due",
+            "to",
+            "expenses",
+            "related",
+            "to",
+            "the",
+            "acquisitions",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "current",
+            "quarter",
+            "of",
+            "seven",
+            "licensees",
+            "of",
+            "Sealy",
+            "Inc",
+            ",",
+            "as",
+            "well",
+            "as",
+            "82",
+            "pct",
+            "of",
+            "the",
+            "outstanding",
+            "capital",
+            "stock",
+            "of",
+            "Sealy",
+            "."
+        ],
+        [
+            "Because",
+            "of",
+            "these",
+            "acquisitions",
+            ",",
+            "it",
+            "said",
+            ",",
+            "first",
+            "quarter",
+            "sales",
+            "will",
+            "be",
+            "substantially",
+            "higher",
+            "than",
+            "last",
+            "year",
+            "'s",
+            "67.1",
+            "mln",
+            "dlrs",
+            "."
+        ],
+        [
+            "Noting",
+            "that",
+            "it",
+            "typically",
+            "reports",
+            "first",
+            "quarter",
+            "results",
+            "in",
+            "late",
+            "march",
+            ",",
+            "said",
+            "the",
+            "report",
+            "is",
+            "likely",
+            "to",
+            "be",
+            "issued",
+            "in",
+            "early",
+            "April",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "the",
+            "delay",
+            "is",
+            "due",
+            "to",
+            "administrative",
+            "considerations",
+            ",",
+            "including",
+            "conducting",
+            "appraisals",
+            ",",
+            "in",
+            "connection",
+            "with",
+            "the",
+            "acquisitions",
+            "."
+        ]
+    ]
+}

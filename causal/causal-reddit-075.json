@@ -1,0 +1,196 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "what",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it would take to",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "earn a 90%+ on a written assignment",
+                "pos": [
+                    9,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-075",
+    "sents": [
+        [
+            "i",
+            "had",
+            "an",
+            "essay",
+            "worth",
+            "20%",
+            "of",
+            "my",
+            "grade",
+            ",",
+            "im",
+            "rlly",
+            "passionate",
+            "on",
+            "the",
+            "topic",
+            ",",
+            "spent",
+            "a",
+            "lot",
+            "of",
+            "time",
+            "on",
+            "it",
+            ",",
+            "got",
+            "personal",
+            "feedback",
+            "from",
+            "the",
+            "prof",
+            ",",
+            "and",
+            "I",
+            "only",
+            "got",
+            "78%",
+            "on",
+            "it",
+            "."
+        ],
+        [
+            "in",
+            "another",
+            "class",
+            ",",
+            "we",
+            "have",
+            "a",
+            "bunch",
+            "of",
+            "small",
+            "biweekly",
+            "assignments",
+            "."
+        ],
+        [
+            "this",
+            "assignment",
+            "was",
+            "literally",
+            "to",
+            "hand",
+            "in",
+            "a",
+            "paragraph",
+            "abt",
+            "a",
+            "topic",
+            "we",
+            "had",
+            "covered",
+            "that",
+            "week",
+            ",",
+            "my",
+            "paragraph",
+            "answered",
+            "the",
+            "question",
+            ",",
+            "was",
+            "concise",
+            ",",
+            "had",
+            "relevant",
+            "examples",
+            "/",
+            "evidence",
+            ",",
+            "and",
+            "I",
+            "got",
+            "an",
+            "80%",
+            "."
+        ],
+        [
+            "My",
+            "TA",
+            "said",
+            "it",
+            "was",
+            "\"",
+            "a",
+            "very",
+            "impressive",
+            "paragraph",
+            "\"",
+            "??"
+        ],
+        [
+            "im",
+            "genuinely",
+            "confused",
+            "about",
+            "what",
+            "it",
+            "would",
+            "take",
+            "to",
+            "earn",
+            "a",
+            "90%+",
+            "on",
+            "a",
+            "written",
+            "assignment",
+            "."
+        ],
+        [
+            "does",
+            "anyone",
+            "have",
+            "any",
+            "tips",
+            "or",
+            "advice",
+            "or",
+            "ANYTHING"
+        ]
+    ]
+}

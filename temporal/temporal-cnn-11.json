@@ -1,0 +1,502 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "owns",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "won",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "spoke",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lit up",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "observed",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sniffed",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "headlined",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ripped into",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "admired",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been learning",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are snoozing",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is far from",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "necessary",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are also plenty of Americans",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "versed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 10,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-11",
+    "sents": [
+        [
+            "Facebook",
+            "founder",
+            "Mark",
+            "Zuckerberg",
+            "already",
+            "owns",
+            "a",
+            "good",
+            "chunk",
+            "of",
+            "the",
+            "Internet",
+            ",",
+            "but",
+            "on",
+            "Wednesday",
+            "he",
+            "won",
+            "it",
+            "as",
+            "well",
+            "when",
+            "he",
+            "spoke",
+            "Chinese",
+            "to",
+            "an",
+            "audience",
+            "at",
+            "a",
+            "Beijing",
+            "university",
+            "."
+        ],
+        [
+            "Media",
+            ",",
+            "including",
+            "CNN",
+            "stablemate",
+            "CNNMoney",
+            ",",
+            "lit",
+            "up",
+            "--",
+            "sometimes",
+            "snarkily",
+            "."
+        ],
+        [
+            "\"",
+            "Mark",
+            "Zuckerberg",
+            "addresses",
+            "Chinese",
+            "university",
+            "in",
+            "fluent",
+            "mandarin",
+            ",",
+            "\"",
+            "the",
+            "UK",
+            "Guardian",
+            "observed",
+            "."
+        ],
+        [
+            "\"",
+            "Zuckerberg",
+            "'s",
+            "Chinese",
+            "speech",
+            "gets",
+            "mixed",
+            "reviews",
+            ",",
+            "\"",
+            "sniffed",
+            "the",
+            "BBC",
+            "."
+        ],
+        [
+            "\"",
+            "Zuckerberg",
+            ",",
+            "in",
+            "all",
+            "-",
+            "Chinese",
+            "Q&A",
+            ",",
+            "says",
+            "Facebook",
+            "has",
+            "'11",
+            "mobile",
+            "users",
+            "'",
+            ",",
+            "\"",
+            "headlined",
+            "CNNMoney",
+            "."
+        ],
+        [
+            "Some",
+            "commenters",
+            "ripped",
+            "into",
+            "Zuckerberg",
+            "."
+        ],
+        [
+            "Others",
+            "admired",
+            "the",
+            "fact",
+            "that",
+            "he",
+            "'s",
+            "been",
+            "learning",
+            "a",
+            "complex",
+            "language",
+            "while",
+            "most",
+            "of",
+            "us",
+            "are",
+            "snoozing",
+            "in",
+            "front",
+            "of",
+            "YouTube",
+            "."
+        ],
+        [
+            "Zuckerberg",
+            "is",
+            "far",
+            "from",
+            "the",
+            "only",
+            "well",
+            "-",
+            "known",
+            "person",
+            "to",
+            "speak",
+            "multiple",
+            "languages",
+            "."
+        ],
+        [
+            "Certainly",
+            "performers",
+            "born",
+            "in",
+            "non-English",
+            "-",
+            "speaking",
+            "countries",
+            "have",
+            "often",
+            "found",
+            "it",
+            "necessary",
+            "to",
+            "learn",
+            "English",
+            "to",
+            "make",
+            "it",
+            "in",
+            "America",
+            "."
+        ],
+        [
+            "But",
+            "there",
+            "are",
+            "also",
+            "plenty",
+            "of",
+            "Americans",
+            "(",
+            "and",
+            "Brits",
+            "!",
+            ")"
+        ],
+        [
+            "who",
+            "have",
+            "versed",
+            "themselves",
+            "in",
+            "other",
+            "tongues",
+            "."
+        ],
+        [
+            "Check",
+            "out",
+            "the",
+            "gallery",
+            "for",
+            "some",
+            "examples",
+            "."
+        ]
+    ]
+}

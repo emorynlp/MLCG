@@ -1,0 +1,466 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "crack down",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been persistent",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s a lot of various factors",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cause",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "working",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "believe",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is hard",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "broken",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pain",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "say",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "collapsed",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "its now a v shape",
+                "pos": [
+                    10,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wake up",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saved up",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is only for",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-034",
+    "sents": [
+        [
+            "I",
+            "'m",
+            "starting",
+            "to",
+            "crack",
+            "down",
+            "on",
+            "my",
+            "isomnia",
+            "that",
+            "has",
+            "been",
+            "persistent",
+            "for",
+            "a",
+            "year",
+            "now",
+            "."
+        ],
+        [
+            "There",
+            "'s",
+            "a",
+            "lot",
+            "of",
+            "various",
+            "factors",
+            "that",
+            "cause",
+            "it",
+            "such",
+            "as",
+            "working",
+            "a",
+            "night",
+            "shift",
+            "and",
+            "late",
+            "night",
+            "assignments",
+            "but",
+            "now",
+            "im",
+            "starting",
+            "to",
+            "believe",
+            "my",
+            "bed",
+            "is",
+            "an",
+            "issue",
+            "as",
+            "well",
+            "."
+        ],
+        [
+            "My",
+            "bed",
+            "is",
+            "hard",
+            ",",
+            "broken",
+            ",",
+            "and",
+            "causes",
+            "me",
+            "pain",
+            "every",
+            "now",
+            "and",
+            "then",
+            "in",
+            "my",
+            "shoulder",
+            ",",
+            "back",
+            ",",
+            "and",
+            "knee",
+            "."
+        ],
+        [
+            "I",
+            "say",
+            "its",
+            "broken",
+            "because",
+            "the",
+            "center",
+            "pole",
+            "collapsed",
+            "and",
+            "its",
+            "now",
+            "a",
+            "v",
+            "shape",
+            "."
+        ],
+        [
+            "I",
+            "wake",
+            "up",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "night",
+            "too",
+            "."
+        ],
+        [
+            "I",
+            "saved",
+            "up",
+            "$",
+            "4k",
+            "for",
+            "college",
+            ",",
+            "this",
+            "money",
+            "is",
+            "only",
+            "for",
+            "college",
+            "."
+        ],
+        [
+            "Should",
+            "I",
+            "dip",
+            "into",
+            "the",
+            "savings",
+            "and",
+            "take",
+            "out",
+            "$",
+            "500",
+            "for",
+            "a",
+            "new",
+            "bed",
+            "frame",
+            "and",
+            "mattress",
+            "?"
+        ],
+        [
+            "Would",
+            "buying",
+            "a",
+            "new",
+            "bed",
+            "frame",
+            "and",
+            "mattress",
+            "be",
+            "a",
+            "\"",
+            "college",
+            "essential",
+            "\"",
+            "purchase",
+            "?"
+        ],
+        [
+            "Thanks",
+            "!"
+        ]
+    ]
+}

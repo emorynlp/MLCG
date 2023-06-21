@@ -1,0 +1,180 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "easybib",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-025",
+    "sents": [
+        [
+            "Younger",
+            "Zoomers",
+            "might",
+            "not",
+            "catch",
+            "my",
+            "drift",
+            "here",
+            "but",
+            "damn",
+            "I",
+            "remember",
+            "when",
+            "easybib",
+            "was",
+            "a",
+            "accessible",
+            "website",
+            "with",
+            "literally",
+            "two",
+            "buttons",
+            "\u201c",
+            "cite",
+            "\u201d",
+            "and",
+            "\u201c",
+            "search",
+            "\u201d",
+            "Now",
+            "it",
+            "\u2019s",
+            "the",
+            "digital",
+            "equivalent",
+            "of",
+            "a",
+            "magazine",
+            "tabloid",
+            "."
+        ],
+        [
+            "There",
+            "\u2019s",
+            "a",
+            "ton",
+            "of",
+            "ads",
+            "everywhere",
+            ",",
+            "a",
+            "bunch",
+            "of",
+            "annoying",
+            "pop",
+            "ups",
+            ",",
+            "a",
+            "lot",
+            "of",
+            "text",
+            "all",
+            "around",
+            "the",
+            "site",
+            "that",
+            "blocks",
+            "and",
+            "obstructs",
+            "everything",
+            "."
+        ],
+        [
+            "I",
+            "also",
+            "now",
+            "have",
+            "to",
+            "watch",
+            "a",
+            "30",
+            "second",
+            "ad",
+            "JUST",
+            "TO",
+            "CITE",
+            "A",
+            "SOURCE",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "just",
+            "saddened",
+            "to",
+            "see",
+            "what",
+            "was",
+            "a",
+            "simple",
+            "and",
+            "helpful",
+            "service",
+            "now",
+            "become",
+            "a",
+            "monstrosity",
+            "of",
+            "web",
+            "design",
+            "."
+        ]
+    ]
+}

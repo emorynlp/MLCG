@@ -1,0 +1,239 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "They would be just the thing to take a long walk in",
+                "pos": [
+                    1,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they could not wear out",
+                "pos": [
+                    15,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-13",
+    "sents": [
+        [
+            "At",
+            "that",
+            "moment",
+            "Dorothy",
+            "saw",
+            "lying",
+            "on",
+            "the",
+            "table",
+            "the",
+            "silver",
+            "shoes",
+            "that",
+            "had",
+            "belonged",
+            "to",
+            "the",
+            "Witch",
+            "of",
+            "the",
+            "East",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "wonder",
+            "if",
+            "they",
+            "will",
+            "fit",
+            "me",
+            ",",
+            "\"",
+            "she",
+            "said",
+            "to",
+            "Toto",
+            "."
+        ],
+        [
+            "\"",
+            "They",
+            "would",
+            "be",
+            "just",
+            "the",
+            "thing",
+            "to",
+            "take",
+            "a",
+            "long",
+            "walk",
+            "in",
+            ",",
+            "for",
+            "they",
+            "could",
+            "not",
+            "wear",
+            "out",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "She",
+            "took",
+            "off",
+            "her",
+            "old",
+            "leather",
+            "shoes",
+            "and",
+            "tried",
+            "on",
+            "the",
+            "silver",
+            "ones",
+            ",",
+            "which",
+            "fitted",
+            "her",
+            "as",
+            "well",
+            "as",
+            "if",
+            "they",
+            "had",
+            "been",
+            "made",
+            "for",
+            "her",
+            "."
+        ],
+        [
+            "Finally",
+            "she",
+            "picked",
+            "up",
+            "her",
+            "basket",
+            "."
+        ],
+        [
+            "\"",
+            "Come",
+            "along",
+            ",",
+            "Toto",
+            ",",
+            "\"",
+            "she",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "will",
+            "go",
+            "to",
+            "the",
+            "Emerald",
+            "City",
+            "and",
+            "ask",
+            "the",
+            "Great",
+            "Oz",
+            "how",
+            "to",
+            "get",
+            "back",
+            "to",
+            "Kansas",
+            "again",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "She",
+            "closed",
+            "the",
+            "door",
+            ",",
+            "locked",
+            "it",
+            ",",
+            "and",
+            "put",
+            "the",
+            "key",
+            "carefully",
+            "in",
+            "the",
+            "pocket",
+            "of",
+            "her",
+            "dress",
+            "."
+        ],
+        [
+            "And",
+            "so",
+            ",",
+            "with",
+            "Toto",
+            "trotting",
+            "along",
+            "soberly",
+            "behind",
+            "her",
+            ",",
+            "she",
+            "started",
+            "on",
+            "her",
+            "journey",
+            "."
+        ]
+    ]
+}

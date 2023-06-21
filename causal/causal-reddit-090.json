@@ -1,0 +1,276 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I did this",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "it \u2019s my senior year and I \u2019m going to college in the fall",
+                "pos": [
+                    5,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "To",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "make this even harder",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "at my college you have to be on a meal plan with just about every meal being on the plan",
+                "pos": [
+                    6,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "So",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019ll be eating in the cafeteria multiple times a day",
+                "pos": [
+                    1,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "cause|cause",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-090",
+    "sents": [
+        [
+            "In",
+            "the",
+            "last",
+            "year",
+            "I",
+            "\u2019ve",
+            "lost",
+            "40",
+            "pounds",
+            ",",
+            "gotten",
+            "in",
+            "shape",
+            ",",
+            "and",
+            "feel",
+            "so",
+            "much",
+            "better",
+            "about",
+            "myself",
+            "."
+        ],
+        [
+            "I",
+            "did",
+            "this",
+            "partially",
+            "because",
+            "it",
+            "\u2019s",
+            "my",
+            "senior",
+            "year",
+            "and",
+            "I",
+            "\u2019m",
+            "going",
+            "to",
+            "college",
+            "in",
+            "the",
+            "fall",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "feel",
+            "like",
+            "everyone",
+            "eats",
+            "completely",
+            "unhealthy",
+            "in",
+            "college",
+            ",",
+            "and",
+            "you",
+            "\u2019re",
+            "surrounded",
+            "by",
+            "junk",
+            "food",
+            "."
+        ],
+        [
+            "To",
+            "make",
+            "this",
+            "even",
+            "harder",
+            ",",
+            "at",
+            "my",
+            "college",
+            "you",
+            "have",
+            "to",
+            "be",
+            "on",
+            "a",
+            "meal",
+            "plan",
+            "with",
+            "just",
+            "about",
+            "every",
+            "meal",
+            "being",
+            "on",
+            "the",
+            "plan",
+            "."
+        ],
+        [
+            "So",
+            "I",
+            "\u2019ll",
+            "be",
+            "eating",
+            "in",
+            "the",
+            "cafeteria",
+            "multiple",
+            "times",
+            "a",
+            "day",
+            "."
+        ],
+        [
+            "Do",
+            "college",
+            "cafeterias",
+            "have",
+            "healthy",
+            "eating",
+            "options",
+            "?"
+        ],
+        [
+            "I",
+            "just",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "get",
+            "out",
+            "of",
+            "shape",
+            "or",
+            "gain",
+            "the",
+            "\u201c",
+            "freshman",
+            "15",
+            "\u201d",
+            "or",
+            "anything",
+            "."
+        ],
+        [
+            "Any",
+            "comments",
+            "appreciated",
+            "."
+        ]
+    ]
+}

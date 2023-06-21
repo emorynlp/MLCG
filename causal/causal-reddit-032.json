@@ -1,0 +1,346 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Since",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "school is starting back up again",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I just wanted to make this post",
+                "pos": [
+                    7,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "help and warn people",
+                "pos": [
+                    15,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you 're not a drinker or partier",
+                "pos": [
+                    1,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you have to go out and do those things",
+                "pos": [
+                    12,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "do n't feel like \"",
+                "pos": [
+                    8,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "everyone else is doing it and it 's part of the experience",
+                "pos": [
+                    23,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Do n't feel obligated to do stuff you would n't normally do",
+                "pos": [
+                    0,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "your roommate or friends are doing it",
+                "pos": [
+                    13,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-032",
+    "sents": [
+        [
+            "Since",
+            "school",
+            "is",
+            "starting",
+            "back",
+            "up",
+            "again",
+            "I",
+            "just",
+            "wanted",
+            "to",
+            "make",
+            "this",
+            "post",
+            "to",
+            "help",
+            "and",
+            "warn",
+            "people",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "'re",
+            "not",
+            "a",
+            "drinker",
+            "or",
+            "partier",
+            "do",
+            "n't",
+            "feel",
+            "like",
+            "you",
+            "have",
+            "to",
+            "go",
+            "out",
+            "and",
+            "do",
+            "those",
+            "things",
+            "because",
+            "\"",
+            "everyone",
+            "else",
+            "is",
+            "doing",
+            "it",
+            "and",
+            "it",
+            "'s",
+            "part",
+            "of",
+            "the",
+            "experience",
+            "\"",
+            "."
+        ],
+        [
+            "Not",
+            "everyone",
+            "is",
+            "doing",
+            "it",
+            ",",
+            "plenty",
+            "of",
+            "people",
+            "do",
+            "n't",
+            "drink",
+            "or",
+            "go",
+            "out",
+            "partying",
+            "and",
+            "they",
+            "still",
+            "have",
+            "fun",
+            ",",
+            "they",
+            "still",
+            "make",
+            "friends",
+            "and",
+            "they",
+            "still",
+            "have",
+            "great",
+            "memories",
+            "."
+        ],
+        [
+            "Do",
+            "n't",
+            "feel",
+            "obligated",
+            "to",
+            "do",
+            "stuff",
+            "you",
+            "would",
+            "n't",
+            "normally",
+            "do",
+            "because",
+            "your",
+            "roommate",
+            "or",
+            "friends",
+            "are",
+            "doing",
+            "it",
+            "."
+        ],
+        [
+            "It",
+            "'s",
+            "okay",
+            "to",
+            "tell",
+            "them",
+            "no",
+            "!"
+        ]
+    ]
+}

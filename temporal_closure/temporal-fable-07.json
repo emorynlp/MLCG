@@ -1,0 +1,366 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "caught",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "killed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-07",
+    "sents": [
+        [
+            "A",
+            "FOWLER",
+            "caught",
+            "a",
+            "Partridge",
+            ",",
+            "and",
+            "was",
+            "just",
+            "going",
+            "to",
+            "kill",
+            "it",
+            "."
+        ],
+        [
+            "\u201c",
+            "Wait",
+            "a",
+            "moment",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Partridge",
+            ";",
+            "\u201c",
+            "do",
+            "n\u2019t",
+            "kill",
+            "me",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Why",
+            "not",
+            "?",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Fowler",
+            "."
+        ],
+        [
+            "\u201c",
+            "Because",
+            "I",
+            "like",
+            "to",
+            "live",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Partridge",
+            ";",
+            "\u201c",
+            "and",
+            ",",
+            "besides",
+            ",",
+            "if",
+            "you",
+            "let",
+            "me",
+            "go",
+            ",",
+            "I",
+            "will",
+            "bring",
+            "some",
+            "of",
+            "my",
+            "friends",
+            "and",
+            "neighbors",
+            "here",
+            ",",
+            "and",
+            "you",
+            "can",
+            "catch",
+            "them",
+            ",",
+            "and",
+            "that",
+            "will",
+            "be",
+            "better",
+            "than",
+            "only",
+            "one",
+            "poor",
+            "bird",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "You",
+            "are",
+            "willing",
+            ",",
+            "then",
+            ",",
+            "that",
+            "your",
+            "friends",
+            "and",
+            "neighbors",
+            "should",
+            "die",
+            ",",
+            "to",
+            "save",
+            "your",
+            "own",
+            "life",
+            "?",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Fowler",
+            "."
+        ],
+        [
+            "\u201c",
+            "Wicked",
+            "Partridge",
+            "!"
+        ],
+        [
+            "you",
+            "have",
+            "lived",
+            "long",
+            "enough",
+            ".",
+            "\u201d"
+        ],
+        [
+            "And",
+            "he",
+            "killed",
+            "it",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A U.S. Navy SEAL",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a West Coast - based Navy SEAL team",
+                "pos": [
+                    4,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Navy",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the SEALs",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "U.S.",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "U.S. Navy",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Navy",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Navy",
+                "pos": [
+                    31,
+                    33
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the Navy",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A U.S. SEAL",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Jason Kortz",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Jason",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Kortz",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "Kortz",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-29",
+    "sents": [
+        [
+            "A",
+            "U.S.",
+            "Navy",
+            "SEAL",
+            "was",
+            "killed",
+            "in",
+            "a",
+            "parachute",
+            "accident",
+            "in",
+            "Perris",
+            ",",
+            "California",
+            ",",
+            "near",
+            "Riverside",
+            ",",
+            "a",
+            "U.S.",
+            "Navy",
+            "official",
+            "told",
+            "CNN",
+            "on",
+            "Wednesday",
+            "."
+        ],
+        [
+            "He",
+            "was",
+            "identified",
+            "Thursday",
+            "as",
+            "Special",
+            "Warfare",
+            "Operator",
+            "3rd",
+            "Class",
+            "Jason",
+            "Kortz",
+            ",",
+            "29",
+            ",",
+            "of",
+            "Highlands",
+            "Ranch",
+            ",",
+            "Colorado",
+            "."
+        ],
+        [
+            "\"",
+            "Jason",
+            "distinguished",
+            "himself",
+            "consistently",
+            "throughout",
+            "his",
+            "career",
+            "."
+        ],
+        [
+            "He",
+            "was",
+            "the",
+            "epitome",
+            "of",
+            "the",
+            "quiet",
+            "professional",
+            "in",
+            "all",
+            "facets",
+            "of",
+            "his",
+            "life",
+            ",",
+            "and",
+            "he",
+            "leaves",
+            "an",
+            "inspiring",
+            "legacy",
+            "of",
+            "natural",
+            "tenacity",
+            "and",
+            "focused",
+            "commitment",
+            "for",
+            "posterity",
+            ",",
+            "\"",
+            "the",
+            "Navy",
+            "said",
+            "in",
+            "a",
+            "news",
+            "release",
+            "."
+        ],
+        [
+            "Kortz",
+            "joined",
+            "the",
+            "SEALs",
+            "in",
+            "September",
+            "after",
+            "enlisting",
+            "in",
+            "the",
+            "Navy",
+            "two",
+            "years",
+            "earlier",
+            "."
+        ],
+        [
+            "He",
+            "was",
+            "married",
+            ",",
+            "the",
+            "Navy",
+            "said",
+            "."
+        ],
+        [
+            "Initial",
+            "indications",
+            "are",
+            "the",
+            "parachute",
+            "failed",
+            "to",
+            "open",
+            "during",
+            "a",
+            "jump",
+            "as",
+            "part",
+            "of",
+            "a",
+            "training",
+            "exercise",
+            "."
+        ],
+        [
+            "Kortz",
+            "was",
+            "part",
+            "of",
+            "a",
+            "West",
+            "Coast",
+            "-",
+            "based",
+            "Navy",
+            "SEAL",
+            "team",
+            "."
+        ]
+    ]
+}

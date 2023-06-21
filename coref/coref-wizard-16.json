@@ -1,0 +1,386 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Toto",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Toto",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "all the people",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Boq",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "people",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "Oz",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Emerald City",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "there",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the Emerald City",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the girl",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-wizard-16",
+    "sents": [
+        [
+            "She",
+            "ate",
+            "a",
+            "hearty",
+            "breakfast",
+            ",",
+            "and",
+            "watched",
+            "a",
+            "wee",
+            "Munchkin",
+            "baby",
+            ",",
+            "who",
+            "played",
+            "with",
+            "Toto",
+            "and",
+            "pulled",
+            "his",
+            "tail",
+            "and",
+            "crowed",
+            "and",
+            "laughed",
+            "in",
+            "a",
+            "way",
+            "that",
+            "greatly",
+            "amused",
+            "Dorothy",
+            "."
+        ],
+        [
+            "Toto",
+            "was",
+            "a",
+            "fine",
+            "curiosity",
+            "to",
+            "all",
+            "the",
+            "people",
+            ",",
+            "for",
+            "they",
+            "had",
+            "never",
+            "seen",
+            "a",
+            "dog",
+            "before",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "far",
+            "is",
+            "it",
+            "to",
+            "the",
+            "Emerald",
+            "City",
+            "?",
+            "\"",
+            "the",
+            "girl",
+            "asked",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "do",
+            "not",
+            "know",
+            ",",
+            "\"",
+            "answered",
+            "Boq",
+            "gravely",
+            ",",
+            "\"",
+            "for",
+            "I",
+            "have",
+            "never",
+            "been",
+            "there",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "better",
+            "for",
+            "people",
+            "to",
+            "keep",
+            "away",
+            "from",
+            "Oz",
+            ",",
+            "unless",
+            "they",
+            "have",
+            "business",
+            "with",
+            "him",
+            "."
+        ],
+        [
+            "But",
+            "it",
+            "is",
+            "a",
+            "long",
+            "way",
+            "to",
+            "the",
+            "Emerald",
+            "City",
+            ",",
+            "and",
+            "it",
+            "will",
+            "take",
+            "you",
+            "many",
+            "days",
+            "."
+        ],
+        [
+            "The",
+            "country",
+            "here",
+            "is",
+            "rich",
+            "and",
+            "pleasant",
+            ",",
+            "but",
+            "you",
+            "must",
+            "pass",
+            "through",
+            "rough",
+            "and",
+            "dangerous",
+            "places",
+            "before",
+            "you",
+            "reach",
+            "the",
+            "end",
+            "of",
+            "your",
+            "journey",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

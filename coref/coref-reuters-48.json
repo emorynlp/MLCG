@@ -1,0 +1,321 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "213,567 shares",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his remaining shares",
+                "pos": [
+                    21,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "4.25 dlrs each",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the same price",
+                "pos": [
+                    33,
+                    36
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "TA Associates",
+                "pos": [
+                    30,
+                    32
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "TA",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Helmut Falk",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Falks",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Falk",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Falk",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "DH Technology Inc",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The company",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "DHL",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "The company",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reuters-48",
+    "sents": [
+        [
+            "DH",
+            "Technology",
+            "Inc",
+            "said",
+            "it",
+            "has",
+            "repurchased",
+            "500,000",
+            "of",
+            "its",
+            "shares",
+            "from",
+            "cofounder",
+            "Helmut",
+            "Falk",
+            "at",
+            "4.25",
+            "dlrs",
+            "each",
+            "and",
+            "Falks",
+            "has",
+            "sold",
+            "another",
+            "500,000",
+            "shares",
+            "to",
+            "venture",
+            "capital",
+            "firm",
+            "TA",
+            "Associates",
+            "at",
+            "the",
+            "same",
+            "price",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "said",
+            "Falk",
+            "has",
+            "resigned",
+            "as",
+            "chairman",
+            "of",
+            "DHL",
+            "and",
+            "now",
+            "owns",
+            "213,567",
+            "shares",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "TA",
+            "now",
+            "owns",
+            "928",
+            ",",
+            "0000",
+            "shares",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "said",
+            "Falk",
+            ",",
+            "who",
+            "will",
+            "remain",
+            "on",
+            "the",
+            "board",
+            ",",
+            "has",
+            "agreed",
+            "to",
+            "sell",
+            "no",
+            "more",
+            "than",
+            "75,000",
+            "of",
+            "his",
+            "remaining",
+            "shares",
+            "in",
+            "the",
+            "next",
+            "year",
+            "without",
+            "company",
+            "consent",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "president",
+            "and",
+            "chief",
+            "executive",
+            "officer",
+            "William",
+            "H.",
+            "Gibb",
+            "has",
+            "assumed",
+            "the",
+            "added",
+            "post",
+            "of",
+            "chairman",
+            "."
+        ]
+    ]
+}

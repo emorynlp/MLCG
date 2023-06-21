@@ -1,0 +1,346 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "How can I",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "since",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I can scarcely drag myself along",
+                "pos": [
+                    13,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I could go",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "I could but see the way",
+                "pos": [
+                    5,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you will take me on your shoulders",
+                "pos": [
+                    2,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "we will seek our fortunes together",
+                "pos": [
+                    10,
+                    16
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-32",
+    "sents": [
+        [
+            "A",
+            "BLIND",
+            "Man",
+            ",",
+            "being",
+            "stopped",
+            "in",
+            "a",
+            "bad",
+            "piece",
+            "of",
+            "road",
+            ",",
+            "met",
+            "a",
+            "Lame",
+            "Man",
+            ",",
+            "and",
+            "entreated",
+            "him",
+            "to",
+            "help",
+            "him",
+            "out",
+            "of",
+            "the",
+            "difficulty",
+            "into",
+            "which",
+            "he",
+            "had",
+            "fallen",
+            "."
+        ],
+        [
+            "\u201c",
+            "How",
+            "can",
+            "I",
+            ",",
+            "\u201d",
+            "replied",
+            "the",
+            "Lame",
+            "Man",
+            ",",
+            "\u201c",
+            "since",
+            "I",
+            "can",
+            "scarcely",
+            "drag",
+            "myself",
+            "along",
+            "?"
+        ],
+        [
+            "I",
+            "am",
+            "lame",
+            ",",
+            "and",
+            "you",
+            "look",
+            "very",
+            "strong",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "I",
+            "am",
+            "strong",
+            "enough",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "other",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "could",
+            "go",
+            "if",
+            "I",
+            "could",
+            "but",
+            "see",
+            "the",
+            "way",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Oh",
+            ",",
+            "then",
+            "we",
+            "may",
+            "help",
+            "each",
+            "other",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Lame",
+            "Man",
+            "."
+        ],
+        [
+            "\u201c",
+            "If",
+            "you",
+            "will",
+            "take",
+            "me",
+            "on",
+            "your",
+            "shoulders",
+            ",",
+            "we",
+            "will",
+            "seek",
+            "our",
+            "fortunes",
+            "together",
+            "."
+        ],
+        [
+            "I",
+            "will",
+            "be",
+            "eyes",
+            "for",
+            "you",
+            ",",
+            "and",
+            "you",
+            "shall",
+            "be",
+            "feet",
+            "for",
+            "me",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "With",
+            "all",
+            "my",
+            "heart",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Blind",
+            "Man",
+            "."
+        ],
+        [
+            "\u201c",
+            "Let",
+            "us",
+            "render",
+            "each",
+            "other",
+            "our",
+            "mutual",
+            "services",
+            ".",
+            "\u201d"
+        ],
+        [
+            "So",
+            "he",
+            "took",
+            "his",
+            "lame",
+            "companion",
+            "upon",
+            "his",
+            "back",
+            ",",
+            "and",
+            "they",
+            "traveled",
+            "on",
+            "with",
+            "safety",
+            "and",
+            "pleasure",
+            "."
+        ]
+    ]
+}

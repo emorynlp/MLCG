@@ -1,0 +1,280 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a Coast Guard spokesman",
+                "pos": [
+                    31,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The port",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the port",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "New Jersey",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "New Jersey",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Cypriot oil tanker",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the ship",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the ship",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the ship",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Hope Creek nuclear power plant",
+                "pos": [
+                    15,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the nuclear plant",
+                "pos": [
+                    27,
+                    30
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-44",
+    "sents": [
+        [
+            "The",
+            "port",
+            "of",
+            "Philadelphia",
+            "was",
+            "closed",
+            "when",
+            "a",
+            "Cypriot",
+            "oil",
+            "tanker",
+            ",",
+            "Seapride",
+            "II",
+            ",",
+            "ran",
+            "aground",
+            "after",
+            "hitting",
+            "a",
+            "200",
+            "-",
+            "foot",
+            "tower",
+            "supporting",
+            "power",
+            "lines",
+            "across",
+            "the",
+            "river",
+            ",",
+            "a",
+            "Coast",
+            "Guard",
+            "spokesman",
+            "said",
+            "."
+        ],
+        [
+            "He",
+            "said",
+            "there",
+            "was",
+            "no",
+            "oil",
+            "spill",
+            "but",
+            "the",
+            "ship",
+            "is",
+            "lodged",
+            "on",
+            "rocks",
+            "opposite",
+            "the",
+            "Hope",
+            "Creek",
+            "nuclear",
+            "power",
+            "plant",
+            "in",
+            "New",
+            "Jersey",
+            "."
+        ],
+        [
+            "He",
+            "said",
+            "the",
+            "port",
+            "would",
+            "be",
+            "closed",
+            "until",
+            "today",
+            "when",
+            "they",
+            "hoped",
+            "to",
+            "refloat",
+            "the",
+            "ship",
+            "on",
+            "the",
+            "high",
+            "tide",
+            "."
+        ],
+        [
+            "After",
+            "delivering",
+            "oil",
+            "to",
+            "a",
+            "refinery",
+            "in",
+            "Paulsboro",
+            ",",
+            "New",
+            "Jersey",
+            ",",
+            "the",
+            "ship",
+            "apparently",
+            "lost",
+            "its",
+            "steering",
+            "and",
+            "hit",
+            "the",
+            "power",
+            "transmission",
+            "line",
+            "carrying",
+            "power",
+            "from",
+            "the",
+            "nuclear",
+            "plant",
+            "to",
+            "the",
+            "state",
+            "of",
+            "Delaware",
+            "."
+        ]
+    ]
+}

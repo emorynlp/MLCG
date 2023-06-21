@@ -1,0 +1,176 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Crude oil prices fell sharply last week",
+                "pos": [
+                    0,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "as",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "international oil traders and analysts estimated the 13 - nation OPEC was pumping up to one million bpd over its self-imposed limits",
+                "pos": [
+                    8,
+                    30
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-40",
+    "sents": [
+        [
+            "Kuwait",
+            "'s",
+            "oil",
+            "minister",
+            "said",
+            "in",
+            "a",
+            "newspaper",
+            "interview",
+            "that",
+            "there",
+            "were",
+            "no",
+            "plans",
+            "for",
+            "an",
+            "emergency",
+            "OPEC",
+            "meeting",
+            "after",
+            "the",
+            "recent",
+            "weakness",
+            "in",
+            "world",
+            "oil",
+            "prices",
+            "."
+        ],
+        [
+            "Sheikh",
+            "Ali",
+            "al",
+            "-",
+            "Khalifa",
+            "al",
+            "-",
+            "Sabah",
+            "was",
+            "quoted",
+            "by",
+            "the",
+            "local",
+            "daily",
+            "al",
+            "-",
+            "Qabas",
+            "as",
+            "saying",
+            "that",
+            "\"",
+            "none",
+            "of",
+            "the",
+            "OPEC",
+            "members",
+            "has",
+            "asked",
+            "for",
+            "such",
+            "a",
+            "meeting",
+            ".",
+            "\""
+        ],
+        [
+            "He",
+            "also",
+            "denied",
+            "that",
+            "Kuwait",
+            "was",
+            "pumping",
+            "above",
+            "its",
+            "OPEC",
+            "quota",
+            "of",
+            "948,000",
+            "barrels",
+            "of",
+            "crude",
+            "daily",
+            "(",
+            "bpd",
+            ")",
+            "."
+        ],
+        [
+            "Crude",
+            "oil",
+            "prices",
+            "fell",
+            "sharply",
+            "last",
+            "week",
+            "as",
+            "international",
+            "oil",
+            "traders",
+            "and",
+            "analysts",
+            "estimated",
+            "the",
+            "13",
+            "-",
+            "nation",
+            "OPEC",
+            "was",
+            "pumping",
+            "up",
+            "to",
+            "one",
+            "million",
+            "bpd",
+            "over",
+            "its",
+            "self-imposed",
+            "limits",
+            "."
+        ]
+    ]
+}

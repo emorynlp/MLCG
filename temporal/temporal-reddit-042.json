@@ -1,0 +1,314 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "hate",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "love",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "learn",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Edit",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "forgot",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m doing",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m a language major",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are discussion heavy",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was asking",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-042",
+    "sents": [
+        [
+            "I",
+            "hate",
+            "lectures",
+            ",",
+            "I",
+            "love",
+            "participating",
+            "and",
+            "learn",
+            "more",
+            "effectively",
+            "in",
+            "small",
+            "groups",
+            "of",
+            "people",
+            "."
+        ],
+        [
+            "I",
+            "ca",
+            "n't",
+            "concentrate",
+            "if",
+            "it",
+            "'s",
+            "a",
+            "lecture",
+            "."
+        ],
+        [
+            "Do",
+            "you",
+            "have",
+            "any",
+            "tips",
+            "?"
+        ],
+        [
+            "Edit",
+            ":",
+            "I",
+            "forgot",
+            "to",
+            "mention",
+            "that",
+            "I",
+            "\u2019m",
+            "doing",
+            "pretty",
+            "well",
+            ",",
+            "I",
+            "do",
+            "n\u2019t",
+            "have",
+            "any",
+            "problems",
+            "regarding",
+            "success",
+            "."
+        ],
+        [
+            "I",
+            "currently",
+            "have",
+            "a",
+            "3.7",
+            "GPA",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "a",
+            "language",
+            "major",
+            "so",
+            "most",
+            "of",
+            "my",
+            "courses",
+            "are",
+            "discussion",
+            "heavy",
+            "in",
+            "small",
+            "groups",
+            "of",
+            "people",
+            "(",
+            "like",
+            "20",
+            "-",
+            "30",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "really",
+            "do",
+            "n\u2019t",
+            "like",
+            "lectures",
+            "and",
+            "was",
+            "asking",
+            "if",
+            "anyone",
+            "had",
+            "any",
+            "tips",
+            "to",
+            "make",
+            "them",
+            "more",
+            "bearable",
+            "and",
+            "efficient",
+            "."
+        ]
+    ]
+}

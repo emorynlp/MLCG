@@ -1,0 +1,459 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "officers",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "dog",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "its ribs",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the 's ribs",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "cooking",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "cooked",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the stove",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the stove",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Tampa police",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Tampa police",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "strangling",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "strangled",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "chopping",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "chopped",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "pieces",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "quarters",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "pieces",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A Florida man",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Thomas Elliot Huggins",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Huggins",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a family puppy",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "The dog",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the 5 - to 6 - month - old puppy",
+                "pos": [
+                    3,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the puppy",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-44",
+    "sents": [
+        [
+            "A",
+            "Florida",
+            "man",
+            "is",
+            "accused",
+            "of",
+            "strangling",
+            "a",
+            "family",
+            "puppy",
+            ",",
+            "chopping",
+            "it",
+            "into",
+            "pieces",
+            "and",
+            "cooking",
+            "its",
+            "ribs",
+            "on",
+            "the",
+            "stove",
+            ",",
+            "Tampa",
+            "police",
+            "said",
+            "."
+        ],
+        [
+            "Thomas",
+            "Elliot",
+            "Huggins",
+            ",",
+            "25",
+            ",",
+            "was",
+            "arrested",
+            "Thursday",
+            "after",
+            "a",
+            "family",
+            "member",
+            "called",
+            "police",
+            "."
+        ],
+        [
+            "\"",
+            "When",
+            "officers",
+            "arrived",
+            ",",
+            "they",
+            "found",
+            "the",
+            "dog",
+            "'s",
+            "ribs",
+            "cooked",
+            "in",
+            "a",
+            "pot",
+            "on",
+            "the",
+            "stove",
+            ",",
+            "\"",
+            "Tampa",
+            "police",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "dog",
+            "'s",
+            "head",
+            "was",
+            "in",
+            "the",
+            "garbage",
+            ".",
+            "\""
+        ],
+        [
+            "Huggins",
+            "had",
+            "strangled",
+            "the",
+            "5",
+            "-",
+            "to",
+            "6",
+            "-",
+            "month",
+            "-",
+            "old",
+            "puppy",
+            "and",
+            "chopped",
+            "it",
+            "into",
+            "quarters",
+            ",",
+            "storing",
+            "pieces",
+            "in",
+            "the",
+            "freezer",
+            "for",
+            "future",
+            "meals",
+            ",",
+            "authorities",
+            "said",
+            "."
+        ],
+        [
+            "He",
+            "was",
+            "arrested",
+            "on",
+            "suspicion",
+            "of",
+            "animal",
+            "cruelty",
+            "."
+        ],
+        [
+            "Animal",
+            "control",
+            "officials",
+            "took",
+            "the",
+            "remains",
+            "of",
+            "the",
+            "puppy",
+            "."
+        ],
+        [
+            "Smugglers",
+            "drive",
+            "Thailand",
+            "'s",
+            "grim",
+            "trade",
+            "in",
+            "dog",
+            "meat",
+            "A",
+            "national",
+            "spotlight",
+            "on",
+            "animal",
+            "abuse"
+        ]
+    ]
+}

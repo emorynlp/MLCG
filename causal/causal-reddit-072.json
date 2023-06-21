@@ -1,0 +1,299 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I got in to some decent safeties",
+                "pos": [
+                    0,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019ll be fine",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I look back on this part of my life",
+                "pos": [
+                    3,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019ll only remember the boring , dull feeling of opening all 13 rejection letters",
+                "pos": [
+                    13,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "rushing",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 4,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "find my family and tell them \u201c I got in",
+                "pos": [
+                    28,
+                    38
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-072",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "not",
+            "sad",
+            "about",
+            "getting",
+            "rejected",
+            "by",
+            "13",
+            "out",
+            "of",
+            "the",
+            "16",
+            "schools",
+            "I",
+            "applied",
+            "to",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "in",
+            "to",
+            "some",
+            "decent",
+            "safeties",
+            "so",
+            "I",
+            "\u2019ll",
+            "be",
+            "fine",
+            "."
+        ],
+        [
+            "What",
+            "I",
+            "\u2019m",
+            "sad",
+            "about",
+            "is",
+            "that",
+            "I",
+            "\u2019ll",
+            "never",
+            "be",
+            "able",
+            "to",
+            "feel",
+            "the",
+            "emotion",
+            "of",
+            "getting",
+            "accepted",
+            "into",
+            "the",
+            "school",
+            "I",
+            "really",
+            "wanted",
+            "."
+        ],
+        [
+            "Instead",
+            ",",
+            "when",
+            "I",
+            "look",
+            "back",
+            "on",
+            "this",
+            "part",
+            "of",
+            "my",
+            "life",
+            ",",
+            "I",
+            "\u2019ll",
+            "only",
+            "remember",
+            "the",
+            "boring",
+            ",",
+            "dull",
+            "feeling",
+            "of",
+            "opening",
+            "all",
+            "13",
+            "rejection",
+            "letters",
+            "."
+        ],
+        [
+            "I",
+            "wish",
+            "I",
+            "could",
+            "have",
+            "felt",
+            "that",
+            "emotion",
+            ",",
+            "opening",
+            "up",
+            "a",
+            "decision",
+            "letter",
+            ",",
+            "being",
+            "surprised",
+            "about",
+            "the",
+            "result",
+            ",",
+            "crying",
+            "tears",
+            "of",
+            "joy",
+            ",",
+            "rushing",
+            "to",
+            "find",
+            "my",
+            "family",
+            "and",
+            "tell",
+            "them",
+            "\u201c",
+            "I",
+            "got",
+            "in",
+            "!!!",
+            "\u201d"
+        ],
+        [
+            ".",
+            "Instead",
+            ",",
+            "each",
+            "time",
+            "was",
+            "me",
+            "casually",
+            "letting",
+            "them",
+            "know",
+            "I",
+            "got",
+            "rejected",
+            "from",
+            "somewhere",
+            "."
+        ]
+    ]
+}

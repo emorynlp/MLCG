@@ -1,0 +1,479 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "applications",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "apps",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "post"
+            }
+        ],
+        [
+            {
+                "name": "a kind and gentle reminder",
+                "pos": [
+                    7,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "a friendly reminder",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "congratulations",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "Congrats",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "accepted",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "accepted",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "to withdraw",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "withdraw",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "withdraw",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "You",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "yourselves",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-076",
+    "sents": [
+        [
+            "First",
+            "off",
+            ",",
+            "massive",
+            "congratulations",
+            "to",
+            "all",
+            "of",
+            "you",
+            "who",
+            "got",
+            "accepted",
+            "ED",
+            "."
+        ],
+        [
+            "You",
+            "worked",
+            "hard",
+            ",",
+            "proved",
+            "yourselves",
+            ",",
+            "and",
+            "deserve",
+            "your",
+            "seats",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "wanted",
+            "to",
+            "give",
+            "you",
+            "all",
+            "a",
+            "kind",
+            "and",
+            "gentle",
+            "reminder",
+            "to",
+            "withdraw",
+            "other",
+            "applications",
+            "so",
+            "that",
+            "other",
+            "kids",
+            "have",
+            "a",
+            "fair",
+            "chance",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "you",
+            "must",
+            "be",
+            "in",
+            "a",
+            "joyous",
+            "mood",
+            "and",
+            "I",
+            "have",
+            "no",
+            "intention",
+            "to",
+            "disturb",
+            "you",
+            "."
+        ],
+        [
+            "Maybe",
+            "you",
+            "might",
+            "withdraw",
+            "apps",
+            "right",
+            "away",
+            "or",
+            "maybe",
+            "you",
+            "might",
+            "do",
+            "it",
+            "some",
+            "days",
+            "later",
+            "."
+        ],
+        [
+            "No",
+            "issues",
+            "with",
+            "that",
+            "but",
+            "please",
+            "please",
+            "do",
+            "nt",
+            "forget",
+            "to",
+            "do",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "nt",
+            "want",
+            "to",
+            "offend",
+            "anyone",
+            "by",
+            "posting",
+            "this",
+            "but",
+            "just",
+            "want",
+            "to",
+            "give",
+            "a",
+            "friendly",
+            "reminder",
+            "."
+        ],
+        [
+            "Thank",
+            "you",
+            "for",
+            "listening",
+            "and",
+            "Congrats",
+            "to",
+            "the",
+            "accepted",
+            "once",
+            "again",
+            "!"
+        ],
+        [
+            "Edit",
+            ":",
+            "Thank",
+            "you",
+            "for",
+            "the",
+            "love",
+            "and",
+            "support",
+            "everyone",
+            "."
+        ],
+        [
+            "Please",
+            "do",
+            "not",
+            "withdraw",
+            "unless",
+            "you",
+            "'ve",
+            "got",
+            "your",
+            "desired",
+            "financial",
+            "aid",
+            "package",
+            "."
+        ]
+    ]
+}

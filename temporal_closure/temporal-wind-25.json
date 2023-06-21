@@ -1,0 +1,298 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "wore",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were indeed very down",
+                "pos": [
+                    14,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "carried",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sounded",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "patted",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-25",
+    "sents": [
+        [
+            "The",
+            "Badger",
+            ",",
+            "who",
+            "wore",
+            "a",
+            "long",
+            "dressing",
+            "-",
+            "gown",
+            ",",
+            "and",
+            "whose",
+            "slippers",
+            "were",
+            "indeed",
+            "very",
+            "down",
+            "at",
+            "heel",
+            ",",
+            "carried",
+            "a",
+            "flat",
+            "candlestick",
+            "in",
+            "his",
+            "paw",
+            "and",
+            "had",
+            "probably",
+            "been",
+            "on",
+            "his",
+            "way",
+            "to",
+            "bed",
+            "when",
+            "their",
+            "summons",
+            "sounded",
+            "."
+        ],
+        [
+            "He",
+            "looked",
+            "kindly",
+            "down",
+            "on",
+            "them",
+            "and",
+            "patted",
+            "both",
+            "their",
+            "heads",
+            "."
+        ],
+        [
+            "\"",
+            "This",
+            "is",
+            "not",
+            "the",
+            "sort",
+            "of",
+            "night",
+            "for",
+            "small",
+            "animals",
+            "to",
+            "be",
+            "out",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "paternally",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "'m",
+            "afraid",
+            "you",
+            "'ve",
+            "been",
+            "up",
+            "to",
+            "some",
+            "of",
+            "your",
+            "pranks",
+            "again",
+            ",",
+            "Ratty",
+            "."
+        ],
+        [
+            "But",
+            "come",
+            "along",
+            ";",
+            "come",
+            "into",
+            "the",
+            "kitchen",
+            "."
+        ],
+        [
+            "There",
+            "'s",
+            "a",
+            "first",
+            "-",
+            "rate",
+            "fire",
+            "there",
+            ",",
+            "and",
+            "supper",
+            "and",
+            "everything",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

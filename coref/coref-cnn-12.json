@@ -1,0 +1,520 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "falling ill",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "became ill",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "her chambers",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her chambers",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Thursday",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Thursday",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "court",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a statement",
+                "pos": [
+                    31,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the statement",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "pancreatic cancer",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "her cancer",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Ruth Bader Ginsburg",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Ruth Bader Ginsburg",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Ginsburg",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Her",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Ginsburg",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "Ginsburg",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "U.S. Supreme Court",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the court",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Supreme Court",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the court",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the high court",
+                "pos": [
+                    20,
+                    23
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the Supreme Court",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "the court",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-12",
+    "sents": [
+        [
+            "U.S.",
+            "Supreme",
+            "Court",
+            "Justice",
+            "Ruth",
+            "Bader",
+            "Ginsburg",
+            "was",
+            "hospitalized",
+            "Thursday",
+            "after",
+            "falling",
+            "ill",
+            "in",
+            "her",
+            "chambers",
+            ",",
+            "the",
+            "court",
+            "confirmed",
+            "."
+        ],
+        [
+            "Supreme",
+            "Court",
+            "Justice",
+            "Ruth",
+            "Bader",
+            "Ginsburg",
+            "became",
+            "ill",
+            "in",
+            "her",
+            "chambers",
+            "on",
+            "Thursday",
+            "."
+        ],
+        [
+            "Ginsburg",
+            ",",
+            "76",
+            ",",
+            "felt",
+            "faint",
+            ",",
+            "light",
+            "-",
+            "headed",
+            "and",
+            "fatigued",
+            "about",
+            "4:50",
+            "p.m.",
+            ",",
+            "around",
+            "an",
+            "hour",
+            "after",
+            "receiving",
+            "a",
+            "treatment",
+            "for",
+            "iron",
+            "deficiency",
+            ",",
+            "the",
+            "court",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "."
+        ],
+        [
+            "She",
+            "was",
+            "monitored",
+            "by",
+            "an",
+            "in-house",
+            "physician",
+            ",",
+            "who",
+            "performed",
+            "blood",
+            "tests",
+            "and",
+            "found",
+            "her",
+            "to",
+            "be",
+            "in",
+            "stable",
+            "health",
+            "."
+        ],
+        [
+            "Her",
+            "symptoms",
+            "improved",
+            ",",
+            "though",
+            "she",
+            "was",
+            "taken",
+            "to",
+            "the",
+            "Washington",
+            "Hospital",
+            "Center",
+            "as",
+            "a",
+            "precaution",
+            "at",
+            "about",
+            "7:45",
+            "p.m.",
+            ",",
+            "according",
+            "to",
+            "the",
+            "court",
+            "statement",
+            "."
+        ],
+        [
+            "Ginsburg",
+            "had",
+            "surgery",
+            "in",
+            "February",
+            "for",
+            "pancreatic",
+            "cancer",
+            "."
+        ],
+        [
+            "She",
+            "termed",
+            "the",
+            "removal",
+            "of",
+            "her",
+            "cancer",
+            "\"",
+            "successful",
+            "\"",
+            "and",
+            "was",
+            "back",
+            "on",
+            "the",
+            "bench",
+            "18",
+            "days",
+            "later",
+            "when",
+            "the",
+            "high",
+            "court",
+            "resumed",
+            "oral",
+            "arguments",
+            "."
+        ],
+        [
+            "Ginsburg",
+            ",",
+            "who",
+            "was",
+            "appointed",
+            "by",
+            "President",
+            "Clinton",
+            ",",
+            "has",
+            "been",
+            "on",
+            "the",
+            "Supreme",
+            "Court",
+            "since",
+            "1993",
+            "."
+        ],
+        [
+            "She",
+            "was",
+            "the",
+            "second",
+            "woman",
+            "appointed",
+            "to",
+            "the",
+            "court",
+            "."
+        ]
+    ]
+}

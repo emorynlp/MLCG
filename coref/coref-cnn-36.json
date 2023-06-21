@@ -1,0 +1,436 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "state - owned oil exploration company",
+                "pos": [
+                    2,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The company",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Monday",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Monday",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Iraq 's government",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the country 's first oil find",
+                "pos": [
+                    10,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "found",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "The discovery",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "The discovery",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "3.2 million barrels of oil",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Assim Jihad",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Jihad",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Jihad",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Iraq",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Iraq",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Iraq",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Iraq",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the country",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "143 billion barrels of extractable oil",
+                "pos": [
+                    9,
+                    15
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-36",
+    "sents": [
+        [
+            "Iraq",
+            "'s",
+            "state",
+            "-",
+            "owned",
+            "oil",
+            "exploration",
+            "company",
+            "has",
+            "made",
+            "the",
+            "country",
+            "'s",
+            "first",
+            "oil",
+            "find",
+            "in",
+            "30",
+            "years",
+            ",",
+            "an",
+            "Oil",
+            "Ministry",
+            "spokesman",
+            "said",
+            "Monday",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "found",
+            "at",
+            "least",
+            "a",
+            "billion",
+            "barrels",
+            "of",
+            "crude",
+            "under",
+            "the",
+            "ground",
+            "in",
+            "a",
+            "southeastern",
+            "province",
+            "near",
+            "the",
+            "border",
+            "with",
+            "Iran",
+            ",",
+            "spokesman",
+            "Assim",
+            "Jihad",
+            "said",
+            "Monday",
+            "."
+        ],
+        [
+            "The",
+            "discovery",
+            "in",
+            "Maysan",
+            ",",
+            "about",
+            "350",
+            "kilometers",
+            "(",
+            "215",
+            "miles",
+            ")",
+            "south",
+            "of",
+            "Baghdad",
+            ",",
+            "is",
+            "a",
+            "\"",
+            "significant",
+            "achievement",
+            "\"",
+            "for",
+            "the",
+            "country",
+            ",",
+            "Jihad",
+            "said",
+            "."
+        ],
+        [
+            "Despite",
+            "vast",
+            "reserves",
+            "and",
+            "reliance",
+            "on",
+            "oil",
+            "for",
+            "government",
+            "income",
+            ",",
+            "exploration",
+            "in",
+            "Iraq",
+            "has",
+            "been",
+            "hindered",
+            "by",
+            "decades",
+            "of",
+            "conflict",
+            "."
+        ],
+        [
+            "With",
+            "the",
+            "world",
+            "'s",
+            "fourth",
+            "-",
+            "largest",
+            "oil",
+            "reserves",
+            ",",
+            "Iraq",
+            "'s",
+            "government",
+            "depends",
+            "on",
+            "oil",
+            "revenues",
+            "to",
+            "fund",
+            "more",
+            "than",
+            "90%",
+            "of",
+            "its",
+            "budget",
+            "."
+        ],
+        [
+            "The",
+            "discovery",
+            "comes",
+            "seven",
+            "months",
+            "after",
+            "exploratory",
+            "drilling",
+            "began",
+            ",",
+            "Jihad",
+            "said",
+            "."
+        ],
+        [
+            "Iraq",
+            "produces",
+            "3.2",
+            "million",
+            "barrels",
+            "of",
+            "oil",
+            "a",
+            "day",
+            ",",
+            "exporting",
+            "72%",
+            "of",
+            "it",
+            ",",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "In",
+            "2010",
+            ",",
+            "Iraqi",
+            "officials",
+            "estimated",
+            "the",
+            "country",
+            "had",
+            "143",
+            "billion",
+            "barrels",
+            "of",
+            "extractable",
+            "oil",
+            ",",
+            "most",
+            "of",
+            "it",
+            "in",
+            "the",
+            "southern",
+            "oil",
+            "fields",
+            "."
+        ]
+    ]
+}

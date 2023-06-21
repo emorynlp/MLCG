@@ -1,0 +1,349 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "put on",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "spread out",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "amused",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chasing them about",
+                "pos": [
+                    31,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "met",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tried",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "roaring",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-02",
+    "sents": [
+        [
+            "A",
+            "DONKEY",
+            "once",
+            "put",
+            "on",
+            "a",
+            "Lion",
+            "\u2019s",
+            "skin",
+            "which",
+            "some",
+            "hunters",
+            "had",
+            "spread",
+            "out",
+            "to",
+            "dry",
+            "."
+        ],
+        [
+            "It",
+            "did",
+            "not",
+            "fit",
+            "the",
+            "Donkey",
+            "very",
+            "well",
+            ",",
+            "but",
+            "he",
+            "found",
+            "that",
+            "in",
+            "it",
+            "he",
+            "could",
+            "frighten",
+            "all",
+            "the",
+            "timid",
+            ",",
+            "foolish",
+            "little",
+            "animals",
+            ",",
+            "so",
+            "he",
+            "amused",
+            "himself",
+            "by",
+            "chasing",
+            "them",
+            "about",
+            "."
+        ],
+        [
+            "By",
+            "and",
+            "by",
+            "he",
+            "met",
+            "a",
+            "Fox",
+            ",",
+            "and",
+            "tried",
+            "to",
+            "frighten",
+            "him",
+            "by",
+            "roaring",
+            "."
+        ],
+        [
+            "\u201c",
+            "My",
+            "dear",
+            "Donkey",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "wise",
+            "Fox",
+            ",",
+            "\u201c",
+            "you",
+            "are",
+            "braying",
+            ",",
+            "and",
+            "not",
+            "roaring",
+            "."
+        ],
+        [
+            "I",
+            "might",
+            ",",
+            "perhaps",
+            ",",
+            "have",
+            "been",
+            "frightened",
+            "by",
+            "your",
+            "looks",
+            ",",
+            "if",
+            "you",
+            "had",
+            "not",
+            "tried",
+            "to",
+            "roar",
+            ";",
+            "but",
+            "I",
+            "know",
+            "your",
+            "voice",
+            "too",
+            "well",
+            "to",
+            "mistake",
+            "you",
+            "for",
+            "a",
+            "Lion",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

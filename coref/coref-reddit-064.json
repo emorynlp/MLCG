@@ -1,0 +1,213 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "most of my classes",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my classes",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-064",
+    "sents": [
+        [
+            "Been",
+            "contemplating",
+            "this",
+            "a",
+            "lot",
+            "."
+        ],
+        [
+            "Rn",
+            "I",
+            "have",
+            "a",
+            "97",
+            "GPA",
+            ",",
+            "with",
+            "most",
+            "of",
+            "my",
+            "classes",
+            "falling",
+            "between",
+            "the",
+            "94",
+            "-",
+            "100",
+            "range",
+            "."
+        ],
+        [
+            "Finals",
+            "are",
+            "coming",
+            "up",
+            ",",
+            "and",
+            "I",
+            "'m",
+            "unsure",
+            "if",
+            "I",
+            "should",
+            "spend",
+            "a",
+            "few",
+            "extra",
+            "hours",
+            "studying",
+            "and",
+            "completing",
+            "some",
+            "generous",
+            "extra",
+            "credit",
+            "assignments",
+            "given",
+            "by",
+            "professors",
+            "due",
+            "tomorrow",
+            "."
+        ],
+        [
+            "While",
+            "I",
+            "'m",
+            "in",
+            "a",
+            "pretty",
+            "confident",
+            "and",
+            "safe",
+            "spot",
+            ",",
+            "I",
+            "'m",
+            "not",
+            "sure",
+            "if",
+            "an",
+            "actual",
+            "percentage",
+            "matters",
+            "in",
+            "college",
+            "like",
+            "high",
+            "school",
+            ",",
+            "or",
+            "simply",
+            "focus",
+            "on",
+            "getting",
+            "at",
+            "least",
+            "a",
+            "94",
+            "to",
+            "maintain",
+            "an",
+            "A.",
+            "What",
+            "are",
+            "your",
+            "thoughts",
+            "?"
+        ]
+    ]
+}

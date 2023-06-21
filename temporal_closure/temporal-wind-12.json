@@ -1,0 +1,454 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "drew up",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "turned",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ate",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sitting",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "talked",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "grew",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "appearing",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "keep",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "company",
+                "pos": [
+                    44,
+                    45
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "listen",
+                "pos": [
+                    46,
+                    47
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "turned in",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "kicking out",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-12",
+    "sents": [
+        [
+            "Late",
+            "in",
+            "the",
+            "evening",
+            ",",
+            "tired",
+            "and",
+            "happy",
+            "and",
+            "miles",
+            "from",
+            "home",
+            ",",
+            "they",
+            "drew",
+            "up",
+            "on",
+            "a",
+            "remote",
+            "common",
+            "far",
+            "from",
+            "habitations",
+            ",",
+            "turned",
+            "the",
+            "horse",
+            "loose",
+            "to",
+            "graze",
+            ",",
+            "and",
+            "ate",
+            "their",
+            "simple",
+            "supper",
+            "sitting",
+            "on",
+            "the",
+            "grass",
+            "by",
+            "the",
+            "side",
+            "of",
+            "the",
+            "cart",
+            "."
+        ],
+        [
+            "Toad",
+            "talked",
+            "big",
+            "about",
+            "all",
+            "he",
+            "was",
+            "going",
+            "to",
+            "do",
+            "in",
+            "the",
+            "days",
+            "to",
+            "come",
+            ",",
+            "while",
+            "stars",
+            "grew",
+            "fuller",
+            "and",
+            "larger",
+            "all",
+            "around",
+            "them",
+            ",",
+            "and",
+            "a",
+            "yellow",
+            "moon",
+            ",",
+            "appearing",
+            "suddenly",
+            "and",
+            "silently",
+            "from",
+            "nowhere",
+            "in",
+            "particular",
+            ",",
+            "came",
+            "to",
+            "keep",
+            "them",
+            "company",
+            "and",
+            "listen",
+            "to",
+            "their",
+            "talk",
+            "."
+        ],
+        [
+            "At",
+            "last",
+            "they",
+            "turned",
+            "in",
+            "to",
+            "their",
+            "little",
+            "bunks",
+            "in",
+            "the",
+            "cart",
+            ";",
+            "and",
+            "Toad",
+            ",",
+            "kicking",
+            "out",
+            "his",
+            "legs",
+            ",",
+            "sleepily",
+            "said",
+            ",",
+            "\"",
+            "Well",
+            ",",
+            "good",
+            "night",
+            ",",
+            "you",
+            "fellows",
+            "!",
+            "This",
+            "is",
+            "the",
+            "real",
+            "life",
+            "for",
+            "a",
+            "gentleman",
+            "!",
+            "Talk",
+            "about",
+            "your",
+            "old",
+            "river",
+            "!",
+            "\""
+        ]
+    ]
+}

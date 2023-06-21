@@ -1,0 +1,296 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A mother and two children drowned inside a car",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "floodwater washed their vehicle away",
+                "pos": [
+                    11,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The manhole covers began to lift",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "from",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the rush of water",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-22",
+    "sents": [
+        [
+            "A",
+            "mother",
+            "and",
+            "two",
+            "children",
+            "drowned",
+            "inside",
+            "a",
+            "car",
+            "Friday",
+            "after",
+            "floodwater",
+            "washed",
+            "their",
+            "vehicle",
+            "away",
+            ",",
+            "a",
+            "Pittsburgh",
+            "city",
+            "official",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "city",
+            "experienced",
+            "a",
+            "heavy",
+            "storm",
+            "and",
+            "flooding",
+            "shortly",
+            "after",
+            "4",
+            "p.m.",
+            "Friday",
+            ",",
+            "said",
+            "Michael",
+            "Huss",
+            ",",
+            "Pittsburgh",
+            "director",
+            "of",
+            "Public",
+            "Safety",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "manhole",
+            "covers",
+            "began",
+            "to",
+            "lift",
+            "from",
+            "the",
+            "rush",
+            "of",
+            "water",
+            ",",
+            "and",
+            "the",
+            "roadway",
+            "flooded",
+            ",",
+            "\"",
+            "Huss",
+            "said",
+            "."
+        ],
+        [
+            "CNN",
+            "affiliate",
+            "WTAE",
+            "reported",
+            "that",
+            "the",
+            "incident",
+            "took",
+            "place",
+            "in",
+            "the",
+            "eastern",
+            "Pittsburgh",
+            "neighborhood",
+            "of",
+            "Highland",
+            "Park",
+            "in",
+            "Pennsylvania",
+            "."
+        ],
+        [
+            "Huss",
+            "said",
+            "the",
+            "family",
+            "'s",
+            "vehicle",
+            "washed",
+            "down",
+            "the",
+            "roadway",
+            "and",
+            "got",
+            "stuck",
+            "next",
+            "to",
+            "a",
+            "tree",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "three",
+            "could",
+            "not",
+            "get",
+            "out",
+            "of",
+            "the",
+            "car",
+            "before",
+            "it",
+            "was",
+            "submerged",
+            ",",
+            "\"",
+            "Huss",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "water",
+            "had",
+            "a",
+            "lot",
+            "of",
+            "force",
+            "behind",
+            "(",
+            "it",
+            ")",
+            ",",
+            "and",
+            "all",
+            "three",
+            "inside",
+            "drowned",
+            ".",
+            "\""
+        ],
+        [
+            "In",
+            "addition",
+            ",",
+            "Huss",
+            "said",
+            ",",
+            "\"",
+            "We",
+            "have",
+            "one",
+            "person",
+            "whose",
+            "car",
+            "was",
+            "located",
+            ",",
+            "but",
+            "that",
+            "person",
+            "is",
+            "still",
+            "unaccounted",
+            "for",
+            ".",
+            "\""
+        ],
+        [
+            "Dive",
+            "units",
+            "were",
+            "searching",
+            "late",
+            "Friday",
+            "night",
+            "."
+        ]
+    ]
+}

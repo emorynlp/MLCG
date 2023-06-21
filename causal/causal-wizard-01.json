@@ -1,0 +1,239 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "When",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy stood in the doorway and looked around",
+                "pos": [
+                    1,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "she could see nothing but the great gray prairie on every side",
+                "pos": [
+                    10,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the grass was not green",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the sun had burned the tops of the long blades until they were the same gray color to be seen everywhere",
+                "pos": [
+                    8,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-01",
+    "sents": [
+        [
+            "When",
+            "Dorothy",
+            "stood",
+            "in",
+            "the",
+            "doorway",
+            "and",
+            "looked",
+            "around",
+            ",",
+            "she",
+            "could",
+            "see",
+            "nothing",
+            "but",
+            "the",
+            "great",
+            "gray",
+            "prairie",
+            "on",
+            "every",
+            "side",
+            "."
+        ],
+        [
+            "Not",
+            "a",
+            "tree",
+            "nor",
+            "a",
+            "house",
+            "broke",
+            "the",
+            "broad",
+            "sweep",
+            "of",
+            "flat",
+            "country",
+            "that",
+            "reached",
+            "to",
+            "the",
+            "edge",
+            "of",
+            "the",
+            "sky",
+            "in",
+            "all",
+            "directions",
+            "."
+        ],
+        [
+            "The",
+            "sun",
+            "had",
+            "baked",
+            "the",
+            "plowed",
+            "land",
+            "into",
+            "a",
+            "gray",
+            "mass",
+            ",",
+            "with",
+            "little",
+            "cracks",
+            "running",
+            "through",
+            "it",
+            "."
+        ],
+        [
+            "Even",
+            "the",
+            "grass",
+            "was",
+            "not",
+            "green",
+            ",",
+            "for",
+            "the",
+            "sun",
+            "had",
+            "burned",
+            "the",
+            "tops",
+            "of",
+            "the",
+            "long",
+            "blades",
+            "until",
+            "they",
+            "were",
+            "the",
+            "same",
+            "gray",
+            "color",
+            "to",
+            "be",
+            "seen",
+            "everywhere",
+            "."
+        ],
+        [
+            "Once",
+            "the",
+            "house",
+            "had",
+            "been",
+            "painted",
+            ",",
+            "but",
+            "the",
+            "sun",
+            "blistered",
+            "the",
+            "paint",
+            "and",
+            "the",
+            "rains",
+            "washed",
+            "it",
+            "away",
+            ",",
+            "and",
+            "now",
+            "the",
+            "house",
+            "was",
+            "as",
+            "dull",
+            "and",
+            "gray",
+            "as",
+            "everything",
+            "else",
+            "."
+        ]
+    ]
+}

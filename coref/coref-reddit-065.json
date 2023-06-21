@@ -1,0 +1,429 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "themselves",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "spent",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "student",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "this sub",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "this sub",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "subreddit",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "to spend",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a comment",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "that comment",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "high school student",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            },
+            {
+                "name": "themselves",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "stressing about",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "stress about",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "i",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "college apps",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "college apps",
+                "pos": [
+                    36,
+                    38
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-065",
+    "sents": [
+        [
+            "i",
+            "\u2019ve",
+            "spent",
+            "so",
+            "much",
+            "time",
+            "on",
+            "this",
+            "sub",
+            "(",
+            "and",
+            "stressing",
+            "about",
+            "college",
+            "apps",
+            "even",
+            "prior",
+            "to",
+            "this",
+            "sub",
+            ")",
+            "that",
+            "i",
+            "literally",
+            "just",
+            "realised",
+            "that\u2026",
+            "it",
+            "\u2019s",
+            "not",
+            "normal",
+            "??"
+        ],
+        [
+            "i",
+            "saw",
+            "a",
+            "comment",
+            "on",
+            "r",
+            "/",
+            "chanceme",
+            "where",
+            "someone",
+            "was",
+            "like",
+            "\u201c",
+            "*what",
+            "student",
+            "is",
+            "likely",
+            "to",
+            "spend",
+            "their",
+            "free",
+            "time",
+            "on",
+            "a",
+            "subreddit",
+            "about",
+            "applying",
+            "to",
+            "college",
+            "???"
+        ],
+        [
+            "*",
+            "\u201c",
+            "and",
+            "like",
+            "i",
+            "know",
+            "this",
+            "is",
+            "all",
+            "obvious",
+            "asf",
+            "but",
+            "it",
+            "did",
+            "n\u2019t",
+            "sink",
+            "in",
+            "until",
+            "i",
+            "saw",
+            "that",
+            "comment",
+            "?"
+        ],
+        [
+            "like",
+            "literally",
+            "what",
+            "high",
+            "school",
+            "student",
+            "is",
+            "going",
+            "to",
+            "voluntarily",
+            "drown",
+            "themselves",
+            "in",
+            "info",
+            "and",
+            "stress",
+            "about",
+            "college",
+            "\ud83d\ude2d",
+            "i",
+            "also",
+            "just",
+            "retraced",
+            "my",
+            "day",
+            "and",
+            "realised",
+            "i",
+            "spent",
+            "all",
+            "my",
+            "waking",
+            "hours",
+            "on",
+            "school",
+            "and",
+            "college",
+            "apps",
+            "(",
+            "with",
+            "the",
+            "occasional",
+            "netflix",
+            "binge",
+            "ofc",
+            ")",
+            "\ud83d\ude2d\ud83d\ude2d"
+        ]
+    ]
+}

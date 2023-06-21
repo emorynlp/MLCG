@@ -1,0 +1,572 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "memorized",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "memorized",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been struggling with",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "passed",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was essay type",
+                "pos": [
+                    19,
+                    22
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "arrived",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "passed",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "worked",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 10,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am a freshman",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 11,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am in",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 11,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wan",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 13,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-028",
+    "sents": [
+        [
+            "I",
+            "did",
+            "a",
+            "good",
+            "preperation",
+            "."
+        ],
+        [
+            "I",
+            "made",
+            "all",
+            "the",
+            "notes",
+            "in",
+            "class",
+            "and",
+            "memorized",
+            "them",
+            "."
+        ],
+        [
+            "The",
+            "professor",
+            "said",
+            "to",
+            "make",
+            "notes",
+            "and",
+            "not",
+            "to",
+            "preffer",
+            "the",
+            "book",
+            "."
+        ],
+        [
+            "Still",
+            "he",
+            "gave",
+            "questions",
+            "from",
+            "rhe",
+            "book",
+            "and",
+            "luckily",
+            "i",
+            "did",
+            "memorized",
+            "everything",
+            "from",
+            "the",
+            "book",
+            "."
+        ],
+        [
+            "And",
+            "what",
+            "i",
+            "got",
+            "?"
+        ],
+        [
+            "45",
+            "/",
+            "100",
+            "."
+        ],
+        [
+            "Fuck",
+            "!!!!!!!."
+        ],
+        [
+            "I",
+            "have",
+            "been",
+            "struggling",
+            "with",
+            "this",
+            "subject",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "bad",
+            "grades",
+            "in",
+            "3",
+            "of",
+            "the",
+            "exams",
+            "and",
+            "passed",
+            "in",
+            "one",
+            "and",
+            "that",
+            "one",
+            "exam",
+            "i",
+            "did",
+            "was",
+            "essay",
+            "type",
+            ",",
+            "(",
+            "we",
+            "have",
+            "multiple",
+            "choice",
+            "not",
+            "essay",
+            ",",
+            ")",
+            "because",
+            "i",
+            "arrived",
+            "5",
+            "minutes",
+            "late",
+            "and",
+            "he",
+            "said",
+            "i",
+            "can",
+            "not",
+            "take",
+            "my",
+            "exam",
+            "."
+        ],
+        [
+            "So",
+            "he",
+            "made",
+            "an",
+            "essay",
+            "exam",
+            "and",
+            "i",
+            "passed",
+            "in",
+            "that",
+            "."
+        ],
+        [
+            "But",
+            "worked",
+            "hard",
+            "in",
+            "my",
+            "final",
+            "exam",
+            "and",
+            "still",
+            "did",
+            "nt",
+            "pass",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "a",
+            "freshman",
+            "and",
+            "i",
+            "am",
+            "in",
+            "first",
+            "semester",
+            "."
+        ],
+        [
+            "Fuck",
+            "!!!!!"
+        ],
+        [
+            "I",
+            "really",
+            "wan",
+            "na",
+            "cry",
+            "and",
+            "break",
+            "things",
+            "."
+        ]
+    ]
+}

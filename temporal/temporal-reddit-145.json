@@ -1,0 +1,545 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "'m taking",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is an okay work load",
+                "pos": [
+                    8,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been moved",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been suffering",
+                "pos": [
+                    30,
+                    32
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "being on",
+                "pos": [
+                    38,
+                    40
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sitting through",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "doing",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is already killing",
+                "pos": [
+                    26,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been putting it off",
+                "pos": [
+                    9,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are driving",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "do",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s on",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "EDIT",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "put",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "encountered",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-145",
+    "sents": [
+        [
+            "I",
+            "'m",
+            "taking",
+            "19",
+            "credit",
+            "hours",
+            "currently",
+            "which",
+            "is",
+            "an",
+            "okay",
+            "work",
+            "load",
+            "for",
+            "me",
+            ",",
+            "however",
+            "since",
+            "everything",
+            "has",
+            "been",
+            "moved",
+            "online",
+            "due",
+            "to",
+            "covid",
+            "-",
+            "19",
+            "I",
+            "have",
+            "been",
+            "suffering",
+            "from",
+            "headaches",
+            "due",
+            "to",
+            "my",
+            "lectures",
+            "being",
+            "on",
+            "zoom",
+            "as",
+            "well",
+            "as",
+            "the",
+            "majority",
+            "of",
+            "my",
+            "homework",
+            "."
+        ],
+        [
+            "After",
+            "sitting",
+            "through",
+            "online",
+            "lectures",
+            "all",
+            "morning",
+            "and",
+            "on",
+            "some",
+            "days",
+            "throughout",
+            "the",
+            "afternoon",
+            "I",
+            "have",
+            "a",
+            "hard",
+            "time",
+            "doing",
+            "my",
+            "homework",
+            "afterwards",
+            "because",
+            "my",
+            "head",
+            "is",
+            "already",
+            "killing",
+            "me",
+            "."
+        ],
+        [
+            "Is",
+            "there",
+            "any",
+            "way",
+            "to",
+            "prevent",
+            "this",
+            "from",
+            "happening",
+            "?"
+        ],
+        [
+            "I",
+            "want",
+            "to",
+            "do",
+            "my",
+            "homework",
+            "but",
+            "I",
+            "'ve",
+            "been",
+            "putting",
+            "it",
+            "off",
+            "because",
+            "the",
+            "eye",
+            "strain",
+            "and",
+            "headaches",
+            "are",
+            "driving",
+            "me",
+            "nuts",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "been",
+            "able",
+            "to",
+            "do",
+            "the",
+            "homework",
+            "that",
+            "'s",
+            "on",
+            "paper",
+            "but",
+            "otherwise",
+            "I",
+            "'m",
+            "worthless",
+            "right",
+            "now",
+            "."
+        ],
+        [
+            "EDIT",
+            ":",
+            "I",
+            "did",
+            "not",
+            "expect",
+            "this",
+            "post",
+            "to",
+            "blow",
+            "up",
+            "this",
+            "much",
+            "."
+        ],
+        [
+            "Thanks",
+            "y'all",
+            "for",
+            "the",
+            "advice",
+            "I",
+            "will",
+            "definitely",
+            "put",
+            "it",
+            "to",
+            "good",
+            "use",
+            ",",
+            "and",
+            "Hopefully",
+            "it",
+            "will",
+            "help",
+            "out",
+            "others",
+            "who",
+            "have",
+            "encountered",
+            "similar",
+            "issues",
+            "during",
+            "these",
+            "tough",
+            "times",
+            "."
+        ],
+        [
+            "Best",
+            "of",
+            "luck",
+            "!"
+        ]
+    ]
+}

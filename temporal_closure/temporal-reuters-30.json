@@ -1,0 +1,383 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "released",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "showed",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "compared",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was 30.7 pct",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "compared",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-30",
+    "sents": [
+        [
+            "Monetary",
+            "and",
+            "credit",
+            "growth",
+            "rates",
+            "in",
+            "New",
+            "Zealand",
+            "are",
+            "not",
+            "expected",
+            "to",
+            "continue",
+            "at",
+            "current",
+            "levels",
+            "following",
+            "the",
+            "Reserve",
+            "Bank",
+            "'s",
+            "move",
+            "to",
+            "tighten",
+            "liquidity",
+            "late",
+            "last",
+            "year",
+            ",",
+            "Reserve",
+            "Bank",
+            "Governor",
+            "Spencer",
+            "Russell",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "monetary",
+            "and",
+            "credit",
+            "growth",
+            "figures",
+            "for",
+            "the",
+            "December",
+            "quarter",
+            "were",
+            "probably",
+            "artifically",
+            "inflated",
+            "by",
+            "unusually",
+            "high",
+            "growth",
+            "in",
+            "inter-institutional",
+            "lending",
+            "activity",
+            "on",
+            "the",
+            "short",
+            "term",
+            "money",
+            "market",
+            ",",
+            "Russell",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "."
+        ],
+        [
+            "The",
+            "bank",
+            "moved",
+            "to",
+            "tighten",
+            "liquidity",
+            "when",
+            "the",
+            "initial",
+            "signs",
+            "of",
+            "the",
+            "recent",
+            "expansion",
+            "became",
+            "apparent",
+            "in",
+            "September",
+            "and",
+            "October",
+            "last",
+            "year",
+            ",",
+            "Russell",
+            "said",
+            "."
+        ],
+        [
+            "Broadly",
+            "defined",
+            "M-3",
+            "figures",
+            "released",
+            "today",
+            "showed",
+            "growth",
+            "of",
+            "17.8",
+            "pct",
+            "in",
+            "the",
+            "year",
+            "ended",
+            "December",
+            "compared",
+            "with",
+            "13.1",
+            "pct",
+            "in",
+            "the",
+            "year",
+            "ended",
+            "September",
+            "."
+        ],
+        [
+            "Annual",
+            "growth",
+            "of",
+            "private",
+            "sector",
+            "credit",
+            "in",
+            "calendar",
+            "1986",
+            "was",
+            "30.7",
+            "pct",
+            "compared",
+            "with",
+            "16.5",
+            "pct",
+            "in",
+            "the",
+            "September",
+            "year",
+            "."
+        ],
+        [
+            "\"",
+            "Available",
+            "evidence",
+            "suggests",
+            "that",
+            "corporate",
+            "customers",
+            ",",
+            "including",
+            "non-bank",
+            "financial",
+            "institutions",
+            ",",
+            "have",
+            "been",
+            "exploiting",
+            "differences",
+            "between",
+            "interest",
+            "rates",
+            "on",
+            "overdrafts",
+            "with",
+            "trading",
+            "banks",
+            "and",
+            "rates",
+            "in",
+            "the",
+            "call",
+            "market",
+            ",",
+            "\"",
+            "Russell",
+            "said",
+            "."
+        ]
+    ]
+}

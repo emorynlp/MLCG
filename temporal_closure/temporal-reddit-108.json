@@ -1,0 +1,330 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "be my fifth and final year of college",
+                "pos": [
+                    3,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "graduated",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m just realizing",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feels",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-108",
+    "sents": [
+        [
+            "Next",
+            "year",
+            "will",
+            "be",
+            "my",
+            "fifth",
+            "and",
+            "final",
+            "year",
+            "of",
+            "college",
+            "."
+        ],
+        [
+            "I",
+            "never",
+            "really",
+            "found",
+            "my",
+            "group",
+            "of",
+            "close",
+            "friends",
+            "or",
+            "had",
+            "a",
+            "girlfriend",
+            "or",
+            "anything",
+            "."
+        ],
+        [
+            "The",
+            "acquaintance",
+            "level",
+            "friends",
+            "I",
+            "did",
+            "have",
+            "basically",
+            "all",
+            "graduated",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "Now",
+            "I",
+            "'m",
+            "just",
+            "realizing",
+            "that",
+            "after",
+            "not",
+            "seeing",
+            "anyone",
+            "in",
+            "person",
+            "for",
+            "more",
+            "than",
+            "a",
+            "year",
+            ",",
+            "as",
+            "much",
+            "as",
+            "I",
+            "want",
+            "a",
+            "girlfriend",
+            "I",
+            "do",
+            "n't",
+            "even",
+            "have",
+            "a",
+            "crush",
+            "on",
+            "anyone",
+            "any",
+            "more",
+            "."
+        ],
+        [
+            "Just",
+            "feels",
+            "like",
+            "a",
+            "new",
+            "level",
+            "of",
+            "loneliness",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "Because",
+            "when",
+            "you",
+            "have",
+            "a",
+            "crush",
+            ",",
+            "at",
+            "least",
+            "you",
+            "have",
+            "someone",
+            "to",
+            "think",
+            "about",
+            "and",
+            "talk",
+            "to",
+            "and",
+            "plan",
+            "next",
+            "steps",
+            "with",
+            "."
+        ],
+        [
+            "When",
+            "you",
+            "do",
+            "n't",
+            "even",
+            "have",
+            "that",
+            ",",
+            "it",
+            "'s",
+            "just",
+            "..."
+        ],
+        [
+            "even",
+            "lonelier",
+            "."
+        ],
+        [
+            "Just",
+            "wanted",
+            "to",
+            "get",
+            "it",
+            "off",
+            "my",
+            "chest",
+            "."
+        ],
+        [
+            "Hopefully",
+            "next",
+            "year",
+            "will",
+            "be",
+            "better",
+            "and",
+            "I",
+            "'ll",
+            "make",
+            "some",
+            "friends",
+            "and",
+            "stuff",
+            "."
+        ]
+    ]
+}

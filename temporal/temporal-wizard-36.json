@@ -1,0 +1,282 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "down",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "walked up",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knocked",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was opened",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asked for",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asked",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "answered",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-36",
+    "sents": [
+        [
+            "The",
+            "Monkeys",
+            "had",
+            "set",
+            "them",
+            "down",
+            "near",
+            "a",
+            "farmhouse",
+            ",",
+            "and",
+            "the",
+            "four",
+            "travelers",
+            "walked",
+            "up",
+            "to",
+            "it",
+            "and",
+            "knocked",
+            "at",
+            "the",
+            "door",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "opened",
+            "by",
+            "the",
+            "farmer",
+            "'",
+            "s",
+            "wife",
+            ",",
+            "and",
+            "when",
+            "Dorothy",
+            "asked",
+            "for",
+            "something",
+            "to",
+            "eat",
+            "the",
+            "woman",
+            "gave",
+            "them",
+            "all",
+            "a",
+            "good",
+            "dinner",
+            ",",
+            "with",
+            "three",
+            "kinds",
+            "of",
+            "cake",
+            "and",
+            "four",
+            "kinds",
+            "of",
+            "cookies",
+            ",",
+            "and",
+            "a",
+            "bowl",
+            "of",
+            "milk",
+            "for",
+            "Toto",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "far",
+            "is",
+            "it",
+            "to",
+            "the",
+            "Castle",
+            "of",
+            "Glinda",
+            "?",
+            "\"",
+            "asked",
+            "the",
+            "child",
+            "."
+        ],
+        [
+            "\"",
+            "It",
+            "is",
+            "not",
+            "a",
+            "great",
+            "way",
+            ",",
+            "\"",
+            "answered",
+            "the",
+            "farmer",
+            "'",
+            "s",
+            "wife",
+            "."
+        ],
+        [
+            "\"",
+            "Take",
+            "the",
+            "road",
+            "to",
+            "the",
+            "South",
+            "and",
+            "you",
+            "will",
+            "soon",
+            "reach",
+            "it",
+            "."
+        ]
+    ]
+}

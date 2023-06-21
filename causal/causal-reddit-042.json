@@ -1,0 +1,268 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I ca n't concentrate",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it 's a lecture",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019m a language major",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "most of my courses are discussion heavy in small groups of people",
+                "pos": [
+                    6,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "any tips",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "make",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "them more bearable and efficient",
+                "pos": [
+                    17,
+                    22
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-042",
+    "sents": [
+        [
+            "I",
+            "hate",
+            "lectures",
+            ",",
+            "I",
+            "love",
+            "participating",
+            "and",
+            "learn",
+            "more",
+            "effectively",
+            "in",
+            "small",
+            "groups",
+            "of",
+            "people",
+            "."
+        ],
+        [
+            "I",
+            "ca",
+            "n't",
+            "concentrate",
+            "if",
+            "it",
+            "'s",
+            "a",
+            "lecture",
+            "."
+        ],
+        [
+            "Do",
+            "you",
+            "have",
+            "any",
+            "tips",
+            "?"
+        ],
+        [
+            "Edit",
+            ":",
+            "I",
+            "forgot",
+            "to",
+            "mention",
+            "that",
+            "I",
+            "\u2019m",
+            "doing",
+            "pretty",
+            "well",
+            ",",
+            "I",
+            "do",
+            "n\u2019t",
+            "have",
+            "any",
+            "problems",
+            "regarding",
+            "success",
+            "."
+        ],
+        [
+            "I",
+            "currently",
+            "have",
+            "a",
+            "3.7",
+            "GPA",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "a",
+            "language",
+            "major",
+            "so",
+            "most",
+            "of",
+            "my",
+            "courses",
+            "are",
+            "discussion",
+            "heavy",
+            "in",
+            "small",
+            "groups",
+            "of",
+            "people",
+            "(",
+            "like",
+            "20",
+            "-",
+            "30",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "really",
+            "do",
+            "n\u2019t",
+            "like",
+            "lectures",
+            "and",
+            "was",
+            "asking",
+            "if",
+            "anyone",
+            "had",
+            "any",
+            "tips",
+            "to",
+            "make",
+            "them",
+            "more",
+            "bearable",
+            "and",
+            "efficient",
+            "."
+        ]
+    ]
+}

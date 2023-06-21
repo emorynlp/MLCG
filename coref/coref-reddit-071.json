@@ -1,0 +1,347 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-071",
+    "sents": [
+        [
+            "I",
+            "used",
+            "to",
+            "be",
+            "a",
+            "morning",
+            "person",
+            ",",
+            "but",
+            "since",
+            "I",
+            "entered",
+            "grad",
+            "school",
+            ",",
+            "I",
+            "have",
+            "basically",
+            "turned",
+            "into",
+            "a",
+            "night",
+            "owl",
+            "."
+        ],
+        [
+            "I",
+            "ca",
+            "n't",
+            "concentrate",
+            "during",
+            "the",
+            "day",
+            "--",
+            "I",
+            "get",
+            "so",
+            "distracted",
+            "by",
+            "noises",
+            "and",
+            "cars",
+            "driving",
+            "by",
+            "and",
+            "my",
+            "upstairs",
+            "neighbors",
+            "at",
+            "my",
+            "busy",
+            "apartment",
+            "complex",
+            "."
+        ],
+        [
+            "I",
+            "will",
+            "have",
+            "probably",
+            "2",
+            "\"",
+            "squirrel",
+            "!",
+            "\""
+        ],
+        [
+            "moments",
+            "per",
+            "minute",
+            "."
+        ],
+        [
+            "I",
+            "'ve",
+            "tried",
+            "white",
+            "noise",
+            "apps",
+            ",",
+            "shutting",
+            "all",
+            "my",
+            "blinds",
+            ",",
+            "noise",
+            "-",
+            "canceling",
+            "headphones",
+            ",",
+            "you",
+            "name",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "now",
+            "gotten",
+            "to",
+            "where",
+            "I",
+            "get",
+            "the",
+            "bulk",
+            "of",
+            "my",
+            "heavy",
+            "-",
+            "duty",
+            "reading",
+            "and",
+            "writing",
+            "done",
+            "between",
+            "10",
+            "pm",
+            "and",
+            "3",
+            "am",
+            "or",
+            "later",
+            "when",
+            "it",
+            "'s",
+            "completely",
+            "silent",
+            "and",
+            "still",
+            "."
+        ],
+        [
+            "5",
+            "-",
+            "hr",
+            "Energy",
+            "is",
+            "keeping",
+            "me",
+            "going",
+            ",",
+            "but",
+            "I",
+            "do",
+            "n't",
+            "know",
+            "how",
+            "long",
+            "I",
+            "can",
+            "keep",
+            "this",
+            "up",
+            "."
+        ],
+        [
+            "Any",
+            "advice",
+            "?"
+        ],
+        [
+            "\\*Edit",
+            ":",
+            "it",
+            "'s",
+            "unsustainable",
+            "because",
+            "I",
+            "'ll",
+            "be",
+            "the",
+            "teacher",
+            "of",
+            "record",
+            "for",
+            "8",
+            "am",
+            "classes",
+            "next",
+            "semester",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,297 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "wrote",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "give",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am apparently at risk",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dropped",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m pretty much being called",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is my 3rd year",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-030",
+    "sents": [
+        [
+            "Apparently",
+            "I",
+            "\u201c",
+            "plagiarized",
+            "\u201d",
+            "about",
+            "65%",
+            "of",
+            "a",
+            "bio",
+            "lab",
+            "report",
+            "that",
+            "I",
+            "definitely",
+            "wrote",
+            "all",
+            "by",
+            "myself",
+            "."
+        ],
+        [
+            "My",
+            "TA",
+            "gave",
+            "me",
+            "a",
+            "0",
+            "but",
+            "did",
+            "give",
+            "me",
+            "the",
+            "option",
+            "of",
+            "redoing",
+            "the",
+            "assignment",
+            "in",
+            "24",
+            "hours",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "apparently",
+            "at",
+            "risk",
+            "of",
+            "getting",
+            "reported",
+            "to",
+            "the",
+            "university",
+            "."
+        ],
+        [
+            "My",
+            "grade",
+            "dropped",
+            "a",
+            "horrific",
+            "amount",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "pretty",
+            "much",
+            "being",
+            "called",
+            "a",
+            "liar",
+            "and",
+            "a",
+            "cheat",
+            "."
+        ],
+        [
+            "Happened",
+            "to",
+            "anyone",
+            "else",
+            "?"
+        ],
+        [
+            "I",
+            "literally",
+            "cried",
+            "when",
+            "my",
+            "TA",
+            "told",
+            "me",
+            "."
+        ],
+        [
+            "This",
+            "is",
+            "my",
+            "3rd",
+            "year",
+            "at",
+            "college",
+            "and",
+            "nothing",
+            "like",
+            "this",
+            "has",
+            "ever",
+            "happened",
+            "to",
+            "me",
+            "."
+        ]
+    ]
+}

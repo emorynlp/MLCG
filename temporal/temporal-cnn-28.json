@@ -1,0 +1,478 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "arrested",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "say",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is accused",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "moving",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are victims",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is perilous",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "begins",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "grown",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "expand",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "frighten",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "arrests",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "contributed",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-28",
+    "sents": [
+        [
+            "Authorities",
+            "have",
+            "arrested",
+            "a",
+            "man",
+            "they",
+            "say",
+            "was",
+            "the",
+            "leader",
+            "of",
+            "a",
+            "kidnapping",
+            "cell",
+            "responsible",
+            "for",
+            "kidnapping",
+            ",",
+            "raping",
+            "and",
+            "torturing",
+            "victims",
+            "along",
+            "the",
+            "U.S.",
+            "-",
+            "Mexico",
+            "border",
+            "."
+        ],
+        [
+            "Serafin",
+            "Medina",
+            "-",
+            "Angel",
+            "was",
+            "arrested",
+            "at",
+            "his",
+            "home",
+            "in",
+            "Tijuana",
+            ",",
+            "Mexico",
+            ",",
+            "on",
+            "September",
+            "1",
+            ",",
+            "according",
+            "to",
+            "a",
+            "Monday",
+            "statement",
+            "from",
+            "U.S.",
+            "Customs",
+            "and",
+            "Border",
+            "Protection",
+            "(",
+            "C",
+            "BP)",
+            "."
+        ],
+        [
+            "He",
+            "is",
+            "accused",
+            "of",
+            "kidnapping",
+            "Mexican",
+            "citizens",
+            "attempting",
+            "to",
+            "cross",
+            "into",
+            "the",
+            "United",
+            "States",
+            "from",
+            "Mexico",
+            "."
+        ],
+        [
+            "His",
+            "victims",
+            "were",
+            "tortured",
+            "and",
+            "raped",
+            "while",
+            "accomplices",
+            "tried",
+            "to",
+            "collect",
+            "ransoms",
+            "from",
+            "their",
+            "families",
+            ",",
+            "CBP",
+            "said",
+            "."
+        ],
+        [
+            "Medina",
+            "-",
+            "Angel",
+            "was",
+            "arraigned",
+            "last",
+            "week",
+            "and",
+            "charged",
+            "with",
+            "three",
+            "counts",
+            "of",
+            "kidnapping",
+            ",",
+            "the",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "Many",
+            "migrants",
+            "moving",
+            "through",
+            "Mexico",
+            "on",
+            "their",
+            "way",
+            "to",
+            "the",
+            "United",
+            "States",
+            "are",
+            "victims",
+            "of",
+            "violence",
+            "along",
+            "the",
+            "border",
+            ",",
+            "but",
+            "the",
+            "journey",
+            "is",
+            "perilous",
+            "from",
+            "the",
+            "moment",
+            "it",
+            "begins",
+            "."
+        ],
+        [
+            "The",
+            "danger",
+            "has",
+            "grown",
+            "as",
+            "Mexico",
+            "'s",
+            "drug",
+            "gangs",
+            "expand",
+            "their",
+            "reach",
+            "."
+        ],
+        [
+            "Slayings",
+            "frighten",
+            "Ciudad",
+            "Juarez",
+            "bus",
+            "drivers",
+            ",",
+            "commuters",
+            "Mexico",
+            "arrests",
+            "'",
+            "Ugly",
+            "Betty",
+            ",",
+            "'",
+            "alleged",
+            "leader",
+            "of",
+            "New",
+            "Juarez",
+            "Cartel",
+            "CNN",
+            "'s",
+            "Catherine",
+            "E.",
+            "Shoichet",
+            "contributed",
+            "to",
+            "this",
+            "report",
+            "."
+        ]
+    ]
+}

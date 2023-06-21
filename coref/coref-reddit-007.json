@@ -1,0 +1,528 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "everyone",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my registration",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my registration",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Studying",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-007",
+    "sents": [
+        [
+            "I",
+            "do",
+            "n't",
+            "care",
+            "because",
+            "I",
+            "'m",
+            "just",
+            "here",
+            "to",
+            "get",
+            "my",
+            "degree",
+            "so",
+            "I",
+            "can",
+            "get",
+            "a",
+            "better",
+            "job",
+            "but",
+            "at",
+            "the",
+            "same",
+            "I",
+            "kinda",
+            "do",
+            "care",
+            "."
+        ],
+        [
+            "And",
+            "also",
+            "I",
+            "came",
+            "back",
+            "after",
+            "I",
+            "\"",
+            "froze",
+            "\"",
+            "my",
+            "registration",
+            "and",
+            "went",
+            "to",
+            "work",
+            "."
+        ],
+        [
+            "So",
+            "I",
+            "have",
+            "a",
+            "few",
+            "disciplines",
+            "already",
+            "done",
+            ",",
+            "with",
+            "a",
+            "few",
+            "more",
+            "left",
+            "so",
+            "I",
+            "am",
+            "in",
+            "a",
+            "situation",
+            "where",
+            "I",
+            "do",
+            "n't",
+            "belong",
+            "in",
+            "any",
+            "\"",
+            "year",
+            "\"",
+            ",",
+            "everyone",
+            "already",
+            "is",
+            "an",
+            "a",
+            "group",
+            "they",
+            "do",
+            "n't",
+            "really",
+            "want",
+            "to",
+            "meet",
+            "new",
+            "people",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "'m",
+            "sure",
+            "they",
+            "look",
+            "at",
+            "my",
+            "age",
+            "or",
+            "the",
+            "year",
+            "of",
+            "my",
+            "registration",
+            "and",
+            "think",
+            "\"",
+            "yikes",
+            "she",
+            "'s",
+            "still",
+            "here",
+            "?"
+        ],
+        [
+            "What",
+            "a",
+            "loser",
+            ",",
+            "I",
+            "hope",
+            "I",
+            "do",
+            "n't",
+            "end",
+            "up",
+            "like",
+            "her",
+            "\"",
+            "Bah",
+            "I",
+            "should",
+            "n't",
+            "care",
+            "but",
+            "I",
+            "also",
+            "ca",
+            "n't",
+            "stop",
+            "feeling",
+            "like",
+            "a",
+            "loser",
+            "whenever",
+            "I",
+            "'m",
+            "in",
+            "class",
+            "."
+        ],
+        [
+            "Studying",
+            "at",
+            "home",
+            "is",
+            "so",
+            "peaceful",
+            "and",
+            "I",
+            "enjoy",
+            "it",
+            "so",
+            "much",
+            ",",
+            "I",
+            "'m",
+            "also",
+            "in",
+            "my",
+            "comfort",
+            "zone",
+            "with",
+            "my",
+            "boyfriend",
+            "."
+        ],
+        [
+            "But",
+            "then",
+            "I",
+            "go",
+            "to",
+            "class",
+            "and",
+            "it",
+            "'s",
+            "warzone",
+            "of",
+            "emotions",
+            "."
+        ],
+        [
+            "Once",
+            "I",
+            "left",
+            "the",
+            "building",
+            "just",
+            "feeling",
+            "like",
+            "crying",
+            "."
+        ]
+    ]
+}

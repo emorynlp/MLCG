@@ -1,0 +1,348 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Thomas Elliot Huggins , 25 , was arrested Thursday",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a family member called police",
+                "pos": [
+                    10,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "storing pieces in the freezer",
+                "pos": [
+                    19,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "future meals",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "He was arrested",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "on",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "suspicion of animal cruelty",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Smugglers",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "drive",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "Thailand 's grim trade in dog meat",
+                "pos": [
+                    2,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-44",
+    "sents": [
+        [
+            "A",
+            "Florida",
+            "man",
+            "is",
+            "accused",
+            "of",
+            "strangling",
+            "a",
+            "family",
+            "puppy",
+            ",",
+            "chopping",
+            "it",
+            "into",
+            "pieces",
+            "and",
+            "cooking",
+            "its",
+            "ribs",
+            "on",
+            "the",
+            "stove",
+            ",",
+            "Tampa",
+            "police",
+            "said",
+            "."
+        ],
+        [
+            "Thomas",
+            "Elliot",
+            "Huggins",
+            ",",
+            "25",
+            ",",
+            "was",
+            "arrested",
+            "Thursday",
+            "after",
+            "a",
+            "family",
+            "member",
+            "called",
+            "police",
+            "."
+        ],
+        [
+            "\"",
+            "When",
+            "officers",
+            "arrived",
+            ",",
+            "they",
+            "found",
+            "the",
+            "dog",
+            "'s",
+            "ribs",
+            "cooked",
+            "in",
+            "a",
+            "pot",
+            "on",
+            "the",
+            "stove",
+            ",",
+            "\"",
+            "Tampa",
+            "police",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "dog",
+            "'s",
+            "head",
+            "was",
+            "in",
+            "the",
+            "garbage",
+            ".",
+            "\""
+        ],
+        [
+            "Huggins",
+            "had",
+            "strangled",
+            "the",
+            "5",
+            "-",
+            "to",
+            "6",
+            "-",
+            "month",
+            "-",
+            "old",
+            "puppy",
+            "and",
+            "chopped",
+            "it",
+            "into",
+            "quarters",
+            ",",
+            "storing",
+            "pieces",
+            "in",
+            "the",
+            "freezer",
+            "for",
+            "future",
+            "meals",
+            ",",
+            "authorities",
+            "said",
+            "."
+        ],
+        [
+            "He",
+            "was",
+            "arrested",
+            "on",
+            "suspicion",
+            "of",
+            "animal",
+            "cruelty",
+            "."
+        ],
+        [
+            "Animal",
+            "control",
+            "officials",
+            "took",
+            "the",
+            "remains",
+            "of",
+            "the",
+            "puppy",
+            "."
+        ],
+        [
+            "Smugglers",
+            "drive",
+            "Thailand",
+            "'s",
+            "grim",
+            "trade",
+            "in",
+            "dog",
+            "meat",
+            "A",
+            "national",
+            "spotlight",
+            "on",
+            "animal",
+            "abuse"
+        ]
+    ]
+}

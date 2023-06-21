@@ -1,0 +1,379 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "accepted",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s options",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m really grateful",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "accepted",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m a little sad",
+                "pos": [
+                    30,
+                    34
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are appreciated",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-078",
+    "sents": [
+        [
+            "Got",
+            "accepted",
+            "into",
+            "my",
+            "dream",
+            "school",
+            "..."
+        ],
+        [
+            "spring",
+            "semester",
+            "???"
+        ],
+        [
+            "Do",
+            "you",
+            "think",
+            "I",
+            "should",
+            "still",
+            "go",
+            "?"
+        ],
+        [
+            "There",
+            "'s",
+            "options",
+            "to",
+            "study",
+            "abroad",
+            "which",
+            "i",
+            "'ve",
+            "always",
+            "wanted",
+            "to",
+            "do",
+            "but",
+            "I",
+            "wanted",
+            "to",
+            "wait",
+            "until",
+            "my",
+            "junior",
+            "year",
+            "."
+        ],
+        [
+            "Do",
+            "you",
+            "think",
+            "i",
+            "'ll",
+            "regret",
+            "missing",
+            "out",
+            "on",
+            "first",
+            "semester",
+            "freshman",
+            "activities",
+            "like",
+            "move",
+            "in",
+            "day",
+            "and",
+            "all",
+            "of",
+            "those",
+            "things",
+            "?"
+        ],
+        [
+            "Idrk",
+            "what",
+            "to",
+            "think",
+            "abt",
+            "this",
+            "situation",
+            "."
+        ],
+        [
+            "On",
+            "one",
+            "hand",
+            "i",
+            "'m",
+            "really",
+            "grateful",
+            "I",
+            "got",
+            "accepted",
+            "into",
+            "a",
+            "school",
+            "I",
+            "had",
+            "a",
+            "very",
+            "low",
+            "chance",
+            "at",
+            "with",
+            "my",
+            "gpa",
+            ",",
+            "but",
+            "on",
+            "the",
+            "other",
+            "hand",
+            "i",
+            "'m",
+            "a",
+            "little",
+            "sad",
+            "that",
+            "I",
+            "would",
+            "n't",
+            "be",
+            "able",
+            "to",
+            "attend",
+            "first",
+            "semester",
+            "."
+        ],
+        [
+            "Any",
+            "thoughts",
+            "and",
+            "advice",
+            "are",
+            "appreciated",
+            ":)"
+        ]
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was half frightened",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "facing",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-08",
+    "sents": [
+        [
+            "\"",
+            "But",
+            "I",
+            "thought",
+            "all",
+            "witches",
+            "were",
+            "wicked",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "girl",
+            ",",
+            "who",
+            "was",
+            "half",
+            "frightened",
+            "at",
+            "facing",
+            "a",
+            "real",
+            "witch",
+            "."
+        ],
+        [
+            "\"",
+            "Oh",
+            ",",
+            "no",
+            ",",
+            "that",
+            "is",
+            "a",
+            "great",
+            "mistake",
+            "."
+        ],
+        [
+            "There",
+            "were",
+            "only",
+            "four",
+            "witches",
+            "in",
+            "all",
+            "the",
+            "Land",
+            "of",
+            "Oz",
+            ",",
+            "and",
+            "two",
+            "of",
+            "them",
+            ",",
+            "those",
+            "who",
+            "live",
+            "in",
+            "the",
+            "North",
+            "and",
+            "the",
+            "South",
+            ",",
+            "are",
+            "good",
+            "witches",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "this",
+            "is",
+            "true",
+            ",",
+            "for",
+            "I",
+            "am",
+            "one",
+            "of",
+            "them",
+            "myself",
+            ",",
+            "and",
+            "can",
+            "not",
+            "be",
+            "mistaken",
+            "."
+        ],
+        [
+            "Those",
+            "who",
+            "dwelt",
+            "in",
+            "the",
+            "East",
+            "and",
+            "the",
+            "West",
+            "were",
+            ",",
+            "indeed",
+            ",",
+            "wicked",
+            "witches",
+            ";",
+            "but",
+            "now",
+            "that",
+            "you",
+            "have",
+            "killed",
+            "one",
+            "of",
+            "them",
+            ",",
+            "there",
+            "is",
+            "but",
+            "one",
+            "Wicked",
+            "Witch",
+            "in",
+            "all",
+            "the",
+            "Land",
+            "of",
+            "Oz",
+            "--",
+            "the",
+            "one",
+            "who",
+            "lives",
+            "in",
+            "the",
+            "West",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

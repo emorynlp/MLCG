@@ -1,0 +1,195 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "when",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I hear the bark of but a single dog",
+                "pos": [
+                    18,
+                    27
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I faint with terror",
+                "pos": [
+                    28,
+                    32
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-30",
+    "sents": [
+        [
+            "A",
+            "YOUNG",
+            "Fawn",
+            "once",
+            "said",
+            "to",
+            "his",
+            "Mother",
+            ":",
+            "\u201c",
+            "I",
+            "do",
+            "not",
+            "see",
+            ",",
+            "Mother",
+            ",",
+            "how",
+            "it",
+            "is",
+            "that",
+            "you",
+            "should",
+            "be",
+            "so",
+            "afraid",
+            "of",
+            "the",
+            "dogs",
+            "."
+        ],
+        [
+            "You",
+            "are",
+            "larger",
+            "than",
+            "a",
+            "dog",
+            ",",
+            "and",
+            "swifter",
+            ";",
+            "and",
+            "you",
+            "are",
+            "much",
+            "more",
+            "used",
+            "to",
+            "running",
+            "."
+        ],
+        [
+            "Why",
+            "is",
+            "it",
+            "that",
+            "the",
+            "mere",
+            "mention",
+            "of",
+            "a",
+            "hound",
+            "puts",
+            "you",
+            "into",
+            "such",
+            "a",
+            "terrible",
+            "fright",
+            "?",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Mother",
+            "smiled",
+            "upon",
+            "her",
+            "brave",
+            "young",
+            "son",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "know",
+            "very",
+            "well",
+            ",",
+            "\u201d",
+            "she",
+            "said",
+            ",",
+            "\u201c",
+            "that",
+            "all",
+            "you",
+            "say",
+            "is",
+            "true",
+            "."
+        ],
+        [
+            "I",
+            "look",
+            "at",
+            "my",
+            "long",
+            "legs",
+            ",",
+            "and",
+            "remember",
+            "all",
+            "the",
+            "advantages",
+            "that",
+            "you",
+            "mention",
+            ",",
+            "yet",
+            "when",
+            "I",
+            "hear",
+            "the",
+            "bark",
+            "of",
+            "but",
+            "a",
+            "single",
+            "dog",
+            ",",
+            "I",
+            "faint",
+            "with",
+            "terror",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

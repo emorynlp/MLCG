@@ -1,0 +1,402 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "alive",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thrashed",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Trailing",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "give",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "breaking",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "racing",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "denied",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "trail",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "face",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is scheduled",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-34",
+    "sents": [
+        [
+            "Argentina",
+            "'s",
+            "David",
+            "Nalbandian",
+            "and",
+            "Eduardo",
+            "Schwank",
+            "kept",
+            "Argentina",
+            "'s",
+            "Davis",
+            "Cup",
+            "dreams",
+            "alive",
+            "after",
+            "they",
+            "thrashed",
+            "Spain",
+            "'s",
+            "Feliciano",
+            "Lopez",
+            "and",
+            "Fernando",
+            "Verdasco",
+            "in",
+            "the",
+            "doubles",
+            "rubber",
+            "6-4",
+            "6-2",
+            "6-3",
+            "in",
+            "Seville",
+            "on",
+            "Saturday",
+            "."
+        ],
+        [
+            "Trailing",
+            "2-0",
+            "after",
+            "Friday",
+            "'s",
+            "singles",
+            "matches",
+            ",",
+            "Argentina",
+            "had",
+            "to",
+            "win",
+            "Saturday",
+            "'s",
+            "only",
+            "rubber",
+            "to",
+            "stop",
+            "Spain",
+            "from",
+            "claiming",
+            "their",
+            "fifth",
+            "win",
+            "in",
+            "the",
+            "competition",
+            "."
+        ],
+        [
+            "Fighting",
+            "Ferrer",
+            "give",
+            "Spain",
+            "commanding",
+            "lead",
+            "Nalbandian",
+            "and",
+            "Schwank",
+            "never",
+            "looked",
+            "in",
+            "any",
+            "trouble",
+            "throughout",
+            "the",
+            "match",
+            ",",
+            "breaking",
+            "in",
+            "the",
+            "fifth",
+            "game",
+            "of",
+            "the",
+            "first",
+            "set",
+            "before",
+            "racing",
+            "into",
+            "a",
+            "4-0",
+            "lead",
+            "in",
+            "the",
+            "second",
+            "."
+        ],
+        [
+            "Spain",
+            "'s",
+            "only",
+            "two",
+            "chances",
+            "to",
+            "break",
+            "came",
+            "in",
+            "the",
+            "sixth",
+            "game",
+            "of",
+            "the",
+            "third",
+            "set",
+            "but",
+            "both",
+            "times",
+            "Nalbandian",
+            "denied",
+            "them",
+            "."
+        ],
+        [
+            "Argentina",
+            "now",
+            "trail",
+            "Spain",
+            "2-1.",
+            "If",
+            "they",
+            "win",
+            "both",
+            "singles",
+            "rubbers",
+            "on",
+            "Sunday",
+            "they",
+            "will",
+            "become",
+            "the",
+            "first",
+            "team",
+            "in",
+            "72",
+            "years",
+            "to",
+            "win",
+            "the",
+            "David",
+            "Cup",
+            "from",
+            "2-0",
+            "down",
+            "."
+        ],
+        [
+            "Juan",
+            "Martin",
+            "Del",
+            "Potro",
+            "will",
+            "face",
+            "Rafael",
+            "Nadal",
+            "in",
+            "the",
+            "first",
+            "singles",
+            "match",
+            "while",
+            "Nalbadian",
+            "is",
+            "scheduled",
+            "to",
+            "face",
+            "David",
+            "Ferrer",
+            "."
+        ]
+    ]
+}

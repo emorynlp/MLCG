@@ -1,0 +1,210 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a network",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "responsible for",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "sending combatants to al Qaeda - linked terrorist groups operating in Syria",
+                "pos": [
+                    9,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "It recruited , trained and paid",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "terrorists to fight in other countries",
+                "pos": [
+                    7,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-24",
+    "sents": [
+        [
+            "Security",
+            "forces",
+            "arrested",
+            "eight",
+            "members",
+            "of",
+            "a",
+            "group",
+            "linked",
+            "to",
+            "al",
+            "Qaeda",
+            "on",
+            "Friday",
+            "in",
+            "a",
+            "Spanish",
+            "enclave",
+            "in",
+            "North",
+            "Africa",
+            ",",
+            "authorities",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "have",
+            "broken",
+            "up",
+            "a",
+            "network",
+            "responsible",
+            "for",
+            "sending",
+            "combatants",
+            "to",
+            "al",
+            "Qaeda",
+            "-",
+            "linked",
+            "terrorist",
+            "groups",
+            "operating",
+            "in",
+            "Syria",
+            ",",
+            "\"",
+            "the",
+            "Spanish",
+            "Interior",
+            "Ministry",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "."
+        ],
+        [
+            "The",
+            "suspects",
+            "were",
+            "captured",
+            "in",
+            "Ceuta",
+            ",",
+            "a",
+            "Spanish",
+            "enclave",
+            "that",
+            "borders",
+            "Morocco",
+            "."
+        ],
+        [
+            "Authorities",
+            "said",
+            "the",
+            "network",
+            "was",
+            "based",
+            "in",
+            "Ceuta",
+            "and",
+            "the",
+            "nearby",
+            "Moroccan",
+            "city",
+            "of",
+            "Fnideq",
+            "."
+        ],
+        [
+            "It",
+            "recruited",
+            ",",
+            "trained",
+            "and",
+            "paid",
+            "for",
+            "terrorists",
+            "to",
+            "fight",
+            "in",
+            "other",
+            "countries",
+            "."
+        ]
+    ]
+}

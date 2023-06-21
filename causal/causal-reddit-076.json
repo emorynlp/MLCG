@@ -1,0 +1,410 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "withdraw other applications",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "other kids have a fair chance",
+                "pos": [
+                    18,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "offend anyone",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "posting this",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Thank you",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "listening",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Thank you",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the love and support",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "do not withdraw",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "unless",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 9,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "you 've got your desired financial aid package",
+                "pos": [
+                    5,
+                    13
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-076",
+    "sents": [
+        [
+            "First",
+            "off",
+            ",",
+            "massive",
+            "congratulations",
+            "to",
+            "all",
+            "of",
+            "you",
+            "who",
+            "got",
+            "accepted",
+            "ED",
+            "."
+        ],
+        [
+            "You",
+            "worked",
+            "hard",
+            ",",
+            "proved",
+            "yourselves",
+            ",",
+            "and",
+            "deserve",
+            "your",
+            "seats",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "wanted",
+            "to",
+            "give",
+            "you",
+            "all",
+            "a",
+            "kind",
+            "and",
+            "gentle",
+            "reminder",
+            "to",
+            "withdraw",
+            "other",
+            "applications",
+            "so",
+            "that",
+            "other",
+            "kids",
+            "have",
+            "a",
+            "fair",
+            "chance",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "you",
+            "must",
+            "be",
+            "in",
+            "a",
+            "joyous",
+            "mood",
+            "and",
+            "I",
+            "have",
+            "no",
+            "intention",
+            "to",
+            "disturb",
+            "you",
+            "."
+        ],
+        [
+            "Maybe",
+            "you",
+            "might",
+            "withdraw",
+            "apps",
+            "right",
+            "away",
+            "or",
+            "maybe",
+            "you",
+            "might",
+            "do",
+            "it",
+            "some",
+            "days",
+            "later",
+            "."
+        ],
+        [
+            "No",
+            "issues",
+            "with",
+            "that",
+            "but",
+            "please",
+            "please",
+            "do",
+            "nt",
+            "forget",
+            "to",
+            "do",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "nt",
+            "want",
+            "to",
+            "offend",
+            "anyone",
+            "by",
+            "posting",
+            "this",
+            "but",
+            "just",
+            "want",
+            "to",
+            "give",
+            "a",
+            "friendly",
+            "reminder",
+            "."
+        ],
+        [
+            "Thank",
+            "you",
+            "for",
+            "listening",
+            "and",
+            "Congrats",
+            "to",
+            "the",
+            "accepted",
+            "once",
+            "again",
+            "!"
+        ],
+        [
+            "Edit",
+            ":",
+            "Thank",
+            "you",
+            "for",
+            "the",
+            "love",
+            "and",
+            "support",
+            "everyone",
+            "."
+        ],
+        [
+            "Please",
+            "do",
+            "not",
+            "withdraw",
+            "unless",
+            "you",
+            "'ve",
+            "got",
+            "your",
+            "desired",
+            "financial",
+            "aid",
+            "package",
+            "."
+        ]
+    ]
+}

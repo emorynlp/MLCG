@@ -1,0 +1,249 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I \u2019m working",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "a professor who earned their doctorate from an American university",
+                "pos": [
+                    4,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you get paid more in the US as a TA",
+                "pos": [
+                    1,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "take on this extra responsibility",
+                "pos": [
+                    12,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-003",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "working",
+            "for",
+            "a",
+            "professor",
+            "who",
+            "earned",
+            "their",
+            "doctorate",
+            "from",
+            "an",
+            "American",
+            "university",
+            "and",
+            "they",
+            "seem",
+            "to",
+            "think",
+            "that",
+            "TAs",
+            "in",
+            "Canada",
+            ",",
+            "despite",
+            "being",
+            "paid",
+            "a",
+            "fraction",
+            "of",
+            "what",
+            "they",
+            "are",
+            "paid",
+            ",",
+            "have",
+            "equal",
+            "responsibility",
+            "running",
+            "a",
+            "course",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "been",
+            "expected",
+            "to",
+            "create",
+            "grading",
+            "rubrics",
+            "for",
+            "assignments",
+            "and",
+            "exam",
+            "outlines",
+            "but",
+            "this",
+            "is",
+            "a",
+            "first",
+            "for",
+            "me",
+            "."
+        ],
+        [
+            "I",
+            "assumed",
+            "that",
+            "the",
+            "prof",
+            "just",
+            "did",
+            "n\u2019t",
+            "want",
+            "to",
+            "do",
+            "their",
+            "job",
+            "but",
+            "they",
+            "claim",
+            "that",
+            "in",
+            "the",
+            "US",
+            "the",
+            "TAs",
+            "and",
+            "the",
+            "prof",
+            "work",
+            "more",
+            "as",
+            "a",
+            "\u201c",
+            "teaching",
+            "team",
+            ".",
+            "\u201d"
+        ],
+        [
+            "Is",
+            "this",
+            "true",
+            "?"
+        ],
+        [
+            "Do",
+            "you",
+            "get",
+            "paid",
+            "more",
+            "in",
+            "the",
+            "US",
+            "as",
+            "a",
+            "TA",
+            "to",
+            "take",
+            "on",
+            "this",
+            "extra",
+            "responsibility",
+            "?"
+        ],
+        [
+            "Or",
+            "are",
+            "you",
+            "just",
+            "expected",
+            "to",
+            "do",
+            "more",
+            "?"
+        ],
+        [
+            "Or",
+            "is",
+            "this",
+            "prof",
+            "full",
+            "of",
+            "BS",
+            "?"
+        ]
+    ]
+}

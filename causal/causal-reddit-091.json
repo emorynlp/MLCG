@@ -1,0 +1,213 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "they still get my transcript for this year",
+                "pos": [
+                    1,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I send it in after then",
+                "pos": [
+                    10,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-091",
+    "sents": [
+        [
+            "So",
+            "I",
+            "took",
+            "my",
+            "very",
+            "first",
+            "SAT",
+            "for",
+            "the",
+            "first",
+            "time",
+            "on",
+            "Oct",
+            "2nd",
+            ",",
+            "and",
+            "I",
+            "\u2019ll",
+            "admit",
+            "I",
+            "did",
+            "n\u2019t",
+            "study",
+            "amazingly",
+            "."
+        ],
+        [
+            "Today",
+            "I",
+            "checked",
+            "my",
+            "scores",
+            "and",
+            "I",
+            "got",
+            "a",
+            "620",
+            "in",
+            "reading",
+            "(",
+            "which",
+            "I",
+            "had",
+            "to",
+            "rush",
+            "in",
+            "very",
+            "heavily",
+            "for",
+            "the",
+            "last",
+            "10",
+            "questions",
+            "and",
+            "completely",
+            "guessed",
+            ")",
+            "and",
+            "a",
+            "400",
+            "for",
+            "math",
+            "."
+        ],
+        [
+            "The",
+            "only",
+            "school",
+            "I",
+            "\u2019m",
+            "applying",
+            "early",
+            "decision",
+            "to",
+            "is",
+            "Penn",
+            "State",
+            "."
+        ],
+        [
+            "My",
+            "cumulative",
+            "gpa",
+            "is",
+            "a",
+            "2.8",
+            "from",
+            "a",
+            "very",
+            "bad",
+            "sophomore",
+            "and",
+            "freshman",
+            "year",
+            ",",
+            "but",
+            "got",
+            "consistent",
+            "As",
+            "in",
+            "my",
+            "Ap",
+            "classes",
+            "junior",
+            "year",
+            "."
+        ],
+        [
+            "My",
+            "1st",
+            "senior",
+            "year",
+            "marking",
+            "period",
+            "ends",
+            "November",
+            "4th",
+            "but",
+            "early",
+            "decision",
+            "is",
+            "November",
+            "1st",
+            "."
+        ],
+        [
+            "Would",
+            "they",
+            "still",
+            "get",
+            "my",
+            "transcript",
+            "for",
+            "this",
+            "year",
+            "if",
+            "I",
+            "send",
+            "it",
+            "in",
+            "after",
+            "then",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019ll",
+            "email",
+            "them",
+            "but",
+            "wanted",
+            "to",
+            "know",
+            "anyone",
+            "\u2019s",
+            "experience",
+            "."
+        ]
+    ]
+}

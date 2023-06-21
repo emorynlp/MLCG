@@ -1,0 +1,312 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Taylor Ward",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Ward",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Shanghai",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Shanghai",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Zhejiang province",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Zhejiang",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Haikui",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Haikui",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Haikui",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Haikui",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-48",
+    "sents": [
+        [
+            "Tropical",
+            "Storm",
+            "Haikui",
+            "made",
+            "landfall",
+            "Wednesday",
+            "morning",
+            "in",
+            "Zhejiang",
+            "province",
+            ",",
+            "where",
+            "hundreds",
+            "of",
+            "thousands",
+            "of",
+            "people",
+            "had",
+            "been",
+            "evacuated",
+            "from",
+            "its",
+            "path",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "rain",
+            "is",
+            "the",
+            "bigger",
+            "impact",
+            "going",
+            "forward",
+            ",",
+            "\"",
+            "said",
+            "CNNI",
+            "Meteorologist",
+            "Taylor",
+            "Ward",
+            ",",
+            "who",
+            "noted",
+            "that",
+            "Haikui",
+            "had",
+            "diminished",
+            "from",
+            "typhoon",
+            "status",
+            "before",
+            "hitting",
+            "land",
+            "about",
+            "225",
+            "kilometers",
+            "(",
+            "140",
+            "miles",
+            ")",
+            "south",
+            "of",
+            "Shanghai",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "have",
+            "already",
+            "had",
+            "up",
+            "to",
+            "8",
+            "inches",
+            "in",
+            "some",
+            "locations",
+            ".",
+            "\""
+        ],
+        [
+            "Ward",
+            "said",
+            "another",
+            "6",
+            "to",
+            "10",
+            "inches",
+            "of",
+            "rain",
+            "were",
+            "expected",
+            "to",
+            "fall",
+            ",",
+            "with",
+            "\"",
+            "maybe",
+            "isolated",
+            "amounts",
+            "greater",
+            ".",
+            "\""
+        ],
+        [
+            "Haikui",
+            "was",
+            "moving",
+            "northwest",
+            "at",
+            "20",
+            "kph",
+            "(",
+            "12",
+            "mph",
+            ")",
+            "but",
+            "was",
+            "expected",
+            "to",
+            "slow",
+            "over",
+            "the",
+            "coming",
+            "two",
+            "days",
+            ",",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "Chinese",
+            "officials",
+            "had",
+            "evacuated",
+            "374,000",
+            "people",
+            "from",
+            "Shanghai",
+            "and",
+            "250,000",
+            "from",
+            "Zhejiang",
+            ",",
+            "according",
+            "to",
+            "the",
+            "state",
+            "-",
+            "run",
+            "China",
+            "Daily",
+            "."
+        ],
+        [
+            "Haikui",
+            ",",
+            "which",
+            "had",
+            "been",
+            "a",
+            "typhoon",
+            "on",
+            "Tuesday",
+            ",",
+            "is",
+            "the",
+            "third",
+            "tropical",
+            "storm",
+            "to",
+            "hit",
+            "China",
+            "'s",
+            "east",
+            "coast",
+            "in",
+            "less",
+            "than",
+            "a",
+            "week",
+            "."
+        ]
+    ]
+}

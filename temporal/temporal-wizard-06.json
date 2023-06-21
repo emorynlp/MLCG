@@ -1,0 +1,639 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "were men",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "a woman",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were oddly dressed",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wore",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "rose",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tinkled",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "moved",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were blue",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was white",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wore",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hung",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were sprinkled little stars",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "glistened",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were dressed",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wore",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was doubtless much older",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was covered",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was nearly white",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "walked",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 18,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 19,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 20,
+            "t": 21,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 19,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 20,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 21,
+            "t": 20,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-06",
+    "sents": [
+        [
+            "Three",
+            "were",
+            "men",
+            "and",
+            "one",
+            "a",
+            "woman",
+            ",",
+            "and",
+            "all",
+            "were",
+            "oddly",
+            "dressed",
+            "."
+        ],
+        [
+            "They",
+            "wore",
+            "round",
+            "hats",
+            "that",
+            "rose",
+            "to",
+            "a",
+            "small",
+            "point",
+            "a",
+            "foot",
+            "above",
+            "their",
+            "heads",
+            ",",
+            "with",
+            "little",
+            "bells",
+            "around",
+            "the",
+            "brims",
+            "that",
+            "tinkled",
+            "sweetly",
+            "as",
+            "they",
+            "moved",
+            "."
+        ],
+        [
+            "The",
+            "hats",
+            "of",
+            "the",
+            "men",
+            "were",
+            "blue",
+            ";",
+            "the",
+            "little",
+            "woman",
+            "'",
+            "s",
+            "hat",
+            "was",
+            "white",
+            ",",
+            "and",
+            "she",
+            "wore",
+            "a",
+            "white",
+            "gown",
+            "that",
+            "hung",
+            "in",
+            "pleats",
+            "from",
+            "her",
+            "shoulders",
+            "."
+        ],
+        [
+            "Over",
+            "it",
+            "were",
+            "sprinkled",
+            "little",
+            "stars",
+            "that",
+            "glistened",
+            "in",
+            "the",
+            "sun",
+            "like",
+            "diamonds",
+            "."
+        ],
+        [
+            "The",
+            "men",
+            "were",
+            "dressed",
+            "in",
+            "blue",
+            ",",
+            "of",
+            "the",
+            "same",
+            "shade",
+            "as",
+            "their",
+            "hats",
+            ",",
+            "and",
+            "wore",
+            "well",
+            "-",
+            "polished",
+            "boots",
+            "with",
+            "a",
+            "deep",
+            "roll",
+            "of",
+            "blue",
+            "at",
+            "the",
+            "tops",
+            "."
+        ],
+        [
+            "The",
+            "men",
+            ",",
+            "Dorothy",
+            "thought",
+            ",",
+            "were",
+            "about",
+            "as",
+            "old",
+            "as",
+            "Uncle",
+            "Henry",
+            ",",
+            "for",
+            "two",
+            "of",
+            "them",
+            "had",
+            "beards",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "little",
+            "woman",
+            "was",
+            "doubtless",
+            "much",
+            "older",
+            "."
+        ],
+        [
+            "Her",
+            "face",
+            "was",
+            "covered",
+            "with",
+            "wrinkles",
+            ",",
+            "her",
+            "hair",
+            "was",
+            "nearly",
+            "white",
+            ",",
+            "and",
+            "she",
+            "walked",
+            "rather",
+            "stiffly",
+            "."
+        ]
+    ]
+}

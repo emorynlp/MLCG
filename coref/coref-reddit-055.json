@@ -1,0 +1,341 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "work",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "college",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "college",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "sit",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 8,
+                "type": "event"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-055",
+    "sents": [
+        [
+            "I",
+            "am",
+            "22",
+            "years",
+            "old",
+            ",",
+            "graduated",
+            "college",
+            "in",
+            "May",
+            ",",
+            "and",
+            "started",
+            "a",
+            "full",
+            "time",
+            "job",
+            "a",
+            "month",
+            "ago",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "been",
+            "really",
+            "down",
+            "about",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "like",
+            "I",
+            "have",
+            "no",
+            "freedom",
+            "anymore",
+            "with",
+            "my",
+            "job",
+            "and",
+            "all",
+            "I",
+            "do",
+            "is",
+            "work",
+            "."
+        ],
+        [
+            "It",
+            "sickens",
+            "me",
+            "to",
+            "think",
+            "that",
+            "I",
+            "have",
+            "to",
+            "work",
+            "the",
+            "rest",
+            "of",
+            "my",
+            "life",
+            "now",
+            "."
+        ],
+        [
+            "How",
+            "do",
+            "people",
+            "do",
+            "it",
+            "?"
+        ],
+        [
+            "Every",
+            "day",
+            "I",
+            "think",
+            "of",
+            "an",
+            "alternate",
+            "way",
+            "to",
+            "make",
+            "money",
+            "besides",
+            "the",
+            "traditional",
+            "job",
+            "."
+        ],
+        [
+            "I",
+            "miss",
+            "all",
+            "my",
+            "friends",
+            "and",
+            "how",
+            "life",
+            "was",
+            "in",
+            "college",
+            "."
+        ],
+        [
+            "All",
+            "I",
+            "do",
+            "now",
+            "is",
+            "sit",
+            "at",
+            "a",
+            "desk",
+            "for",
+            "8",
+            "hours",
+            "."
+        ],
+        [
+            "What",
+            "kind",
+            "of",
+            "life",
+            "is",
+            "that",
+            "?"
+        ],
+        [
+            "What",
+            "do",
+            "others",
+            "do",
+            "right",
+            "out",
+            "of",
+            "college",
+            "and",
+            "how",
+            "are",
+            "you",
+            "feeling",
+            "?"
+        ]
+    ]
+}

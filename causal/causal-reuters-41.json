@@ -1,0 +1,283 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "show a substantial improvement in February",
+                "pos": [
+                    7,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "January 's very high 0.9 pct monthly rate",
+                "pos": [
+                    14,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "half of the high January rise , which took year on year inflation that month to three pct",
+                "pos": [
+                    7,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "due to",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "higher oil prices",
+                "pos": [
+                    29,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-41",
+    "sents": [
+        [
+            "The",
+            "French",
+            "inflation",
+            "rate",
+            "is",
+            "expected",
+            "to",
+            "show",
+            "a",
+            "substantial",
+            "improvement",
+            "in",
+            "February",
+            "after",
+            "January",
+            "'s",
+            "very",
+            "high",
+            "0.9",
+            "pct",
+            "monthly",
+            "rate",
+            ",",
+            "Finance",
+            "Minister",
+            "Edouard",
+            "Balladur",
+            "said",
+            "."
+        ],
+        [
+            "He",
+            "told",
+            "a",
+            "French",
+            "television",
+            "interviewer",
+            "that",
+            "half",
+            "of",
+            "the",
+            "high",
+            "January",
+            "rise",
+            ",",
+            "which",
+            "took",
+            "year",
+            "on",
+            "year",
+            "inflation",
+            "that",
+            "month",
+            "to",
+            "three",
+            "pct",
+            ",",
+            "was",
+            "due",
+            "to",
+            "higher",
+            "oil",
+            "prices",
+            "."
+        ],
+        [
+            "\"",
+            "Now",
+            ",",
+            "taking",
+            "account",
+            "of",
+            "this",
+            "inflation",
+            "index",
+            ",",
+            "our",
+            "forecast",
+            "for",
+            "price",
+            "rises",
+            "this",
+            "year",
+            "is",
+            "two",
+            "and",
+            "a",
+            "half",
+            "pct",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "Balladur",
+            "said",
+            "the",
+            "upward",
+            "revision",
+            "of",
+            "the",
+            "inflation",
+            "target",
+            ",",
+            "which",
+            "the",
+            "government",
+            "had",
+            "initially",
+            "set",
+            "at",
+            "two",
+            "pct",
+            "for",
+            "this",
+            "year",
+            ",",
+            "should",
+            "not",
+            "affect",
+            "wage",
+            "expectations",
+            "for",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "\"",
+            "There",
+            "is",
+            "no",
+            "reason",
+            "to",
+            "envisage",
+            "a",
+            "change",
+            "in",
+            "our",
+            "wage",
+            "policy",
+            ",",
+            "\"",
+            "he",
+            "said",
+            ",",
+            "referring",
+            "to",
+            "the",
+            "government",
+            "'s",
+            "aim",
+            "of",
+            "holding",
+            "public",
+            "sector",
+            "wage",
+            "increases",
+            "to",
+            "three",
+            "pct",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "Price",
+            "inflation",
+            "last",
+            "year",
+            "fell",
+            "to",
+            "2.1",
+            "pct",
+            "from",
+            "4.7",
+            "pct",
+            "in",
+            "1985",
+            "."
+        ]
+    ]
+}

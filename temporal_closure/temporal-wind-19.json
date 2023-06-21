@@ -1,0 +1,258 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "brought",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "kept",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "raced",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "mocked",
+                "pos": [
+                    49,
+                    50
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    60,
+                    61
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lived",
+                "pos": [
+                    75,
+                    76
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-19",
+    "sents": [
+        [
+            "The",
+            "Mole",
+            "had",
+            "to",
+            "be",
+            "content",
+            "with",
+            "this",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "Badger",
+            "never",
+            "came",
+            "along",
+            ",",
+            "and",
+            "every",
+            "day",
+            "brought",
+            "its",
+            "amusements",
+            ",",
+            "and",
+            "it",
+            "was",
+            "not",
+            "till",
+            "summer",
+            "was",
+            "long",
+            "over",
+            ",",
+            "and",
+            "cold",
+            "and",
+            "frost",
+            "and",
+            "miry",
+            "ways",
+            "kept",
+            "them",
+            "much",
+            "indoors",
+            ",",
+            "and",
+            "the",
+            "swollen",
+            "river",
+            "raced",
+            "past",
+            "outside",
+            "their",
+            "windows",
+            "with",
+            "a",
+            "speed",
+            "that",
+            "mocked",
+            "at",
+            "boating",
+            "of",
+            "any",
+            "sort",
+            "or",
+            "kind",
+            ",",
+            "that",
+            "he",
+            "found",
+            "his",
+            "thoughts",
+            "dwelling",
+            "again",
+            "with",
+            "much",
+            "persistence",
+            "on",
+            "the",
+            "solitary",
+            "grey",
+            "Badger",
+            ",",
+            "who",
+            "lived",
+            "his",
+            "own",
+            "life",
+            "by",
+            "himself",
+            ",",
+            "in",
+            "his",
+            "hole",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "Wild",
+            "Wood",
+            "."
+        ]
+    ]
+}

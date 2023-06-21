@@ -1,0 +1,670 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shouldering",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "marched up",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "handled",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bent down",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chopped",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cut",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shaking",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "passed",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shouted",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ran",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "passed",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was caught",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shaken",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "howled",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chopped off",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "free",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-49",
+    "sents": [
+        [
+            "\"",
+            "I",
+            "believe",
+            "I",
+            "will",
+            "try",
+            "it",
+            "myself",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "Woodman",
+            ",",
+            "and",
+            "shouldering",
+            "his",
+            "axe",
+            ",",
+            "he",
+            "marched",
+            "up",
+            "to",
+            "the",
+            "first",
+            "tree",
+            "that",
+            "had",
+            "handled",
+            "the",
+            "Scarecrow",
+            "so",
+            "roughly",
+            "."
+        ],
+        [
+            "When",
+            "a",
+            "big",
+            "branch",
+            "bent",
+            "down",
+            "to",
+            "seize",
+            "him",
+            "the",
+            "Woodman",
+            "chopped",
+            "at",
+            "it",
+            "so",
+            "fiercely",
+            "that",
+            "he",
+            "cut",
+            "it",
+            "in",
+            "two",
+            "."
+        ],
+        [
+            "At",
+            "once",
+            "the",
+            "tree",
+            "began",
+            "shaking",
+            "all",
+            "its",
+            "branches",
+            "as",
+            "if",
+            "in",
+            "pain",
+            ",",
+            "and",
+            "the",
+            "Tin",
+            "Woodman",
+            "passed",
+            "safely",
+            "under",
+            "it",
+            "."
+        ],
+        [
+            "\"",
+            "Come",
+            "on",
+            "!",
+            "\"",
+            "he",
+            "shouted",
+            "to",
+            "the",
+            "others",
+            "."
+        ],
+        [
+            "\"",
+            "Be",
+            "quick",
+            "!",
+            "\"",
+            "They",
+            "all",
+            "ran",
+            "forward",
+            "and",
+            "passed",
+            "under",
+            "the",
+            "tree",
+            "without",
+            "injury",
+            ",",
+            "except",
+            "Toto",
+            ",",
+            "who",
+            "was",
+            "caught",
+            "by",
+            "a",
+            "small",
+            "branch",
+            "and",
+            "shaken",
+            "until",
+            "he",
+            "howled",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "Woodman",
+            "promptly",
+            "chopped",
+            "off",
+            "the",
+            "branch",
+            "and",
+            "set",
+            "the",
+            "little",
+            "dog",
+            "free",
+            "."
+        ]
+    ]
+}

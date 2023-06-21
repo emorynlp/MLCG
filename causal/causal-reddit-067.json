@@ -1,0 +1,272 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "she lives in a development for 65+",
+                "pos": [
+                    8,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I ca n\u2019t stay more than a short time period",
+                "pos": [
+                    16,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "make",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "us all do that",
+                "pos": [
+                    17,
+                    21
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-067",
+    "sents": [
+        [
+            "We",
+            "just",
+            "got",
+            "the",
+            "announcement",
+            "that",
+            "our",
+            "college",
+            "is",
+            "closing",
+            "on",
+            "March",
+            "19th",
+            "I",
+            "\u2019ve",
+            "moved",
+            "5",
+            "times",
+            "this",
+            "year",
+            "trying",
+            "to",
+            "escape",
+            "an",
+            "abusive",
+            "home",
+            ",",
+            "and",
+            "now",
+            "I",
+            "\u2019ve",
+            "finally",
+            "escaped",
+            "it",
+            ",",
+            "and",
+            "college",
+            "has",
+            "become",
+            "my",
+            "home",
+            "."
+        ],
+        [
+            "During",
+            "breaks",
+            "I",
+            "stay",
+            "at",
+            "my",
+            "grandmas",
+            "but",
+            "she",
+            "lives",
+            "in",
+            "a",
+            "development",
+            "for",
+            "65+",
+            "so",
+            "I",
+            "ca",
+            "n\u2019t",
+            "stay",
+            "more",
+            "than",
+            "a",
+            "short",
+            "time",
+            "period",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "a",
+            "mattress",
+            "in",
+            "my",
+            "car",
+            ",",
+            "but",
+            "I",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "resort",
+            "to",
+            "that",
+            "I",
+            "do",
+            "n\u2019t",
+            "know",
+            "what",
+            "to",
+            "do",
+            ",",
+            "and",
+            "I",
+            "ca",
+            "n\u2019t",
+            "breathe",
+            "."
+        ],
+        [
+            "No",
+            "one",
+            "knows",
+            "what",
+            "\u2019s",
+            "happening",
+            "with",
+            "the",
+            "dorms",
+            "."
+        ],
+        [
+            "Everyone",
+            "says",
+            "the",
+            "school",
+            "will",
+            "be",
+            "closing",
+            ",",
+            "but",
+            "not",
+            "a",
+            "single",
+            "person",
+            "has",
+            "mentioned",
+            "what",
+            "happens",
+            "to",
+            "the",
+            "dormers",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "a",
+            "lot",
+            "of",
+            "dormers",
+            "have",
+            "moved",
+            "out",
+            "of",
+            "other",
+            "colleges",
+            ",",
+            "but",
+            "will",
+            "they",
+            "make",
+            "us",
+            "all",
+            "do",
+            "that",
+            "?"
+        ],
+        [
+            "What",
+            "\u2019s",
+            "going",
+            "to",
+            "happen",
+            "???"
+        ]
+    ]
+}

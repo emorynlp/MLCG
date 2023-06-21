@@ -1,0 +1,346 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "some of the robberies",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a statement",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "New York",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "New York",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "New York",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A suspected serial bank robber",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Luis Alomar",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Alomar",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Alomar",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "robbing",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "the robberies",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "tellers",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the FBI",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The FBI",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the FBI",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-41",
+    "sents": [
+        [
+            "A",
+            "suspected",
+            "serial",
+            "bank",
+            "robber",
+            "wanted",
+            "in",
+            "incidents",
+            "in",
+            "three",
+            "East",
+            "Coast",
+            "states",
+            "has",
+            "been",
+            "arrested",
+            "in",
+            "Medford",
+            ",",
+            "New",
+            "York",
+            ",",
+            "the",
+            "FBI",
+            "said",
+            "Tuesday",
+            "."
+        ],
+        [
+            "Agents",
+            "and",
+            "New",
+            "York",
+            "police",
+            "arrested",
+            "Luis",
+            "Alomar",
+            ",",
+            "37",
+            ",",
+            "around",
+            "2:30",
+            "a.m.",
+            "Tuesday",
+            ",",
+            "the",
+            "agency",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "."
+        ],
+        [
+            "It",
+            "did",
+            "n't",
+            "provide",
+            "details",
+            "of",
+            "where",
+            "he",
+            "was",
+            "arrested",
+            "in",
+            "the",
+            "Long",
+            "Island",
+            "community",
+            "or",
+            "how",
+            "he",
+            "was",
+            "located",
+            "."
+        ],
+        [
+            "The",
+            "FBI",
+            "had",
+            "sought",
+            "the",
+            "public",
+            "'s",
+            "help",
+            "Monday",
+            "in",
+            "finding",
+            "Alomar",
+            ",",
+            "who",
+            "is",
+            "suspected",
+            "of",
+            "robbing",
+            "20",
+            "banks",
+            "in",
+            "New",
+            "York",
+            ",",
+            "New",
+            "Jersey",
+            "and",
+            "Delaware",
+            "."
+        ],
+        [
+            "Alomar",
+            "allegedly",
+            "flashed",
+            "a",
+            "gun",
+            "at",
+            "tellers",
+            "in",
+            "some",
+            "of",
+            "the",
+            "robberies",
+            ",",
+            "sometimes",
+            "threatening",
+            "to",
+            "shoot",
+            "them",
+            "if",
+            "they",
+            "said",
+            "anything",
+            ",",
+            "the",
+            "FBI",
+            "said",
+            "."
+        ]
+    ]
+}

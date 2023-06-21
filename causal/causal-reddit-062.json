@@ -1,0 +1,313 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I searched for something like this",
+                "pos": [
+                    6,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "going to 4+ citation websites",
+                "pos": [
+                    19,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I am sick and tired of only",
+                "pos": [
+                    13,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "find out that they are all the same cookie - cutter Chegg pages",
+                "pos": [
+                    26,
+                    39
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Thank you guys so much",
+                "pos": [
+                    7,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "your replies",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-062",
+    "sents": [
+        [
+            "Then",
+            "check",
+            "out",
+            "[",
+            "citethis",
+            "."
+        ],
+        [
+            "net",
+            "]",
+            "(",
+            "https://citethis.net).",
+            "It",
+            "is",
+            "NOT",
+            "owned",
+            "by",
+            "Chegg",
+            "and",
+            "it",
+            "does",
+            "n't",
+            "have",
+            "40+",
+            "ads",
+            "on",
+            "the",
+            "page.I",
+            "found",
+            "this",
+            "on",
+            "another",
+            "Reddit",
+            "post",
+            "."
+        ],
+        [
+            "(",
+            "You",
+            "wo",
+            "n't",
+            "really",
+            "be",
+            "able",
+            "to",
+            "find",
+            "it",
+            "on",
+            "Google",
+            "easily",
+            ")",
+            "."
+        ],
+        [
+            "It",
+            "works",
+            "great",
+            "too",
+            "."
+        ],
+        [
+            "(",
+            "Reddit",
+            "post",
+            ":",
+            "[",
+            "https://www.reddit.com/r/NoStupidQuestions/comments/etvg76/why\\_are\\_nearly\\_all\\_citation\\_makers\\_chegg\\_services/](https://www.reddit.com/r/NoStupidQuestions/comments/etvg76/why_are_nearly_all_citation_makers_chegg_services/))",
+            "I",
+            "searched",
+            "for",
+            "something",
+            "like",
+            "this",
+            "because",
+            "I",
+            "am",
+            "sick",
+            "and",
+            "tired",
+            "of",
+            "going",
+            "to",
+            "4+",
+            "citation",
+            "websites",
+            "only",
+            "to",
+            "find",
+            "out",
+            "that",
+            "they",
+            "are",
+            "all",
+            "the",
+            "same",
+            "cookie",
+            "-",
+            "cutter",
+            "Chegg",
+            "pages",
+            "."
+        ],
+        [
+            "I",
+            "hope",
+            "this",
+            "helps",
+            "."
+        ],
+        [
+            "Signed",
+            ",",
+            "Frustrated",
+            "CS",
+            "student",
+            "EDIT",
+            ":",
+            "Thank",
+            "you",
+            "guys",
+            "so",
+            "much",
+            "for",
+            "your",
+            "replies",
+            "!"
+        ],
+        [
+            "I",
+            "did",
+            "n't",
+            "know",
+            "there",
+            "were",
+            "so",
+            "many",
+            "other",
+            "cool",
+            "resources",
+            "for",
+            "citing",
+            "sources",
+            "--",
+            "checking",
+            "them",
+            "all",
+            "out",
+            "now",
+            "!"
+        ],
+        [
+            "We",
+            "should",
+            "make",
+            "some",
+            "sort",
+            "of",
+            "megathread",
+            "with",
+            "useful",
+            "citation",
+            "resources",
+            "and",
+            "other",
+            "useful",
+            "stuff",
+            "!"
+        ]
+    ]
+}

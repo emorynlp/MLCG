@@ -1,0 +1,544 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "arranged",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "divided",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was undoubtedly very trying",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "possessed",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "arrange",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "crouch",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bent",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "staring",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "making",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was reached",
+                "pos": [
+                    44,
+                    46
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "turning",
+                "pos": [
+                    49,
+                    50
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lie",
+                "pos": [
+                    56,
+                    57
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "satisfied",
+                "pos": [
+                    67,
+                    68
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "passed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "grew",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "strove",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "languid",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "depressed",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 18,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 19,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-46",
+    "sents": [
+        [
+            "They",
+            "arranged",
+            "watches",
+            "accordingly",
+            "."
+        ],
+        [
+            "Each",
+            "animal",
+            "took",
+            "it",
+            "in",
+            "turns",
+            "to",
+            "sleep",
+            "in",
+            "Toad",
+            "'s",
+            "room",
+            "at",
+            "night",
+            ",",
+            "and",
+            "they",
+            "divided",
+            "the",
+            "day",
+            "up",
+            "between",
+            "them",
+            "."
+        ],
+        [
+            "At",
+            "first",
+            "Toad",
+            "was",
+            "undoubtedly",
+            "very",
+            "trying",
+            "to",
+            "his",
+            "careful",
+            "guardians",
+            "."
+        ],
+        [
+            "When",
+            "his",
+            "violent",
+            "paroxysms",
+            "possessed",
+            "him",
+            "he",
+            "would",
+            "arrange",
+            "bedroom",
+            "chairs",
+            "in",
+            "rude",
+            "resemblance",
+            "of",
+            "a",
+            "motor",
+            "-",
+            "car",
+            "and",
+            "would",
+            "crouch",
+            "on",
+            "the",
+            "foremost",
+            "of",
+            "them",
+            ",",
+            "bent",
+            "forward",
+            "and",
+            "staring",
+            "fixedly",
+            "ahead",
+            ",",
+            "making",
+            "uncouth",
+            "and",
+            "ghastly",
+            "noises",
+            ",",
+            "till",
+            "the",
+            "climax",
+            "was",
+            "reached",
+            ",",
+            "when",
+            ",",
+            "turning",
+            "a",
+            "complete",
+            "somersault",
+            ",",
+            "he",
+            "would",
+            "lie",
+            "prostrate",
+            "amidst",
+            "the",
+            "ruins",
+            "of",
+            "the",
+            "chairs",
+            ",",
+            "apparently",
+            "completely",
+            "satisfied",
+            "for",
+            "the",
+            "moment",
+            "."
+        ],
+        [
+            "As",
+            "time",
+            "passed",
+            ",",
+            "however",
+            ",",
+            "these",
+            "painful",
+            "seizures",
+            "grew",
+            "gradually",
+            "less",
+            "frequent",
+            ",",
+            "and",
+            "his",
+            "friends",
+            "strove",
+            "to",
+            "divert",
+            "his",
+            "mind",
+            "into",
+            "fresh",
+            "channels",
+            "."
+        ],
+        [
+            "But",
+            "his",
+            "interest",
+            "in",
+            "other",
+            "matters",
+            "did",
+            "not",
+            "seem",
+            "to",
+            "revive",
+            ",",
+            "and",
+            "he",
+            "grew",
+            "apparently",
+            "languid",
+            "and",
+            "depressed",
+            "."
+        ]
+    ]
+}

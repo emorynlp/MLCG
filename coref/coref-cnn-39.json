@@ -1,0 +1,298 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "we",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Spain",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Spain",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "King Juan Carlos",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "King Juan Carlos",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Adolfo Suarez",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Suarez",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Suarez",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Suarez",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Suarez",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Suarez",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-39",
+    "sents": [
+        [
+            "Former",
+            "Spanish",
+            "Prime",
+            "Minister",
+            "Adolfo",
+            "Suarez",
+            "died",
+            "at",
+            "a",
+            "Madrid",
+            "hospital",
+            "Sunday",
+            "after",
+            "long",
+            "illness",
+            ",",
+            "his",
+            "family",
+            "said",
+            "."
+        ],
+        [
+            "Suarez",
+            "was",
+            "81",
+            "."
+        ],
+        [
+            "Suarez",
+            "was",
+            "Spain",
+            "'s",
+            "first",
+            "prime",
+            "minister",
+            "in",
+            "the",
+            "transition",
+            "to",
+            "democracy",
+            "after",
+            "the",
+            "long",
+            "dictatorship",
+            "of",
+            "Francisco",
+            "Franco",
+            ",",
+            "who",
+            "died",
+            "in",
+            "November",
+            "1975",
+            "."
+        ],
+        [
+            "King",
+            "Juan",
+            "Carlos",
+            ",",
+            "who",
+            "appointed",
+            "Suarez",
+            "prime",
+            "minister",
+            "in",
+            "1976",
+            ",",
+            "issued",
+            "a",
+            "televised",
+            "statement",
+            "calling",
+            "him",
+            "\"",
+            "a",
+            "great",
+            "servant",
+            "of",
+            "Spain",
+            "and",
+            "was",
+            "not",
+            "always",
+            "well",
+            "understood",
+            ".",
+            "\""
+        ],
+        [
+            "\"",
+            "Suarez",
+            "is",
+            "the",
+            "example",
+            "that",
+            "we",
+            "can",
+            "together",
+            "overcome",
+            "the",
+            "greatest",
+            "difficulties",
+            ",",
+            "\"",
+            "King",
+            "Juan",
+            "Carlos",
+            "said",
+            "."
+        ],
+        [
+            "Suarez",
+            "convened",
+            "the",
+            "first",
+            "democratic",
+            "elections",
+            "in",
+            "1977",
+            "."
+        ],
+        [
+            "He",
+            "resigned",
+            "in",
+            "early",
+            "1981",
+            ",",
+            "just",
+            "weeks",
+            "before",
+            "an",
+            "unsuccessful",
+            "coup",
+            "attempt",
+            "by",
+            "military",
+            "officers",
+            "."
+        ],
+        [
+            "People",
+            "we",
+            "lost",
+            "in",
+            "2014"
+        ]
+    ]
+}

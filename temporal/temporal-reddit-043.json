@@ -1,0 +1,243 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "is just my 2 cents",
+                "pos": [
+                    3,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "mean",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m just saying",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-043",
+    "sents": [
+        [
+            "Disclaimer",
+            ":",
+            "this",
+            "is",
+            "just",
+            "my",
+            "2",
+            "cents",
+            "and",
+            "I",
+            "\u2019m",
+            "NOT",
+            "trying",
+            "to",
+            "be",
+            "negative",
+            "Nancy",
+            ",",
+            "however",
+            "I",
+            "do",
+            "feel",
+            "that",
+            "it",
+            "is",
+            "important",
+            "to",
+            "keep",
+            "in",
+            "mind",
+            "that",
+            "the",
+            "whole",
+            "moving",
+            "far",
+            "and",
+            "having",
+            "the",
+            "\u201c",
+            "college",
+            "experience",
+            "\u201d",
+            "is",
+            "lowkey",
+            "just",
+            "a",
+            "scam",
+            "to",
+            "get",
+            "you",
+            "and",
+            "your",
+            "parents",
+            "to",
+            "pay",
+            "more",
+            "money",
+            "for",
+            "college",
+            "."
+        ],
+        [
+            "I",
+            "mean",
+            "yes",
+            "if",
+            "there",
+            "\u2019s",
+            "some",
+            "reason",
+            "you",
+            "really",
+            "want",
+            "to",
+            "go",
+            "to",
+            "x",
+            "college",
+            "then",
+            "by",
+            "all",
+            "means",
+            "do",
+            "so",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "just",
+            "saying",
+            "that",
+            "at",
+            "the",
+            "end",
+            "of",
+            "the",
+            "day",
+            ",",
+            "no",
+            "matter",
+            "where",
+            "you",
+            "go",
+            ",",
+            "even",
+            "if",
+            "it",
+            "\u2019s",
+            "at",
+            "a",
+            "college",
+            "near",
+            "home",
+            "your",
+            "still",
+            "going",
+            "to",
+            "get",
+            "different",
+            "experiences",
+            ",",
+            "friends",
+            "and",
+            "a",
+            "degree",
+            "."
+        ],
+        [
+            "So",
+            "just",
+            "do",
+            "n\u2019t",
+            "feel",
+            "pressured",
+            "to",
+            "get",
+            "out",
+            "there",
+            "and",
+            "do",
+            "things",
+            "just",
+            "for",
+            "the",
+            "\u201c",
+            "college",
+            "experience",
+            "\u201d",
+            "-",
+            "freshman",
+            "in",
+            "college"
+        ]
+    ]
+}

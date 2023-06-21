@@ -1,0 +1,289 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Robeson common shares",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "shares and",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A group of affiliated Miami - based investment firms",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the group",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The group",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Robeson 's operations",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "its operations",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Robeson Industries Corp",
+                "pos": [
+                    20,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Robeson",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Robeson",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Robeson",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-21",
+    "sents": [
+        [
+            "A",
+            "group",
+            "of",
+            "affiliated",
+            "Miami",
+            "-",
+            "based",
+            "investment",
+            "firms",
+            "led",
+            "by",
+            "Fundamental",
+            "Management",
+            "Corp",
+            "said",
+            "it",
+            "raised",
+            "its",
+            "stake",
+            "in",
+            "Robeson",
+            "Industries",
+            "Corp",
+            "to",
+            "238,000",
+            "shares",
+            ",",
+            "or",
+            "14.6",
+            "pct",
+            "of",
+            "the",
+            "total",
+            ",",
+            "from",
+            "205,000",
+            "or",
+            "12.8",
+            "pct",
+            "."
+        ],
+        [
+            "In",
+            "a",
+            "filing",
+            "with",
+            "the",
+            "Securities",
+            "and",
+            "Exchange",
+            "Commission",
+            ",",
+            "the",
+            "group",
+            "said",
+            "it",
+            "bought",
+            "32,800",
+            "Robeson",
+            "common",
+            "shares",
+            "between",
+            "Jan",
+            "26",
+            "and",
+            "Feb",
+            "9",
+            "for",
+            "175,691",
+            "dlrs",
+            "."
+        ],
+        [
+            "The",
+            "group",
+            "said",
+            "it",
+            "may",
+            "buy",
+            "more",
+            "shares",
+            "and",
+            "plans",
+            "to",
+            "study",
+            "Robeson",
+            "'s",
+            "operations",
+            "."
+        ],
+        [
+            "Afterwards",
+            "it",
+            "may",
+            "recommend",
+            "that",
+            "management",
+            "make",
+            "changes",
+            "in",
+            "its",
+            "operations",
+            "."
+        ],
+        [
+            "Fundamental",
+            "Management",
+            "Chairman",
+            "Carl",
+            "Singer",
+            "was",
+            "recently",
+            "elected",
+            "to",
+            "the",
+            "Robeson",
+            "board",
+            "."
+        ]
+    ]
+}

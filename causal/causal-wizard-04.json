@@ -1,0 +1,305 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "She was awakened",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a shock",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so sudden and severe",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "if Dorothy had not been lying on the soft bed she might have been hurt",
+                "pos": [
+                    12,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the jar",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "her catch her breath and wonder what had happened",
+                "pos": [
+                    7,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "nor was it dark",
+                "pos": [
+                    12,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the bright sunshine came in at the window , flooding the little room",
+                "pos": [
+                    18,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-04",
+    "sents": [
+        [
+            "She",
+            "was",
+            "awakened",
+            "by",
+            "a",
+            "shock",
+            ",",
+            "so",
+            "sudden",
+            "and",
+            "severe",
+            "that",
+            "if",
+            "Dorothy",
+            "had",
+            "not",
+            "been",
+            "lying",
+            "on",
+            "the",
+            "soft",
+            "bed",
+            "she",
+            "might",
+            "have",
+            "been",
+            "hurt",
+            "."
+        ],
+        [
+            "As",
+            "it",
+            "was",
+            ",",
+            "the",
+            "jar",
+            "made",
+            "her",
+            "catch",
+            "her",
+            "breath",
+            "and",
+            "wonder",
+            "what",
+            "had",
+            "happened",
+            ";",
+            "and",
+            "Toto",
+            "put",
+            "his",
+            "cold",
+            "little",
+            "nose",
+            "into",
+            "her",
+            "face",
+            "and",
+            "whined",
+            "dismally",
+            "."
+        ],
+        [
+            "Dorothy",
+            "sat",
+            "up",
+            "and",
+            "noticed",
+            "that",
+            "the",
+            "house",
+            "was",
+            "not",
+            "moving",
+            ";",
+            "nor",
+            "was",
+            "it",
+            "dark",
+            ",",
+            "for",
+            "the",
+            "bright",
+            "sunshine",
+            "came",
+            "in",
+            "at",
+            "the",
+            "window",
+            ",",
+            "flooding",
+            "the",
+            "little",
+            "room",
+            "."
+        ],
+        [
+            "She",
+            "sprang",
+            "from",
+            "her",
+            "bed",
+            "and",
+            "with",
+            "Toto",
+            "at",
+            "her",
+            "heels",
+            "ran",
+            "and",
+            "opened",
+            "the",
+            "door",
+            "."
+        ]
+    ]
+}

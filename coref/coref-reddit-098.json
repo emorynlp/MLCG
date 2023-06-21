@@ -1,0 +1,426 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "most teachers",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one teacher",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "another teacher",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "another",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "things",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "us",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "May",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "May",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "doc-situation"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-098",
+    "sents": [
+        [
+            "I",
+            "am",
+            "a",
+            "senior",
+            "at",
+            "a",
+            "University",
+            "in",
+            "Iowa",
+            "and",
+            "I",
+            "\u2019m",
+            "finding",
+            "that",
+            "most",
+            "teachers",
+            "really",
+            "just",
+            "do",
+            "n\u2019t",
+            "care",
+            "anymore",
+            "and",
+            "are",
+            "making",
+            "things",
+            "easier",
+            "than",
+            "what",
+            "they",
+            "should",
+            "be",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "one",
+            "teacher",
+            "that",
+            "has",
+            "yet",
+            "to",
+            "give",
+            "us",
+            "homework",
+            "and",
+            "it",
+            "\u2019s",
+            "week",
+            "7",
+            ",",
+            "another",
+            "teacher",
+            "that",
+            "makes",
+            "us",
+            "watch",
+            "\u201c",
+            "educational",
+            "\u201d",
+            "YouTube",
+            "videos",
+            ",",
+            "and",
+            "another",
+            "who",
+            "goes",
+            "off",
+            "topic",
+            "every",
+            "other",
+            "second",
+            "."
+        ],
+        [
+            "It",
+            "\u2019s",
+            "nice",
+            "not",
+            "having",
+            "a",
+            "lot",
+            "due",
+            "but",
+            "man",
+            ",",
+            "is",
+            "my",
+            "drive",
+            "to",
+            "do",
+            "work",
+            "going",
+            "right",
+            "out",
+            "the",
+            "window",
+            "and",
+            "anticipation",
+            "for",
+            "May",
+            "is",
+            "going",
+            "up",
+            "with",
+            "8",
+            "long",
+            "months",
+            "ahead",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "no",
+            "clue",
+            "what",
+            "I",
+            "want",
+            "to",
+            "do",
+            "in",
+            "May",
+            "and",
+            "I",
+            "honestly",
+            "feel",
+            "like",
+            "a",
+            "failure",
+            "to",
+            "some",
+            "degree",
+            "."
+        ],
+        [
+            "My",
+            "tuition",
+            "money",
+            "is",
+            "going",
+            "into",
+            "conversations",
+            "that",
+            "do",
+            "n\u2019t",
+            "pertain",
+            "to",
+            "class",
+            ",",
+            "or",
+            "either",
+            "making",
+            "me",
+            "more",
+            "stressed",
+            "than",
+            "what",
+            "I",
+            "think",
+            "I",
+            "should",
+            "be",
+            "."
+        ],
+        [
+            "Anyone",
+            "else",
+            "feeling",
+            "this",
+            "in",
+            "any",
+            "way",
+            "?"
+        ]
+    ]
+}

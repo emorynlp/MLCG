@@ -1,0 +1,312 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "exploded",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "The explosion",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "the blast",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a base",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the fortified base",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "The base",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Bryan Woods",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Woods",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Afghanistan",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Afghanistan",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "ISAF",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "ISAF",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "at least one ISAF service member",
+                "pos": [
+                    9,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "the service member",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "attack",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "event"
+            },
+            {
+                "name": "the attack",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "event"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-25",
+    "sents": [
+        [
+            "A",
+            "grenade",
+            "exploded",
+            "Saturday",
+            "during",
+            "a",
+            "routine",
+            "vehicle",
+            "inspection",
+            "near",
+            "a",
+            "base",
+            "in",
+            "Afghanistan",
+            "'s",
+            "capital",
+            "city",
+            "of",
+            "Kabul",
+            ",",
+            "a",
+            "spokesman",
+            "for",
+            "the",
+            "U.S.",
+            "-",
+            "led",
+            "International",
+            "Security",
+            "Assistance",
+            "Force",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "explosion",
+            "occurred",
+            "at",
+            "about",
+            "7",
+            "p.m.",
+            "local",
+            "time",
+            "near",
+            "Camp",
+            "Eggers",
+            ",",
+            "Maj.",
+            "Bryan",
+            "Woods",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "were",
+            "no",
+            "reports",
+            "of",
+            "casualties",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "blast",
+            "forced",
+            "the",
+            "temporary",
+            "lockdown",
+            "of",
+            "the",
+            "fortified",
+            "base",
+            ",",
+            "which",
+            "sits",
+            "a",
+            "short",
+            "distance",
+            "from",
+            "the",
+            "presidential",
+            "palace",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "base",
+            "is",
+            "secured",
+            "at",
+            "this",
+            "time",
+            "and",
+            "has",
+            "resumed",
+            "operations",
+            ",",
+            "\"",
+            "Woods",
+            "said",
+            "."
+        ],
+        [
+            "In",
+            "eastern",
+            "Afghanistan",
+            ",",
+            "a",
+            "suicide",
+            "bomb",
+            "attack",
+            "killed",
+            "at",
+            "least",
+            "one",
+            "ISAF",
+            "service",
+            "member",
+            ",",
+            "according",
+            "to",
+            "officials",
+            "."
+        ],
+        [
+            "ISAF",
+            "did",
+            "not",
+            "release",
+            "the",
+            "service",
+            "member",
+            "'s",
+            "nationality",
+            "or",
+            "details",
+            "about",
+            "the",
+            "attack",
+            "."
+        ]
+    ]
+}

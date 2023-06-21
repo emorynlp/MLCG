@@ -1,0 +1,179 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "debentures",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The debentures",
+                "pos": [
+                    26,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the issue",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the debentures",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-23",
+    "sents": [
+        [
+            "Torchmark",
+            "Corp",
+            "is",
+            "raising",
+            "200",
+            "mln",
+            "dlrs",
+            "through",
+            "an",
+            "offering",
+            "of",
+            "sinking",
+            "fund",
+            "debentures",
+            "due",
+            "2017",
+            "yielding",
+            "8.65",
+            "pct",
+            ",",
+            "said",
+            "lead",
+            "manager",
+            "First",
+            "Boston",
+            "Corp.",
+            "The",
+            "debentures",
+            "have",
+            "an",
+            "8-5",
+            "/",
+            "8",
+            "pct",
+            "coupon",
+            "and",
+            "were",
+            "priced",
+            "at",
+            "99.73",
+            "to",
+            "yield",
+            "100",
+            "basis",
+            "points",
+            "over",
+            "the",
+            "off",
+            "-",
+            "the",
+            "-",
+            "run",
+            "9-1",
+            "/",
+            "4",
+            "pct",
+            "Treasury",
+            "bonds",
+            "of",
+            "2016",
+            "."
+        ],
+        [
+            "Non-refundable",
+            "for",
+            "10",
+            "years",
+            ",",
+            "the",
+            "issue",
+            "is",
+            "rated",
+            "A-2",
+            "by",
+            "Moody",
+            "'s",
+            "and",
+            "AA",
+            "by",
+            "Standard",
+            "and",
+            "Poor",
+            "'s",
+            "."
+        ],
+        [
+            "A",
+            "sinking",
+            "fund",
+            "starts",
+            "in",
+            "1998",
+            "to",
+            "retire",
+            "76",
+            "pct",
+            "of",
+            "the",
+            "debentures",
+            "by",
+            "maturity",
+            ",",
+            "giving",
+            "them",
+            "an",
+            "estimated",
+            "maximum",
+            "life",
+            "of",
+            "22.4",
+            "years",
+            "."
+        ],
+        [
+            "Merrill",
+            "Lynch",
+            "co-managed",
+            "the",
+            "deal",
+            "."
+        ]
+    ]
+}

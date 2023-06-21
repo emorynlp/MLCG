@@ -1,0 +1,246 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was really finished",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felt",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gathered",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    53,
+                    54
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chatted",
+                "pos": [
+                    77,
+                    78
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    88,
+                    89
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-28",
+    "sents": [
+        [
+            "When",
+            "supper",
+            "was",
+            "really",
+            "finished",
+            "at",
+            "last",
+            ",",
+            "and",
+            "each",
+            "animal",
+            "felt",
+            "that",
+            "his",
+            "skin",
+            "was",
+            "now",
+            "as",
+            "tight",
+            "as",
+            "was",
+            "decently",
+            "safe",
+            ",",
+            "and",
+            "that",
+            "by",
+            "this",
+            "time",
+            "he",
+            "did",
+            "n't",
+            "care",
+            "a",
+            "hang",
+            "for",
+            "anybody",
+            "or",
+            "anything",
+            ",",
+            "they",
+            "gathered",
+            "round",
+            "the",
+            "glowing",
+            "embers",
+            "of",
+            "the",
+            "great",
+            "wood",
+            "fire",
+            ",",
+            "and",
+            "thought",
+            "how",
+            "jolly",
+            "it",
+            "was",
+            "to",
+            "be",
+            "sitting",
+            "up",
+            "SO",
+            "late",
+            ",",
+            "and",
+            "SO",
+            "independent",
+            ",",
+            "and",
+            "SO",
+            "full",
+            ";",
+            "and",
+            "after",
+            "they",
+            "had",
+            "chatted",
+            "for",
+            "a",
+            "time",
+            "about",
+            "things",
+            "in",
+            "general",
+            ",",
+            "the",
+            "Badger",
+            "said",
+            "heartily",
+            ",",
+            "\"",
+            "Now",
+            "then",
+            "!",
+            "tell",
+            "us",
+            "the",
+            "news",
+            "from",
+            "your",
+            "part",
+            "of",
+            "the",
+            "world",
+            "."
+        ],
+        [
+            "How",
+            "'s",
+            "old",
+            "Toad",
+            "going",
+            "on",
+            "?",
+            "\""
+        ]
+    ]
+}

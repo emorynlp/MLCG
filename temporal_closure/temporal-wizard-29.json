@@ -1,0 +1,428 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "walked into",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thanked",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "rescuing",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was so pleased",
+                "pos": [
+                    20,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wept",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wipe",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fell",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "meeting",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wiped",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "became",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was obliged",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "go out",
+                "pos": [
+                    28,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hold",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dried",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-29",
+    "sents": [
+        [
+            "When",
+            ",",
+            "at",
+            "last",
+            ",",
+            "he",
+            "walked",
+            "into",
+            "Dorothy",
+            "'",
+            "s",
+            "room",
+            "and",
+            "thanked",
+            "her",
+            "for",
+            "rescuing",
+            "him",
+            ",",
+            "he",
+            "was",
+            "so",
+            "pleased",
+            "that",
+            "he",
+            "wept",
+            "tears",
+            "of",
+            "joy",
+            ",",
+            "and",
+            "Dorothy",
+            "had",
+            "to",
+            "wipe",
+            "every",
+            "tear",
+            "carefully",
+            "from",
+            "his",
+            "face",
+            "with",
+            "her",
+            "apron",
+            ",",
+            "so",
+            "his",
+            "joints",
+            "would",
+            "not",
+            "be",
+            "rusted",
+            "."
+        ],
+        [
+            "At",
+            "the",
+            "same",
+            "time",
+            "her",
+            "own",
+            "tears",
+            "fell",
+            "thick",
+            "and",
+            "fast",
+            "at",
+            "the",
+            "joy",
+            "of",
+            "meeting",
+            "her",
+            "old",
+            "friend",
+            "again",
+            ",",
+            "and",
+            "these",
+            "tears",
+            "did",
+            "not",
+            "need",
+            "to",
+            "be",
+            "wiped",
+            "away",
+            "."
+        ],
+        [
+            "As",
+            "for",
+            "the",
+            "Lion",
+            ",",
+            "he",
+            "wiped",
+            "his",
+            "eyes",
+            "so",
+            "often",
+            "with",
+            "the",
+            "tip",
+            "of",
+            "his",
+            "tail",
+            "that",
+            "it",
+            "became",
+            "quite",
+            "wet",
+            ",",
+            "and",
+            "he",
+            "was",
+            "obliged",
+            "to",
+            "go",
+            "out",
+            "into",
+            "the",
+            "courtyard",
+            "and",
+            "hold",
+            "it",
+            "in",
+            "the",
+            "sun",
+            "till",
+            "it",
+            "dried",
+            "."
+        ]
+    ]
+}

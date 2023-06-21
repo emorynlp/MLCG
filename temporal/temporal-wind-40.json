@@ -1,0 +1,196 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "made for",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reappeared",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "observed",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-40",
+    "sents": [
+        [
+            "He",
+            "made",
+            "for",
+            "the",
+            "cellar",
+            "-",
+            "door",
+            ",",
+            "and",
+            "presently",
+            "reappeared",
+            ",",
+            "somewhat",
+            "dusty",
+            ",",
+            "with",
+            "a",
+            "bottle",
+            "of",
+            "beer",
+            "in",
+            "each",
+            "paw",
+            "and",
+            "another",
+            "under",
+            "each",
+            "arm",
+            ",",
+            "\"",
+            "Self-indulgent",
+            "beggar",
+            "you",
+            "seem",
+            "to",
+            "be",
+            ",",
+            "Mole",
+            ",",
+            "\"",
+            "he",
+            "observed",
+            "."
+        ],
+        [
+            "\"",
+            "Deny",
+            "yourself",
+            "nothing",
+            "."
+        ],
+        [
+            "This",
+            "is",
+            "really",
+            "the",
+            "jolliest",
+            "little",
+            "place",
+            "I",
+            "ever",
+            "was",
+            "in",
+            "."
+        ],
+        [
+            "Now",
+            ",",
+            "wherever",
+            "did",
+            "you",
+            "pick",
+            "up",
+            "those",
+            "prints",
+            "?",
+            "Make",
+            "the",
+            "place",
+            "look",
+            "so",
+            "home",
+            "-",
+            "like",
+            ",",
+            "they",
+            "do",
+            "."
+        ],
+        [
+            "No",
+            "wonder",
+            "you",
+            "'re",
+            "so",
+            "fond",
+            "of",
+            "it",
+            ",",
+            "Mole",
+            "."
+        ],
+        [
+            "Tell",
+            "us",
+            "all",
+            "about",
+            "it",
+            ",",
+            "and",
+            "how",
+            "you",
+            "came",
+            "to",
+            "make",
+            "it",
+            "what",
+            "it",
+            "is",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

@@ -1,0 +1,371 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a hound",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "A YOUNG Fawn",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her brave young son",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the dogs",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "a dog",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "a single dog",
+                "pos": [
+                    24,
+                    27
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "his Mother",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Mother",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "You",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The Mother",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-30",
+    "sents": [
+        [
+            "A",
+            "YOUNG",
+            "Fawn",
+            "once",
+            "said",
+            "to",
+            "his",
+            "Mother",
+            ":",
+            "\u201c",
+            "I",
+            "do",
+            "not",
+            "see",
+            ",",
+            "Mother",
+            ",",
+            "how",
+            "it",
+            "is",
+            "that",
+            "you",
+            "should",
+            "be",
+            "so",
+            "afraid",
+            "of",
+            "the",
+            "dogs",
+            "."
+        ],
+        [
+            "You",
+            "are",
+            "larger",
+            "than",
+            "a",
+            "dog",
+            ",",
+            "and",
+            "swifter",
+            ";",
+            "and",
+            "you",
+            "are",
+            "much",
+            "more",
+            "used",
+            "to",
+            "running",
+            "."
+        ],
+        [
+            "Why",
+            "is",
+            "it",
+            "that",
+            "the",
+            "mere",
+            "mention",
+            "of",
+            "a",
+            "hound",
+            "puts",
+            "you",
+            "into",
+            "such",
+            "a",
+            "terrible",
+            "fright",
+            "?",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Mother",
+            "smiled",
+            "upon",
+            "her",
+            "brave",
+            "young",
+            "son",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "know",
+            "very",
+            "well",
+            ",",
+            "\u201d",
+            "she",
+            "said",
+            ",",
+            "\u201c",
+            "that",
+            "all",
+            "you",
+            "say",
+            "is",
+            "true",
+            "."
+        ],
+        [
+            "I",
+            "look",
+            "at",
+            "my",
+            "long",
+            "legs",
+            ",",
+            "and",
+            "remember",
+            "all",
+            "the",
+            "advantages",
+            "that",
+            "you",
+            "mention",
+            ",",
+            "yet",
+            "when",
+            "I",
+            "hear",
+            "the",
+            "bark",
+            "of",
+            "but",
+            "a",
+            "single",
+            "dog",
+            ",",
+            "I",
+            "faint",
+            "with",
+            "terror",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

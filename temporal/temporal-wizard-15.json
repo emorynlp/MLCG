@@ -1,0 +1,490 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "ate",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was waited",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was Boq",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sat",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "watched",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dance",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knew",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was only an ordinary little girl",
+                "pos": [
+                    27,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "come by",
+                "pos": [
+                    35,
+                    37
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tired",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "watching",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "led",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were made of",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "slept",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "curled up",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-15",
+    "sents": [
+        [
+            "Dorothy",
+            "ate",
+            "a",
+            "hearty",
+            "supper",
+            "and",
+            "was",
+            "waited",
+            "upon",
+            "by",
+            "the",
+            "rich",
+            "Munchkin",
+            "himself",
+            ",",
+            "whose",
+            "name",
+            "was",
+            "Boq",
+            "."
+        ],
+        [
+            "Then",
+            "she",
+            "sat",
+            "upon",
+            "a",
+            "settee",
+            "and",
+            "watched",
+            "the",
+            "people",
+            "dance",
+            "."
+        ],
+        [
+            "Dorothy",
+            "did",
+            "not",
+            "know",
+            "what",
+            "to",
+            "say",
+            "to",
+            "this",
+            ",",
+            "for",
+            "all",
+            "the",
+            "people",
+            "seemed",
+            "to",
+            "think",
+            "her",
+            "a",
+            "witch",
+            ",",
+            "and",
+            "she",
+            "knew",
+            "very",
+            "well",
+            "she",
+            "was",
+            "only",
+            "an",
+            "ordinary",
+            "little",
+            "girl",
+            "who",
+            "had",
+            "come",
+            "by",
+            "the",
+            "chance",
+            "of",
+            "a",
+            "cyclone",
+            "into",
+            "a",
+            "strange",
+            "land",
+            "."
+        ],
+        [
+            "When",
+            "she",
+            "had",
+            "tired",
+            "watching",
+            "the",
+            "dancing",
+            ",",
+            "Boq",
+            "led",
+            "her",
+            "into",
+            "the",
+            "house",
+            ",",
+            "where",
+            "he",
+            "gave",
+            "her",
+            "a",
+            "room",
+            "with",
+            "a",
+            "pretty",
+            "bed",
+            "in",
+            "it",
+            "."
+        ],
+        [
+            "The",
+            "sheets",
+            "were",
+            "made",
+            "of",
+            "blue",
+            "cloth",
+            ",",
+            "and",
+            "Dorothy",
+            "slept",
+            "soundly",
+            "in",
+            "them",
+            "till",
+            "morning",
+            ",",
+            "with",
+            "Toto",
+            "curled",
+            "up",
+            "on",
+            "the",
+            "blue",
+            "rug",
+            "beside",
+            "her",
+            "."
+        ]
+    ]
+}

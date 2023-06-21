@@ -1,0 +1,404 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I bet",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they checked the cameras",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they \u2019d see me walking to his office",
+                "pos": [
+                    7,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "as",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I remember the day and time I was there",
+                "pos": [
+                    17,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "What should I do",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 9,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "go back and look",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "my exam",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he refuses to or change my grade",
+                "pos": [
+                    5,
+                    19
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-049",
+    "sents": [
+        [
+            "So",
+            "I",
+            "\u2019m",
+            "a",
+            "4.0",
+            "student",
+            "in",
+            "uni",
+            "."
+        ],
+        [
+            "I",
+            "received",
+            "a",
+            "D",
+            "on",
+            "my",
+            "final",
+            "grade",
+            "for",
+            "an",
+            "anthropology",
+            "class",
+            ",",
+            "and",
+            "was",
+            "incredibly",
+            "distressed",
+            "and",
+            "worried",
+            "how",
+            "this",
+            "could",
+            "\u2019ve",
+            "happened",
+            "."
+        ],
+        [
+            "I",
+            "immediately",
+            "emailed",
+            "my",
+            "professor",
+            "asking",
+            "why",
+            "I",
+            "received",
+            "this",
+            "grade",
+            ",",
+            "a",
+            "week",
+            "later",
+            "he",
+            "responded",
+            "that",
+            "I",
+            "never",
+            "handed",
+            "in",
+            "the",
+            "final",
+            "!"
+        ],
+        [
+            "It",
+            "was",
+            "a",
+            "written",
+            "take",
+            "home",
+            "final",
+            ",",
+            "I",
+            "drove",
+            "all",
+            "the",
+            "way",
+            "to",
+            "school",
+            "and",
+            "turned",
+            "it",
+            "in",
+            "personally",
+            "to",
+            "him",
+            "in",
+            "his",
+            "office",
+            "on",
+            "the",
+            "due",
+            "date",
+            ",",
+            "per",
+            "his",
+            "instructions",
+            "."
+        ],
+        [
+            "I",
+            "bet",
+            "if",
+            "they",
+            "checked",
+            "the",
+            "cameras",
+            "they",
+            "\u2019d",
+            "see",
+            "me",
+            "walking",
+            "to",
+            "his",
+            "office",
+            ",",
+            "as",
+            "I",
+            "remember",
+            "the",
+            "day",
+            "and",
+            "time",
+            "I",
+            "was",
+            "there",
+            "."
+        ],
+        [
+            "I",
+            "emailed",
+            "him",
+            "back",
+            "saying",
+            "I",
+            "was",
+            "there",
+            "and",
+            "handed",
+            "it",
+            "to",
+            "him",
+            "personally",
+            "."
+        ],
+        [
+            "And",
+            "followed",
+            "up",
+            "with",
+            "an",
+            "attachment",
+            "of",
+            "my",
+            "exam",
+            "."
+        ],
+        [
+            "Honestly",
+            "this",
+            "is",
+            "why",
+            "all",
+            "professors",
+            "should",
+            "utilize",
+            "online",
+            "submission",
+            "\ud83d\ude44",
+            "The",
+            "only",
+            "conclusive",
+            "thing",
+            "is",
+            "that",
+            "he",
+            "had",
+            "to",
+            "have",
+            "lost",
+            "my",
+            "final",
+            "exam",
+            "."
+        ],
+        [
+            "Im",
+            "totally",
+            "fuming",
+            "!"
+        ],
+        [
+            "What",
+            "should",
+            "I",
+            "do",
+            "if",
+            "he",
+            "refuses",
+            "to",
+            "go",
+            "back",
+            "and",
+            "look",
+            "for",
+            "my",
+            "exam",
+            "or",
+            "change",
+            "my",
+            "grade",
+            "?"
+        ]
+    ]
+}

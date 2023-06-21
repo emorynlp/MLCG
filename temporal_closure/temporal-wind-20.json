@@ -1,0 +1,523 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "quickened",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "telling",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "passed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "flashed up",
+                "pos": [
+                    33,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was gone",
+                "pos": [
+                    43,
+                    45
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hesitated",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "braced himself up",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "strode on",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were hundreds of them",
+                "pos": [
+                    23,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "coming",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "going",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-20",
+    "sents": [
+        [
+            "He",
+            "quickened",
+            "his",
+            "pace",
+            ",",
+            "telling",
+            "himself",
+            "cheerfully",
+            "not",
+            "to",
+            "begin",
+            "imagining",
+            "things",
+            ",",
+            "or",
+            "there",
+            "would",
+            "be",
+            "simply",
+            "no",
+            "end",
+            "to",
+            "it",
+            "."
+        ],
+        [
+            "He",
+            "passed",
+            "another",
+            "hole",
+            ",",
+            "and",
+            "another",
+            ",",
+            "and",
+            "another",
+            ";",
+            "and",
+            "then",
+            "\u2014",
+            "yes",
+            "!",
+            "\u2014",
+            "no",
+            "!",
+            "\u2014",
+            "yes",
+            "!",
+            "certainly",
+            "a",
+            "little",
+            "narrow",
+            "face",
+            ",",
+            "with",
+            "hard",
+            "eyes",
+            ",",
+            "had",
+            "flashed",
+            "up",
+            "for",
+            "an",
+            "instant",
+            "from",
+            "a",
+            "hole",
+            ",",
+            "and",
+            "was",
+            "gone",
+            "."
+        ],
+        [
+            "He",
+            "hesitated",
+            "\u2014",
+            "braced",
+            "himself",
+            "up",
+            "for",
+            "an",
+            "effort",
+            "and",
+            "strode",
+            "on",
+            "."
+        ],
+        [
+            "Then",
+            "suddenly",
+            ",",
+            "and",
+            "as",
+            "if",
+            "it",
+            "had",
+            "been",
+            "so",
+            "all",
+            "the",
+            "time",
+            ",",
+            "every",
+            "hole",
+            ",",
+            "far",
+            "and",
+            "near",
+            ",",
+            "and",
+            "there",
+            "were",
+            "hundreds",
+            "of",
+            "them",
+            ",",
+            "seemed",
+            "to",
+            "possess",
+            "its",
+            "face",
+            ",",
+            "coming",
+            "and",
+            "going",
+            "rapidly",
+            ",",
+            "all",
+            "fixing",
+            "on",
+            "him",
+            "glances",
+            "of",
+            "malice",
+            "and",
+            "hatred",
+            ":",
+            "all",
+            "hard",
+            "-",
+            "eyed",
+            "and",
+            "evil",
+            "and",
+            "sharp",
+            "."
+        ]
+    ]
+}

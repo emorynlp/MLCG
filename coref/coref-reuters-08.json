@@ -1,0 +1,337 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Tower commission",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the report",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "published",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "published",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the Iran arms affair",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the scandal",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the affair",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the crisis",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "not resign",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "was not going to resign",
+                "pos": [
+                    17,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "You",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "George Shultz",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "His",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Shultz",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-08",
+    "sents": [
+        [
+            "Secretary",
+            "of",
+            "State",
+            "George",
+            "Shultz",
+            "acknowledged",
+            "failings",
+            "in",
+            "the",
+            "Iran",
+            "arms",
+            "affair",
+            "but",
+            "declared",
+            "he",
+            "would",
+            "not",
+            "resign",
+            "."
+        ],
+        [
+            "His",
+            "role",
+            "in",
+            "the",
+            "scandal",
+            "that",
+            "has",
+            "scarred",
+            "the",
+            "Reagan",
+            "administration",
+            "attracted",
+            "harsh",
+            "criticism",
+            "from",
+            "the",
+            "Tower",
+            "commission",
+            "in",
+            "its",
+            "report",
+            "on",
+            "the",
+            "affair",
+            "published",
+            "today",
+            "."
+        ],
+        [
+            "Shultz",
+            ",",
+            "travelling",
+            "to",
+            "China",
+            "for",
+            "a",
+            "week",
+            "-",
+            "long",
+            "visit",
+            ",",
+            "refused",
+            "to",
+            "comment",
+            "directly",
+            "on",
+            "the",
+            "report",
+            ",",
+            "published",
+            "after",
+            "he",
+            "had",
+            "left",
+            "Washington",
+            "."
+        ],
+        [
+            "But",
+            "he",
+            "repeated",
+            "--",
+            "as",
+            "he",
+            "has",
+            "done",
+            "since",
+            "the",
+            "crisis",
+            "broke",
+            "last",
+            "November",
+            "--",
+            "that",
+            "he",
+            "was",
+            "not",
+            "going",
+            "to",
+            "resign",
+            "."
+        ],
+        [
+            "\"",
+            "You",
+            "can",
+            "wipe",
+            "that",
+            "off",
+            "your",
+            "slate",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "."
+        ]
+    ]
+}

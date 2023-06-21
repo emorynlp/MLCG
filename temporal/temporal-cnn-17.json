@@ -1,0 +1,367 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "guards",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "investigated",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "left",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "face",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are expected",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is in",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "accused",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are assigned",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-17",
+    "sents": [
+        [
+            "The",
+            "U.S.",
+            "Navy",
+            "has",
+            "charged",
+            "six",
+            "guards",
+            "accused",
+            "of",
+            "assaulting",
+            "detainees",
+            "in",
+            "May",
+            "at",
+            "Camp",
+            "Bucca",
+            "in",
+            "Iraq",
+            ",",
+            "naval",
+            "officials",
+            "said",
+            "Thursday",
+            "."
+        ],
+        [
+            "U.S.",
+            "guards",
+            "patrol",
+            "at",
+            "Camp",
+            "Bucca",
+            "in",
+            "Iraq",
+            "in",
+            "May",
+            "."
+        ],
+        [
+            "The",
+            "Army",
+            "Criminal",
+            "Investigation",
+            "Division",
+            "investigated",
+            "alleged",
+            "incidents",
+            "that",
+            "left",
+            "two",
+            "detainees",
+            "with",
+            "minor",
+            "bruises",
+            "."
+        ],
+        [
+            "The",
+            "division",
+            "also",
+            "investigated",
+            "an",
+            "incident",
+            "in",
+            "which",
+            "eight",
+            "prisoners",
+            "were",
+            "confined",
+            "overnight",
+            "to",
+            "a",
+            "housing",
+            "cell",
+            "that",
+            "had",
+            "been",
+            "sprayed",
+            "with",
+            "a",
+            "riot",
+            "control",
+            "agent",
+            ",",
+            "the",
+            "Navy",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "six",
+            "guards",
+            "will",
+            "face",
+            "courts",
+            "-",
+            "martial",
+            "."
+        ],
+        [
+            "Seven",
+            "other",
+            "cases",
+            "have",
+            "been",
+            "resolved",
+            "through",
+            "nonjudicial",
+            "punishment",
+            ",",
+            "according",
+            "to",
+            "a",
+            "statement",
+            "from",
+            "the",
+            "commander",
+            "of",
+            "U.S.",
+            "Naval",
+            "Forces",
+            "-",
+            "Central",
+            "Command",
+            "."
+        ],
+        [
+            "The",
+            "courts",
+            "-",
+            "martial",
+            "are",
+            "expected",
+            "to",
+            "start",
+            "within",
+            "30",
+            "days",
+            "at",
+            "Camp",
+            "Bucca",
+            ",",
+            "which",
+            "is",
+            "in",
+            "southern",
+            "Iraq",
+            "near",
+            "the",
+            "Kuwaiti",
+            "border",
+            "."
+        ],
+        [
+            "The",
+            "guards",
+            "accused",
+            "in",
+            "the",
+            "case",
+            "are",
+            "assigned",
+            "to",
+            "Navy",
+            "Provisional",
+            "Detainee",
+            "Battalion",
+            "4."
+        ]
+    ]
+}

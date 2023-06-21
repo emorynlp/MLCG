@@ -1,0 +1,350 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "AS",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "TWO men were traveling through a wood",
+                "pos": [
+                    1,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "one of them took up an ax which he saw lying upon the ground",
+                "pos": [
+                    9,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "As",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "we are companions",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "we ought to share it between us",
+                "pos": [
+                    5,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "When",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 9,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "you thought you had a prize",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you would not let me share it with you",
+                "pos": [
+                    8,
+                    17
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-46",
+    "sents": [
+        [
+            "AS",
+            "TWO",
+            "men",
+            "were",
+            "traveling",
+            "through",
+            "a",
+            "wood",
+            ",",
+            "one",
+            "of",
+            "them",
+            "took",
+            "up",
+            "an",
+            "ax",
+            "which",
+            "he",
+            "saw",
+            "lying",
+            "upon",
+            "the",
+            "ground",
+            "."
+        ],
+        [
+            "\u201c",
+            "Look",
+            "here",
+            ",",
+            "\u201d",
+            "said",
+            "he",
+            "to",
+            "his",
+            "companion",
+            ";",
+            "\u201c",
+            "I",
+            "have",
+            "found",
+            "an",
+            "ax",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Do",
+            "n\u2019t",
+            "say",
+            "_I_",
+            "have",
+            "found",
+            "it",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "other",
+            ",",
+            "\u201c",
+            "but",
+            "_we_",
+            "."
+        ],
+        [
+            "As",
+            "we",
+            "are",
+            "companions",
+            ",",
+            "we",
+            "ought",
+            "to",
+            "share",
+            "it",
+            "between",
+            "us",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "No",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "first",
+            ",",
+            "\u201c",
+            "I",
+            "found",
+            "the",
+            "ax",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "mine",
+            ".",
+            "\u201d"
+        ],
+        [
+            "They",
+            "had",
+            "not",
+            "gone",
+            "far",
+            "when",
+            "they",
+            "heard",
+            "the",
+            "owner",
+            "of",
+            "the",
+            "ax",
+            "pursuing",
+            "them",
+            ",",
+            "and",
+            "calling",
+            "out",
+            "to",
+            "them",
+            "in",
+            "great",
+            "passion",
+            "."
+        ],
+        [
+            "\u201c",
+            "We",
+            "are",
+            "in",
+            "for",
+            "it",
+            "now",
+            ",",
+            "\u201d",
+            "said",
+            "he",
+            "who",
+            "had",
+            "the",
+            "ax",
+            "."
+        ],
+        [
+            "\u201c",
+            "Nay",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "other",
+            ";",
+            "\u201c",
+            "say",
+            "_I_",
+            "am",
+            "in",
+            "for",
+            "it",
+            ",",
+            "not",
+            "_we_",
+            "."
+        ],
+        [
+            "When",
+            "you",
+            "thought",
+            "you",
+            "had",
+            "a",
+            "prize",
+            ",",
+            "you",
+            "would",
+            "not",
+            "let",
+            "me",
+            "share",
+            "it",
+            "with",
+            "you",
+            ",",
+            "and",
+            "now",
+            "you",
+            "can",
+            "not",
+            "expect",
+            "me",
+            "to",
+            "share",
+            "in",
+            "the",
+            "danger",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

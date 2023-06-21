@@ -1,0 +1,299 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the random guy",
+                "pos": [
+                    31,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The dude",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the random guy",
+                "pos": [
+                    31,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the guy",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a hammock",
+                "pos": [
+                    43,
+                    45
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the hammock",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you guys",
+                "pos": [
+                    39,
+                    41
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    49,
+                    50
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    53,
+                    54
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the AUS SIE",
+                "pos": [
+                    24,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    44,
+                    45
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-099",
+    "sents": [
+        [
+            "The",
+            "dude",
+            "has",
+            "only",
+            "seen",
+            "them",
+            "in",
+            "cartoons",
+            "most",
+            "likely",
+            ",",
+            "So",
+            "if",
+            "he",
+            "wants",
+            "to",
+            "chill",
+            "in",
+            "the",
+            "quad",
+            "for",
+            "an",
+            "hour",
+            "while",
+            "you",
+            "drink",
+            "coffee",
+            "and",
+            "and",
+            "talk",
+            "to",
+            "the",
+            "random",
+            "guy",
+            "about",
+            "2",
+            "'",
+            "away",
+            "from",
+            "you",
+            "guys",
+            "sitting",
+            "in",
+            "a",
+            "hammock",
+            "attached",
+            "to",
+            "said",
+            "tree",
+            "you",
+            "'re",
+            "leaning",
+            "against",
+            "you",
+            "'re",
+            "leaning",
+            "against",
+            "go",
+            "for",
+            "it",
+            "."
+        ],
+        [
+            "It",
+            "will",
+            "be",
+            "a",
+            "weird",
+            "bonding",
+            "experience",
+            "but",
+            "you",
+            "will",
+            "make",
+            "a",
+            "very",
+            "good",
+            "friend",
+            "from",
+            "both",
+            "the",
+            "guy",
+            "and",
+            "the",
+            "hammock",
+            "and",
+            "and",
+            "the",
+            "AUS",
+            "SIE",
+            "who",
+            "is",
+            "your",
+            "roommate",
+            "Because",
+            "he",
+            "will",
+            "think",
+            "it",
+            "'s",
+            "awesome",
+            "that",
+            "you",
+            "went",
+            "squirrel",
+            "watching",
+            "with",
+            "him",
+            "."
+        ]
+    ]
+}

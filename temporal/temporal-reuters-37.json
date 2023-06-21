@@ -1,0 +1,394 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is guaranteed",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is accompanied",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is available",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be listed",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is April 2 , 1987",
+                "pos": [
+                    6,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is 1-1 / 8 pct",
+                "pos": [
+                    3,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pays",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "indicated",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are exercisable",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be listed",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-37",
+    "sents": [
+        [
+            "Fiat",
+            "Finance",
+            "and",
+            "Trade",
+            "Ltd",
+            "is",
+            "issuing",
+            "a",
+            "100",
+            "mln",
+            "dlr",
+            "eurobond",
+            "due",
+            "April",
+            "2",
+            ",",
+            "1991",
+            "at",
+            "7-1",
+            "/",
+            "4",
+            "pct",
+            "and",
+            "101-1",
+            "/",
+            "8",
+            "pct",
+            ",",
+            "lead",
+            "manager",
+            "Morgan",
+            "Stanley",
+            "International",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "issue",
+            "is",
+            "guaranteed",
+            "by",
+            "Internazionale",
+            "Fiat",
+            "Holding",
+            "SA",
+            "and",
+            "is",
+            "accompanied",
+            "by",
+            "a",
+            "200,000",
+            "currency",
+            "warrant",
+            "package",
+            "."
+        ],
+        [
+            "The",
+            "bond",
+            "is",
+            "available",
+            "in",
+            "denominations",
+            "of",
+            "5,000",
+            "dlrs",
+            "and",
+            "will",
+            "be",
+            "listed",
+            "in",
+            "Luxembourg",
+            "."
+        ],
+        [
+            "Payment",
+            "date",
+            "for",
+            "bond",
+            "and",
+            "warrants",
+            "is",
+            "April",
+            "2",
+            ",",
+            "1987",
+            "."
+        ],
+        [
+            "The",
+            "selling",
+            "concession",
+            "is",
+            "1-1",
+            "/",
+            "8",
+            "pct",
+            "while",
+            "management",
+            "and",
+            "underwriting",
+            "combined",
+            "pays",
+            "1/2",
+            "pct",
+            "."
+        ],
+        [
+            "The",
+            "warrants",
+            "indicated",
+            "at",
+            "45",
+            "dlrs",
+            "entitle",
+            "the",
+            "holder",
+            "to",
+            "buy",
+            "a",
+            "minimum",
+            "of",
+            "500",
+            "dlrs",
+            "at",
+            "a",
+            "rate",
+            "of",
+            "1.79",
+            "marks",
+            "per",
+            "dlr",
+            "."
+        ],
+        [
+            "The",
+            "warrants",
+            "are",
+            "exercisable",
+            "from",
+            "the",
+            "April",
+            "2",
+            "payment",
+            "date",
+            "until",
+            "March",
+            "2",
+            ",",
+            "1989",
+            "."
+        ],
+        [
+            "A",
+            "minimum",
+            "of",
+            "200",
+            "warrants",
+            "must",
+            "be",
+            "exercised",
+            "."
+        ],
+        [
+            "They",
+            "will",
+            "also",
+            "be",
+            "listed",
+            "in",
+            "Luxembourg",
+            "."
+        ]
+    ]
+}

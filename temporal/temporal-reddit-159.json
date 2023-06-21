@@ -1,0 +1,259 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pick",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "realize",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "decided",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "see",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s a lot of stigma",
+                "pos": [
+                    8,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-159",
+    "sents": [
+        [
+            "I",
+            "had",
+            "a",
+            "horrendous",
+            "week",
+            "where",
+            "I",
+            "could",
+            "n't",
+            "get",
+            "out",
+            "of",
+            "bed",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "not",
+            "sure",
+            "if",
+            "I",
+            "clear",
+            "the",
+            "bar",
+            "for",
+            "clinical",
+            "depression",
+            "or",
+            "if",
+            "I",
+            "'m",
+            "simply",
+            "lazy",
+            "(",
+            "or",
+            "both",
+            ")",
+            "."
+        ],
+        [
+            "Luckily",
+            ",",
+            "I",
+            "managed",
+            "to",
+            "pick",
+            "myself",
+            "back",
+            "up",
+            "but",
+            "I",
+            "realize",
+            "that",
+            "this",
+            "state",
+            "may",
+            "not",
+            "last",
+            "forever",
+            "."
+        ],
+        [
+            "And",
+            "so",
+            "I",
+            "decided",
+            "to",
+            "invest",
+            "in",
+            "myself",
+            "to",
+            "help",
+            "me",
+            "manage",
+            "the",
+            "days",
+            "where",
+            "I",
+            "ca",
+            "n't",
+            "find",
+            "the",
+            "motivation",
+            "to",
+            "get",
+            "any",
+            "work",
+            "done",
+            "(",
+            "both",
+            "in",
+            "my",
+            "lab",
+            "life",
+            ",",
+            "and",
+            "my",
+            "private",
+            "life",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "will",
+            "eventually",
+            "see",
+            "a",
+            "professional",
+            "but",
+            "there",
+            "'s",
+            "a",
+            "lot",
+            "of",
+            "stigma",
+            "concerning",
+            "mental",
+            "health",
+            "Tell",
+            "me",
+            ",",
+            "r",
+            "/",
+            "GradSchool",
+            ",",
+            "how",
+            "do",
+            "you",
+            "manage",
+            "these",
+            "depressive",
+            "episodes",
+            "?"
+        ]
+    ]
+}

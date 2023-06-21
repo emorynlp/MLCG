@@ -1,0 +1,220 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "Been contemplating",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "falling",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are coming up",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m in",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-064",
+    "sents": [
+        [
+            "Been",
+            "contemplating",
+            "this",
+            "a",
+            "lot",
+            "."
+        ],
+        [
+            "Rn",
+            "I",
+            "have",
+            "a",
+            "97",
+            "GPA",
+            ",",
+            "with",
+            "most",
+            "of",
+            "my",
+            "classes",
+            "falling",
+            "between",
+            "the",
+            "94",
+            "-",
+            "100",
+            "range",
+            "."
+        ],
+        [
+            "Finals",
+            "are",
+            "coming",
+            "up",
+            ",",
+            "and",
+            "I",
+            "'m",
+            "unsure",
+            "if",
+            "I",
+            "should",
+            "spend",
+            "a",
+            "few",
+            "extra",
+            "hours",
+            "studying",
+            "and",
+            "completing",
+            "some",
+            "generous",
+            "extra",
+            "credit",
+            "assignments",
+            "given",
+            "by",
+            "professors",
+            "due",
+            "tomorrow",
+            "."
+        ],
+        [
+            "While",
+            "I",
+            "'m",
+            "in",
+            "a",
+            "pretty",
+            "confident",
+            "and",
+            "safe",
+            "spot",
+            ",",
+            "I",
+            "'m",
+            "not",
+            "sure",
+            "if",
+            "an",
+            "actual",
+            "percentage",
+            "matters",
+            "in",
+            "college",
+            "like",
+            "high",
+            "school",
+            ",",
+            "or",
+            "simply",
+            "focus",
+            "on",
+            "getting",
+            "at",
+            "least",
+            "a",
+            "94",
+            "to",
+            "maintain",
+            "an",
+            "A.",
+            "What",
+            "are",
+            "your",
+            "thoughts",
+            "?"
+        ]
+    ]
+}

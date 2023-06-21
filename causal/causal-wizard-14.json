@@ -1,0 +1,306 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the people came out to look at her and bow low as she went by",
+                "pos": [
+                    11,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "everyone knew she had been the means of destroying the Wicked Witch and setting them free from bondage",
+                "pos": [
+                    28,
+                    46
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The houses of the Munchkins were odd - looking dwellings",
+                "pos": [
+                    0,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "each was round , with a big dome for a roof",
+                "pos": [
+                    12,
+                    23
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "All were painted blue",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "in this country of the East blue was the favorite color",
+                "pos": [
+                    6,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-14",
+    "sents": [
+        [
+            "She",
+            "was",
+            "surprised",
+            ",",
+            "as",
+            "she",
+            "walked",
+            "along",
+            ",",
+            "to",
+            "see",
+            "how",
+            "pretty",
+            "the",
+            "country",
+            "was",
+            "about",
+            "her",
+            "."
+        ],
+        [
+            "There",
+            "were",
+            "neat",
+            "fences",
+            "at",
+            "the",
+            "sides",
+            "of",
+            "the",
+            "road",
+            ",",
+            "painted",
+            "a",
+            "dainty",
+            "blue",
+            "color",
+            ",",
+            "and",
+            "beyond",
+            "them",
+            "were",
+            "fields",
+            "of",
+            "grain",
+            "and",
+            "vegetables",
+            "in",
+            "abundance",
+            "."
+        ],
+        [
+            "Evidently",
+            "the",
+            "Munchkins",
+            "were",
+            "good",
+            "farmers",
+            "and",
+            "able",
+            "to",
+            "raise",
+            "large",
+            "crops",
+            "."
+        ],
+        [
+            "Once",
+            "in",
+            "a",
+            "while",
+            "she",
+            "would",
+            "pass",
+            "a",
+            "house",
+            ",",
+            "and",
+            "the",
+            "people",
+            "came",
+            "out",
+            "to",
+            "look",
+            "at",
+            "her",
+            "and",
+            "bow",
+            "low",
+            "as",
+            "she",
+            "went",
+            "by",
+            ";",
+            "for",
+            "everyone",
+            "knew",
+            "she",
+            "had",
+            "been",
+            "the",
+            "means",
+            "of",
+            "destroying",
+            "the",
+            "Wicked",
+            "Witch",
+            "and",
+            "setting",
+            "them",
+            "free",
+            "from",
+            "bondage",
+            "."
+        ],
+        [
+            "The",
+            "houses",
+            "of",
+            "the",
+            "Munchkins",
+            "were",
+            "odd",
+            "-",
+            "looking",
+            "dwellings",
+            ",",
+            "for",
+            "each",
+            "was",
+            "round",
+            ",",
+            "with",
+            "a",
+            "big",
+            "dome",
+            "for",
+            "a",
+            "roof",
+            "."
+        ],
+        [
+            "All",
+            "were",
+            "painted",
+            "blue",
+            ",",
+            "for",
+            "in",
+            "this",
+            "country",
+            "of",
+            "the",
+            "East",
+            "blue",
+            "was",
+            "the",
+            "favorite",
+            "color",
+            "."
+        ]
+    ]
+}

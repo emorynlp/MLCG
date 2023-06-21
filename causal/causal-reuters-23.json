@@ -1,0 +1,176 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A sinking fund starts in 1998 to retire 76 pct of the debentures by maturity",
+                "pos": [
+                    0,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "giving",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "them an estimated maximum life of 22.4 years",
+                "pos": [
+                    17,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-23",
+    "sents": [
+        [
+            "Torchmark",
+            "Corp",
+            "is",
+            "raising",
+            "200",
+            "mln",
+            "dlrs",
+            "through",
+            "an",
+            "offering",
+            "of",
+            "sinking",
+            "fund",
+            "debentures",
+            "due",
+            "2017",
+            "yielding",
+            "8.65",
+            "pct",
+            ",",
+            "said",
+            "lead",
+            "manager",
+            "First",
+            "Boston",
+            "Corp.",
+            "The",
+            "debentures",
+            "have",
+            "an",
+            "8-5",
+            "/",
+            "8",
+            "pct",
+            "coupon",
+            "and",
+            "were",
+            "priced",
+            "at",
+            "99.73",
+            "to",
+            "yield",
+            "100",
+            "basis",
+            "points",
+            "over",
+            "the",
+            "off",
+            "-",
+            "the",
+            "-",
+            "run",
+            "9-1",
+            "/",
+            "4",
+            "pct",
+            "Treasury",
+            "bonds",
+            "of",
+            "2016",
+            "."
+        ],
+        [
+            "Non-refundable",
+            "for",
+            "10",
+            "years",
+            ",",
+            "the",
+            "issue",
+            "is",
+            "rated",
+            "A-2",
+            "by",
+            "Moody",
+            "'s",
+            "and",
+            "AA",
+            "by",
+            "Standard",
+            "and",
+            "Poor",
+            "'s",
+            "."
+        ],
+        [
+            "A",
+            "sinking",
+            "fund",
+            "starts",
+            "in",
+            "1998",
+            "to",
+            "retire",
+            "76",
+            "pct",
+            "of",
+            "the",
+            "debentures",
+            "by",
+            "maturity",
+            ",",
+            "giving",
+            "them",
+            "an",
+            "estimated",
+            "maximum",
+            "life",
+            "of",
+            "22.4",
+            "years",
+            "."
+        ],
+        [
+            "Merrill",
+            "Lynch",
+            "co-managed",
+            "the",
+            "deal",
+            "."
+        ]
+    ]
+}

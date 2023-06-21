@@ -1,0 +1,344 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "acted as",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "quit",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fucked",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "threatened",
+                "pos": [
+                    46,
+                    47
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was the best \" Captain \"",
+                "pos": [
+                    3,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were super negative",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "agreed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-014",
+    "sents": [
+        [
+            "So",
+            "basically",
+            "I",
+            "want",
+            "to",
+            "say",
+            "that",
+            "I",
+            "acted",
+            "as",
+            "the",
+            "on",
+            "-",
+            "the",
+            "-",
+            "field",
+            "captain",
+            "for",
+            "my",
+            "soccer",
+            "team",
+            "my",
+            "sophomore",
+            "and",
+            "junior",
+            "year",
+            ",",
+            "but",
+            "was",
+            "not",
+            "given",
+            "the",
+            "\"",
+            "official",
+            "\"",
+            "name",
+            "of",
+            "captain",
+            "because",
+            "the",
+            "coach",
+            "really",
+            "did",
+            "not",
+            "like",
+            "me",
+            "."
+        ],
+        [
+            "(",
+            "He",
+            "would",
+            "goof",
+            "off",
+            "all",
+            "practice",
+            "and",
+            "not",
+            "help",
+            "our",
+            "team",
+            ",",
+            "we",
+            "did",
+            "poorly",
+            "and",
+            "whenever",
+            "I",
+            "would",
+            "call",
+            "him",
+            "out",
+            "he",
+            "would",
+            "get",
+            "mad",
+            ",",
+            "he",
+            "later",
+            "quit",
+            "due",
+            "to",
+            "bad",
+            "results",
+            "with",
+            "the",
+            "team",
+            "and",
+            "because",
+            "he",
+            "fucked",
+            "a",
+            "players",
+            "mom",
+            "and",
+            "threatened",
+            "to",
+            "take",
+            "away",
+            "the",
+            "kids",
+            "playing",
+            "time",
+            "if",
+            "she",
+            "did",
+            "n't",
+            "continue",
+            "...",
+            ")"
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "Where",
+            ",",
+            "if",
+            "at",
+            "all",
+            ",",
+            "should",
+            "I",
+            "put",
+            "this",
+            "information",
+            "."
+        ],
+        [
+            "Because",
+            "truly",
+            "I",
+            "was",
+            "the",
+            "best",
+            "\"",
+            "Captain",
+            "\"",
+            "on",
+            "the",
+            "team",
+            ",",
+            "as",
+            "the",
+            "official",
+            "captains",
+            "would",
+            "n't",
+            "lead",
+            "for",
+            "crap",
+            "and",
+            "were",
+            "super",
+            "negative",
+            "all",
+            "the",
+            "time",
+            "."
+        ],
+        [
+            "Everyone",
+            "agreed",
+            "I",
+            "should",
+            "'ve",
+            "been",
+            "captain",
+            "lol"
+        ]
+    ]
+}

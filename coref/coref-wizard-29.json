@@ -1,0 +1,381 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "tears of joy",
+                "pos": [
+                    26,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "every tear",
+                "pos": [
+                    35,
+                    37
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "he",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    46,
+                    47
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "her own tears",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "these tears",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the tip of his tail",
+                "pos": [
+                    12,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "the Lion",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-wizard-29",
+    "sents": [
+        [
+            "When",
+            ",",
+            "at",
+            "last",
+            ",",
+            "he",
+            "walked",
+            "into",
+            "Dorothy",
+            "'",
+            "s",
+            "room",
+            "and",
+            "thanked",
+            "her",
+            "for",
+            "rescuing",
+            "him",
+            ",",
+            "he",
+            "was",
+            "so",
+            "pleased",
+            "that",
+            "he",
+            "wept",
+            "tears",
+            "of",
+            "joy",
+            ",",
+            "and",
+            "Dorothy",
+            "had",
+            "to",
+            "wipe",
+            "every",
+            "tear",
+            "carefully",
+            "from",
+            "his",
+            "face",
+            "with",
+            "her",
+            "apron",
+            ",",
+            "so",
+            "his",
+            "joints",
+            "would",
+            "not",
+            "be",
+            "rusted",
+            "."
+        ],
+        [
+            "At",
+            "the",
+            "same",
+            "time",
+            "her",
+            "own",
+            "tears",
+            "fell",
+            "thick",
+            "and",
+            "fast",
+            "at",
+            "the",
+            "joy",
+            "of",
+            "meeting",
+            "her",
+            "old",
+            "friend",
+            "again",
+            ",",
+            "and",
+            "these",
+            "tears",
+            "did",
+            "not",
+            "need",
+            "to",
+            "be",
+            "wiped",
+            "away",
+            "."
+        ],
+        [
+            "As",
+            "for",
+            "the",
+            "Lion",
+            ",",
+            "he",
+            "wiped",
+            "his",
+            "eyes",
+            "so",
+            "often",
+            "with",
+            "the",
+            "tip",
+            "of",
+            "his",
+            "tail",
+            "that",
+            "it",
+            "became",
+            "quite",
+            "wet",
+            ",",
+            "and",
+            "he",
+            "was",
+            "obliged",
+            "to",
+            "go",
+            "out",
+            "into",
+            "the",
+            "courtyard",
+            "and",
+            "hold",
+            "it",
+            "in",
+            "the",
+            "sun",
+            "till",
+            "it",
+            "dried",
+            "."
+        ]
+    ]
+}

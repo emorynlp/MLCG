@@ -1,0 +1,287 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I have my final exam today",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I decided to check out the syllabus again at the grading policy",
+                "pos": [
+                    7,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "see if the professor had A -",
+                "pos": [
+                    20,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "b/c",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "not all teachers have to use this method of grading",
+                "pos": [
+                    29,
+                    39
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I have to get at least an 80% on my final",
+                "pos": [
+                    23,
+                    34
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "keep my 4.0",
+                "pos": [
+                    35,
+                    38
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect|cause|effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-060",
+    "sents": [
+        [
+            "I",
+            "\u2019ve",
+            "been",
+            "going",
+            "strong",
+            "in",
+            "my",
+            "bio",
+            "3",
+            "lecture",
+            "course",
+            "with",
+            "a",
+            "98%",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "my",
+            "final",
+            "exam",
+            "today",
+            "so",
+            "I",
+            "decided",
+            "to",
+            "check",
+            "out",
+            "the",
+            "syllabus",
+            "again",
+            "at",
+            "the",
+            "grading",
+            "policy",
+            "to",
+            "see",
+            "if",
+            "the",
+            "professor",
+            "had",
+            "A",
+            "-",
+            "(",
+            "b/c",
+            "not",
+            "all",
+            "teachers",
+            "have",
+            "to",
+            "use",
+            "this",
+            "method",
+            "of",
+            "grading",
+            ",",
+            "it",
+            "\u2019s",
+            "optional",
+            ")",
+            "."
+        ],
+        [
+            "My",
+            "prof",
+            "decides",
+            "to",
+            "have",
+            "A-set",
+            "at",
+            "90.00",
+            "to",
+            "92.99%",
+            ",",
+            "I",
+            "know",
+            "it",
+            "\u2019s",
+            "not",
+            "the",
+            "biggest",
+            "deal",
+            "in",
+            "the",
+            "world",
+            "but",
+            "I",
+            "have",
+            "to",
+            "get",
+            "at",
+            "least",
+            "an",
+            "80%",
+            "on",
+            "my",
+            "final",
+            "to",
+            "keep",
+            "my",
+            "4.0",
+            ";",
+            "it",
+            "\u2019s",
+            "definitely",
+            "motivating",
+            "me",
+            "to",
+            "review",
+            "all",
+            "my",
+            "notes",
+            "/",
+            "powerpoints",
+            "but",
+            "I",
+            "just",
+            "do",
+            "n\u2019t",
+            "think",
+            "it",
+            "\u2019s",
+            "in",
+            "the",
+            "favor",
+            "of",
+            "the",
+            "student",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,527 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "one of the Oxen",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Oxen",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one of the",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the Ox",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "the Ox",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A SLEEPY Dog",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The Dog",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "the Dog",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the Dog",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "an ugly , snappish fellow",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Oxen",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the hay",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "this hay",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "such a thing",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "the hay",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-06",
+    "sents": [
+        [
+            "A",
+            "SLEEPY",
+            "Dog",
+            "went",
+            "to",
+            "the",
+            "barn",
+            ",",
+            "and",
+            "jumped",
+            "into",
+            "a",
+            "manger",
+            "full",
+            "of",
+            "hay",
+            ",",
+            "curling",
+            "himself",
+            "up",
+            "there",
+            "for",
+            "an",
+            "afternoon",
+            "nap",
+            "."
+        ],
+        [
+            "When",
+            "he",
+            "had",
+            "been",
+            "sleeping",
+            "comfortably",
+            "for",
+            "some",
+            "time",
+            ",",
+            "the",
+            "Oxen",
+            "came",
+            "in",
+            "for",
+            "their",
+            "supper",
+            "."
+        ],
+        [
+            "The",
+            "Dog",
+            "awoke",
+            "in",
+            "a",
+            "great",
+            "rage",
+            "at",
+            "being",
+            "disturbed",
+            ",",
+            "and",
+            "began",
+            "to",
+            "growl",
+            "and",
+            "bark",
+            "at",
+            "them",
+            "."
+        ],
+        [
+            "He",
+            "would",
+            "not",
+            "let",
+            "them",
+            "get",
+            "at",
+            "the",
+            "hay",
+            "."
+        ],
+        [
+            "\u201c",
+            "Stop",
+            "a",
+            "moment",
+            ",",
+            "\u201d",
+            "said",
+            "one",
+            "of",
+            "the",
+            "Oxen",
+            "."
+        ],
+        [
+            "\u201c",
+            "Do",
+            "you",
+            "want",
+            "to",
+            "eat",
+            "this",
+            "hay",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "No",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Dog",
+            ";",
+            "\u201c",
+            "I",
+            "should",
+            "n\u2019t",
+            "think",
+            "of",
+            "such",
+            "a",
+            "thing",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Very",
+            "well",
+            ",",
+            "then",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Ox",
+            ",",
+            "\u201c",
+            "we",
+            "do",
+            "want",
+            "to",
+            "eat",
+            "it",
+            ",",
+            "for",
+            "we",
+            "are",
+            "hungry",
+            "and",
+            "tired",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Oh",
+            ",",
+            "go",
+            "away",
+            ",",
+            "\u201d",
+            "growled",
+            "the",
+            "Dog",
+            ",",
+            "\u201c",
+            "and",
+            "let",
+            "me",
+            "sleep",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "What",
+            "an",
+            "ugly",
+            ",",
+            "snappish",
+            "fellow",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Ox",
+            "."
+        ],
+        [
+            "\u201c",
+            "He",
+            "will",
+            "neither",
+            "eat",
+            "the",
+            "hay",
+            "himself",
+            "nor",
+            "let",
+            "us",
+            "eat",
+            "it",
+            "!",
+            "\u201d"
+        ]
+    ]
+}

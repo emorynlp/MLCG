@@ -1,0 +1,419 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I stir the hearts of men",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they hear my bold roaring",
+                "pos": [
+                    9,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they march out bravely to battle",
+                "pos": [
+                    14,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "good things that are hidden within me , and that gladly come forth",
+                "pos": [
+                    44,
+                    57
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    57,
+                    58
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "give cheer and comfort",
+                "pos": [
+                    58,
+                    62
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you must be struck",
+                "pos": [
+                    10,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "make",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you give that out",
+                "pos": [
+                    16,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I would not boast so much",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I were you",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect|cause",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-09",
+    "sents": [
+        [
+            "A",
+            "DRUM",
+            "once",
+            "boasted",
+            "to",
+            "a",
+            "Vase",
+            "of",
+            "Sweet",
+            "Herbs",
+            "in",
+            "this",
+            "way",
+            ":",
+            "\u201c",
+            "Listen",
+            "to",
+            "me",
+            "!"
+        ],
+        [
+            "My",
+            "voice",
+            "is",
+            "loud",
+            "and",
+            "can",
+            "be",
+            "heard",
+            "far",
+            "off",
+            "."
+        ],
+        [
+            "I",
+            "stir",
+            "the",
+            "hearts",
+            "of",
+            "men",
+            "so",
+            "that",
+            "when",
+            "they",
+            "hear",
+            "my",
+            "bold",
+            "roaring",
+            "they",
+            "march",
+            "out",
+            "bravely",
+            "to",
+            "battle",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Vase",
+            "spoke",
+            "no",
+            "words",
+            ",",
+            "but",
+            "gave",
+            "out",
+            "a",
+            "fine",
+            ",",
+            "sweet",
+            "perfume",
+            ",",
+            "which",
+            "filled",
+            "the",
+            "air",
+            "and",
+            "seemed",
+            "to",
+            "say",
+            ":",
+            "\u201c",
+            "I",
+            "can",
+            "not",
+            "speak",
+            ",",
+            "and",
+            "it",
+            "is",
+            "not",
+            "well",
+            "to",
+            "be",
+            "proud",
+            ",",
+            "but",
+            "I",
+            "am",
+            "full",
+            "of",
+            "good",
+            "things",
+            "that",
+            "are",
+            "hidden",
+            "within",
+            "me",
+            ",",
+            "and",
+            "that",
+            "gladly",
+            "come",
+            "forth",
+            "to",
+            "give",
+            "cheer",
+            "and",
+            "comfort",
+            "."
+        ],
+        [
+            "People",
+            "are",
+            "drawn",
+            "to",
+            "me",
+            "in",
+            "their",
+            "need",
+            ",",
+            "and",
+            "they",
+            "remember",
+            "me",
+            "afterward",
+            "with",
+            "gratitude",
+            "."
+        ],
+        [
+            "But",
+            "you",
+            "have",
+            "nothing",
+            "in",
+            "you",
+            "but",
+            "noise",
+            ",",
+            "and",
+            "you",
+            "must",
+            "be",
+            "struck",
+            "to",
+            "make",
+            "you",
+            "give",
+            "that",
+            "out",
+            "."
+        ],
+        [
+            "I",
+            "would",
+            "not",
+            "boast",
+            "so",
+            "much",
+            "if",
+            "I",
+            "were",
+            "you",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

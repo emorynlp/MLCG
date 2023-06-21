@@ -1,0 +1,515 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "our",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Cornell",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two schools",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "two schools",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Yale",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Yale",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "predictions",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "prediction",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "mine",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "self",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-061",
+    "sents": [
+        [
+            "So",
+            "in",
+            "8th",
+            "grade",
+            "my",
+            "English",
+            "teacher",
+            "made",
+            "use",
+            "write",
+            "letters",
+            "to",
+            "our",
+            "future",
+            "senior",
+            "selves",
+            ",",
+            "and",
+            "I",
+            "recently",
+            "received",
+            "mine",
+            "!"
+        ],
+        [
+            "Part",
+            "of",
+            "the",
+            "assignment",
+            "was",
+            "to",
+            "list",
+            "predictions",
+            "for",
+            "the",
+            "future",
+            ",",
+            "including",
+            "where",
+            "you",
+            "think",
+            "you",
+            "\u2019re",
+            "going",
+            "to",
+            "college",
+            "."
+        ],
+        [
+            "I",
+            "had",
+            "completely",
+            "forgotten",
+            "what",
+            "I",
+            "had",
+            "written",
+            "4",
+            "years",
+            "ago",
+            ",",
+            "but",
+            "I",
+            "was",
+            "so",
+            "surprised",
+            "to",
+            "see",
+            "how",
+            "accurate",
+            "it",
+            "was",
+            "."
+        ],
+        [
+            "My",
+            "friends",
+            "and",
+            "I",
+            "got",
+            "kick",
+            "out",
+            "of",
+            "reading",
+            "it",
+            "."
+        ],
+        [
+            "My",
+            "8th",
+            "grade",
+            "self",
+            "claimed",
+            ",",
+            "with",
+            "a",
+            "decent",
+            "amount",
+            "of",
+            "certainty",
+            ",",
+            "that",
+            "I",
+            "would",
+            "either",
+            "be",
+            "going",
+            "to",
+            "Cornell",
+            "or",
+            "Yale",
+            ",",
+            "two",
+            "schools",
+            "that",
+            "were",
+            "arbitrarily",
+            "picked",
+            "because",
+            "they",
+            "sounded",
+            "cool",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "now",
+            "extremely",
+            "excited",
+            "to",
+            "say",
+            "that",
+            "I",
+            "have",
+            "been",
+            "accepted",
+            "to",
+            "Yale",
+            "!"
+        ],
+        [
+            "It",
+            "\u2019s",
+            "crazy",
+            "to",
+            "think",
+            "that",
+            "my",
+            "extremely",
+            "overconfident",
+            "\u201c",
+            "prediction",
+            ",",
+            "\u201d",
+            "more",
+            "like",
+            "crapshot",
+            ",",
+            "actually",
+            "came",
+            "true",
+            "."
+        ],
+        [
+            "I",
+            "thought",
+            "that",
+            "you",
+            "guys",
+            "would",
+            "enjoy",
+            "this",
+            "wack",
+            "story",
+            "Disclaimer",
+            ":",
+            "I",
+            "\u2019m",
+            "not",
+            "a",
+            "legacy",
+            "nor",
+            "have",
+            "my",
+            "parents",
+            "donated",
+            "a",
+            "building"
+        ]
+    ]
+}

@@ -1,0 +1,317 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the Woodman",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Woodman",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The Scarecrow",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "their",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-47",
+    "sents": [
+        [
+            "Therefore",
+            "it",
+            "was",
+            "decided",
+            "to",
+            "start",
+            "upon",
+            "their",
+            "journey",
+            "the",
+            "next",
+            "morning",
+            ",",
+            "and",
+            "the",
+            "Woodman",
+            "sharpened",
+            "his",
+            "axe",
+            "on",
+            "a",
+            "green",
+            "grindstone",
+            "and",
+            "had",
+            "all",
+            "his",
+            "joints",
+            "properly",
+            "oiled",
+            "."
+        ],
+        [
+            "The",
+            "Scarecrow",
+            "stuffed",
+            "himself",
+            "with",
+            "fresh",
+            "straw",
+            "and",
+            "Dorothy",
+            "put",
+            "new",
+            "paint",
+            "on",
+            "his",
+            "eyes",
+            "that",
+            "he",
+            "might",
+            "see",
+            "better",
+            "."
+        ],
+        [
+            "The",
+            "green",
+            "girl",
+            ",",
+            "who",
+            "was",
+            "very",
+            "kind",
+            "to",
+            "them",
+            ",",
+            "filled",
+            "Dorothy",
+            "'",
+            "s",
+            "basket",
+            "with",
+            "good",
+            "things",
+            "to",
+            "eat",
+            ",",
+            "and",
+            "fastened",
+            "a",
+            "little",
+            "bell",
+            "around",
+            "Toto",
+            "'",
+            "s",
+            "neck",
+            "with",
+            "a",
+            "green",
+            "ribbon",
+            "."
+        ],
+        [
+            "They",
+            "went",
+            "to",
+            "bed",
+            "quite",
+            "early",
+            "and",
+            "slept",
+            "soundly",
+            "until",
+            "daylight",
+            ",",
+            "when",
+            "they",
+            "were",
+            "awakened",
+            "by",
+            "the",
+            "crowing",
+            "of",
+            "a",
+            "green",
+            "cock",
+            "that",
+            "lived",
+            "in",
+            "the",
+            "back",
+            "yard",
+            "of",
+            "the",
+            "Palace",
+            ",",
+            "and",
+            "the",
+            "cackling",
+            "of",
+            "a",
+            "hen",
+            "that",
+            "had",
+            "laid",
+            "a",
+            "green",
+            "egg",
+            "."
+        ]
+    ]
+}

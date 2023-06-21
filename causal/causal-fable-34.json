@@ -1,0 +1,217 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "it was their own fault that they were ill",
+                "pos": [
+                    10,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "since",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they would but submit to his treatment",
+                "pos": [
+                    22,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": ",",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he would restore them to perfect health",
+                "pos": [
+                    30,
+                    37
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-34",
+    "sents": [
+        [
+            "THERE",
+            "was",
+            "once",
+            "a",
+            "Frog",
+            "who",
+            "made",
+            "proclamation",
+            "that",
+            "he",
+            "was",
+            "a",
+            "learned",
+            "physician",
+            ",",
+            "able",
+            "to",
+            "heal",
+            "all",
+            "diseases",
+            "."
+        ],
+        [
+            "He",
+            "went",
+            "so",
+            "far",
+            "as",
+            "to",
+            "tell",
+            "the",
+            "beasts",
+            "that",
+            "it",
+            "was",
+            "their",
+            "own",
+            "fault",
+            "that",
+            "they",
+            "were",
+            "ill",
+            ",",
+            "since",
+            "if",
+            "they",
+            "would",
+            "but",
+            "submit",
+            "to",
+            "his",
+            "treatment",
+            ",",
+            "he",
+            "would",
+            "restore",
+            "them",
+            "to",
+            "perfect",
+            "health",
+            "."
+        ],
+        [
+            "A",
+            "Fox",
+            ",",
+            "hearing",
+            "it",
+            ",",
+            "asked",
+            ":",
+            "\u201c",
+            "How",
+            "is",
+            "it",
+            ",",
+            "since",
+            "you",
+            "can",
+            "do",
+            "such",
+            "great",
+            "things",
+            "for",
+            "others",
+            ",",
+            "you",
+            "do",
+            "not",
+            "first",
+            "try",
+            "to",
+            "mend",
+            "your",
+            "own",
+            "ugly",
+            "gait",
+            "and",
+            "your",
+            "wrinkled",
+            "skin",
+            "?"
+        ],
+        [
+            "They",
+            "who",
+            "assume",
+            "to",
+            "help",
+            "others",
+            "should",
+            "first",
+            "improve",
+            "themselves",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

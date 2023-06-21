@@ -1,0 +1,437 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "decided",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "called",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bade",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were sorry",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "grown",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "begged",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Finding",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were determined",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "presented",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "studded",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "offered",
+                "pos": [
+                    56,
+                    57
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "inlaid",
+                "pos": [
+                    63,
+                    64
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "set",
+                "pos": [
+                    67,
+                    68
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-30",
+    "sents": [
+        [
+            "This",
+            "they",
+            "decided",
+            "to",
+            "do",
+            "."
+        ],
+        [
+            "The",
+            "next",
+            "day",
+            "they",
+            "called",
+            "the",
+            "Winkies",
+            "together",
+            "and",
+            "bade",
+            "them",
+            "good",
+            "-",
+            "bye",
+            "."
+        ],
+        [
+            "The",
+            "Winkies",
+            "were",
+            "sorry",
+            "to",
+            "have",
+            "them",
+            "go",
+            ",",
+            "and",
+            "they",
+            "had",
+            "grown",
+            "so",
+            "fond",
+            "of",
+            "the",
+            "Tin",
+            "Woodman",
+            "that",
+            "they",
+            "begged",
+            "him",
+            "to",
+            "stay",
+            "and",
+            "rule",
+            "over",
+            "them",
+            "and",
+            "the",
+            "Yellow",
+            "Land",
+            "of",
+            "the",
+            "West",
+            "."
+        ],
+        [
+            "Finding",
+            "they",
+            "were",
+            "determined",
+            "to",
+            "go",
+            ",",
+            "the",
+            "Winkies",
+            "gave",
+            "Toto",
+            "and",
+            "the",
+            "Lion",
+            "each",
+            "a",
+            "golden",
+            "collar",
+            ";",
+            "and",
+            "to",
+            "Dorothy",
+            "they",
+            "presented",
+            "a",
+            "beautiful",
+            "bracelet",
+            "studded",
+            "with",
+            "diamonds",
+            ";",
+            "and",
+            "to",
+            "the",
+            "Scarecrow",
+            "they",
+            "gave",
+            "a",
+            "gold",
+            "-",
+            "headed",
+            "walking",
+            "stick",
+            ",",
+            "to",
+            "keep",
+            "him",
+            "from",
+            "stumbling",
+            ";",
+            "and",
+            "to",
+            "the",
+            "Tin",
+            "Woodman",
+            "they",
+            "offered",
+            "a",
+            "silver",
+            "oil",
+            "-",
+            "can",
+            ",",
+            "inlaid",
+            "with",
+            "gold",
+            "and",
+            "set",
+            "with",
+            "precious",
+            "jewels",
+            "."
+        ]
+    ]
+}

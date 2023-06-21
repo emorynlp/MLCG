@@ -1,0 +1,496 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "one",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "round hats",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the little woman ' s hat",
+                "pos": [
+                    8,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two of them",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "all",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "white gown",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "round hats",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The hats",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "their hats",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Three",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the men",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "The men",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "The men",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the little woman",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the little woman",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "Her",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 7,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 6,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-06",
+    "sents": [
+        [
+            "Three",
+            "were",
+            "men",
+            "and",
+            "one",
+            "a",
+            "woman",
+            ",",
+            "and",
+            "all",
+            "were",
+            "oddly",
+            "dressed",
+            "."
+        ],
+        [
+            "They",
+            "wore",
+            "round",
+            "hats",
+            "that",
+            "rose",
+            "to",
+            "a",
+            "small",
+            "point",
+            "a",
+            "foot",
+            "above",
+            "their",
+            "heads",
+            ",",
+            "with",
+            "little",
+            "bells",
+            "around",
+            "the",
+            "brims",
+            "that",
+            "tinkled",
+            "sweetly",
+            "as",
+            "they",
+            "moved",
+            "."
+        ],
+        [
+            "The",
+            "hats",
+            "of",
+            "the",
+            "men",
+            "were",
+            "blue",
+            ";",
+            "the",
+            "little",
+            "woman",
+            "'",
+            "s",
+            "hat",
+            "was",
+            "white",
+            ",",
+            "and",
+            "she",
+            "wore",
+            "a",
+            "white",
+            "gown",
+            "that",
+            "hung",
+            "in",
+            "pleats",
+            "from",
+            "her",
+            "shoulders",
+            "."
+        ],
+        [
+            "Over",
+            "it",
+            "were",
+            "sprinkled",
+            "little",
+            "stars",
+            "that",
+            "glistened",
+            "in",
+            "the",
+            "sun",
+            "like",
+            "diamonds",
+            "."
+        ],
+        [
+            "The",
+            "men",
+            "were",
+            "dressed",
+            "in",
+            "blue",
+            ",",
+            "of",
+            "the",
+            "same",
+            "shade",
+            "as",
+            "their",
+            "hats",
+            ",",
+            "and",
+            "wore",
+            "well",
+            "-",
+            "polished",
+            "boots",
+            "with",
+            "a",
+            "deep",
+            "roll",
+            "of",
+            "blue",
+            "at",
+            "the",
+            "tops",
+            "."
+        ],
+        [
+            "The",
+            "men",
+            ",",
+            "Dorothy",
+            "thought",
+            ",",
+            "were",
+            "about",
+            "as",
+            "old",
+            "as",
+            "Uncle",
+            "Henry",
+            ",",
+            "for",
+            "two",
+            "of",
+            "them",
+            "had",
+            "beards",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "little",
+            "woman",
+            "was",
+            "doubtless",
+            "much",
+            "older",
+            "."
+        ],
+        [
+            "Her",
+            "face",
+            "was",
+            "covered",
+            "with",
+            "wrinkles",
+            ",",
+            "her",
+            "hair",
+            "was",
+            "nearly",
+            "white",
+            ",",
+            "and",
+            "she",
+            "walked",
+            "rather",
+            "stiffly",
+            "."
+        ]
+    ]
+}

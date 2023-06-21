@@ -1,0 +1,486 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "spied",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "flew",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked in",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was water",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was so far",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stretched",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stopped",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were lying",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "picking them up",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dropped",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sank",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was pushed up",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-04",
+    "sents": [
+        [
+            "A",
+            "THIRSTY",
+            "Crow",
+            "once",
+            "spied",
+            "a",
+            "pitcher",
+            ",",
+            "and",
+            "flew",
+            "to",
+            "it",
+            "to",
+            "see",
+            "if",
+            "by",
+            "chance",
+            "there",
+            "was",
+            "any",
+            "water",
+            "in",
+            "it",
+            "."
+        ],
+        [
+            "When",
+            "she",
+            "looked",
+            "in",
+            ",",
+            "she",
+            "saw",
+            "that",
+            "there",
+            "was",
+            "water",
+            ",",
+            "but",
+            "that",
+            "it",
+            "was",
+            "so",
+            "far",
+            "from",
+            "the",
+            "top",
+            "that",
+            "she",
+            "could",
+            "not",
+            "reach",
+            "it",
+            ",",
+            "though",
+            "she",
+            "stretched",
+            "her",
+            "neck",
+            "as",
+            "far",
+            "as",
+            "she",
+            "could",
+            "."
+        ],
+        [
+            "She",
+            "stopped",
+            ",",
+            "and",
+            "thought",
+            "to",
+            "herself",
+            ",",
+            "\u201c",
+            "How",
+            "shall",
+            "I",
+            "get",
+            "that",
+            "water",
+            "?"
+        ],
+        [
+            "I",
+            "am",
+            "perishing",
+            "with",
+            "thirst",
+            ",",
+            "and",
+            "there",
+            "must",
+            "be",
+            "some",
+            "way",
+            "for",
+            "me",
+            "to",
+            "get",
+            "some",
+            "of",
+            "it",
+            ".",
+            "\u201d"
+        ],
+        [
+            "Some",
+            "pebbles",
+            "were",
+            "lying",
+            "on",
+            "the",
+            "ground",
+            ";",
+            "and",
+            ",",
+            "picking",
+            "them",
+            "up",
+            "in",
+            "her",
+            "beak",
+            ",",
+            "she",
+            "dropped",
+            "them",
+            "one",
+            "by",
+            "one",
+            "into",
+            "the",
+            "pitcher",
+            "."
+        ],
+        [
+            "They",
+            "sank",
+            "to",
+            "the",
+            "bottom",
+            ";",
+            "and",
+            "at",
+            "last",
+            "the",
+            "water",
+            "was",
+            "pushed",
+            "up",
+            "by",
+            "them",
+            "to",
+            "the",
+            "top",
+            ",",
+            "so",
+            "that",
+            "the",
+            "Crow",
+            "could",
+            "easily",
+            "drink",
+            "it",
+            "."
+        ],
+        [
+            "\u201c",
+            "Where",
+            "there",
+            "\u2019s",
+            "a",
+            "will",
+            ",",
+            "there",
+            "\u2019s",
+            "a",
+            "way",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Crow",
+            "."
+        ]
+    ]
+}

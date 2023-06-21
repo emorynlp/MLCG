@@ -1,0 +1,366 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "wandering",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asked",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "consented",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hurt",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wished",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was very rude",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was too late",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "learned",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-39",
+    "sents": [
+        [
+            "A",
+            "PRICKLY",
+            "Porcupine",
+            "came",
+            "wandering",
+            "along",
+            "one",
+            "day",
+            ",",
+            "looking",
+            "for",
+            "a",
+            "place",
+            "to",
+            "live",
+            "."
+        ],
+        [
+            "He",
+            "found",
+            "a",
+            "family",
+            "of",
+            "Snakes",
+            "in",
+            "a",
+            "warm",
+            "cave",
+            ",",
+            "and",
+            "asked",
+            "them",
+            "to",
+            "let",
+            "him",
+            "share",
+            "their",
+            "shelter",
+            "."
+        ],
+        [
+            "The",
+            "Snakes",
+            "consented",
+            ",",
+            "though",
+            "much",
+            "against",
+            "their",
+            "will",
+            ",",
+            "and",
+            "the",
+            "Porcupine",
+            "crept",
+            "into",
+            "their",
+            "home",
+            "."
+        ],
+        [
+            "But",
+            "it",
+            "was",
+            "not",
+            "long",
+            "before",
+            "they",
+            "found",
+            "that",
+            "his",
+            "sharp",
+            "quills",
+            "stuck",
+            "into",
+            "them",
+            "and",
+            "hurt",
+            "them",
+            ",",
+            "and",
+            "they",
+            "wished",
+            "they",
+            "had",
+            "never",
+            "let",
+            "him",
+            "in",
+            "."
+        ],
+        [
+            "\u201c",
+            "Dear",
+            "Porcupine",
+            ",",
+            "please",
+            "go",
+            "away",
+            ",",
+            "\u201d",
+            "they",
+            "said",
+            ";",
+            "\u201c",
+            "you",
+            "are",
+            "so",
+            "large",
+            "and",
+            "so",
+            "prickly",
+            ".",
+            "\u201d"
+        ],
+        [
+            "But",
+            "the",
+            "Porcupine",
+            "was",
+            "very",
+            "rude",
+            ",",
+            "and",
+            "said",
+            ":",
+            "\u201c",
+            "Oh",
+            ",",
+            "no",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "do",
+            "not",
+            "like",
+            "it",
+            "here",
+            ",",
+            "you",
+            "can",
+            "go",
+            "away",
+            "."
+        ],
+        [
+            "I",
+            "find",
+            "it",
+            "very",
+            "comfortable",
+            ".",
+            "\u201d"
+        ],
+        [
+            "It",
+            "was",
+            "too",
+            "late",
+            "that",
+            "the",
+            "Snakes",
+            "learned",
+            "that",
+            "it",
+            "is",
+            "easier",
+            "to",
+            "keep",
+            "an",
+            "intruder",
+            "out",
+            "than",
+            "to",
+            "compel",
+            "him",
+            "to",
+            "go",
+            "when",
+            "you",
+            "have",
+            "once",
+            "let",
+            "him",
+            "in",
+            "."
+        ]
+    ]
+}

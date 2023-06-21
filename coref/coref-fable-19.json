@@ -1,0 +1,367 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "some Birds",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Birds",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "their door",
+                "pos": [
+                    43,
+                    45
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "our door",
+                "pos": [
+                    37,
+                    39
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A CAT",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-19",
+    "sents": [
+        [
+            "A",
+            "CAT",
+            ",",
+            "hearing",
+            "that",
+            "some",
+            "Birds",
+            "who",
+            "lived",
+            "in",
+            "a",
+            "martin",
+            "box",
+            "near",
+            "by",
+            "were",
+            "ill",
+            ",",
+            "put",
+            "on",
+            "his",
+            "spectacles",
+            "and",
+            "his",
+            "overcoat",
+            ",",
+            "and",
+            "made",
+            "himself",
+            "look",
+            "as",
+            "much",
+            "as",
+            "possible",
+            "like",
+            "a",
+            "doctor",
+            ",",
+            "and",
+            "went",
+            "and",
+            "knocked",
+            "at",
+            "their",
+            "door",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "hear",
+            "that",
+            "you",
+            "are",
+            "all",
+            "sick",
+            ",",
+            "\u201d",
+            "said",
+            "he",
+            ",",
+            "\u201c",
+            "and",
+            "have",
+            "come",
+            "to",
+            "call",
+            "on",
+            "you",
+            "."
+        ],
+        [
+            "Let",
+            "me",
+            "in",
+            ",",
+            "and",
+            "I",
+            "will",
+            "give",
+            "you",
+            "some",
+            "medicine",
+            "and",
+            "cure",
+            "you",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "No",
+            ",",
+            "thank",
+            "you",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Birds",
+            ",",
+            "who",
+            "saw",
+            "his",
+            "whiskers",
+            "and",
+            "knew",
+            "he",
+            "was",
+            "their",
+            "enemy",
+            "the",
+            "Cat",
+            ";",
+            "\u201c",
+            "we",
+            "are",
+            "well",
+            "enough",
+            "\u2014",
+            "much",
+            "better",
+            "than",
+            "if",
+            "we",
+            "should",
+            "open",
+            "our",
+            "door",
+            "and",
+            "let",
+            "you",
+            "in",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

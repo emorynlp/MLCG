@@ -1,0 +1,202 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "he cried out to a Man who was passing by",
+                "pos": [
+                    6,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "come and help him",
+                "pos": [
+                    18,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-20",
+    "sents": [
+        [
+            "A",
+            "LITTLE",
+            "Boy",
+            "once",
+            "went",
+            "in",
+            "bathing",
+            "where",
+            "the",
+            "water",
+            "was",
+            "too",
+            "deep",
+            "for",
+            "him",
+            "."
+        ],
+        [
+            "When",
+            "he",
+            "found",
+            "himself",
+            "sinking",
+            ",",
+            "he",
+            "cried",
+            "out",
+            "to",
+            "a",
+            "Man",
+            "who",
+            "was",
+            "passing",
+            "by",
+            ",",
+            "to",
+            "come",
+            "and",
+            "help",
+            "him",
+            "."
+        ],
+        [
+            "\u201c",
+            "Ca",
+            "n\u2019t",
+            "you",
+            "swim",
+            "?",
+            "\u201d"
+        ],
+        [
+            "asked",
+            "the",
+            "Man",
+            "."
+        ],
+        [
+            "\u201c",
+            "No",
+            ",",
+            "\u201d",
+            "replied",
+            "the",
+            "Boy",
+            ",",
+            "\u201c",
+            "I",
+            "do",
+            "n\u2019t",
+            "know",
+            "how",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "How",
+            "foolish",
+            "you",
+            "were",
+            ",",
+            "then",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Man",
+            ",",
+            "\u201c",
+            "to",
+            "go",
+            "into",
+            "deep",
+            "water",
+            "!"
+        ],
+        [
+            "Did",
+            "n\u2019t",
+            "you",
+            "know",
+            "better",
+            "?",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Oh",
+            ",",
+            "good",
+            "sir",
+            ",",
+            "please",
+            "help",
+            "me",
+            "now",
+            ",",
+            "or",
+            "I",
+            "shall",
+            "drown",
+            "!",
+            "\u201d"
+        ],
+        [
+            "cried",
+            "the",
+            "Boy",
+            "."
+        ],
+        [
+            "\u201c",
+            "You",
+            "can",
+            "scold",
+            "me",
+            "when",
+            "I",
+            "am",
+            "safe",
+            "on",
+            "shore",
+            "again",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

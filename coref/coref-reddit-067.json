@@ -1,0 +1,456 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "an abusive home",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my grandmas",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "stay at",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "stay",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "our college",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "college",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the school",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "We",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "moved out",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-067",
+    "sents": [
+        [
+            "We",
+            "just",
+            "got",
+            "the",
+            "announcement",
+            "that",
+            "our",
+            "college",
+            "is",
+            "closing",
+            "on",
+            "March",
+            "19th",
+            "I",
+            "\u2019ve",
+            "moved",
+            "5",
+            "times",
+            "this",
+            "year",
+            "trying",
+            "to",
+            "escape",
+            "an",
+            "abusive",
+            "home",
+            ",",
+            "and",
+            "now",
+            "I",
+            "\u2019ve",
+            "finally",
+            "escaped",
+            "it",
+            ",",
+            "and",
+            "college",
+            "has",
+            "become",
+            "my",
+            "home",
+            "."
+        ],
+        [
+            "During",
+            "breaks",
+            "I",
+            "stay",
+            "at",
+            "my",
+            "grandmas",
+            "but",
+            "she",
+            "lives",
+            "in",
+            "a",
+            "development",
+            "for",
+            "65+",
+            "so",
+            "I",
+            "ca",
+            "n\u2019t",
+            "stay",
+            "more",
+            "than",
+            "a",
+            "short",
+            "time",
+            "period",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "a",
+            "mattress",
+            "in",
+            "my",
+            "car",
+            ",",
+            "but",
+            "I",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "resort",
+            "to",
+            "that",
+            "I",
+            "do",
+            "n\u2019t",
+            "know",
+            "what",
+            "to",
+            "do",
+            ",",
+            "and",
+            "I",
+            "ca",
+            "n\u2019t",
+            "breathe",
+            "."
+        ],
+        [
+            "No",
+            "one",
+            "knows",
+            "what",
+            "\u2019s",
+            "happening",
+            "with",
+            "the",
+            "dorms",
+            "."
+        ],
+        [
+            "Everyone",
+            "says",
+            "the",
+            "school",
+            "will",
+            "be",
+            "closing",
+            ",",
+            "but",
+            "not",
+            "a",
+            "single",
+            "person",
+            "has",
+            "mentioned",
+            "what",
+            "happens",
+            "to",
+            "the",
+            "dormers",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "a",
+            "lot",
+            "of",
+            "dormers",
+            "have",
+            "moved",
+            "out",
+            "of",
+            "other",
+            "colleges",
+            ",",
+            "but",
+            "will",
+            "they",
+            "make",
+            "us",
+            "all",
+            "do",
+            "that",
+            "?"
+        ],
+        [
+            "What",
+            "\u2019s",
+            "going",
+            "to",
+            "happen",
+            "???"
+        ]
+    ]
+}

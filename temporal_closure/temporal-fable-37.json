@@ -1,0 +1,307 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was so fond of",
+                "pos": [
+                    12,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was waited upon",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was wakened",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "held",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "woke",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "set",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-37",
+    "sents": [
+        [
+            "A",
+            "WIDOW",
+            "who",
+            "had",
+            "great",
+            "reputation",
+            "as",
+            "a",
+            "housekeeper",
+            ",",
+            "because",
+            "she",
+            "was",
+            "so",
+            "fond",
+            "of",
+            "cleaning",
+            ",",
+            "was",
+            "waited",
+            "upon",
+            "by",
+            "two",
+            "little",
+            "Maids",
+            "."
+        ],
+        [
+            "She",
+            "herself",
+            "was",
+            "wakened",
+            "before",
+            "dawn",
+            "by",
+            "the",
+            "crowing",
+            "of",
+            "the",
+            "cock",
+            ",",
+            "and",
+            "would",
+            "rise",
+            "at",
+            "once",
+            "and",
+            "call",
+            "her",
+            "Maids",
+            "."
+        ],
+        [
+            "The",
+            "Maids",
+            ",",
+            "who",
+            "had",
+            "no",
+            "taste",
+            "for",
+            "such",
+            "excessive",
+            "tidiness",
+            ",",
+            "and",
+            "who",
+            "were",
+            "kept",
+            "weary",
+            "by",
+            "such",
+            "constant",
+            "labor",
+            ",",
+            "held",
+            "a",
+            "spite",
+            "against",
+            "the",
+            "poor",
+            "cock",
+            "for",
+            "rousing",
+            "their",
+            "mistress",
+            "so",
+            "early",
+            "."
+        ],
+        [
+            "\u201c",
+            "If",
+            "it",
+            "were",
+            "not",
+            "for",
+            "him",
+            ",",
+            "\u201d",
+            "they",
+            "said",
+            ",",
+            "\u201c",
+            "the",
+            "mistress",
+            "would",
+            "sleep",
+            "till",
+            "the",
+            "sun",
+            "is",
+            "well",
+            "up",
+            "."
+        ],
+        [
+            "Let",
+            "us",
+            "kill",
+            "the",
+            "cock",
+            ",",
+            "since",
+            "there",
+            "is",
+            "no",
+            "other",
+            "way",
+            "to",
+            "stop",
+            "his",
+            "loud",
+            "crowing",
+            ".",
+            "\u201d"
+        ],
+        [
+            "But",
+            "the",
+            "mistress",
+            ",",
+            "no",
+            "longer",
+            "hearing",
+            "the",
+            "cock",
+            ",",
+            "was",
+            "unable",
+            "to",
+            "tell",
+            "the",
+            "time",
+            ",",
+            "and",
+            "so",
+            "often",
+            "woke",
+            "her",
+            "Maids",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "night",
+            "and",
+            "set",
+            "them",
+            "to",
+            "work",
+            "."
+        ]
+    ]
+}

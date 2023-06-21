@@ -1,0 +1,421 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Lion",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a \u2019s skin",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "all the timid , foolish little animals",
+                "pos": [
+                    18,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A DONKEY",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Donkey",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "My dear Donkey",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "roaring",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "roar",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a Fox",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the wise Fox",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "your",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "a Lion",
+                "pos": [
+                    31,
+                    33
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-02",
+    "sents": [
+        [
+            "A",
+            "DONKEY",
+            "once",
+            "put",
+            "on",
+            "a",
+            "Lion",
+            "\u2019s",
+            "skin",
+            "which",
+            "some",
+            "hunters",
+            "had",
+            "spread",
+            "out",
+            "to",
+            "dry",
+            "."
+        ],
+        [
+            "It",
+            "did",
+            "not",
+            "fit",
+            "the",
+            "Donkey",
+            "very",
+            "well",
+            ",",
+            "but",
+            "he",
+            "found",
+            "that",
+            "in",
+            "it",
+            "he",
+            "could",
+            "frighten",
+            "all",
+            "the",
+            "timid",
+            ",",
+            "foolish",
+            "little",
+            "animals",
+            ",",
+            "so",
+            "he",
+            "amused",
+            "himself",
+            "by",
+            "chasing",
+            "them",
+            "about",
+            "."
+        ],
+        [
+            "By",
+            "and",
+            "by",
+            "he",
+            "met",
+            "a",
+            "Fox",
+            ",",
+            "and",
+            "tried",
+            "to",
+            "frighten",
+            "him",
+            "by",
+            "roaring",
+            "."
+        ],
+        [
+            "\u201c",
+            "My",
+            "dear",
+            "Donkey",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "wise",
+            "Fox",
+            ",",
+            "\u201c",
+            "you",
+            "are",
+            "braying",
+            ",",
+            "and",
+            "not",
+            "roaring",
+            "."
+        ],
+        [
+            "I",
+            "might",
+            ",",
+            "perhaps",
+            ",",
+            "have",
+            "been",
+            "frightened",
+            "by",
+            "your",
+            "looks",
+            ",",
+            "if",
+            "you",
+            "had",
+            "not",
+            "tried",
+            "to",
+            "roar",
+            ";",
+            "but",
+            "I",
+            "know",
+            "your",
+            "voice",
+            "too",
+            "well",
+            "to",
+            "mistake",
+            "you",
+            "for",
+            "a",
+            "Lion",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

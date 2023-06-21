@@ -1,0 +1,224 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "thinking about",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "summarized",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-102",
+    "sents": [
+        [
+            "After",
+            "weeks",
+            "of",
+            "horrible",
+            "sleep",
+            "and",
+            "anxiety",
+            ",",
+            "and",
+            "constantly",
+            "thinking",
+            "about",
+            "how",
+            "my",
+            "work",
+            "is",
+            "meaningless",
+            ",",
+            "too",
+            "simple",
+            ",",
+            "going",
+            "to",
+            "be",
+            "torn",
+            "apart",
+            ",",
+            "it",
+            "all",
+            "went",
+            "well",
+            "!"
+        ],
+        [
+            "Just",
+            "got",
+            "one",
+            "kind",
+            "of",
+            "confusing",
+            "question",
+            "from",
+            "one",
+            "of",
+            "my",
+            "committee",
+            "members",
+            ",",
+            "but",
+            "overall",
+            "everyone",
+            "said",
+            "they",
+            "enjoyed",
+            "my",
+            "talk",
+            "!"
+        ],
+        [
+            "5",
+            "years",
+            "of",
+            "work",
+            "summarized",
+            "in",
+            "45",
+            "minutes",
+            "!"
+        ],
+        [
+            "If",
+            "there",
+            "'s",
+            "one",
+            "thing",
+            "that",
+            "I",
+            "could",
+            "have",
+            "told",
+            "myself",
+            "pre-defense",
+            ",",
+            "I",
+            "would",
+            "tell",
+            "myself",
+            "to",
+            "prep",
+            "a",
+            "little",
+            "less",
+            ",",
+            "sleep",
+            "a",
+            "little",
+            "more",
+            ",",
+            "and",
+            "have",
+            "a",
+            "little",
+            "more",
+            "fun",
+            "at",
+            "my",
+            "(",
+            "virtual",
+            ")",
+            "defense",
+            "."
+        ]
+    ]
+}

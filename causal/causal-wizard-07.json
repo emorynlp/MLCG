@@ -1,0 +1,237 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "She has held all the Munchkins in bondage for many years",
+                "pos": [
+                    1,
+                    12
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "making",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 8,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "them slave for her night and day",
+                "pos": [
+                    14,
+                    21
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-07",
+    "sents": [
+        [
+            "Dorothy",
+            "looked",
+            ",",
+            "and",
+            "gave",
+            "a",
+            "little",
+            "cry",
+            "of",
+            "fright",
+            "."
+        ],
+        [
+            "There",
+            ",",
+            "indeed",
+            ",",
+            "just",
+            "under",
+            "the",
+            "corner",
+            "of",
+            "the",
+            "great",
+            "beam",
+            "the",
+            "house",
+            "rested",
+            "on",
+            ",",
+            "two",
+            "feet",
+            "were",
+            "sticking",
+            "out",
+            ",",
+            "shod",
+            "in",
+            "silver",
+            "shoes",
+            "with",
+            "pointed",
+            "toes",
+            "."
+        ],
+        [
+            "\"",
+            "Oh",
+            ",",
+            "dear",
+            "!",
+            "Oh",
+            ",",
+            "dear",
+            "!",
+            "\"",
+            "cried",
+            "Dorothy",
+            ",",
+            "clasping",
+            "her",
+            "hands",
+            "together",
+            "in",
+            "dismay",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "house",
+            "must",
+            "have",
+            "fallen",
+            "on",
+            "her",
+            "."
+        ],
+        [
+            "Whatever",
+            "shall",
+            "we",
+            "do",
+            "?",
+            "\""
+        ],
+        [
+            "\"",
+            "There",
+            "is",
+            "nothing",
+            "to",
+            "be",
+            "done",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "little",
+            "woman",
+            "calmly",
+            "."
+        ],
+        [
+            "\"",
+            "But",
+            "who",
+            "was",
+            "she",
+            "?",
+            "\"",
+            "asked",
+            "Dorothy",
+            "."
+        ],
+        [
+            "\"",
+            "She",
+            "was",
+            "the",
+            "Wicked",
+            "Witch",
+            "of",
+            "the",
+            "East",
+            ",",
+            "as",
+            "I",
+            "said",
+            ",",
+            "\"",
+            "answered",
+            "the",
+            "little",
+            "woman",
+            "."
+        ],
+        [
+            "\"",
+            "She",
+            "has",
+            "held",
+            "all",
+            "the",
+            "Munchkins",
+            "in",
+            "bondage",
+            "for",
+            "many",
+            "years",
+            ",",
+            "making",
+            "them",
+            "slave",
+            "for",
+            "her",
+            "night",
+            "and",
+            "day",
+            "."
+        ],
+        [
+            "Now",
+            "they",
+            "are",
+            "all",
+            "set",
+            "free",
+            ",",
+            "and",
+            "are",
+            "grateful",
+            "to",
+            "you",
+            "for",
+            "the",
+            "favor",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

@@ -1,0 +1,328 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "since",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I entered grad school",
+                "pos": [
+                    10,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I have basically turned into a night owl",
+                "pos": [
+                    15,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I get the bulk of my heavy - duty reading and writing done between 10 pm and 3 am or later",
+                "pos": [
+                    6,
+                    27
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 5,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "it 's completely silent and still",
+                "pos": [
+                    28,
+                    34
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it 's unsustainable",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 8,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I 'll be the teacher of record for 8 am classes next semester",
+                "pos": [
+                    6,
+                    19
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-071",
+    "sents": [
+        [
+            "I",
+            "used",
+            "to",
+            "be",
+            "a",
+            "morning",
+            "person",
+            ",",
+            "but",
+            "since",
+            "I",
+            "entered",
+            "grad",
+            "school",
+            ",",
+            "I",
+            "have",
+            "basically",
+            "turned",
+            "into",
+            "a",
+            "night",
+            "owl",
+            "."
+        ],
+        [
+            "I",
+            "ca",
+            "n't",
+            "concentrate",
+            "during",
+            "the",
+            "day",
+            "--",
+            "I",
+            "get",
+            "so",
+            "distracted",
+            "by",
+            "noises",
+            "and",
+            "cars",
+            "driving",
+            "by",
+            "and",
+            "my",
+            "upstairs",
+            "neighbors",
+            "at",
+            "my",
+            "busy",
+            "apartment",
+            "complex",
+            "."
+        ],
+        [
+            "I",
+            "will",
+            "have",
+            "probably",
+            "2",
+            "\"",
+            "squirrel",
+            "!",
+            "\""
+        ],
+        [
+            "moments",
+            "per",
+            "minute",
+            "."
+        ],
+        [
+            "I",
+            "'ve",
+            "tried",
+            "white",
+            "noise",
+            "apps",
+            ",",
+            "shutting",
+            "all",
+            "my",
+            "blinds",
+            ",",
+            "noise",
+            "-",
+            "canceling",
+            "headphones",
+            ",",
+            "you",
+            "name",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "now",
+            "gotten",
+            "to",
+            "where",
+            "I",
+            "get",
+            "the",
+            "bulk",
+            "of",
+            "my",
+            "heavy",
+            "-",
+            "duty",
+            "reading",
+            "and",
+            "writing",
+            "done",
+            "between",
+            "10",
+            "pm",
+            "and",
+            "3",
+            "am",
+            "or",
+            "later",
+            "when",
+            "it",
+            "'s",
+            "completely",
+            "silent",
+            "and",
+            "still",
+            "."
+        ],
+        [
+            "5",
+            "-",
+            "hr",
+            "Energy",
+            "is",
+            "keeping",
+            "me",
+            "going",
+            ",",
+            "but",
+            "I",
+            "do",
+            "n't",
+            "know",
+            "how",
+            "long",
+            "I",
+            "can",
+            "keep",
+            "this",
+            "up",
+            "."
+        ],
+        [
+            "Any",
+            "advice",
+            "?"
+        ],
+        [
+            "\\*Edit",
+            ":",
+            "it",
+            "'s",
+            "unsustainable",
+            "because",
+            "I",
+            "'ll",
+            "be",
+            "the",
+            "teacher",
+            "of",
+            "record",
+            "for",
+            "8",
+            "am",
+            "classes",
+            "next",
+            "semester",
+            "."
+        ]
+    ]
+}

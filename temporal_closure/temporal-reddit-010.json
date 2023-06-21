@@ -1,0 +1,292 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is this",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s literally it",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m lacking",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "struggling",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-010",
+    "sents": [
+        [
+            "What",
+            "I",
+            "want",
+            "to",
+            "say",
+            "to",
+            "my",
+            "supervisor",
+            "is",
+            "this",
+            ":",
+            ">",
+            "\"",
+            "Bro",
+            "straight",
+            "up",
+            "I",
+            "am",
+            "not",
+            "feeling",
+            "it",
+            "and",
+            "I",
+            "'m",
+            "not",
+            "jamming",
+            "with",
+            "the",
+            "work",
+            "and",
+            "have",
+            "no",
+            "motivation",
+            "\"",
+            "."
+        ],
+        [
+            "That",
+            "'s",
+            "literally",
+            "it",
+            ",",
+            "I",
+            "want",
+            "to",
+            "say",
+            "that",
+            "I",
+            "'m",
+            "lacking",
+            "motivation",
+            "and",
+            "struggling",
+            "to",
+            "see",
+            "the",
+            "big",
+            "picture",
+            "but",
+            "that",
+            "'s",
+            "really",
+            "unprofessional",
+            "is",
+            "n't",
+            "it",
+            "?"
+        ],
+        [
+            "Would",
+            "it",
+            "be",
+            "better",
+            "to",
+            "perhaps",
+            "say",
+            ">",
+            "\"",
+            "I",
+            "'m",
+            "a",
+            "little",
+            "unsure",
+            "about",
+            "the",
+            "big",
+            "picture",
+            "and",
+            "I",
+            "'m",
+            "struggling",
+            "to",
+            "work",
+            "towards",
+            "it",
+            "because",
+            "I",
+            "do",
+            "n't",
+            "feel",
+            "that",
+            "my",
+            "current",
+            "knowledge",
+            "/",
+            "output",
+            "enables",
+            "me",
+            "to",
+            "confidently",
+            "reach",
+            "it",
+            "\"",
+            "?"
+        ]
+    ]
+}

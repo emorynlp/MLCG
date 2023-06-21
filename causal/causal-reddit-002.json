@@ -1,0 +1,268 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "since",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "starting graduate studies",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I have felt like none of my work is something to be happy about",
+                "pos": [
+                    5,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I 'm always anxious and procrastinating work",
+                "pos": [
+                    0,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I 'm overwhelmed about how to even start",
+                "pos": [
+                    8,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I 'm not actually qualified for this",
+                "pos": [
+                    6,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I should n't pass , I should drop out",
+                "pos": [
+                    14,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-002",
+    "sents": [
+        [
+            "Ever",
+            "since",
+            "starting",
+            "graduate",
+            "studies",
+            "I",
+            "have",
+            "felt",
+            "like",
+            "none",
+            "of",
+            "my",
+            "work",
+            "is",
+            "something",
+            "to",
+            "be",
+            "happy",
+            "about",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "always",
+            "anxious",
+            "and",
+            "procrastinating",
+            "work",
+            "because",
+            "I",
+            "'m",
+            "overwhelmed",
+            "about",
+            "how",
+            "to",
+            "even",
+            "start",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "my",
+            "qualification",
+            "exam",
+            "for",
+            "my",
+            "PhD",
+            "in",
+            "less",
+            "than",
+            "12",
+            "hours",
+            "(",
+            "it",
+            "'s",
+            "a",
+            "presentation",
+            ")",
+            "and",
+            "I",
+            "'m",
+            "still",
+            "working",
+            "on",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "often",
+            "feel",
+            "like",
+            ",",
+            "no",
+            "I",
+            "'m",
+            "not",
+            "actually",
+            "qualified",
+            "for",
+            "this",
+            "so",
+            "I",
+            "should",
+            "n't",
+            "pass",
+            ",",
+            "I",
+            "should",
+            "drop",
+            "out",
+            "."
+        ],
+        [
+            "Yet",
+            "I",
+            "'m",
+            "still",
+            "here",
+            ",",
+            "stuck",
+            "in",
+            "a",
+            "cycle",
+            "of",
+            "anxiety",
+            "and",
+            "feelings",
+            "of",
+            "inadequacy",
+            "."
+        ],
+        [
+            "Is",
+            "this",
+            "something",
+            "others",
+            "feel",
+            "often",
+            "?"
+        ]
+    ]
+}

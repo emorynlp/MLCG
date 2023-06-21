@@ -1,0 +1,231 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "succeeded",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "decoying",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were heard",
+                "pos": [
+                    26,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reached",
+                "pos": [
+                    54,
+                    55
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-42",
+    "sents": [
+        [
+            "At",
+            "last",
+            "the",
+            "Rat",
+            "succeeded",
+            "in",
+            "decoying",
+            "him",
+            "to",
+            "the",
+            "table",
+            ",",
+            "and",
+            "had",
+            "just",
+            "got",
+            "seriously",
+            "to",
+            "work",
+            "with",
+            "the",
+            "sardine",
+            "-",
+            "opener",
+            "when",
+            "sounds",
+            "were",
+            "heard",
+            "from",
+            "the",
+            "fore-court",
+            "without",
+            "\u2014",
+            "sounds",
+            "like",
+            "the",
+            "scuffling",
+            "of",
+            "small",
+            "feet",
+            "in",
+            "the",
+            "gravel",
+            "and",
+            "a",
+            "confused",
+            "murmur",
+            "of",
+            "tiny",
+            "voices",
+            ",",
+            "while",
+            "broken",
+            "sentences",
+            "reached",
+            "them",
+            "\u2014",
+            "\"",
+            "Now",
+            ",",
+            "all",
+            "in",
+            "a",
+            "line",
+            "\u2014",
+            "hold",
+            "the",
+            "lantern",
+            "up",
+            "a",
+            "bit",
+            ",",
+            "Tommy",
+            "\u2014",
+            "clear",
+            "your",
+            "throats",
+            "first",
+            "\u2014",
+            "no",
+            "coughing",
+            "after",
+            "I",
+            "say",
+            "one",
+            ",",
+            "two",
+            ",",
+            "three",
+            "."
+        ],
+        [
+            "\u2014",
+            "Where",
+            "'s",
+            "young",
+            "Bill",
+            "?",
+            "\u2014",
+            "Here",
+            ",",
+            "come",
+            "on",
+            ",",
+            "do",
+            ",",
+            "we",
+            "'re",
+            "all",
+            "a-waiting",
+            "\u2014\u2014",
+            "\""
+        ]
+    ]
+}

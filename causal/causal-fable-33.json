@@ -1,0 +1,348 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Since",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "we must be companions",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "let us be friendly",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I am as much afraid of you as of the river",
+                "pos": [
+                    0,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you do but touch me ever so slightly",
+                "pos": [
+                    14,
+                    22
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": ",",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I shall be sure to break",
+                "pos": [
+                    23,
+                    29
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "To",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "be really social and friendly",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "people must have ways and needs in common",
+                "pos": [
+                    6,
+                    14
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-33",
+    "sents": [
+        [
+            "A",
+            "RIVER",
+            "carried",
+            "down",
+            ",",
+            "in",
+            "its",
+            "stream",
+            ",",
+            "two",
+            "Pots",
+            ",",
+            "one",
+            "made",
+            "of",
+            "Earthenware",
+            "and",
+            "the",
+            "other",
+            "of",
+            "Brass",
+            "."
+        ],
+        [
+            "The",
+            "Brass",
+            "Pot",
+            "was",
+            "disposed",
+            "to",
+            "be",
+            "social",
+            "."
+        ],
+        [
+            "\u201c",
+            "Since",
+            "we",
+            "must",
+            "be",
+            "companions",
+            ",",
+            "let",
+            "us",
+            "be",
+            "friendly",
+            ",",
+            "\u201d",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "\u201c",
+            "In",
+            "union",
+            "is",
+            "strength",
+            "."
+        ],
+        [
+            "Though",
+            "we",
+            "are",
+            "carried",
+            "away",
+            "against",
+            "our",
+            "will",
+            ",",
+            "it",
+            "is",
+            "of",
+            "no",
+            "use",
+            "to",
+            "repine",
+            "."
+        ],
+        [
+            "We",
+            "may",
+            "yet",
+            "see",
+            "much",
+            "good",
+            ".",
+            "\u201d"
+        ],
+        [
+            "But",
+            "the",
+            "Earthen",
+            "Pot",
+            "said",
+            ":",
+            "\u201c",
+            "I",
+            "beg",
+            "you",
+            "not",
+            "to",
+            "come",
+            "so",
+            "near",
+            "me",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "as",
+            "much",
+            "afraid",
+            "of",
+            "you",
+            "as",
+            "of",
+            "the",
+            "river",
+            ";",
+            "for",
+            "if",
+            "you",
+            "do",
+            "but",
+            "touch",
+            "me",
+            "ever",
+            "so",
+            "slightly",
+            ",",
+            "I",
+            "shall",
+            "be",
+            "sure",
+            "to",
+            "break",
+            "."
+        ],
+        [
+            "To",
+            "be",
+            "really",
+            "social",
+            "and",
+            "friendly",
+            "people",
+            "must",
+            "have",
+            "ways",
+            "and",
+            "needs",
+            "in",
+            "common",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

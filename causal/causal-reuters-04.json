@@ -1,0 +1,214 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "By",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "requiring card issuers to disclose the terms and conditions of their cards at the time of solicitation",
+                "pos": [
+                    2,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the legislation is intended to",
+                "pos": [
+                    20,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "arm consumers with enough information",
+                "pos": [
+                    25,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "shop around for the best deal",
+                "pos": [
+                    31,
+                    37
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-04",
+    "sents": [
+        [
+            "Legislation",
+            "to",
+            "require",
+            "disclosure",
+            "of",
+            "credit",
+            "card",
+            "fees",
+            "and",
+            "interest",
+            "rates",
+            "before",
+            "the",
+            "cards",
+            "are",
+            "issued",
+            "have",
+            "been",
+            "introduced",
+            "in",
+            "the",
+            "Senate",
+            "and",
+            "House",
+            "."
+        ],
+        [
+            "Sen.",
+            "Chris",
+            "Dodd",
+            ",",
+            "D",
+            "-",
+            "Conn",
+            ",",
+            "a",
+            "co-sponsor",
+            "of",
+            "the",
+            "bill",
+            ",",
+            "said",
+            "many",
+            "banks",
+            "and",
+            "financial",
+            "institutions",
+            "do",
+            "not",
+            "disclose",
+            "all",
+            "the",
+            "information",
+            "about",
+            "terms",
+            "of",
+            "their",
+            "cards",
+            "in",
+            "promotional",
+            "material",
+            "sent",
+            "to",
+            "prospective",
+            "customers",
+            "."
+        ],
+        [
+            "\"",
+            "By",
+            "requiring",
+            "card",
+            "issuers",
+            "to",
+            "disclose",
+            "the",
+            "terms",
+            "and",
+            "conditions",
+            "of",
+            "their",
+            "cards",
+            "at",
+            "the",
+            "time",
+            "of",
+            "solicitation",
+            ",",
+            "the",
+            "legislation",
+            "is",
+            "intended",
+            "to",
+            "arm",
+            "consumers",
+            "with",
+            "enough",
+            "information",
+            "to",
+            "shop",
+            "around",
+            "for",
+            "the",
+            "best",
+            "deal",
+            ",",
+            "\"",
+            "Dodd",
+            "said",
+            "in",
+            "a",
+            "statement",
+            "."
+        ]
+    ]
+}

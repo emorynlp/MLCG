@@ -1,0 +1,629 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "contained",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wrote",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are only 2 of us",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "says",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wants",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wants",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are absurd",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am publishing in",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are borderline unethical",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "requires",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m his only publishing student",
+                "pos": [
+                    29,
+                    34
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-008",
+    "sents": [
+        [
+            "Sorry",
+            "just",
+            "need",
+            "to",
+            "rant",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "an",
+            "email",
+            "that",
+            "contained",
+            "this",
+            "a",
+            "few",
+            "minutes",
+            "ago",
+            ":",
+            "\"",
+            "If",
+            "you",
+            "do",
+            "not",
+            "make",
+            "these",
+            "changes",
+            "your",
+            "name",
+            "may",
+            "not",
+            "be",
+            "on",
+            "the",
+            "paper",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "do",
+            "contribute",
+            "there",
+            "may",
+            "be",
+            "a",
+            "question",
+            "whether",
+            "you",
+            "will",
+            "be",
+            "at",
+            "the",
+            "1st",
+            "or",
+            "2nd",
+            "place",
+            "\"",
+            "."
+        ],
+        [
+            "I",
+            "wrote",
+            "all",
+            "20",
+            "pages",
+            "of",
+            "the",
+            "paper",
+            ",",
+            "I",
+            "solely",
+            "did",
+            "all",
+            "the",
+            "experiments",
+            "."
+        ],
+        [
+            "Currently",
+            "there",
+            "are",
+            "only",
+            "2",
+            "of",
+            "us",
+            "on",
+            "the",
+            "paper",
+            ",",
+            "my",
+            "advisor",
+            "and",
+            "I.",
+            "I",
+            "did",
+            "100%",
+            "of",
+            "the",
+            "work",
+            "so",
+            "far",
+            "."
+        ],
+        [
+            "Now",
+            "he",
+            "says",
+            "if",
+            "I",
+            "do",
+            "n't",
+            "make",
+            "the",
+            "changes",
+            "he",
+            "wants",
+            "to",
+            "make",
+            ",",
+            "he",
+            "will",
+            "find",
+            "someone",
+            "else",
+            "to",
+            "do",
+            "them",
+            "."
+        ],
+        [
+            "The",
+            "changes",
+            "he",
+            "wants",
+            "to",
+            "make",
+            "are",
+            "absurd",
+            ",",
+            "make",
+            "no",
+            "sense",
+            "in",
+            "the",
+            "field",
+            "I",
+            "am",
+            "publishing",
+            "in",
+            ",",
+            "and",
+            "some",
+            "changes",
+            "are",
+            "borderline",
+            "unethical",
+            "."
+        ],
+        [
+            "I",
+            "want",
+            "to",
+            "leave",
+            "but",
+            "my",
+            "uni",
+            "requires",
+            "me",
+            "to",
+            "get",
+            "my",
+            "advisor",
+            "'s",
+            "signature",
+            "to",
+            "change",
+            "advisors",
+            "which",
+            "is",
+            "going",
+            "to",
+            "be",
+            "impossible",
+            "at",
+            "this",
+            "point",
+            "because",
+            "I",
+            "'m",
+            "his",
+            "only",
+            "publishing",
+            "student",
+            "."
+        ]
+    ]
+}

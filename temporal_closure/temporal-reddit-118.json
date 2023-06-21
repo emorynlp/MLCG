@@ -1,0 +1,154 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "is saying",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-118",
+    "sents": [
+        [
+            "Do",
+            "your",
+            "colleges",
+            "allow",
+            "u",
+            "to",
+            "check",
+            "for",
+            "plagiarism",
+            "yourself",
+            "?"
+        ],
+        [
+            "My",
+            "college",
+            "is",
+            "saying",
+            "that",
+            "we",
+            "should",
+            "n\u2019t",
+            "worry",
+            "about",
+            "plagiarism",
+            "if",
+            "we",
+            "\u2019ve",
+            "written",
+            "it",
+            "ourself",
+            "and",
+            "cited",
+            "correctly",
+            "but",
+            "the",
+            "profs",
+            "use",
+            "checkers",
+            "once",
+            "we",
+            "submit",
+            "it",
+            "."
+        ],
+        [
+            "What",
+            "\u2019s",
+            "the",
+            "point",
+            "of",
+            "them",
+            "checking",
+            "it",
+            "if",
+            "we",
+            "ca",
+            "n\u2019t",
+            "check",
+            "our",
+            "own",
+            "work",
+            "ourselves",
+            "?"
+        ],
+        [
+            "And",
+            "it",
+            "\u2019s",
+            "so",
+            "unclear",
+            "whether",
+            "some",
+            "of",
+            "these",
+            "checkers",
+            "store",
+            "our",
+            "work",
+            "or",
+            "no",
+            ",",
+            "so",
+            "even",
+            "if",
+            "I",
+            "try",
+            "to",
+            "use",
+            "one",
+            "myself",
+            "it",
+            "might",
+            "show",
+            "up",
+            "as",
+            "plagiarised",
+            "when",
+            "my",
+            "prof",
+            "checks",
+            "it",
+            "."
+        ],
+        [
+            "What",
+            "do",
+            "you",
+            "guys",
+            "do",
+            "?"
+        ],
+        [
+            "Any",
+            "recommendations",
+            "?"
+        ]
+    ]
+}

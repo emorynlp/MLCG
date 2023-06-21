@@ -1,0 +1,218 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I went to learn a trade",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I hear people suggest this option for those who are unable to complete college",
+                "pos": [
+                    11,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-104",
+    "sents": [
+        [
+            "I",
+            "went",
+            "to",
+            "university",
+            "studying",
+            "aerospace",
+            "engineering",
+            ",",
+            "and",
+            "I",
+            "took",
+            "advantage",
+            "of",
+            "all",
+            "of",
+            "the",
+            "resources",
+            "available",
+            "to",
+            "me",
+            "and",
+            "studied",
+            "for",
+            "countless",
+            "hours",
+            "only",
+            "to",
+            "fail",
+            "my",
+            "classes",
+            "anyways",
+            "."
+        ],
+        [
+            "I",
+            "then",
+            "switched",
+            "majors",
+            "to",
+            "cinematic",
+            "studies",
+            "and",
+            "only",
+            "found",
+            "that",
+            "slightly",
+            "easier",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "failed",
+            "2-3",
+            "of",
+            "my",
+            "classes",
+            "and",
+            "realized",
+            "that",
+            "it",
+            "was",
+            "going",
+            "to",
+            "be",
+            "an",
+            "uphill",
+            "battle",
+            "and",
+            "that",
+            "I",
+            "might",
+            "fail",
+            "out",
+            "of",
+            "school",
+            "anyways",
+            "."
+        ],
+        [
+            "Then",
+            "I",
+            "went",
+            "to",
+            "learn",
+            "a",
+            "trade",
+            "(",
+            "electrician",
+            ")",
+            "because",
+            "I",
+            "hear",
+            "people",
+            "suggest",
+            "this",
+            "option",
+            "for",
+            "those",
+            "who",
+            "are",
+            "unable",
+            "to",
+            "complete",
+            "college",
+            ",",
+            "but",
+            "found",
+            "that",
+            "it",
+            "was",
+            "n\u2019t",
+            "simple",
+            "either",
+            "and",
+            "ended",
+            "up",
+            "failing",
+            "multiple",
+            "times",
+            "with",
+            "that",
+            "route",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "25",
+            "and",
+            "I",
+            "need",
+            "to",
+            "figure",
+            "out",
+            "something",
+            "to",
+            "do",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "live",
+            "a",
+            "destitute",
+            "life",
+            ",",
+            "but",
+            "I",
+            "\u2019m",
+            "realizing",
+            "that",
+            "I",
+            "\u2019m",
+            "not",
+            "very",
+            "intelligent",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,367 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "save and invest as much as you can during college",
+                "pos": [
+                    7,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "you can get an early start on your wealth",
+                "pos": [
+                    19,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019m now questioning what \u2019s the point of",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "me working 3 jobs",
+                "pos": [
+                    9,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "in order to",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "comfortably pay my student bill",
+                "pos": [
+                    16,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "now my student bill is going to become an even more uncomfortable cost\u2026",
+                "pos": [
+                    22,
+                    35
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "this advice / rant really only applies",
+                "pos": [
+                    41,
+                    48
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    48,
+                    49
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "you get need - based aid for college",
+                "pos": [
+                    49,
+                    57
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you already do n\u2019t qualify for need - based aid",
+                "pos": [
+                    1,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If you already do n\u2019t qualify for need - based aid ( such as the Pell Grant ) then",
+                "pos": [
+                    0,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "your savings and assets should n\u2019t change anything",
+                "pos": [
+                    19,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 13,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-081",
+    "sents": [
+        [
+            "Do",
+            "n\u2019t",
+            "be",
+            "dumb",
+            "like",
+            "me",
+            "and",
+            "save",
+            "and",
+            "invest",
+            "as",
+            "much",
+            "as",
+            "you",
+            "can",
+            "during",
+            "college",
+            "so",
+            "that",
+            "you",
+            "can",
+            "get",
+            "an",
+            "early",
+            "start",
+            "on",
+            "your",
+            "wealth",
+            ".."
+        ],
+        [
+            "it",
+            "wo",
+            "n\u2019t",
+            "work",
+            "and",
+            "you",
+            "will",
+            "have",
+            "regrets",
+            ".."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "now",
+            "questioning",
+            "what",
+            "\u2019s",
+            "the",
+            "point",
+            "of",
+            "me",
+            "working",
+            "3",
+            "jobs",
+            "in",
+            "order",
+            "to",
+            "comfortably",
+            "pay",
+            "my",
+            "student",
+            "bill",
+            "because",
+            "now",
+            "my",
+            "student",
+            "bill",
+            "is",
+            "going",
+            "to",
+            "become",
+            "an",
+            "even",
+            "more",
+            "uncomfortable",
+            "cost\u2026",
+            "Edit",
+            ":",
+            "I",
+            "should",
+            "mention",
+            "that",
+            "this",
+            "advice",
+            "/",
+            "rant",
+            "really",
+            "only",
+            "applies",
+            "if",
+            "you",
+            "get",
+            "need",
+            "-",
+            "based",
+            "aid",
+            "for",
+            "college",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "already",
+            "do",
+            "n\u2019t",
+            "qualify",
+            "for",
+            "need",
+            "-",
+            "based",
+            "aid",
+            "(",
+            "such",
+            "as",
+            "the",
+            "Pell",
+            "Grant",
+            ")",
+            "then",
+            "your",
+            "savings",
+            "and",
+            "assets",
+            "should",
+            "n\u2019t",
+            "change",
+            "anything",
+            "."
+        ]
+    ]
+}

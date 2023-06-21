@@ -1,0 +1,182 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Permit",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "me to introduce to you her Majesty , the Queen",
+                "pos": [
+                    2,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-41",
+    "sents": [
+        [
+            "They",
+            "came",
+            "from",
+            "all",
+            "directions",
+            ",",
+            "and",
+            "there",
+            "were",
+            "thousands",
+            "of",
+            "them",
+            ":",
+            "big",
+            "mice",
+            "and",
+            "little",
+            "mice",
+            "and",
+            "middle",
+            "-",
+            "sized",
+            "mice",
+            ";",
+            "and",
+            "each",
+            "one",
+            "brought",
+            "a",
+            "piece",
+            "of",
+            "string",
+            "in",
+            "his",
+            "mouth",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "about",
+            "this",
+            "time",
+            "that",
+            "Dorothy",
+            "woke",
+            "from",
+            "her",
+            "long",
+            "sleep",
+            "and",
+            "opened",
+            "her",
+            "eyes",
+            "."
+        ],
+        [
+            "She",
+            "was",
+            "greatly",
+            "astonished",
+            "to",
+            "find",
+            "herself",
+            "lying",
+            "upon",
+            "the",
+            "grass",
+            ",",
+            "with",
+            "thousands",
+            "of",
+            "mice",
+            "standing",
+            "around",
+            "and",
+            "looking",
+            "at",
+            "her",
+            "timidly",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "Scarecrow",
+            "told",
+            "her",
+            "about",
+            "everything",
+            ",",
+            "and",
+            "turning",
+            "to",
+            "the",
+            "dignified",
+            "little",
+            "Mouse",
+            ",",
+            "he",
+            "said",
+            ":"
+        ],
+        [
+            "\"",
+            "Permit",
+            "me",
+            "to",
+            "introduce",
+            "to",
+            "you",
+            "her",
+            "Majesty",
+            ",",
+            "the",
+            "Queen",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "Dorothy",
+            "nodded",
+            "gravely",
+            "and",
+            "the",
+            "Queen",
+            "made",
+            "a",
+            "curtsy",
+            ",",
+            "after",
+            "which",
+            "she",
+            "became",
+            "quite",
+            "friendly",
+            "with",
+            "the",
+            "little",
+            "girl",
+            "."
+        ]
+    ]
+}

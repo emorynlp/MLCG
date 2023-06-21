@@ -1,0 +1,265 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Since",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "his \" acceptance list \" consisted of colleges like Stanford , mit and Columbia",
+                "pos": [
+                    1,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "as",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "an int Indian male applying for STEM",
+                "pos": [
+                    22,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I tried telling him that ,",
+                "pos": [
+                    16,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "my chances are .... subpar at best",
+                "pos": [
+                    30,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "colleges will accept me",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "their class wo n't be balanced with only toppers , and that they would want kids who are not at the top , but not at the bottom too",
+                "pos": [
+                    10,
+                    39
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-019",
+    "sents": [
+        [
+            "My",
+            "dad",
+            "was",
+            "discussing",
+            "college",
+            "decisions",
+            "with",
+            "me",
+            "."
+        ],
+        [
+            "He",
+            "was",
+            "ranking",
+            "the",
+            "unis",
+            "in",
+            "\"",
+            "preference",
+            "\"",
+            "I",
+            "should",
+            "give",
+            "when",
+            "I",
+            "receive",
+            "my",
+            "decisions",
+            "."
+        ],
+        [
+            "Since",
+            "his",
+            "\"",
+            "acceptance",
+            "list",
+            "\"",
+            "consisted",
+            "of",
+            "colleges",
+            "like",
+            "Stanford",
+            ",",
+            "mit",
+            "and",
+            "Columbia",
+            ",",
+            "I",
+            "tried",
+            "telling",
+            "him",
+            "that",
+            "as",
+            "an",
+            "int",
+            "Indian",
+            "male",
+            "applying",
+            "for",
+            "STEM",
+            ",",
+            "my",
+            "chances",
+            "are",
+            "...."
+        ],
+        [
+            "subpar",
+            "at",
+            "best",
+            "."
+        ],
+        [
+            "And",
+            "then",
+            "he",
+            "'s",
+            "like",
+            "colleges",
+            "will",
+            "accept",
+            "me",
+            "because",
+            "their",
+            "class",
+            "wo",
+            "n't",
+            "be",
+            "balanced",
+            "with",
+            "only",
+            "toppers",
+            ",",
+            "and",
+            "that",
+            "they",
+            "would",
+            "want",
+            "kids",
+            "who",
+            "are",
+            "not",
+            "at",
+            "the",
+            "top",
+            ",",
+            "but",
+            "not",
+            "at",
+            "the",
+            "bottom",
+            "too",
+            "."
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "RIP"
+        ]
+    ]
+}

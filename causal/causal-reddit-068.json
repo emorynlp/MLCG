@@ -1,0 +1,265 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I used common app",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "apply to colleges",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "accepting myself",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "being bisexual",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019m super nervous",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I have n\u2019t gotten responses from colleges yet",
+                "pos": [
+                    5,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-068",
+    "sents": [
+        [
+            "I",
+            "used",
+            "common",
+            "app",
+            "to",
+            "apply",
+            "to",
+            "colleges",
+            "."
+        ],
+        [
+            "I",
+            "based",
+            "my",
+            "essay",
+            "on",
+            "the",
+            "prompt",
+            "about",
+            "changing",
+            "my",
+            "view",
+            "point",
+            "."
+        ],
+        [
+            "My",
+            "essay",
+            "talked",
+            "about",
+            "growing",
+            "up",
+            "very",
+            "religious",
+            "(",
+            "I",
+            "tried",
+            "not",
+            "to",
+            "emphasize",
+            "losing",
+            "my",
+            "religion",
+            ",",
+            "but",
+            "rather",
+            "the",
+            "homophobia",
+            ")",
+            "but",
+            "eventually",
+            "waking",
+            "up",
+            "one",
+            "day",
+            "and",
+            "just",
+            "realizing",
+            "that",
+            "being",
+            "homophobic",
+            "is",
+            "wrong",
+            "."
+        ],
+        [
+            "I",
+            "end",
+            "it",
+            "with",
+            "accepting",
+            "myself",
+            "for",
+            "being",
+            "bisexual",
+            "and",
+            "forgiving",
+            "and",
+            "making",
+            "amends",
+            "to",
+            "the",
+            "people",
+            "I",
+            "hurt",
+            "."
+        ],
+        [
+            "What",
+            "do",
+            "you",
+            "think",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019m",
+            "super",
+            "nervous",
+            "because",
+            "I",
+            "have",
+            "n\u2019t",
+            "gotten",
+            "responses",
+            "from",
+            "colleges",
+            "yet",
+            ",",
+            "but",
+            "I",
+            "applied",
+            "beginning",
+            "of",
+            "September",
+            "."
+        ],
+        [
+            "\ud83d\ude05"
+        ]
+    ]
+}

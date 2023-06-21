@@ -1,0 +1,450 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "detainees",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two detainees",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "eight prisoners",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "May",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "May",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The Army Criminal Investigation Division",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "The division",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "U.S.",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "U.S.",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "U.S.",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The U.S. Navy",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Navy",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "U.S. Naval Forces",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "courts - martial",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "The courts - martial",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Camp Bucca",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Camp Bucca",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Camp Bucca",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Iraq",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Iraq",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Iraq",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "six guards",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The six guards",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "The guards",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "accused",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "accused",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "event"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-17",
+    "sents": [
+        [
+            "The",
+            "U.S.",
+            "Navy",
+            "has",
+            "charged",
+            "six",
+            "guards",
+            "accused",
+            "of",
+            "assaulting",
+            "detainees",
+            "in",
+            "May",
+            "at",
+            "Camp",
+            "Bucca",
+            "in",
+            "Iraq",
+            ",",
+            "naval",
+            "officials",
+            "said",
+            "Thursday",
+            "."
+        ],
+        [
+            "U.S.",
+            "guards",
+            "patrol",
+            "at",
+            "Camp",
+            "Bucca",
+            "in",
+            "Iraq",
+            "in",
+            "May",
+            "."
+        ],
+        [
+            "The",
+            "Army",
+            "Criminal",
+            "Investigation",
+            "Division",
+            "investigated",
+            "alleged",
+            "incidents",
+            "that",
+            "left",
+            "two",
+            "detainees",
+            "with",
+            "minor",
+            "bruises",
+            "."
+        ],
+        [
+            "The",
+            "division",
+            "also",
+            "investigated",
+            "an",
+            "incident",
+            "in",
+            "which",
+            "eight",
+            "prisoners",
+            "were",
+            "confined",
+            "overnight",
+            "to",
+            "a",
+            "housing",
+            "cell",
+            "that",
+            "had",
+            "been",
+            "sprayed",
+            "with",
+            "a",
+            "riot",
+            "control",
+            "agent",
+            ",",
+            "the",
+            "Navy",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "six",
+            "guards",
+            "will",
+            "face",
+            "courts",
+            "-",
+            "martial",
+            "."
+        ],
+        [
+            "Seven",
+            "other",
+            "cases",
+            "have",
+            "been",
+            "resolved",
+            "through",
+            "nonjudicial",
+            "punishment",
+            ",",
+            "according",
+            "to",
+            "a",
+            "statement",
+            "from",
+            "the",
+            "commander",
+            "of",
+            "U.S.",
+            "Naval",
+            "Forces",
+            "-",
+            "Central",
+            "Command",
+            "."
+        ],
+        [
+            "The",
+            "courts",
+            "-",
+            "martial",
+            "are",
+            "expected",
+            "to",
+            "start",
+            "within",
+            "30",
+            "days",
+            "at",
+            "Camp",
+            "Bucca",
+            ",",
+            "which",
+            "is",
+            "in",
+            "southern",
+            "Iraq",
+            "near",
+            "the",
+            "Kuwaiti",
+            "border",
+            "."
+        ],
+        [
+            "The",
+            "guards",
+            "accused",
+            "in",
+            "the",
+            "case",
+            "are",
+            "assigned",
+            "to",
+            "Navy",
+            "Provisional",
+            "Detainee",
+            "Battalion",
+            "4."
+        ]
+    ]
+}

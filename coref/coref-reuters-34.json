@@ -1,0 +1,318 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "banks",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The central government",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The paper",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the many firms",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "her bank",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "The bank",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Chinese bank official",
+                "pos": [
+                    26,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Xie",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Xie",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reuters-34",
+    "sents": [
+        [
+            "China",
+            "'s",
+            "state",
+            "and",
+            "collective",
+            "firms",
+            "do",
+            "not",
+            "have",
+            "enough",
+            "cash",
+            "to",
+            "operate",
+            "imported",
+            "equipment",
+            ",",
+            "so",
+            "banks",
+            "will",
+            "issue",
+            "more",
+            "bonds",
+            "to",
+            "raise",
+            "funds",
+            ",",
+            "a",
+            "Chinese",
+            "bank",
+            "official",
+            "was",
+            "quoted",
+            "by",
+            "the",
+            "China",
+            "Daily",
+            "as",
+            "saying",
+            "."
+        ],
+        [
+            "Xie",
+            "was",
+            "quoted",
+            "as",
+            "saying",
+            "the",
+            "present",
+            "cash",
+            "shortage",
+            "means",
+            "some",
+            "state",
+            "firms",
+            "do",
+            "not",
+            "run",
+            "at",
+            "full",
+            "capacity",
+            "and",
+            "are",
+            "inefficient",
+            "."
+        ],
+        [
+            "The",
+            "central",
+            "government",
+            "does",
+            "not",
+            "have",
+            "enough",
+            "money",
+            "to",
+            "meet",
+            "their",
+            "needs",
+            "."
+        ],
+        [
+            "The",
+            "paper",
+            "said",
+            ",",
+            "\"",
+            "Reliable",
+            "sources",
+            "disclosed",
+            "that",
+            "the",
+            "country",
+            "is",
+            "running",
+            "a",
+            "budget",
+            "deficit",
+            ".",
+            "\""
+        ],
+        [
+            "It",
+            "gave",
+            "no",
+            "figure",
+            "."
+        ],
+        [
+            "Xie",
+            "said",
+            "her",
+            "bank",
+            "sooner",
+            "or",
+            "later",
+            "will",
+            "have",
+            "to",
+            "punish",
+            "the",
+            "many",
+            "firms",
+            "that",
+            "have",
+            "failed",
+            "to",
+            "repay",
+            "loans",
+            "made",
+            "to",
+            "them",
+            "over",
+            "the",
+            "past",
+            "two",
+            "years",
+            "at",
+            "high",
+            "interest",
+            "rates",
+            "."
+        ],
+        [
+            "The",
+            "bank",
+            "financed",
+            "the",
+            "loans",
+            "by",
+            "issuing",
+            "two",
+            "billion",
+            "yuan",
+            "of",
+            "bonds",
+            ",",
+            "but",
+            "she",
+            "gave",
+            "no",
+            "other",
+            "details",
+            "."
+        ]
+    ]
+}

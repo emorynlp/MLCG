@@ -1,0 +1,236 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is due",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-45",
+    "sents": [
+        [
+            "Penril",
+            "Corp",
+            "said",
+            "it",
+            "is",
+            "seeking",
+            "to",
+            "sell",
+            "its",
+            "Triplett",
+            "Electrical",
+            "Instrument",
+            "Corp",
+            "subsidiary",
+            "in",
+            "Bluffton",
+            ",",
+            "Ohio",
+            ",",
+            "and",
+            "Triplett",
+            "'s",
+            "Alltest",
+            "division",
+            "in",
+            "Hoffman",
+            "Estates",
+            ",",
+            "Ill",
+            "."
+        ],
+        [
+            ",",
+            "as",
+            "part",
+            "of",
+            "a",
+            "plan",
+            "to",
+            "concentrate",
+            "on",
+            "its",
+            "three",
+            "profitable",
+            "division",
+            "and",
+            "reduce",
+            "its",
+            "debt",
+            "load",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "also",
+            "said",
+            "it",
+            "is",
+            "evaluating",
+            "a",
+            "plan",
+            "to",
+            "satisfy",
+            "its",
+            "obligations",
+            "under",
+            "its",
+            "10",
+            "-",
+            "7/8",
+            "pct",
+            "subordinated",
+            "notes",
+            "but",
+            "gave",
+            "no",
+            "details",
+            "."
+        ],
+        [
+            "Interest",
+            "on",
+            "the",
+            "notes",
+            "is",
+            "due",
+            "today",
+            "."
+        ],
+        [
+            "Penril",
+            "further",
+            "said",
+            "director",
+            "Clifford",
+            "L.",
+            "Alexander",
+            "Jr.",
+            "has",
+            "resigned",
+            "from",
+            "the",
+            "board",
+            "."
+        ],
+        [
+            "It",
+            "gave",
+            "no",
+            "reason",
+            "."
+        ],
+        [
+            "Penril",
+            "said",
+            "shareholders",
+            "at",
+            "the",
+            "annual",
+            "meeting",
+            "approved",
+            "the",
+            "limitation",
+            "of",
+            "directors",
+            "'",
+            "liability",
+            "."
+        ]
+    ]
+}

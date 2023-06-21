@@ -1,0 +1,321 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "our",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "our classes",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "our",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "10 hour blocks",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "10 HOURS",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "that long",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "those 10 hours",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-059",
+    "sents": [
+        [
+            "I",
+            "wish",
+            "I",
+            "was",
+            "making",
+            "this",
+            "up",
+            "."
+        ],
+        [
+            "First",
+            "our",
+            "classes",
+            "were",
+            "90",
+            "minutes",
+            "long",
+            ",",
+            "and",
+            "that",
+            "was",
+            "probably",
+            "the",
+            "perfect",
+            "lenght",
+            "honestly",
+            "."
+        ],
+        [
+            "Then",
+            "they",
+            "decided",
+            "to",
+            "make",
+            "them",
+            "3",
+            "hours",
+            "long",
+            "."
+        ],
+        [
+            "Okay",
+            ",",
+            "it",
+            "was",
+            "already",
+            "rough",
+            ",",
+            "but",
+            "I",
+            "could",
+            "handle",
+            "it",
+            "."
+        ],
+        [
+            "But",
+            "now",
+            "they",
+            "decided",
+            "that",
+            "our",
+            "economy",
+            "class",
+            "with",
+            "be",
+            "in",
+            "10",
+            "hour",
+            "blocks",
+            "."
+        ],
+        [
+            "10",
+            "HOURS",
+            "!"
+        ],
+        [
+            "Wo",
+            "thought",
+            "that",
+            "s",
+            "a",
+            "good",
+            "idea",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "no",
+            "idea",
+            "how",
+            "I",
+            "am",
+            "supposed",
+            "to",
+            "pay",
+            "attention",
+            "to",
+            "one",
+            "thing",
+            "for",
+            "that",
+            "long",
+            "."
+        ],
+        [
+            "Not",
+            "to",
+            "mention",
+            "there",
+            "is",
+            "only",
+            "one",
+            "break",
+            "during",
+            "those",
+            "10",
+            "hours",
+            "(",
+            "30",
+            "minutes",
+            "in",
+            "the",
+            "afternoon",
+            ")",
+            "."
+        ]
+    ]
+}

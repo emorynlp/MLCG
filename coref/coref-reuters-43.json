@@ -1,0 +1,363 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "its tender offer",
+                "pos": [
+                    32,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the hostile tender",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Buckhorn shares",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the shares",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Ropak Corp",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The company",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Ropak",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Ropak",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Buckhorn Inc",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Buckhorn",
+                "pos": [
+                    46,
+                    47
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Buckhorn",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Buckhorn",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-43",
+    "sents": [
+        [
+            "Ropak",
+            "Corp",
+            "said",
+            "it",
+            "received",
+            "and",
+            "accepted",
+            "about",
+            "456,968",
+            "common",
+            "shares",
+            "and",
+            "527,035",
+            "Series",
+            "A",
+            "convertible",
+            "preferred",
+            "shares",
+            "of",
+            "Buckhorn",
+            "Inc",
+            "at",
+            "four",
+            "dlrs",
+            "and",
+            "5.75",
+            "dlrs",
+            "each",
+            "respectively",
+            "in",
+            "response",
+            "to",
+            "its",
+            "tender",
+            "offer",
+            "that",
+            "expired",
+            "Friday",
+            ",",
+            "and",
+            "it",
+            "now",
+            "owns",
+            "34.4",
+            "pct",
+            "of",
+            "Buckhorn",
+            "voting",
+            "power",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "had",
+            "owned",
+            "63,000",
+            "common",
+            "and",
+            "25,100",
+            "preferred",
+            "shares",
+            "before",
+            "starting",
+            "the",
+            "hostile",
+            "tender",
+            "."
+        ],
+        [
+            "Ropak",
+            "said",
+            "it",
+            "is",
+            "borrowing",
+            "the",
+            "funds",
+            "needed",
+            "to",
+            "buy",
+            "the",
+            "Buckhorn",
+            "shares",
+            "from",
+            "its",
+            "bank",
+            "lender",
+            "and",
+            "will",
+            "not",
+            "need",
+            "to",
+            "use",
+            "any",
+            "funds",
+            "that",
+            "another",
+            "bank",
+            "had",
+            "committed",
+            "to",
+            "provide",
+            "under",
+            "a",
+            "margin",
+            "loan",
+            "."
+        ],
+        [
+            "Ropak",
+            "said",
+            "it",
+            "waived",
+            "minimum",
+            "acceptance",
+            "requirements",
+            "to",
+            "buy",
+            "the",
+            "shares",
+            "and",
+            "intends",
+            "to",
+            "evaluate",
+            "a",
+            "number",
+            "of",
+            "possible",
+            "ways",
+            "of",
+            "completing",
+            "an",
+            "acquisition",
+            "of",
+            "Buckhorn",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "it",
+            "hopes",
+            "that",
+            "Buckhorn",
+            "'s",
+            "board",
+            "will",
+            "reevaluate",
+            "its",
+            "position",
+            "and",
+            "enter",
+            "into",
+            "meaningful",
+            "negotiations",
+            "."
+        ]
+    ]
+}

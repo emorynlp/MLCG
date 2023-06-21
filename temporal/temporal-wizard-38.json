@@ -1,0 +1,394 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "cut them off",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cut",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fastened",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were ready",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sat down",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "held",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stepped",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tipped",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was big",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heavy",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stood",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "steady",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-38",
+    "sents": [
+        [
+            "To",
+            "be",
+            "sure",
+            ",",
+            "the",
+            "broad",
+            "river",
+            "now",
+            "cut",
+            "them",
+            "off",
+            "from",
+            "this",
+            "beautiful",
+            "land",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "raft",
+            "was",
+            "nearly",
+            "done",
+            ",",
+            "and",
+            "after",
+            "the",
+            "Tin",
+            "Woodman",
+            "had",
+            "cut",
+            "a",
+            "few",
+            "more",
+            "logs",
+            "and",
+            "fastened",
+            "them",
+            "together",
+            "with",
+            "wooden",
+            "pins",
+            ",",
+            "they",
+            "were",
+            "ready",
+            "to",
+            "start",
+            "."
+        ],
+        [
+            "Dorothy",
+            "sat",
+            "down",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "raft",
+            "and",
+            "held",
+            "Toto",
+            "in",
+            "her",
+            "arms",
+            "."
+        ],
+        [
+            "When",
+            "the",
+            "Cowardly",
+            "Lion",
+            "stepped",
+            "upon",
+            "the",
+            "raft",
+            "it",
+            "tipped",
+            "badly",
+            ",",
+            "for",
+            "he",
+            "was",
+            "big",
+            "and",
+            "heavy",
+            ";",
+            "but",
+            "the",
+            "Scarecrow",
+            "and",
+            "the",
+            "Tin",
+            "Woodman",
+            "stood",
+            "upon",
+            "the",
+            "other",
+            "end",
+            "to",
+            "steady",
+            "it",
+            ",",
+            "and",
+            "they",
+            "had",
+            "long",
+            "poles",
+            "in",
+            "their",
+            "hands",
+            "to",
+            "push",
+            "the",
+            "raft",
+            "through",
+            "the",
+            "water",
+            "."
+        ]
+    ]
+}

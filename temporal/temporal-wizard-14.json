@@ -1,0 +1,566 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was surprised",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "walked",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "see",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were neat fences",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "painted",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were fields of grain and vegetables",
+                "pos": [
+                    20,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were good farmers",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pass",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came out",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bow",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went by",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knew",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been the means",
+                "pos": [
+                    32,
+                    35
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "free",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were odd - looking dwellings",
+                "pos": [
+                    5,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was round",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were painted",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was the favorite color",
+                "pos": [
+                    13,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 18,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-14",
+    "sents": [
+        [
+            "She",
+            "was",
+            "surprised",
+            ",",
+            "as",
+            "she",
+            "walked",
+            "along",
+            ",",
+            "to",
+            "see",
+            "how",
+            "pretty",
+            "the",
+            "country",
+            "was",
+            "about",
+            "her",
+            "."
+        ],
+        [
+            "There",
+            "were",
+            "neat",
+            "fences",
+            "at",
+            "the",
+            "sides",
+            "of",
+            "the",
+            "road",
+            ",",
+            "painted",
+            "a",
+            "dainty",
+            "blue",
+            "color",
+            ",",
+            "and",
+            "beyond",
+            "them",
+            "were",
+            "fields",
+            "of",
+            "grain",
+            "and",
+            "vegetables",
+            "in",
+            "abundance",
+            "."
+        ],
+        [
+            "Evidently",
+            "the",
+            "Munchkins",
+            "were",
+            "good",
+            "farmers",
+            "and",
+            "able",
+            "to",
+            "raise",
+            "large",
+            "crops",
+            "."
+        ],
+        [
+            "Once",
+            "in",
+            "a",
+            "while",
+            "she",
+            "would",
+            "pass",
+            "a",
+            "house",
+            ",",
+            "and",
+            "the",
+            "people",
+            "came",
+            "out",
+            "to",
+            "look",
+            "at",
+            "her",
+            "and",
+            "bow",
+            "low",
+            "as",
+            "she",
+            "went",
+            "by",
+            ";",
+            "for",
+            "everyone",
+            "knew",
+            "she",
+            "had",
+            "been",
+            "the",
+            "means",
+            "of",
+            "destroying",
+            "the",
+            "Wicked",
+            "Witch",
+            "and",
+            "setting",
+            "them",
+            "free",
+            "from",
+            "bondage",
+            "."
+        ],
+        [
+            "The",
+            "houses",
+            "of",
+            "the",
+            "Munchkins",
+            "were",
+            "odd",
+            "-",
+            "looking",
+            "dwellings",
+            ",",
+            "for",
+            "each",
+            "was",
+            "round",
+            ",",
+            "with",
+            "a",
+            "big",
+            "dome",
+            "for",
+            "a",
+            "roof",
+            "."
+        ],
+        [
+            "All",
+            "were",
+            "painted",
+            "blue",
+            ",",
+            "for",
+            "in",
+            "this",
+            "country",
+            "of",
+            "the",
+            "East",
+            "blue",
+            "was",
+            "the",
+            "favorite",
+            "color",
+            "."
+        ]
+    ]
+}

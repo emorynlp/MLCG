@@ -1,0 +1,224 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "apply",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "higher ranked programs",
+                "pos": [
+                    34,
+                    37
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-079",
+    "sents": [
+        [
+            "I",
+            "'m",
+            "an",
+            "undergrad",
+            "History",
+            "and",
+            "Political",
+            "Science",
+            "major",
+            "and",
+            "I",
+            "'m",
+            "starting",
+            "to",
+            "apply",
+            "to",
+            "PhD",
+            "programs",
+            ",",
+            "and",
+            "I",
+            "just",
+            "wondered",
+            "if",
+            "you",
+            "guys",
+            "even",
+            "think",
+            "its",
+            "worth",
+            "it",
+            "to",
+            "apply",
+            "for",
+            "higher",
+            "ranked",
+            "programs",
+            "?"
+        ],
+        [
+            "I",
+            "'m",
+            "a",
+            "good",
+            "student",
+            ";",
+            "good",
+            "grades",
+            ",",
+            "research",
+            "experience",
+            ",",
+            "etc.",
+            "But",
+            "I",
+            "go",
+            "to",
+            "a",
+            "small",
+            "college",
+            "that",
+            "does",
+            "n't",
+            "really",
+            "have",
+            "a",
+            "name",
+            "for",
+            "itself",
+            "and",
+            "I",
+            "just",
+            "do",
+            "n't",
+            "think",
+            "I",
+            "\"",
+            "stand",
+            "out",
+            "\"",
+            "that",
+            "much",
+            "."
+        ],
+        [
+            "I",
+            "'ve",
+            "thought",
+            "about",
+            "applying",
+            "to",
+            "programs",
+            "like",
+            "the",
+            "University",
+            "of",
+            "Chicago",
+            "(",
+            "that",
+            "'s",
+            "really",
+            "the",
+            "big",
+            "one",
+            "I",
+            "'m",
+            "most",
+            "seriously",
+            "considering",
+            "application",
+            "to",
+            ")",
+            "but",
+            "I",
+            "just",
+            "do",
+            "n't",
+            "even",
+            "know",
+            "if",
+            "its",
+            "worth",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "think",
+            "it",
+            "is",
+            "but",
+            "then",
+            "again",
+            "I",
+            "do",
+            "n't",
+            "think",
+            "it",
+            "is",
+            "..."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "know",
+            "I",
+            "just",
+            "keep",
+            "talking",
+            "myself",
+            "in",
+            "circles",
+            "."
+        ],
+        [
+            "What",
+            "do",
+            "you",
+            "guys",
+            "think",
+            "?"
+        ],
+        [
+            "Thanks",
+            "in",
+            "advance",
+            "!"
+        ]
+    ]
+}

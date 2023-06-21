@@ -1,0 +1,412 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "all teachers",
+                "pos": [
+                    30,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the student",
+                "pos": [
+                    63,
+                    65
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the professor",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "My prof",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "my final exam",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my final",
+                "pos": [
+                    32,
+                    34
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "get",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    47,
+                    48
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    52,
+                    53
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "had A -",
+                "pos": [
+                    24,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "have A-set",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    57,
+                    58
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-060",
+    "sents": [
+        [
+            "I",
+            "\u2019ve",
+            "been",
+            "going",
+            "strong",
+            "in",
+            "my",
+            "bio",
+            "3",
+            "lecture",
+            "course",
+            "with",
+            "a",
+            "98%",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "my",
+            "final",
+            "exam",
+            "today",
+            "so",
+            "I",
+            "decided",
+            "to",
+            "check",
+            "out",
+            "the",
+            "syllabus",
+            "again",
+            "at",
+            "the",
+            "grading",
+            "policy",
+            "to",
+            "see",
+            "if",
+            "the",
+            "professor",
+            "had",
+            "A",
+            "-",
+            "(",
+            "b/c",
+            "not",
+            "all",
+            "teachers",
+            "have",
+            "to",
+            "use",
+            "this",
+            "method",
+            "of",
+            "grading",
+            ",",
+            "it",
+            "\u2019s",
+            "optional",
+            ")",
+            "."
+        ],
+        [
+            "My",
+            "prof",
+            "decides",
+            "to",
+            "have",
+            "A-set",
+            "at",
+            "90.00",
+            "to",
+            "92.99%",
+            ",",
+            "I",
+            "know",
+            "it",
+            "\u2019s",
+            "not",
+            "the",
+            "biggest",
+            "deal",
+            "in",
+            "the",
+            "world",
+            "but",
+            "I",
+            "have",
+            "to",
+            "get",
+            "at",
+            "least",
+            "an",
+            "80%",
+            "on",
+            "my",
+            "final",
+            "to",
+            "keep",
+            "my",
+            "4.0",
+            ";",
+            "it",
+            "\u2019s",
+            "definitely",
+            "motivating",
+            "me",
+            "to",
+            "review",
+            "all",
+            "my",
+            "notes",
+            "/",
+            "powerpoints",
+            "but",
+            "I",
+            "just",
+            "do",
+            "n\u2019t",
+            "think",
+            "it",
+            "\u2019s",
+            "in",
+            "the",
+            "favor",
+            "of",
+            "the",
+            "student",
+            "."
+        ]
+    ]
+}

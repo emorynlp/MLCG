@@ -1,0 +1,263 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I was so excited",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "move away from home and get into college",
+                "pos": [
+                    16,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "a way",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "become friends",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-047",
+    "sents": [
+        [
+            "Im",
+            "a",
+            "21",
+            "year",
+            "old",
+            "junior",
+            "transfer",
+            "from",
+            "community",
+            "college",
+            "and",
+            "I",
+            "was",
+            "so",
+            "excited",
+            "to",
+            "move",
+            "away",
+            "from",
+            "home",
+            "and",
+            "get",
+            "into",
+            "college",
+            "I",
+            "was",
+            "working",
+            "50",
+            "hours",
+            "a",
+            "week",
+            "in",
+            "a",
+            "body",
+            "shop",
+            "full",
+            "of",
+            "old",
+            "dudes",
+            "."
+        ],
+        [
+            "Barely",
+            "had",
+            "any",
+            "interaction",
+            "with",
+            "people",
+            "my",
+            "age",
+            "and",
+            "was",
+            "so",
+            "excited",
+            "to",
+            "come",
+            "to",
+            "college",
+            "."
+        ],
+        [
+            "Now",
+            "that",
+            "I",
+            "'m",
+            "here",
+            "I",
+            "feel",
+            "even",
+            "more",
+            "alone",
+            "than",
+            "before",
+            "."
+        ],
+        [
+            "Around",
+            "thousands",
+            "of",
+            "people",
+            "my",
+            "own",
+            "age",
+            "."
+        ],
+        [
+            "I",
+            "participate",
+            "in",
+            "my",
+            "classes",
+            "and",
+            "have",
+            "a",
+            "job",
+            "i",
+            "have",
+            "n't",
+            "done",
+            "any",
+            "clubs",
+            "yet",
+            "but",
+            "i",
+            "have",
+            "n't",
+            "found",
+            "one",
+            "that",
+            "interests",
+            "me",
+            "and",
+            "lines",
+            "up",
+            "with",
+            "my",
+            "schedule",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "know",
+            "how",
+            "to",
+            "introduce",
+            "myself",
+            "to",
+            "people",
+            "in",
+            "a",
+            "way",
+            "to",
+            "become",
+            "friends",
+            "only",
+            "just",
+            "nice",
+            "little",
+            "chats",
+            "before",
+            "after",
+            "or",
+            "during",
+            "class",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "want",
+            "to",
+            "know",
+            "I",
+            "'m",
+            "not",
+            "alone",
+            "in",
+            "feeling",
+            "alone",
+            "."
+        ]
+    ]
+}

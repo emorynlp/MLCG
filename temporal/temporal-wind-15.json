@@ -1,0 +1,355 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "dreaming",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "plodded along",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "abandoned",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Rearing",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "plunging",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "backing",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "directed",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "drove",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wavered",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a heartrending crash",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lay",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-15",
+    "sents": [
+        [
+            "The",
+            "old",
+            "grey",
+            "horse",
+            ",",
+            "dreaming",
+            ",",
+            "as",
+            "he",
+            "plodded",
+            "along",
+            ",",
+            "of",
+            "his",
+            "quiet",
+            "paddock",
+            ",",
+            "in",
+            "a",
+            "new",
+            "raw",
+            "situation",
+            "such",
+            "as",
+            "this",
+            "simply",
+            "abandoned",
+            "himself",
+            "to",
+            "his",
+            "natural",
+            "emotions",
+            "."
+        ],
+        [
+            "Rearing",
+            ",",
+            "plunging",
+            ",",
+            "backing",
+            "steadily",
+            ",",
+            "in",
+            "spite",
+            "of",
+            "all",
+            "the",
+            "Mole",
+            "'s",
+            "efforts",
+            "at",
+            "his",
+            "head",
+            ",",
+            "and",
+            "all",
+            "the",
+            "Mole",
+            "'s",
+            "lively",
+            "language",
+            "directed",
+            "at",
+            "his",
+            "better",
+            "feelings",
+            ",",
+            "he",
+            "drove",
+            "the",
+            "cart",
+            "backwards",
+            "towards",
+            "the",
+            "deep",
+            "ditch",
+            "at",
+            "the",
+            "side",
+            "of",
+            "the",
+            "road",
+            "."
+        ],
+        [
+            "It",
+            "wavered",
+            "an",
+            "instant",
+            "\u2014",
+            "then",
+            "there",
+            "was",
+            "a",
+            "heartrending",
+            "crash",
+            "\u2014",
+            "and",
+            "the",
+            "canary",
+            "-",
+            "coloured",
+            "cart",
+            ",",
+            "their",
+            "pride",
+            "and",
+            "their",
+            "joy",
+            ",",
+            "lay",
+            "on",
+            "its",
+            "side",
+            "in",
+            "the",
+            "ditch",
+            ",",
+            "an",
+            "irredeemable",
+            "wreck",
+            "."
+        ]
+    ]
+}

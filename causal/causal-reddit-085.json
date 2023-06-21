@@ -1,0 +1,255 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I have crazy social anxiety",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I could really use some guidance",
+                "pos": [
+                    7,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Thanks",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 9,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "your help",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-085",
+    "sents": [
+        [
+            "Hi",
+            "all",
+            ",",
+            "I",
+            "'m",
+            "a",
+            "senior",
+            "English",
+            "major",
+            "applying",
+            "to",
+            "PhD",
+            "programs",
+            "in",
+            "English",
+            "this",
+            "fall",
+            "."
+        ],
+        [
+            "One",
+            "of",
+            "my",
+            "professors",
+            "told",
+            "me",
+            "that",
+            "I",
+            "should",
+            "email",
+            "professors",
+            "who",
+            "I",
+            "am",
+            "interested",
+            "in",
+            "working",
+            "with",
+            "before",
+            "I",
+            "apply",
+            "."
+        ],
+        [
+            "Is",
+            "this",
+            "a",
+            "hard",
+            "requirement",
+            "?"
+        ],
+        [
+            "Do",
+            "I",
+            "just",
+            "email",
+            "them",
+            "out",
+            "of",
+            "the",
+            "blue",
+            "?"
+        ],
+        [
+            "What",
+            "do",
+            "I",
+            "say",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "crazy",
+            "social",
+            "anxiety",
+            ",",
+            "so",
+            "I",
+            "could",
+            "really",
+            "use",
+            "some",
+            "guidance",
+            "."
+        ],
+        [
+            "Also",
+            ",",
+            "how",
+            "aligned",
+            "does",
+            "a",
+            "professor",
+            "'s",
+            "research",
+            "interests",
+            "have",
+            "to",
+            "be",
+            "with",
+            "mine",
+            "?"
+        ],
+        [
+            "I",
+            "'m",
+            "interested",
+            "in",
+            "African",
+            "American",
+            "literature",
+            ",",
+            "technology",
+            "/",
+            "science",
+            ",",
+            "and",
+            "DH",
+            "."
+        ],
+        [
+            "Should",
+            "I",
+            "only",
+            "email",
+            "professors",
+            "who",
+            "research",
+            "all",
+            "of",
+            "these",
+            ",",
+            "or",
+            "could",
+            "I",
+            "reach",
+            "out",
+            "to",
+            "professors",
+            "who",
+            "study",
+            "one",
+            "or",
+            "two",
+            "?"
+        ],
+        [
+            "Thanks",
+            "for",
+            "your",
+            "help",
+            "everyone",
+            ":)"
+        ]
+    ]
+}

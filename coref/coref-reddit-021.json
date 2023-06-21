@@ -1,0 +1,221 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "you",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "gen-entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-021",
+    "sents": [
+        [
+            "i",
+            "\u2019m",
+            "currently",
+            "a",
+            "college",
+            "freshman",
+            "at",
+            "a",
+            "top",
+            "20",
+            "."
+        ],
+        [
+            "college",
+            "admissions",
+            "were",
+            "stressful",
+            ",",
+            "especially",
+            "being",
+            "surrounded",
+            "by",
+            "so",
+            "many",
+            "people",
+            "who",
+            "feel",
+            "more",
+            "qualified",
+            "than",
+            "you",
+            "."
+        ],
+        [
+            "once",
+            "you",
+            "get",
+            "to",
+            "school",
+            ",",
+            "it",
+            "becomes",
+            "so",
+            "much",
+            "worse",
+            "."
+        ],
+        [
+            "suddenly",
+            ",",
+            "every",
+            "one",
+            "around",
+            "you",
+            "has",
+            "had",
+            "incredible",
+            "internships",
+            "and",
+            "has",
+            "done",
+            "research",
+            "and",
+            "is",
+            "currently",
+            "curing",
+            "cancer",
+            "."
+        ],
+        [
+            "the",
+            "imposter",
+            "syndrome",
+            "is",
+            "real",
+            "."
+        ],
+        [
+            "please",
+            "keep",
+            "in",
+            "mind",
+            "while",
+            "you",
+            "\u2019re",
+            "applying",
+            "that",
+            "it",
+            "does",
+            "n\u2019t",
+            "end",
+            "once",
+            "you",
+            "get",
+            "accepted",
+            "and",
+            "pay",
+            "your",
+            "enrollment",
+            "deposit",
+            "."
+        ],
+        [
+            "do",
+            "n\u2019t",
+            "sign",
+            "up",
+            "for",
+            "something",
+            "you",
+            "are",
+            "n\u2019t",
+            "sure",
+            "if",
+            "you",
+            "can",
+            "handle",
+            "."
+        ],
+        [
+            "wishing",
+            "you",
+            "all",
+            "the",
+            "best",
+            "of",
+            "luck",
+            "<3"
+        ]
+    ]
+}

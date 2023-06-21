@@ -1,0 +1,457 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Toto",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his arm",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the darkness",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the dark",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the night",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the dark",
+                "pos": [
+                    34,
+                    36
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "themselves",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the child",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-24",
+    "sents": [
+        [
+            "After",
+            "an",
+            "hour",
+            "or",
+            "so",
+            "the",
+            "light",
+            "faded",
+            "away",
+            ",",
+            "and",
+            "they",
+            "found",
+            "themselves",
+            "stumbling",
+            "along",
+            "in",
+            "the",
+            "darkness",
+            "."
+        ],
+        [
+            "Dorothy",
+            "could",
+            "not",
+            "see",
+            "at",
+            "all",
+            ",",
+            "but",
+            "Toto",
+            "could",
+            ",",
+            "for",
+            "some",
+            "dogs",
+            "see",
+            "very",
+            "well",
+            "in",
+            "the",
+            "dark",
+            ";",
+            "and",
+            "the",
+            "Scarecrow",
+            "declared",
+            "he",
+            "could",
+            "see",
+            "as",
+            "well",
+            "as",
+            "by",
+            "day",
+            "."
+        ],
+        [
+            "So",
+            "she",
+            "took",
+            "hold",
+            "of",
+            "his",
+            "arm",
+            "and",
+            "managed",
+            "to",
+            "get",
+            "along",
+            "fairly",
+            "well",
+            "."
+        ],
+        [
+            "\"",
+            "If",
+            "you",
+            "see",
+            "any",
+            "house",
+            ",",
+            "or",
+            "any",
+            "place",
+            "where",
+            "we",
+            "can",
+            "pass",
+            "the",
+            "night",
+            ",",
+            "\"",
+            "she",
+            "said",
+            ",",
+            "\"",
+            "you",
+            "must",
+            "tell",
+            "me",
+            ";",
+            "for",
+            "it",
+            "is",
+            "very",
+            "uncomfortable",
+            "walking",
+            "in",
+            "the",
+            "dark",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "Soon",
+            "after",
+            "the",
+            "Scarecrow",
+            "stopped",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "see",
+            "a",
+            "little",
+            "cottage",
+            "at",
+            "the",
+            "right",
+            "of",
+            "us",
+            ",",
+            "\"",
+            "he",
+            "said",
+            ",",
+            "\"",
+            "built",
+            "of",
+            "logs",
+            "and",
+            "branches",
+            "."
+        ],
+        [
+            "Shall",
+            "we",
+            "go",
+            "there",
+            "?",
+            "\""
+        ],
+        [
+            "\"",
+            "Yes",
+            ",",
+            "indeed",
+            ",",
+            "\"",
+            "answered",
+            "the",
+            "child",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "am",
+            "all",
+            "tired",
+            "out",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

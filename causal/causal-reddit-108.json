@@ -1,0 +1,288 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Because",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you have a crush",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "at least you have someone to think about and talk to and plan next steps with",
+                "pos": [
+                    7,
+                    23
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "When",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you do n't even have that",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it 's just ... even lonelier",
+                "pos": [
+                    8,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-108",
+    "sents": [
+        [
+            "Next",
+            "year",
+            "will",
+            "be",
+            "my",
+            "fifth",
+            "and",
+            "final",
+            "year",
+            "of",
+            "college",
+            "."
+        ],
+        [
+            "I",
+            "never",
+            "really",
+            "found",
+            "my",
+            "group",
+            "of",
+            "close",
+            "friends",
+            "or",
+            "had",
+            "a",
+            "girlfriend",
+            "or",
+            "anything",
+            "."
+        ],
+        [
+            "The",
+            "acquaintance",
+            "level",
+            "friends",
+            "I",
+            "did",
+            "have",
+            "basically",
+            "all",
+            "graduated",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "Now",
+            "I",
+            "'m",
+            "just",
+            "realizing",
+            "that",
+            "after",
+            "not",
+            "seeing",
+            "anyone",
+            "in",
+            "person",
+            "for",
+            "more",
+            "than",
+            "a",
+            "year",
+            ",",
+            "as",
+            "much",
+            "as",
+            "I",
+            "want",
+            "a",
+            "girlfriend",
+            "I",
+            "do",
+            "n't",
+            "even",
+            "have",
+            "a",
+            "crush",
+            "on",
+            "anyone",
+            "any",
+            "more",
+            "."
+        ],
+        [
+            "Just",
+            "feels",
+            "like",
+            "a",
+            "new",
+            "level",
+            "of",
+            "loneliness",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "Because",
+            "when",
+            "you",
+            "have",
+            "a",
+            "crush",
+            ",",
+            "at",
+            "least",
+            "you",
+            "have",
+            "someone",
+            "to",
+            "think",
+            "about",
+            "and",
+            "talk",
+            "to",
+            "and",
+            "plan",
+            "next",
+            "steps",
+            "with",
+            "."
+        ],
+        [
+            "When",
+            "you",
+            "do",
+            "n't",
+            "even",
+            "have",
+            "that",
+            ",",
+            "it",
+            "'s",
+            "just",
+            "..."
+        ],
+        [
+            "even",
+            "lonelier",
+            "."
+        ],
+        [
+            "Just",
+            "wanted",
+            "to",
+            "get",
+            "it",
+            "off",
+            "my",
+            "chest",
+            "."
+        ],
+        [
+            "Hopefully",
+            "next",
+            "year",
+            "will",
+            "be",
+            "better",
+            "and",
+            "I",
+            "'ll",
+            "make",
+            "some",
+            "friends",
+            "and",
+            "stuff",
+            "."
+        ]
+    ]
+}

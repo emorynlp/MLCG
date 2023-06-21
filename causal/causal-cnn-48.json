@@ -1,0 +1,287 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Tropical Storm Haikui",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "landfall Wednesday morning in Zhejiang province",
+                "pos": [
+                    4,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "hundreds of thousands of people had been evacuated",
+                "pos": [
+                    12,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "from",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "its path",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-48",
+    "sents": [
+        [
+            "Tropical",
+            "Storm",
+            "Haikui",
+            "made",
+            "landfall",
+            "Wednesday",
+            "morning",
+            "in",
+            "Zhejiang",
+            "province",
+            ",",
+            "where",
+            "hundreds",
+            "of",
+            "thousands",
+            "of",
+            "people",
+            "had",
+            "been",
+            "evacuated",
+            "from",
+            "its",
+            "path",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "rain",
+            "is",
+            "the",
+            "bigger",
+            "impact",
+            "going",
+            "forward",
+            ",",
+            "\"",
+            "said",
+            "CNNI",
+            "Meteorologist",
+            "Taylor",
+            "Ward",
+            ",",
+            "who",
+            "noted",
+            "that",
+            "Haikui",
+            "had",
+            "diminished",
+            "from",
+            "typhoon",
+            "status",
+            "before",
+            "hitting",
+            "land",
+            "about",
+            "225",
+            "kilometers",
+            "(",
+            "140",
+            "miles",
+            ")",
+            "south",
+            "of",
+            "Shanghai",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "have",
+            "already",
+            "had",
+            "up",
+            "to",
+            "8",
+            "inches",
+            "in",
+            "some",
+            "locations",
+            ".",
+            "\""
+        ],
+        [
+            "Ward",
+            "said",
+            "another",
+            "6",
+            "to",
+            "10",
+            "inches",
+            "of",
+            "rain",
+            "were",
+            "expected",
+            "to",
+            "fall",
+            ",",
+            "with",
+            "\"",
+            "maybe",
+            "isolated",
+            "amounts",
+            "greater",
+            ".",
+            "\""
+        ],
+        [
+            "Haikui",
+            "was",
+            "moving",
+            "northwest",
+            "at",
+            "20",
+            "kph",
+            "(",
+            "12",
+            "mph",
+            ")",
+            "but",
+            "was",
+            "expected",
+            "to",
+            "slow",
+            "over",
+            "the",
+            "coming",
+            "two",
+            "days",
+            ",",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "Chinese",
+            "officials",
+            "had",
+            "evacuated",
+            "374,000",
+            "people",
+            "from",
+            "Shanghai",
+            "and",
+            "250,000",
+            "from",
+            "Zhejiang",
+            ",",
+            "according",
+            "to",
+            "the",
+            "state",
+            "-",
+            "run",
+            "China",
+            "Daily",
+            "."
+        ],
+        [
+            "Haikui",
+            ",",
+            "which",
+            "had",
+            "been",
+            "a",
+            "typhoon",
+            "on",
+            "Tuesday",
+            ",",
+            "is",
+            "the",
+            "third",
+            "tropical",
+            "storm",
+            "to",
+            "hit",
+            "China",
+            "'s",
+            "east",
+            "coast",
+            "in",
+            "less",
+            "than",
+            "a",
+            "week",
+            "."
+        ]
+    ]
+}

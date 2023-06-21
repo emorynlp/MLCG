@@ -1,0 +1,375 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the high school class of 2019",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "extended",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "event"
+            },
+            {
+                "name": "this exclusive offer",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the university of kentucky",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "YOU",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "yourself",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "your exclusive wildcat application",
+                "pos": [
+                    12,
+                    16
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-026",
+    "sents": [
+        [
+            "the",
+            "high",
+            "school",
+            "class",
+            "of",
+            "2019",
+            "is",
+            "gearing",
+            "up",
+            "to",
+            "graduate",
+            "-",
+            "choosing",
+            "grad",
+            "schools",
+            ",",
+            "applying",
+            "to",
+            "jobs",
+            ",",
+            "saying",
+            "goodbye",
+            "to",
+            "friends",
+            "."
+        ],
+        [
+            "they",
+            "'re",
+            "so",
+            "scared",
+            "to",
+            "leave",
+            ",",
+            "but",
+            "so",
+            "excited",
+            "for",
+            "what",
+            "'s",
+            "coming",
+            "next",
+            "."
+        ],
+        [
+            "on",
+            "a",
+            "whim",
+            "born",
+            "of",
+            "nostalgia",
+            "and",
+            "emotion",
+            ",",
+            "they",
+            "decide",
+            "to",
+            "check",
+            "their",
+            "old",
+            "high",
+            "school",
+            "email",
+            "addresses",
+            "."
+        ],
+        [
+            "there",
+            "'s",
+            "hundreds",
+            "of",
+            "new",
+            "emails",
+            ",",
+            "but",
+            "only",
+            "from",
+            "one",
+            "source",
+            "."
+        ],
+        [
+            "the",
+            "university",
+            "of",
+            "kentucky",
+            "extended",
+            "their",
+            "application",
+            "deadline",
+            "just",
+            "*two",
+            "more",
+            "days*",
+            ",",
+            "and",
+            "this",
+            "exclusive",
+            "offer",
+            "is",
+            "only",
+            "for",
+            "YOU",
+            "."
+        ],
+        [
+            "they",
+            "'ve",
+            "been",
+            "extending",
+            "your",
+            "deadline",
+            "for",
+            "all",
+            "four",
+            "years",
+            "."
+        ],
+        [
+            "they",
+            "never",
+            "gave",
+            "up",
+            "on",
+            "you",
+            ",",
+            "even",
+            "when",
+            "you",
+            "might",
+            "'ve",
+            "given",
+            "up",
+            "on",
+            "yourself",
+            "."
+        ],
+        [
+            "even",
+            "without",
+            "knowing",
+            "it",
+            ",",
+            "the",
+            "one",
+            "constant",
+            "in",
+            "your",
+            "life",
+            "was",
+            "your",
+            "exclusive",
+            "wildcat",
+            "application",
+            ",",
+            "and",
+            "now",
+            "you",
+            "'ve",
+            "missed",
+            "the",
+            "chance",
+            "to",
+            "use",
+            "it",
+            "."
+        ]
+    ]
+}

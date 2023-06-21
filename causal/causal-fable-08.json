@@ -1,0 +1,276 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "its feathers had been furnished",
+                "pos": [
+                    17,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 4,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "himself",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "descending to secure prey",
+                "pos": [
+                    26,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I should perish",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "an Arrow feathered from my own wing",
+                "pos": [
+                    16,
+                    23
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "means",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-08",
+    "sents": [
+        [
+            "A",
+            "MOST",
+            "rapacious",
+            "Eagle",
+            "had",
+            "his",
+            "eyrie",
+            "on",
+            "a",
+            "lofty",
+            "rock",
+            "."
+        ],
+        [
+            "Sitting",
+            "there",
+            ",",
+            "he",
+            "could",
+            "watch",
+            "the",
+            "movements",
+            "of",
+            "the",
+            "animals",
+            "he",
+            "wished",
+            "to",
+            "make",
+            "his",
+            "prey",
+            ",",
+            "and",
+            ",",
+            "waiting",
+            "his",
+            "opportunity",
+            ",",
+            "seize",
+            "them",
+            "and",
+            "bear",
+            "them",
+            "away",
+            "."
+        ],
+        [
+            "The",
+            "poor",
+            "creatures",
+            "had",
+            "no",
+            "protection",
+            "from",
+            "such",
+            "a",
+            "foe",
+            "."
+        ],
+        [
+            "But",
+            "an",
+            "archer",
+            "saw",
+            "him",
+            "one",
+            "day",
+            "watching",
+            ",",
+            "from",
+            "his",
+            "place",
+            "of",
+            "concealment",
+            ",",
+            "the",
+            "movements",
+            "of",
+            "an",
+            "unsuspicious",
+            "hare",
+            ";",
+            "and",
+            ",",
+            "taking",
+            "aim",
+            ",",
+            "he",
+            "wounded",
+            "him",
+            "mortally",
+            "."
+        ],
+        [
+            "The",
+            "Eagle",
+            "gave",
+            "one",
+            "look",
+            "at",
+            "the",
+            "Arrow",
+            "that",
+            "had",
+            "entered",
+            "his",
+            "heart",
+            ",",
+            "and",
+            "saw",
+            "that",
+            "its",
+            "feathers",
+            "had",
+            "been",
+            "furnished",
+            "by",
+            "himself",
+            ",",
+            "when",
+            "descending",
+            "to",
+            "secure",
+            "prey",
+            "."
+        ],
+        [
+            "\u201c",
+            "Ah",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Eagle",
+            ",",
+            "\u201c",
+            "it",
+            "is",
+            "indeed",
+            "a",
+            "double",
+            "grief",
+            "that",
+            "I",
+            "should",
+            "perish",
+            "by",
+            "an",
+            "Arrow",
+            "feathered",
+            "from",
+            "my",
+            "own",
+            "wing",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

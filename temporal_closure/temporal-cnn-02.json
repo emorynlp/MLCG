@@ -1,0 +1,440 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "is Moses Barrett",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was sentenced",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lives in",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "determined",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is best known for",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is scheduled",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-02",
+    "sents": [
+        [
+            "Hip",
+            "-",
+            "hop",
+            "and",
+            "rap",
+            "artist",
+            "Petey",
+            "Pablo",
+            "is",
+            "facing",
+            "nearly",
+            "three",
+            "years",
+            "in",
+            "prison",
+            "after",
+            "sentencing",
+            "on",
+            "a",
+            "guilty",
+            "plea",
+            "of",
+            "possessing",
+            "a",
+            "stolen",
+            "firearm",
+            ",",
+            "according",
+            "to",
+            "federal",
+            "prosecutors",
+            "."
+        ],
+        [
+            "Pablo",
+            ",",
+            "whose",
+            "real",
+            "name",
+            "is",
+            "Moses",
+            "Barrett",
+            ",",
+            "was",
+            "sentenced",
+            "Monday",
+            "in",
+            "U.S.",
+            "District",
+            "Court",
+            "in",
+            "New",
+            "Bern",
+            ",",
+            "North",
+            "Carolina",
+            ",",
+            "to",
+            "35",
+            "months",
+            "in",
+            "prison",
+            "."
+        ],
+        [
+            "The",
+            "sentencing",
+            "came",
+            "following",
+            "a",
+            "March",
+            "guilty",
+            "plea",
+            "from",
+            "the",
+            "38",
+            "-",
+            "year",
+            "-",
+            "old",
+            "performer",
+            ",",
+            "who",
+            "lives",
+            "in",
+            "Wake",
+            "Forest",
+            ",",
+            "North",
+            "Carolina",
+            "."
+        ],
+        [
+            "According",
+            "to",
+            "a",
+            "statement",
+            "from",
+            "Thomas",
+            "G.",
+            "Walker",
+            ",",
+            "U.S.",
+            "attorney",
+            "for",
+            "the",
+            "Eastern",
+            "District",
+            "of",
+            "North",
+            "Carolina",
+            ",",
+            "Pablo",
+            "was",
+            "going",
+            "through",
+            "security",
+            "at",
+            "Raleigh",
+            "-",
+            "Durham",
+            "International",
+            "Airport",
+            "on",
+            "September",
+            "11",
+            ",",
+            "2010",
+            ",",
+            "when",
+            "a",
+            "loaded",
+            "semi-automatic",
+            "9",
+            "mm",
+            "pistol",
+            "was",
+            "found",
+            "in",
+            "his",
+            "bag",
+            "."
+        ],
+        [
+            "Pablo",
+            "was",
+            "attempting",
+            "to",
+            "board",
+            "a",
+            "flight",
+            "to",
+            "Los",
+            "Angeles",
+            ",",
+            "the",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "Federal",
+            "authorities",
+            "determined",
+            "that",
+            "the",
+            "pistol",
+            "had",
+            "been",
+            "stolen",
+            "during",
+            "a",
+            "residential",
+            "burglary",
+            "in",
+            "California",
+            "in",
+            "2005",
+            "."
+        ],
+        [
+            "Pablo",
+            ",",
+            "who",
+            "is",
+            "best",
+            "known",
+            "for",
+            "his",
+            "songs",
+            "\"",
+            "Raise",
+            "Up",
+            "\"",
+            "and",
+            "\"",
+            "Freek",
+            "-",
+            "a-Leek",
+            "\"",
+            "is",
+            "scheduled",
+            "to",
+            "begin",
+            "serving",
+            "his",
+            "sentence",
+            "in",
+            "December",
+            "."
+        ]
+    ]
+}

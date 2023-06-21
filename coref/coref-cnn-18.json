@@ -1,0 +1,414 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "vehicles",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The blasts",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a van",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "itself",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Thai",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Thai",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Thai",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Yingluck Shinawatra",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Yala",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Yala",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a pair of bombings",
+                "pos": [
+                    12,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "The two blasts",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "the Yala bombings",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "event"
+            },
+            {
+                "name": "the attacks",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "MCOT",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "MCOT",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "MCOT",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "detonated",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "event"
+            },
+            {
+                "name": "those blasts",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the incident",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-18",
+    "sents": [
+        [
+            "At",
+            "least",
+            "10",
+            "people",
+            "were",
+            "killed",
+            "and",
+            "more",
+            "than",
+            "100",
+            "wounded",
+            "following",
+            "a",
+            "pair",
+            "of",
+            "bombings",
+            "Saturday",
+            "in",
+            "the",
+            "southern",
+            "Thai",
+            "city",
+            "of",
+            "Yala",
+            ",",
+            "Thai",
+            "media",
+            "reported",
+            "."
+        ],
+        [
+            "The",
+            "two",
+            "blasts",
+            "were",
+            "the",
+            "result",
+            "of",
+            "bombs",
+            "stashed",
+            "in",
+            "stolen",
+            "trucks",
+            ",",
+            "Police",
+            "Lt.",
+            "Gen.",
+            "Paitoon",
+            "Chuchaiya",
+            "told",
+            "CNN",
+            "affiliate",
+            "MCOT",
+            "."
+        ],
+        [
+            "Video",
+            "from",
+            "the",
+            "scene",
+            "showed",
+            "damage",
+            "to",
+            "buildings",
+            ",",
+            "cars",
+            "and",
+            "motorcycles",
+            "on",
+            "the",
+            "street",
+            "."
+        ],
+        [
+            "The",
+            "blasts",
+            "set",
+            "fires",
+            "to",
+            "nearby",
+            "vehicles",
+            ",",
+            "including",
+            "a",
+            "van",
+            ",",
+            "which",
+            "itself",
+            "exploded",
+            ",",
+            "leading",
+            "to",
+            "initial",
+            "reports",
+            "of",
+            "a",
+            "third",
+            "bomb",
+            ",",
+            "Chuchaiya",
+            "said",
+            "."
+        ],
+        [
+            "Thai",
+            "Prime",
+            "Minister",
+            "Yingluck",
+            "Shinawatra",
+            "said",
+            "she",
+            "has",
+            "been",
+            "informed",
+            "of",
+            "the",
+            "Yala",
+            "bombings",
+            "and",
+            "has",
+            "instructed",
+            "national",
+            "police",
+            "chief",
+            "Gen.",
+            "Prewpan",
+            "Dhamapong",
+            "to",
+            "investigate",
+            "the",
+            "crime",
+            "scene",
+            "immediately",
+            ",",
+            "according",
+            "to",
+            "MCOT",
+            "."
+        ],
+        [
+            "Police",
+            "investigators",
+            "believe",
+            "suspected",
+            "insurgents",
+            "are",
+            "behind",
+            "the",
+            "attacks",
+            ",",
+            "MCOT",
+            "said",
+            "."
+        ],
+        [
+            "Last",
+            "month",
+            ",",
+            "a",
+            "series",
+            "of",
+            "bombs",
+            "detonated",
+            "in",
+            "Bangkok",
+            "."
+        ],
+        [
+            "No",
+            "one",
+            "was",
+            "killed",
+            "in",
+            "those",
+            "blasts",
+            ",",
+            "and",
+            "an",
+            "Iranian",
+            "suspect",
+            "was",
+            "arrested",
+            "in",
+            "connection",
+            "with",
+            "the",
+            "incident",
+            "."
+        ]
+    ]
+}

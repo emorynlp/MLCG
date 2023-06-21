@@ -1,0 +1,236 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is projected",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-16",
+    "sents": [
+        [
+            "High",
+            "feed",
+            "prices",
+            "will",
+            "cause",
+            "the",
+            "Chinese",
+            "to",
+            "reduce",
+            "hog",
+            "herd",
+            "growth",
+            "and",
+            "pork",
+            "production",
+            "this",
+            "year",
+            ",",
+            "the",
+            "U.S.",
+            "Agriculture",
+            "Department",
+            "said",
+            "."
+        ],
+        [
+            "In",
+            "its",
+            "World",
+            "Production",
+            "and",
+            "Trade",
+            "Report",
+            ",",
+            "the",
+            "department",
+            "said",
+            "hog",
+            "numbers",
+            "at",
+            "the",
+            "start",
+            "of",
+            "1987",
+            "were",
+            "estimated",
+            "at",
+            "331.6",
+            "mln",
+            "head",
+            ",",
+            "up",
+            "slightly",
+            "from",
+            "1986",
+            ",",
+            "and",
+            "10",
+            "mln",
+            "head",
+            "above",
+            "earlier",
+            "projections",
+            "for",
+            "1987",
+            "."
+        ],
+        [
+            "Pork",
+            "production",
+            "in",
+            "1986",
+            "was",
+            "up",
+            "4.2",
+            "pct",
+            "to",
+            "17.25",
+            "mln",
+            "tonnes",
+            ",",
+            "slightly",
+            "below",
+            "earlier",
+            "estimates",
+            ",",
+            "it",
+            "said",
+            "."
+        ],
+        [
+            "For",
+            "1987",
+            ",",
+            "production",
+            "is",
+            "projected",
+            "to",
+            "fall",
+            "to",
+            "17.05",
+            "mln",
+            "tonnes",
+            "."
+        ],
+        [
+            "Feed",
+            "prices",
+            "at",
+            "the",
+            "end",
+            "of",
+            "January",
+            "were",
+            "reported",
+            "35",
+            "to",
+            "40",
+            "pct",
+            "above",
+            "year",
+            "-",
+            "ago",
+            "levels",
+            ",",
+            "the",
+            "department",
+            "said",
+            "."
+        ]
+    ]
+}

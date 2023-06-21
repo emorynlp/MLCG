@@ -1,0 +1,386 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "African American literature",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "technology / science",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "DH",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "all of these",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "email",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "professors",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-085",
+    "sents": [
+        [
+            "Hi",
+            "all",
+            ",",
+            "I",
+            "'m",
+            "a",
+            "senior",
+            "English",
+            "major",
+            "applying",
+            "to",
+            "PhD",
+            "programs",
+            "in",
+            "English",
+            "this",
+            "fall",
+            "."
+        ],
+        [
+            "One",
+            "of",
+            "my",
+            "professors",
+            "told",
+            "me",
+            "that",
+            "I",
+            "should",
+            "email",
+            "professors",
+            "who",
+            "I",
+            "am",
+            "interested",
+            "in",
+            "working",
+            "with",
+            "before",
+            "I",
+            "apply",
+            "."
+        ],
+        [
+            "Is",
+            "this",
+            "a",
+            "hard",
+            "requirement",
+            "?"
+        ],
+        [
+            "Do",
+            "I",
+            "just",
+            "email",
+            "them",
+            "out",
+            "of",
+            "the",
+            "blue",
+            "?"
+        ],
+        [
+            "What",
+            "do",
+            "I",
+            "say",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "crazy",
+            "social",
+            "anxiety",
+            ",",
+            "so",
+            "I",
+            "could",
+            "really",
+            "use",
+            "some",
+            "guidance",
+            "."
+        ],
+        [
+            "Also",
+            ",",
+            "how",
+            "aligned",
+            "does",
+            "a",
+            "professor",
+            "'s",
+            "research",
+            "interests",
+            "have",
+            "to",
+            "be",
+            "with",
+            "mine",
+            "?"
+        ],
+        [
+            "I",
+            "'m",
+            "interested",
+            "in",
+            "African",
+            "American",
+            "literature",
+            ",",
+            "technology",
+            "/",
+            "science",
+            ",",
+            "and",
+            "DH",
+            "."
+        ],
+        [
+            "Should",
+            "I",
+            "only",
+            "email",
+            "professors",
+            "who",
+            "research",
+            "all",
+            "of",
+            "these",
+            ",",
+            "or",
+            "could",
+            "I",
+            "reach",
+            "out",
+            "to",
+            "professors",
+            "who",
+            "study",
+            "one",
+            "or",
+            "two",
+            "?"
+        ],
+        [
+            "Thanks",
+            "for",
+            "your",
+            "help",
+            "everyone",
+            ":)"
+        ]
+    ]
+}

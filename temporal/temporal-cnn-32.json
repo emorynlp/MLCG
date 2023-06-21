@@ -1,0 +1,337 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is a former member of R&B group Xscape",
+                "pos": [
+                    10,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "expressed",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "described",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shows",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "confronting",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dated",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "engaged",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-32",
+    "sents": [
+        [
+            "After",
+            "a",
+            "bumpy",
+            "road",
+            "to",
+            "the",
+            "altar",
+            ",",
+            "Kandi",
+            "Burruss",
+            "has",
+            "finally",
+            "said",
+            "\"",
+            "I",
+            "do",
+            "\"",
+            "to",
+            "her",
+            "longtime",
+            "beau",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "Real",
+            "Housewives",
+            "of",
+            "Atlanta",
+            "\"",
+            "star",
+            "got",
+            "hitched",
+            "to",
+            "Todd",
+            "Tucker",
+            ",",
+            "one",
+            "of",
+            "the",
+            "show",
+            "'s",
+            "former",
+            "producers",
+            ",",
+            "before",
+            "family",
+            "and",
+            "friends",
+            "in",
+            "Atlanta",
+            "on",
+            "Friday",
+            "evening",
+            ",",
+            "the",
+            "show",
+            "said",
+            "on",
+            "its",
+            "website",
+            "."
+        ],
+        [
+            "Burruss",
+            ",",
+            "a",
+            "Grammy",
+            "-",
+            "winning",
+            "singer",
+            "and",
+            "songwriter",
+            ",",
+            "is",
+            "a",
+            "former",
+            "member",
+            "of",
+            "R&B",
+            "group",
+            "Xscape",
+            "."
+        ],
+        [
+            "In",
+            "the",
+            "Bravo",
+            "hit",
+            "TV",
+            "reality",
+            "show",
+            ",",
+            "Burruss",
+            "'",
+            "mother",
+            "continually",
+            "expressed",
+            "disappointment",
+            "about",
+            "her",
+            "pending",
+            "nuptials",
+            "to",
+            "Tucker",
+            ",",
+            "whom",
+            "she",
+            "described",
+            "as",
+            "opportunistic",
+            "."
+        ],
+        [
+            "A",
+            "clip",
+            "from",
+            "an",
+            "upcoming",
+            "episode",
+            "shows",
+            "Tucker",
+            "confronting",
+            "his",
+            "future",
+            "mother",
+            "-",
+            "in-law",
+            "about",
+            "her",
+            "disapproval",
+            "of",
+            "their",
+            "relationship",
+            "."
+        ],
+        [
+            "The",
+            "couple",
+            "dated",
+            "for",
+            "years",
+            "before",
+            "they",
+            "got",
+            "engaged",
+            "in",
+            "2013",
+            "."
+        ]
+    ]
+}

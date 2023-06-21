@@ -1,0 +1,392 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A WOODMAN came into a forest , and made a petition to the Trees",
+                "pos": [
+                    0,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "provide him a handle for his ax",
+                "pos": [
+                    15,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The Trees , honored by his civility , acceded to his request , and held a consultation",
+                "pos": [
+                    0,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "_"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "decide which of them should be given him",
+                "pos": [
+                    18,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The Woodman cut down the Tree , and fitted the handle to his ax",
+                "pos": [
+                    0,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "then",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "to the dismay of the Trees , set to work and , with strong strokes , quickly felled all the noblest giants of the forest",
+                "pos": [
+                    16,
+                    41
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "we had not so willingly given up the rights of the Ash",
+                "pos": [
+                    1,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "we might have stood for ages",
+                "pos": [
+                    14,
+                    20
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-40",
+    "sents": [
+        [
+            "A",
+            "WOODMAN",
+            "came",
+            "into",
+            "a",
+            "forest",
+            ",",
+            "and",
+            "made",
+            "a",
+            "petition",
+            "to",
+            "the",
+            "Trees",
+            "to",
+            "provide",
+            "him",
+            "a",
+            "handle",
+            "for",
+            "his",
+            "ax",
+            "."
+        ],
+        [
+            "The",
+            "Trees",
+            ",",
+            "honored",
+            "by",
+            "his",
+            "civility",
+            ",",
+            "acceded",
+            "to",
+            "his",
+            "request",
+            ",",
+            "and",
+            "held",
+            "a",
+            "consultation",
+            "to",
+            "decide",
+            "which",
+            "of",
+            "them",
+            "should",
+            "be",
+            "given",
+            "him",
+            "."
+        ],
+        [
+            "Without",
+            "a",
+            "dissenting",
+            "voice",
+            ",",
+            "they",
+            "chose",
+            "the",
+            "Ash",
+            ",",
+            "who",
+            ",",
+            "it",
+            "seems",
+            ",",
+            "is",
+            "not",
+            "a",
+            "favorite",
+            "among",
+            "the",
+            "Trees",
+            "."
+        ],
+        [
+            "Some",
+            "of",
+            "them",
+            "were",
+            "bold",
+            "enough",
+            "to",
+            "say",
+            "that",
+            "bad",
+            "luck",
+            "went",
+            "with",
+            "the",
+            "Ash",
+            ",",
+            "and",
+            "that",
+            "at",
+            "heart",
+            "they",
+            "were",
+            "not",
+            "bound",
+            "to",
+            "be",
+            "in",
+            "sympathy",
+            "with",
+            "woodcutters",
+            "."
+        ],
+        [
+            "The",
+            "Woodman",
+            "cut",
+            "down",
+            "the",
+            "Tree",
+            ",",
+            "and",
+            "fitted",
+            "the",
+            "handle",
+            "to",
+            "his",
+            "ax",
+            ";",
+            "then",
+            "to",
+            "the",
+            "dismay",
+            "of",
+            "the",
+            "Trees",
+            ",",
+            "set",
+            "to",
+            "work",
+            "and",
+            ",",
+            "with",
+            "strong",
+            "strokes",
+            ",",
+            "quickly",
+            "felled",
+            "all",
+            "the",
+            "noblest",
+            "giants",
+            "of",
+            "the",
+            "forest",
+            "."
+        ],
+        [
+            "Lamenting",
+            "too",
+            "late",
+            "the",
+            "fate",
+            "of",
+            "his",
+            "companions",
+            ",",
+            "an",
+            "old",
+            "Oak",
+            "remarked",
+            "to",
+            "a",
+            "neighboring",
+            "Cedar",
+            ":",
+            "\u201c",
+            "The",
+            "first",
+            "step",
+            "has",
+            "lost",
+            "us",
+            "all",
+            "."
+        ],
+        [
+            "If",
+            "we",
+            "had",
+            "not",
+            "so",
+            "willingly",
+            "given",
+            "up",
+            "the",
+            "rights",
+            "of",
+            "the",
+            "Ash",
+            ",",
+            "we",
+            "might",
+            "have",
+            "stood",
+            "for",
+            "ages",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

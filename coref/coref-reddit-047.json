@@ -1,0 +1,347 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "my age",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my own age",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Im",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-047",
+    "sents": [
+        [
+            "Im",
+            "a",
+            "21",
+            "year",
+            "old",
+            "junior",
+            "transfer",
+            "from",
+            "community",
+            "college",
+            "and",
+            "I",
+            "was",
+            "so",
+            "excited",
+            "to",
+            "move",
+            "away",
+            "from",
+            "home",
+            "and",
+            "get",
+            "into",
+            "college",
+            "I",
+            "was",
+            "working",
+            "50",
+            "hours",
+            "a",
+            "week",
+            "in",
+            "a",
+            "body",
+            "shop",
+            "full",
+            "of",
+            "old",
+            "dudes",
+            "."
+        ],
+        [
+            "Barely",
+            "had",
+            "any",
+            "interaction",
+            "with",
+            "people",
+            "my",
+            "age",
+            "and",
+            "was",
+            "so",
+            "excited",
+            "to",
+            "come",
+            "to",
+            "college",
+            "."
+        ],
+        [
+            "Now",
+            "that",
+            "I",
+            "'m",
+            "here",
+            "I",
+            "feel",
+            "even",
+            "more",
+            "alone",
+            "than",
+            "before",
+            "."
+        ],
+        [
+            "Around",
+            "thousands",
+            "of",
+            "people",
+            "my",
+            "own",
+            "age",
+            "."
+        ],
+        [
+            "I",
+            "participate",
+            "in",
+            "my",
+            "classes",
+            "and",
+            "have",
+            "a",
+            "job",
+            "i",
+            "have",
+            "n't",
+            "done",
+            "any",
+            "clubs",
+            "yet",
+            "but",
+            "i",
+            "have",
+            "n't",
+            "found",
+            "one",
+            "that",
+            "interests",
+            "me",
+            "and",
+            "lines",
+            "up",
+            "with",
+            "my",
+            "schedule",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "know",
+            "how",
+            "to",
+            "introduce",
+            "myself",
+            "to",
+            "people",
+            "in",
+            "a",
+            "way",
+            "to",
+            "become",
+            "friends",
+            "only",
+            "just",
+            "nice",
+            "little",
+            "chats",
+            "before",
+            "after",
+            "or",
+            "during",
+            "class",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "want",
+            "to",
+            "know",
+            "I",
+            "'m",
+            "not",
+            "alone",
+            "in",
+            "feeling",
+            "alone",
+            "."
+        ]
+    ]
+}

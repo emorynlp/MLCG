@@ -1,0 +1,426 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "If",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you do not make these changes",
+                "pos": [
+                    14,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "your name may not be on the paper",
+                "pos": [
+                    20,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you do contribute",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "there may be a question whether you will be at the 1st or 2nd place",
+                "pos": [
+                    4,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I do n't make the changes he wants to make",
+                "pos": [
+                    4,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he will find someone else to do them",
+                "pos": [
+                    15,
+                    23
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "my uni",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "requires",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "me to get my advisor 's signature to change advisors",
+                "pos": [
+                    8,
+                    18
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "which is going to be impossible at this point",
+                "pos": [
+                    18,
+                    27
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I 'm his only publishing student",
+                "pos": [
+                    28,
+                    34
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 11,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-008",
+    "sents": [
+        [
+            "Sorry",
+            "just",
+            "need",
+            "to",
+            "rant",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "an",
+            "email",
+            "that",
+            "contained",
+            "this",
+            "a",
+            "few",
+            "minutes",
+            "ago",
+            ":",
+            "\"",
+            "If",
+            "you",
+            "do",
+            "not",
+            "make",
+            "these",
+            "changes",
+            "your",
+            "name",
+            "may",
+            "not",
+            "be",
+            "on",
+            "the",
+            "paper",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "do",
+            "contribute",
+            "there",
+            "may",
+            "be",
+            "a",
+            "question",
+            "whether",
+            "you",
+            "will",
+            "be",
+            "at",
+            "the",
+            "1st",
+            "or",
+            "2nd",
+            "place",
+            "\"",
+            "."
+        ],
+        [
+            "I",
+            "wrote",
+            "all",
+            "20",
+            "pages",
+            "of",
+            "the",
+            "paper",
+            ",",
+            "I",
+            "solely",
+            "did",
+            "all",
+            "the",
+            "experiments",
+            "."
+        ],
+        [
+            "Currently",
+            "there",
+            "are",
+            "only",
+            "2",
+            "of",
+            "us",
+            "on",
+            "the",
+            "paper",
+            ",",
+            "my",
+            "advisor",
+            "and",
+            "I.",
+            "I",
+            "did",
+            "100%",
+            "of",
+            "the",
+            "work",
+            "so",
+            "far",
+            "."
+        ],
+        [
+            "Now",
+            "he",
+            "says",
+            "if",
+            "I",
+            "do",
+            "n't",
+            "make",
+            "the",
+            "changes",
+            "he",
+            "wants",
+            "to",
+            "make",
+            ",",
+            "he",
+            "will",
+            "find",
+            "someone",
+            "else",
+            "to",
+            "do",
+            "them",
+            "."
+        ],
+        [
+            "The",
+            "changes",
+            "he",
+            "wants",
+            "to",
+            "make",
+            "are",
+            "absurd",
+            ",",
+            "make",
+            "no",
+            "sense",
+            "in",
+            "the",
+            "field",
+            "I",
+            "am",
+            "publishing",
+            "in",
+            ",",
+            "and",
+            "some",
+            "changes",
+            "are",
+            "borderline",
+            "unethical",
+            "."
+        ],
+        [
+            "I",
+            "want",
+            "to",
+            "leave",
+            "but",
+            "my",
+            "uni",
+            "requires",
+            "me",
+            "to",
+            "get",
+            "my",
+            "advisor",
+            "'s",
+            "signature",
+            "to",
+            "change",
+            "advisors",
+            "which",
+            "is",
+            "going",
+            "to",
+            "be",
+            "impossible",
+            "at",
+            "this",
+            "point",
+            "because",
+            "I",
+            "'m",
+            "his",
+            "only",
+            "publishing",
+            "student",
+            "."
+        ]
+    ]
+}

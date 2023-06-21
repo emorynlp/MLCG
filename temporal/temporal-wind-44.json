@@ -1,0 +1,418 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was a bright morning",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "resumed",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been up",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "connected",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "painting",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "varnishing",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "mending",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "repairing",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hunting",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were finishing",
+                "pos": [
+                    49,
+                    51
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "discussing",
+                "pos": [
+                    58,
+                    59
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sounded",
+                "pos": [
+                    69,
+                    70
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-44",
+    "sents": [
+        [
+            "It",
+            "was",
+            "a",
+            "bright",
+            "morning",
+            "in",
+            "the",
+            "early",
+            "part",
+            "of",
+            "summer",
+            ";",
+            "the",
+            "river",
+            "had",
+            "resumed",
+            "its",
+            "wonted",
+            "banks",
+            "and",
+            "its",
+            "accustomed",
+            "pace",
+            ",",
+            "and",
+            "a",
+            "hot",
+            "sun",
+            "seemed",
+            "to",
+            "be",
+            "pulling",
+            "everything",
+            "green",
+            "and",
+            "bushy",
+            "and",
+            "spiky",
+            "up",
+            "out",
+            "of",
+            "the",
+            "earth",
+            "towards",
+            "him",
+            ",",
+            "as",
+            "if",
+            "by",
+            "strings",
+            "."
+        ],
+        [
+            "The",
+            "Mole",
+            "and",
+            "the",
+            "Water",
+            "Rat",
+            "had",
+            "been",
+            "up",
+            "since",
+            "dawn",
+            ",",
+            "very",
+            "busy",
+            "on",
+            "matters",
+            "connected",
+            "with",
+            "boats",
+            "and",
+            "the",
+            "opening",
+            "of",
+            "the",
+            "boating",
+            "season",
+            ";",
+            "painting",
+            "and",
+            "varnishing",
+            ",",
+            "mending",
+            "paddles",
+            ",",
+            "repairing",
+            "cushions",
+            ",",
+            "hunting",
+            "for",
+            "missing",
+            "boat",
+            "-",
+            "hooks",
+            ",",
+            "and",
+            "so",
+            "on",
+            ";",
+            "and",
+            "were",
+            "finishing",
+            "breakfast",
+            "in",
+            "their",
+            "little",
+            "parlour",
+            "and",
+            "eagerly",
+            "discussing",
+            "their",
+            "plans",
+            "for",
+            "the",
+            "day",
+            ",",
+            "when",
+            "a",
+            "heavy",
+            "knock",
+            "sounded",
+            "at",
+            "the",
+            "door",
+            "."
+        ]
+    ]
+}

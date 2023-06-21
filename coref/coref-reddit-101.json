@@ -1,0 +1,396 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "some of the stuff",
+                "pos": [
+                    19,
+                    23
+                ],
+                "sent_id": 6,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "the stuff",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 6,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "issues",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "graduate school",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "a program",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "graduate school",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my program",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-101",
+    "sents": [
+        [
+            "I",
+            "wanted",
+            "to",
+            "get",
+            "some",
+            "ideas",
+            "since",
+            "I",
+            "'ve",
+            "seen",
+            "a",
+            "lot",
+            "of",
+            "posts",
+            "about",
+            "quitting",
+            "or",
+            "not",
+            "enjoying",
+            "graduate",
+            "school",
+            "."
+        ],
+        [
+            "At",
+            "what",
+            "point",
+            "is",
+            "it",
+            "not",
+            "worth",
+            "it",
+            "to",
+            "you",
+            "to",
+            "continue",
+            "?"
+        ],
+        [
+            "From",
+            "my",
+            "perspective",
+            ",",
+            "I",
+            "'m",
+            "just",
+            "about",
+            "to",
+            "enter",
+            "my",
+            "third",
+            "month",
+            "of",
+            "graduate",
+            "school",
+            "and",
+            "my",
+            "mental",
+            "and",
+            "physical",
+            "health",
+            "are",
+            "not",
+            "doing",
+            "very",
+            "well",
+            ";",
+            "I",
+            "already",
+            "had",
+            "underlying",
+            "issues",
+            "and",
+            "now",
+            "they",
+            "'ve",
+            "been",
+            "brought",
+            "to",
+            "the",
+            "fore",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "curious",
+            ",",
+            "what",
+            "sort",
+            "of",
+            "things",
+            "would",
+            "cause",
+            "you",
+            "to",
+            "leave",
+            "a",
+            "program",
+            "."
+        ],
+        [
+            "Hospitalization",
+            "?"
+        ],
+        [
+            "Nervous",
+            "breakdown",
+            "?"
+        ],
+        [
+            "Update",
+            ":",
+            "Currently",
+            "sitting",
+            "in",
+            "the",
+            "ER",
+            ",",
+            "did",
+            "n't",
+            "trust",
+            "myself",
+            "to",
+            "just",
+            "sit",
+            "in",
+            "my",
+            "room",
+            "with",
+            "some",
+            "of",
+            "the",
+            "stuff",
+            "I",
+            "have",
+            "in",
+            "there",
+            "."
+        ],
+        [
+            "Not",
+            "making",
+            "any",
+            "decisions",
+            "about",
+            "my",
+            "program",
+            ",",
+            "just",
+            "trying",
+            "to",
+            "get",
+            "through",
+            "today",
+            "and",
+            "tomorrow",
+            "."
+        ]
+    ]
+}

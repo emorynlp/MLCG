@@ -1,0 +1,282 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bowed",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked up",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "replied",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-09",
+    "sents": [
+        [
+            "The",
+            "Witch",
+            "of",
+            "the",
+            "North",
+            "seemed",
+            "to",
+            "think",
+            "for",
+            "a",
+            "time",
+            ",",
+            "with",
+            "her",
+            "head",
+            "bowed",
+            "and",
+            "her",
+            "eyes",
+            "upon",
+            "the",
+            "ground",
+            "."
+        ],
+        [
+            "Then",
+            "she",
+            "looked",
+            "up",
+            "and",
+            "said",
+            ",",
+            "\"",
+            "I",
+            "do",
+            "not",
+            "know",
+            "where",
+            "Kansas",
+            "is",
+            ",",
+            "for",
+            "I",
+            "have",
+            "never",
+            "heard",
+            "that",
+            "country",
+            "mentioned",
+            "before",
+            "."
+        ],
+        [
+            "But",
+            "tell",
+            "me",
+            ",",
+            "is",
+            "it",
+            "a",
+            "civilized",
+            "country",
+            "?",
+            "\""
+        ],
+        [
+            "\"",
+            "Oh",
+            ",",
+            "yes",
+            ",",
+            "\"",
+            "replied",
+            "Dorothy",
+            "."
+        ],
+        [
+            "\"",
+            "Then",
+            "that",
+            "accounts",
+            "for",
+            "it",
+            "."
+        ],
+        [
+            "In",
+            "the",
+            "civilized",
+            "countries",
+            "I",
+            "believe",
+            "there",
+            "are",
+            "no",
+            "witches",
+            "left",
+            ",",
+            "nor",
+            "wizards",
+            ",",
+            "nor",
+            "sorceresses",
+            ",",
+            "nor",
+            "magicians",
+            "."
+        ],
+        [
+            "But",
+            ",",
+            "you",
+            "see",
+            ",",
+            "the",
+            "Land",
+            "of",
+            "Oz",
+            "has",
+            "never",
+            "been",
+            "civilized",
+            ",",
+            "for",
+            "we",
+            "are",
+            "cut",
+            "off",
+            "from",
+            "all",
+            "the",
+            "rest",
+            "of",
+            "the",
+            "world",
+            "."
+        ],
+        [
+            "Therefore",
+            "we",
+            "still",
+            "have",
+            "witches",
+            "and",
+            "wizards",
+            "amongst",
+            "us",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

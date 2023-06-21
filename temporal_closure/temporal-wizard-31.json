@@ -1,0 +1,395 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "be an eventful day",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been walking",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "crossed",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "divided",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a very wide ditch",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "crept up",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked into",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was also very deep",
+                "pos": [
+                    23,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were many big , jagged rocks",
+                "pos": [
+                    30,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were so steep",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-31",
+    "sents": [
+        [
+            "This",
+            "was",
+            "to",
+            "be",
+            "an",
+            "eventful",
+            "day",
+            "for",
+            "the",
+            "travelers",
+            "."
+        ],
+        [
+            "They",
+            "had",
+            "hardly",
+            "been",
+            "walking",
+            "an",
+            "hour",
+            "when",
+            "they",
+            "saw",
+            "before",
+            "them",
+            "a",
+            "great",
+            "ditch",
+            "that",
+            "crossed",
+            "the",
+            "road",
+            "and",
+            "divided",
+            "the",
+            "forest",
+            "as",
+            "far",
+            "as",
+            "they",
+            "could",
+            "see",
+            "on",
+            "either",
+            "side",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "a",
+            "very",
+            "wide",
+            "ditch",
+            ",",
+            "and",
+            "when",
+            "they",
+            "crept",
+            "up",
+            "to",
+            "the",
+            "edge",
+            "and",
+            "looked",
+            "into",
+            "it",
+            "they",
+            "could",
+            "see",
+            "it",
+            "was",
+            "also",
+            "very",
+            "deep",
+            ",",
+            "and",
+            "there",
+            "were",
+            "many",
+            "big",
+            ",",
+            "jagged",
+            "rocks",
+            "at",
+            "the",
+            "bottom",
+            "."
+        ],
+        [
+            "The",
+            "sides",
+            "were",
+            "so",
+            "steep",
+            "that",
+            "none",
+            "of",
+            "them",
+            "could",
+            "climb",
+            "down",
+            ",",
+            "and",
+            "for",
+            "a",
+            "moment",
+            "it",
+            "seemed",
+            "that",
+            "their",
+            "journey",
+            "must",
+            "end",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A tropical depression that is likely to become a tropical storm by Sunday",
+                "pos": [
+                    0,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "has",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "areas of the islands of the Bahamas on guard",
+                "pos": [
+                    14,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The Bahamian government issued a tropical storm warning Saturday evening",
+                "pos": [
+                    0,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "portions of the Bahamas and the Turks and Caicos",
+                "pos": [
+                    11,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "any sort of deviation from the forecast path later this week",
+                "pos": [
+                    4,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "result in",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "high surf and rip currents in areas along the U.S. coast",
+                "pos": [
+                    18,
+                    29
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-35",
+    "sents": [
+        [
+            "A",
+            "tropical",
+            "depression",
+            "that",
+            "is",
+            "likely",
+            "to",
+            "become",
+            "a",
+            "tropical",
+            "storm",
+            "by",
+            "Sunday",
+            "has",
+            "areas",
+            "of",
+            "the",
+            "islands",
+            "of",
+            "the",
+            "Bahamas",
+            "on",
+            "guard",
+            "."
+        ],
+        [
+            "The",
+            "Bahamian",
+            "government",
+            "issued",
+            "a",
+            "tropical",
+            "storm",
+            "warning",
+            "Saturday",
+            "evening",
+            "for",
+            "portions",
+            "of",
+            "the",
+            "Bahamas",
+            "and",
+            "the",
+            "Turks",
+            "and",
+            "Caicos",
+            "."
+        ],
+        [
+            "CNN",
+            "Meteorologist",
+            "Jennifer",
+            "Gray",
+            "said",
+            "Saturday",
+            "the",
+            "storm",
+            "is",
+            "a",
+            "bit",
+            "\"",
+            "ragged",
+            "\"",
+            "but",
+            "over",
+            "the",
+            "next",
+            "day",
+            "or",
+            "so",
+            "is",
+            "likely",
+            "to",
+            "organize",
+            "and",
+            "strengthen",
+            "."
+        ],
+        [
+            "According",
+            "to",
+            "the",
+            "U.S.",
+            "National",
+            "Hurricane",
+            "Center",
+            "forecast",
+            "track",
+            ",",
+            "the",
+            "storm",
+            "is",
+            "likely",
+            "to",
+            "stay",
+            "just",
+            "east",
+            "of",
+            "the",
+            "United",
+            "States",
+            "'",
+            "Atlantic",
+            "coast",
+            "."
+        ],
+        [
+            "However",
+            ",",
+            "Gray",
+            "said",
+            "any",
+            "sort",
+            "of",
+            "deviation",
+            "from",
+            "the",
+            "forecast",
+            "path",
+            "later",
+            "this",
+            "week",
+            "could",
+            "result",
+            "in",
+            "high",
+            "surf",
+            "and",
+            "rip",
+            "currents",
+            "in",
+            "areas",
+            "along",
+            "the",
+            "U.S.",
+            "coast",
+            "."
+        ]
+    ]
+}

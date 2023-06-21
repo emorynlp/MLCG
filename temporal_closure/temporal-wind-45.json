@@ -1,0 +1,393 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "kicking",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "calling",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sat",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stood",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was merely Toad",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "giggled",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seeming",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-45",
+    "sents": [
+        [
+            "They",
+            "had",
+            "to",
+            "lay",
+            "Toad",
+            "out",
+            "on",
+            "the",
+            "floor",
+            ",",
+            "kicking",
+            "and",
+            "calling",
+            "all",
+            "sorts",
+            "of",
+            "names",
+            ",",
+            "before",
+            "they",
+            "could",
+            "get",
+            "to",
+            "work",
+            "properly",
+            "."
+        ],
+        [
+            "Then",
+            "the",
+            "Rat",
+            "sat",
+            "on",
+            "him",
+            ",",
+            "and",
+            "the",
+            "Mole",
+            "got",
+            "his",
+            "motor",
+            "-",
+            "clothes",
+            "off",
+            "him",
+            "bit",
+            "by",
+            "bit",
+            ",",
+            "and",
+            "they",
+            "stood",
+            "him",
+            "up",
+            "on",
+            "his",
+            "legs",
+            "again",
+            "."
+        ],
+        [
+            "A",
+            "good",
+            "deal",
+            "of",
+            "his",
+            "blustering",
+            "spirit",
+            "seemed",
+            "to",
+            "have",
+            "evaporated",
+            "with",
+            "the",
+            "removal",
+            "of",
+            "his",
+            "fine",
+            "panoply",
+            "."
+        ],
+        [
+            "Now",
+            "that",
+            "he",
+            "was",
+            "merely",
+            "Toad",
+            ",",
+            "and",
+            "no",
+            "longer",
+            "the",
+            "Terror",
+            "of",
+            "the",
+            "Highway",
+            ",",
+            "he",
+            "giggled",
+            "feebly",
+            "and",
+            "looked",
+            "from",
+            "one",
+            "to",
+            "the",
+            "other",
+            "appealingly",
+            ",",
+            "seeming",
+            "quite",
+            "to",
+            "understand",
+            "the",
+            "situation",
+            "."
+        ]
+    ]
+}

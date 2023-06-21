@@ -1,0 +1,369 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "3 people",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "yale",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "another two",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Stanford",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "these schools",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Their",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "event"
+            },
+            {
+                "name": "feeling",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "stressed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "this way",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-011",
+    "sents": [
+        [
+            "Tonight",
+            "at",
+            "my",
+            "school",
+            "3",
+            "people",
+            "committed",
+            "to",
+            "yale",
+            "and",
+            "another",
+            "two",
+            "to",
+            "Stanford",
+            "."
+        ],
+        [
+            "While",
+            "I",
+            "did",
+            "n\u2019t",
+            "apply",
+            "to",
+            "these",
+            "schools",
+            "I",
+            "ca",
+            "n\u2019t",
+            "help",
+            "but",
+            "feel",
+            "jealous",
+            "."
+        ],
+        [
+            "Their",
+            "future",
+            "is",
+            "pretty",
+            "much",
+            "set",
+            "and",
+            "they",
+            "can",
+            "just",
+            "focus",
+            "on",
+            "school",
+            "."
+        ],
+        [
+            "They",
+            "all",
+            "have",
+            "such",
+            "amazing",
+            "ECs",
+            "and",
+            "grade",
+            "but",
+            "all",
+            "I",
+            "have",
+            "is",
+            "two",
+            "jobs",
+            "which",
+            "do",
+            "n\u2019t",
+            "look",
+            "as",
+            "cool",
+            "as",
+            "being",
+            "student",
+            "board",
+            "members",
+            "and",
+            "musicians",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "stressed",
+            "because",
+            "i",
+            "\u2019m",
+            "in",
+            "a",
+            "magnet",
+            "program",
+            "and",
+            "if",
+            "I",
+            "do",
+            "nt",
+            "attempt",
+            "a",
+            "top",
+            "school",
+            "I",
+            "would",
+            "have",
+            "wasted",
+            "my",
+            "time",
+            "."
+        ],
+        [
+            "How",
+            "do",
+            "I",
+            "combat",
+            "feeling",
+            "this",
+            "way",
+            "?"
+        ]
+    ]
+}

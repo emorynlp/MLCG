@@ -1,0 +1,480 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "camped",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took care",
+                "pos": [
+                    32,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was by no means so rapturous",
+                "pos": [
+                    13,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "attempted",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was hauled",
+                "pos": [
+                    40,
+                    42
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lay",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came out",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sprang out",
+                "pos": [
+                    44,
+                    46
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "overwhelming",
+                "pos": [
+                    58,
+                    59
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-14",
+    "sents": [
+        [
+            "They",
+            "had",
+            "a",
+            "pleasant",
+            "ramble",
+            "that",
+            "day",
+            "over",
+            "grassy",
+            "downs",
+            "and",
+            "along",
+            "narrow",
+            "by",
+            "-",
+            "lanes",
+            ",",
+            "and",
+            "camped",
+            "as",
+            "before",
+            ",",
+            "on",
+            "a",
+            "common",
+            ",",
+            "only",
+            "this",
+            "time",
+            "the",
+            "two",
+            "guests",
+            "took",
+            "care",
+            "that",
+            "Toad",
+            "should",
+            "do",
+            "his",
+            "fair",
+            "share",
+            "of",
+            "work",
+            "."
+        ],
+        [
+            "In",
+            "consequence",
+            ",",
+            "when",
+            "the",
+            "time",
+            "came",
+            "for",
+            "starting",
+            "next",
+            "morning",
+            ",",
+            "Toad",
+            "was",
+            "by",
+            "no",
+            "means",
+            "so",
+            "rapturous",
+            "about",
+            "the",
+            "simplicity",
+            "of",
+            "the",
+            "primitive",
+            "life",
+            ",",
+            "and",
+            "indeed",
+            "attempted",
+            "to",
+            "resume",
+            "his",
+            "place",
+            "in",
+            "his",
+            "bunk",
+            ",",
+            "whence",
+            "he",
+            "was",
+            "hauled",
+            "by",
+            "force",
+            "."
+        ],
+        [
+            "Their",
+            "way",
+            "lay",
+            ",",
+            "as",
+            "before",
+            ",",
+            "across",
+            "country",
+            "by",
+            "narrow",
+            "lanes",
+            ",",
+            "and",
+            "it",
+            "was",
+            "not",
+            "till",
+            "the",
+            "afternoon",
+            "that",
+            "they",
+            "came",
+            "out",
+            "on",
+            "the",
+            "high",
+            "-",
+            "road",
+            ",",
+            "their",
+            "first",
+            "high",
+            "-",
+            "road",
+            ";",
+            "and",
+            "there",
+            "disaster",
+            ",",
+            "fleet",
+            "and",
+            "unforeseen",
+            ",",
+            "sprang",
+            "out",
+            "on",
+            "them",
+            "\u2014",
+            "disaster",
+            "momentous",
+            "indeed",
+            "to",
+            "their",
+            "expedition",
+            ",",
+            "but",
+            "simply",
+            "overwhelming",
+            "in",
+            "its",
+            "effect",
+            "on",
+            "the",
+            "after",
+            "-",
+            "career",
+            "of",
+            "Toad",
+            "."
+        ]
+    ]
+}

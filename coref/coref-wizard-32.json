@@ -1,0 +1,318 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The Lion",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they all",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Lion",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The Lion",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the beast",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-32",
+    "sents": [
+        [
+            "Dorothy",
+            "thought",
+            "she",
+            "would",
+            "go",
+            "next",
+            ";",
+            "so",
+            "she",
+            "took",
+            "Toto",
+            "in",
+            "her",
+            "arms",
+            "and",
+            "climbed",
+            "on",
+            "the",
+            "Lion",
+            "'",
+            "s",
+            "back",
+            ",",
+            "holding",
+            "tightly",
+            "to",
+            "his",
+            "mane",
+            "with",
+            "one",
+            "hand",
+            "."
+        ],
+        [
+            "The",
+            "next",
+            "moment",
+            "it",
+            "seemed",
+            "as",
+            "if",
+            "she",
+            "were",
+            "flying",
+            "through",
+            "the",
+            "air",
+            ";",
+            "and",
+            "then",
+            ",",
+            "before",
+            "she",
+            "had",
+            "time",
+            "to",
+            "think",
+            "about",
+            "it",
+            ",",
+            "she",
+            "was",
+            "safe",
+            "on",
+            "the",
+            "other",
+            "side",
+            "."
+        ],
+        [
+            "The",
+            "Lion",
+            "went",
+            "back",
+            "a",
+            "third",
+            "time",
+            "and",
+            "got",
+            "the",
+            "Tin",
+            "Woodman",
+            ",",
+            "and",
+            "then",
+            "they",
+            "all",
+            "sat",
+            "down",
+            "for",
+            "a",
+            "few",
+            "moments",
+            "to",
+            "give",
+            "the",
+            "beast",
+            "a",
+            "chance",
+            "to",
+            "rest",
+            ",",
+            "for",
+            "his",
+            "great",
+            "leaps",
+            "had",
+            "made",
+            "his",
+            "breath",
+            "short",
+            ",",
+            "and",
+            "he",
+            "panted",
+            "like",
+            "a",
+            "big",
+            "dog",
+            "that",
+            "has",
+            "been",
+            "running",
+            "too",
+            "long",
+            "."
+        ]
+    ]
+}

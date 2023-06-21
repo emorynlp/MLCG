@@ -1,0 +1,406 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "Leaving",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "passed into",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sloped down",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gleamed",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "held up",
+                "pos": [
+                    48,
+                    50
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "filled",
+                "pos": [
+                    61,
+                    62
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "speaking up",
+                "pos": [
+                    80,
+                    82
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was so very beautiful",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hold up",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gasp",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-05",
+    "sents": [
+        [
+            "Leaving",
+            "the",
+            "main",
+            "stream",
+            ",",
+            "they",
+            "now",
+            "passed",
+            "into",
+            "what",
+            "seemed",
+            "at",
+            "first",
+            "sight",
+            "like",
+            "a",
+            "little",
+            "land",
+            "-",
+            "locked",
+            "lake",
+            "."
+        ],
+        [
+            "Green",
+            "turf",
+            "sloped",
+            "down",
+            "to",
+            "either",
+            "edge",
+            ",",
+            "brown",
+            "snaky",
+            "tree",
+            "-",
+            "roots",
+            "gleamed",
+            "below",
+            "the",
+            "surface",
+            "of",
+            "the",
+            "quiet",
+            "water",
+            ",",
+            "while",
+            "ahead",
+            "of",
+            "them",
+            "the",
+            "silvery",
+            "shoulder",
+            "and",
+            "foamy",
+            "tumble",
+            "of",
+            "a",
+            "weir",
+            ",",
+            "arm",
+            "-",
+            "in-arm",
+            "with",
+            "a",
+            "restless",
+            "dripping",
+            "mill",
+            "-",
+            "wheel",
+            ",",
+            "that",
+            "held",
+            "up",
+            "in",
+            "its",
+            "turn",
+            "a",
+            "grey",
+            "-",
+            "gabled",
+            "mill",
+            "-",
+            "house",
+            ",",
+            "filled",
+            "the",
+            "air",
+            "with",
+            "a",
+            "soothing",
+            "murmur",
+            "of",
+            "sound",
+            ",",
+            "dull",
+            "and",
+            "smothery",
+            ",",
+            "yet",
+            "with",
+            "little",
+            "clear",
+            "voices",
+            "speaking",
+            "up",
+            "cheerfully",
+            "out",
+            "of",
+            "it",
+            "at",
+            "intervals",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "so",
+            "very",
+            "beautiful",
+            "that",
+            "the",
+            "Mole",
+            "could",
+            "only",
+            "hold",
+            "up",
+            "both",
+            "forepaws",
+            "and",
+            "gasp",
+            ",",
+            "\"",
+            "O",
+            "my",
+            "!",
+            "O",
+            "my",
+            "!",
+            "O",
+            "my",
+            "!",
+            "\""
+        ]
+    ]
+}

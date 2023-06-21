@@ -1,0 +1,469 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "You 're the one who waited until the last second",
+                "pos": [
+                    0,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "let",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "anyone know about the textbook",
+                "pos": [
+                    12,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I have to pay for it with my own money",
+                "pos": [
+                    0,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the bookstore is n't open anymore and it 's definitely not going to be here by tomorrow",
+                "pos": [
+                    11,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "scalpers jack up the prices of textbooks",
+                "pos": [
+                    5,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "before",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "class starts",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I have to buy from some online service",
+                "pos": [
+                    0,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "let 's add shipping costs to that",
+                "pos": [
+                    9,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Tell us at least a week in advance",
+                "pos": [
+                    0,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you want us to have the book by the next day",
+                "pos": [
+                    9,
+                    20
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Do n't expect us to have the textbook ready",
+                "pos": [
+                    4,
+                    13
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 8,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you wait until the very last second to tell us what it is",
+                "pos": [
+                    14,
+                    27
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-006",
+    "sents": [
+        [
+            "\"",
+            "Here",
+            "'s",
+            "the",
+            "textbook",
+            ",",
+            "have",
+            "it",
+            "by",
+            "tomorrow",
+            ".",
+            "\""
+        ],
+        [
+            "You",
+            "'re",
+            "the",
+            "one",
+            "who",
+            "waited",
+            "until",
+            "the",
+            "last",
+            "second",
+            "to",
+            "let",
+            "anyone",
+            "know",
+            "about",
+            "the",
+            "textbook",
+            "and",
+            "you",
+            "expect",
+            "us",
+            "to",
+            "be",
+            "ready",
+            "to",
+            "use",
+            "it",
+            "the",
+            "next",
+            "day",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "to",
+            "pay",
+            "for",
+            "it",
+            "with",
+            "my",
+            "own",
+            "money",
+            "because",
+            "the",
+            "bookstore",
+            "is",
+            "n't",
+            "open",
+            "anymore",
+            "and",
+            "it",
+            "'s",
+            "definitely",
+            "not",
+            "going",
+            "to",
+            "be",
+            "here",
+            "by",
+            "tomorrow",
+            "."
+        ],
+        [
+            "Do",
+            "n't",
+            "you",
+            "know",
+            "that",
+            "scalpers",
+            "jack",
+            "up",
+            "the",
+            "prices",
+            "of",
+            "textbooks",
+            "right",
+            "before",
+            "class",
+            "starts",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "to",
+            "buy",
+            "from",
+            "some",
+            "online",
+            "service",
+            "so",
+            "let",
+            "'s",
+            "add",
+            "shipping",
+            "costs",
+            "to",
+            "that",
+            "."
+        ],
+        [
+            "And",
+            "do",
+            "n't",
+            "forget",
+            "tax",
+            "!"
+        ],
+        [
+            "Oh",
+            ",",
+            "and",
+            "it",
+            "costs",
+            "just",
+            "as",
+            "much",
+            "to",
+            "rent",
+            "."
+        ],
+        [
+            "Tell",
+            "us",
+            "at",
+            "least",
+            "a",
+            "week",
+            "in",
+            "advance",
+            "if",
+            "you",
+            "want",
+            "us",
+            "to",
+            "have",
+            "the",
+            "book",
+            "by",
+            "the",
+            "next",
+            "day",
+            "!"
+        ],
+        [
+            "TL",
+            ";",
+            "DR",
+            ":",
+            "Do",
+            "n't",
+            "expect",
+            "us",
+            "to",
+            "have",
+            "the",
+            "textbook",
+            "ready",
+            "if",
+            "you",
+            "wait",
+            "until",
+            "the",
+            "very",
+            "last",
+            "second",
+            "to",
+            "tell",
+            "us",
+            "what",
+            "it",
+            "is",
+            "!"
+        ]
+    ]
+}

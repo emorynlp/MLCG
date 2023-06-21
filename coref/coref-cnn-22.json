@@ -1,0 +1,461 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A mother",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two children",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Pittsburgh",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The city",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Pittsburgh",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Pittsburgh",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a car",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "their vehicle",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the family 's vehicle",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the car",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The water",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "their",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The three",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "all three",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "drowned",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "drowned",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Michael Huss",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Huss",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Huss",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Huss",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "Huss",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one person",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "that person",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-22",
+    "sents": [
+        [
+            "A",
+            "mother",
+            "and",
+            "two",
+            "children",
+            "drowned",
+            "inside",
+            "a",
+            "car",
+            "Friday",
+            "after",
+            "floodwater",
+            "washed",
+            "their",
+            "vehicle",
+            "away",
+            ",",
+            "a",
+            "Pittsburgh",
+            "city",
+            "official",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "city",
+            "experienced",
+            "a",
+            "heavy",
+            "storm",
+            "and",
+            "flooding",
+            "shortly",
+            "after",
+            "4",
+            "p.m.",
+            "Friday",
+            ",",
+            "said",
+            "Michael",
+            "Huss",
+            ",",
+            "Pittsburgh",
+            "director",
+            "of",
+            "Public",
+            "Safety",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "manhole",
+            "covers",
+            "began",
+            "to",
+            "lift",
+            "from",
+            "the",
+            "rush",
+            "of",
+            "water",
+            ",",
+            "and",
+            "the",
+            "roadway",
+            "flooded",
+            ",",
+            "\"",
+            "Huss",
+            "said",
+            "."
+        ],
+        [
+            "CNN",
+            "affiliate",
+            "WTAE",
+            "reported",
+            "that",
+            "the",
+            "incident",
+            "took",
+            "place",
+            "in",
+            "the",
+            "eastern",
+            "Pittsburgh",
+            "neighborhood",
+            "of",
+            "Highland",
+            "Park",
+            "in",
+            "Pennsylvania",
+            "."
+        ],
+        [
+            "Huss",
+            "said",
+            "the",
+            "family",
+            "'s",
+            "vehicle",
+            "washed",
+            "down",
+            "the",
+            "roadway",
+            "and",
+            "got",
+            "stuck",
+            "next",
+            "to",
+            "a",
+            "tree",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "three",
+            "could",
+            "not",
+            "get",
+            "out",
+            "of",
+            "the",
+            "car",
+            "before",
+            "it",
+            "was",
+            "submerged",
+            ",",
+            "\"",
+            "Huss",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "water",
+            "had",
+            "a",
+            "lot",
+            "of",
+            "force",
+            "behind",
+            "(",
+            "it",
+            ")",
+            ",",
+            "and",
+            "all",
+            "three",
+            "inside",
+            "drowned",
+            ".",
+            "\""
+        ],
+        [
+            "In",
+            "addition",
+            ",",
+            "Huss",
+            "said",
+            ",",
+            "\"",
+            "We",
+            "have",
+            "one",
+            "person",
+            "whose",
+            "car",
+            "was",
+            "located",
+            ",",
+            "but",
+            "that",
+            "person",
+            "is",
+            "still",
+            "unaccounted",
+            "for",
+            ".",
+            "\""
+        ],
+        [
+            "Dive",
+            "units",
+            "were",
+            "searching",
+            "late",
+            "Friday",
+            "night",
+            "."
+        ]
+    ]
+}

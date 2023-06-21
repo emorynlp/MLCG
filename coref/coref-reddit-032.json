@@ -1,0 +1,346 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "your roommate",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "friends",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "them",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this post",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "post"
+            }
+        ],
+        [
+            {
+                "name": "plenty of people",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "people",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "those things",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "stuff",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-032",
+    "sents": [
+        [
+            "Since",
+            "school",
+            "is",
+            "starting",
+            "back",
+            "up",
+            "again",
+            "I",
+            "just",
+            "wanted",
+            "to",
+            "make",
+            "this",
+            "post",
+            "to",
+            "help",
+            "and",
+            "warn",
+            "people",
+            "."
+        ],
+        [
+            "If",
+            "you",
+            "'re",
+            "not",
+            "a",
+            "drinker",
+            "or",
+            "partier",
+            "do",
+            "n't",
+            "feel",
+            "like",
+            "you",
+            "have",
+            "to",
+            "go",
+            "out",
+            "and",
+            "do",
+            "those",
+            "things",
+            "because",
+            "\"",
+            "everyone",
+            "else",
+            "is",
+            "doing",
+            "it",
+            "and",
+            "it",
+            "'s",
+            "part",
+            "of",
+            "the",
+            "experience",
+            "\"",
+            "."
+        ],
+        [
+            "Not",
+            "everyone",
+            "is",
+            "doing",
+            "it",
+            ",",
+            "plenty",
+            "of",
+            "people",
+            "do",
+            "n't",
+            "drink",
+            "or",
+            "go",
+            "out",
+            "partying",
+            "and",
+            "they",
+            "still",
+            "have",
+            "fun",
+            ",",
+            "they",
+            "still",
+            "make",
+            "friends",
+            "and",
+            "they",
+            "still",
+            "have",
+            "great",
+            "memories",
+            "."
+        ],
+        [
+            "Do",
+            "n't",
+            "feel",
+            "obligated",
+            "to",
+            "do",
+            "stuff",
+            "you",
+            "would",
+            "n't",
+            "normally",
+            "do",
+            "because",
+            "your",
+            "roommate",
+            "or",
+            "friends",
+            "are",
+            "doing",
+            "it",
+            "."
+        ],
+        [
+            "It",
+            "'s",
+            "okay",
+            "to",
+            "tell",
+            "them",
+            "no",
+            "!"
+        ]
+    ]
+}

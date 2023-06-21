@@ -1,0 +1,386 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "her strangely assorted company",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "their mothers",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "them",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a man",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "many people",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Many shops",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the children",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the children",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "green lemonade",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-45",
+    "sents": [
+        [
+            "There",
+            "were",
+            "many",
+            "people",
+            "--",
+            "men",
+            ",",
+            "women",
+            ",",
+            "and",
+            "children",
+            "--",
+            "walking",
+            "about",
+            ",",
+            "and",
+            "these",
+            "were",
+            "all",
+            "dressed",
+            "in",
+            "green",
+            "clothes",
+            "and",
+            "had",
+            "greenish",
+            "skins",
+            "."
+        ],
+        [
+            "They",
+            "looked",
+            "at",
+            "Dorothy",
+            "and",
+            "her",
+            "strangely",
+            "assorted",
+            "company",
+            "with",
+            "wondering",
+            "eyes",
+            ",",
+            "and",
+            "the",
+            "children",
+            "all",
+            "ran",
+            "away",
+            "and",
+            "hid",
+            "behind",
+            "their",
+            "mothers",
+            "when",
+            "they",
+            "saw",
+            "the",
+            "Lion",
+            ";",
+            "but",
+            "no",
+            "one",
+            "spoke",
+            "to",
+            "them",
+            "."
+        ],
+        [
+            "Many",
+            "shops",
+            "stood",
+            "in",
+            "the",
+            "street",
+            ",",
+            "and",
+            "Dorothy",
+            "saw",
+            "that",
+            "everything",
+            "in",
+            "them",
+            "was",
+            "green",
+            "."
+        ],
+        [
+            "Green",
+            "candy",
+            "and",
+            "green",
+            "pop",
+            "corn",
+            "were",
+            "offered",
+            "for",
+            "sale",
+            ",",
+            "as",
+            "well",
+            "as",
+            "green",
+            "shoes",
+            ",",
+            "green",
+            "hats",
+            ",",
+            "and",
+            "green",
+            "clothes",
+            "of",
+            "all",
+            "sorts",
+            "."
+        ],
+        [
+            "At",
+            "one",
+            "place",
+            "a",
+            "man",
+            "was",
+            "selling",
+            "green",
+            "lemonade",
+            ",",
+            "and",
+            "when",
+            "the",
+            "children",
+            "bought",
+            "it",
+            "Dorothy",
+            "could",
+            "see",
+            "that",
+            "they",
+            "paid",
+            "for",
+            "it",
+            "with",
+            "green",
+            "pennies",
+            "."
+        ]
+    ]
+}

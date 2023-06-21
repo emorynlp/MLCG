@@ -1,0 +1,803 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "came into",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "honored",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "acceded to",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "held",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chose",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seems",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were bold",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cut down",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fitted",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "work",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felled",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Lamenting",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "remarked",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-40",
+    "sents": [
+        [
+            "A",
+            "WOODMAN",
+            "came",
+            "into",
+            "a",
+            "forest",
+            ",",
+            "and",
+            "made",
+            "a",
+            "petition",
+            "to",
+            "the",
+            "Trees",
+            "to",
+            "provide",
+            "him",
+            "a",
+            "handle",
+            "for",
+            "his",
+            "ax",
+            "."
+        ],
+        [
+            "The",
+            "Trees",
+            ",",
+            "honored",
+            "by",
+            "his",
+            "civility",
+            ",",
+            "acceded",
+            "to",
+            "his",
+            "request",
+            ",",
+            "and",
+            "held",
+            "a",
+            "consultation",
+            "to",
+            "decide",
+            "which",
+            "of",
+            "them",
+            "should",
+            "be",
+            "given",
+            "him",
+            "."
+        ],
+        [
+            "Without",
+            "a",
+            "dissenting",
+            "voice",
+            ",",
+            "they",
+            "chose",
+            "the",
+            "Ash",
+            ",",
+            "who",
+            ",",
+            "it",
+            "seems",
+            ",",
+            "is",
+            "not",
+            "a",
+            "favorite",
+            "among",
+            "the",
+            "Trees",
+            "."
+        ],
+        [
+            "Some",
+            "of",
+            "them",
+            "were",
+            "bold",
+            "enough",
+            "to",
+            "say",
+            "that",
+            "bad",
+            "luck",
+            "went",
+            "with",
+            "the",
+            "Ash",
+            ",",
+            "and",
+            "that",
+            "at",
+            "heart",
+            "they",
+            "were",
+            "not",
+            "bound",
+            "to",
+            "be",
+            "in",
+            "sympathy",
+            "with",
+            "woodcutters",
+            "."
+        ],
+        [
+            "The",
+            "Woodman",
+            "cut",
+            "down",
+            "the",
+            "Tree",
+            ",",
+            "and",
+            "fitted",
+            "the",
+            "handle",
+            "to",
+            "his",
+            "ax",
+            ";",
+            "then",
+            "to",
+            "the",
+            "dismay",
+            "of",
+            "the",
+            "Trees",
+            ",",
+            "set",
+            "to",
+            "work",
+            "and",
+            ",",
+            "with",
+            "strong",
+            "strokes",
+            ",",
+            "quickly",
+            "felled",
+            "all",
+            "the",
+            "noblest",
+            "giants",
+            "of",
+            "the",
+            "forest",
+            "."
+        ],
+        [
+            "Lamenting",
+            "too",
+            "late",
+            "the",
+            "fate",
+            "of",
+            "his",
+            "companions",
+            ",",
+            "an",
+            "old",
+            "Oak",
+            "remarked",
+            "to",
+            "a",
+            "neighboring",
+            "Cedar",
+            ":",
+            "\u201c",
+            "The",
+            "first",
+            "step",
+            "has",
+            "lost",
+            "us",
+            "all",
+            "."
+        ],
+        [
+            "If",
+            "we",
+            "had",
+            "not",
+            "so",
+            "willingly",
+            "given",
+            "up",
+            "the",
+            "rights",
+            "of",
+            "the",
+            "Ash",
+            ",",
+            "we",
+            "might",
+            "have",
+            "stood",
+            "for",
+            "ages",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

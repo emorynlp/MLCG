@@ -1,0 +1,354 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "spent",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stressing",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "realised",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was like",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "retraced",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "realised",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "spent",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-065",
+    "sents": [
+        [
+            "i",
+            "\u2019ve",
+            "spent",
+            "so",
+            "much",
+            "time",
+            "on",
+            "this",
+            "sub",
+            "(",
+            "and",
+            "stressing",
+            "about",
+            "college",
+            "apps",
+            "even",
+            "prior",
+            "to",
+            "this",
+            "sub",
+            ")",
+            "that",
+            "i",
+            "literally",
+            "just",
+            "realised",
+            "that\u2026",
+            "it",
+            "\u2019s",
+            "not",
+            "normal",
+            "??"
+        ],
+        [
+            "i",
+            "saw",
+            "a",
+            "comment",
+            "on",
+            "r",
+            "/",
+            "chanceme",
+            "where",
+            "someone",
+            "was",
+            "like",
+            "\u201c",
+            "*what",
+            "student",
+            "is",
+            "likely",
+            "to",
+            "spend",
+            "their",
+            "free",
+            "time",
+            "on",
+            "a",
+            "subreddit",
+            "about",
+            "applying",
+            "to",
+            "college",
+            "???"
+        ],
+        [
+            "*",
+            "\u201c",
+            "and",
+            "like",
+            "i",
+            "know",
+            "this",
+            "is",
+            "all",
+            "obvious",
+            "asf",
+            "but",
+            "it",
+            "did",
+            "n\u2019t",
+            "sink",
+            "in",
+            "until",
+            "i",
+            "saw",
+            "that",
+            "comment",
+            "?"
+        ],
+        [
+            "like",
+            "literally",
+            "what",
+            "high",
+            "school",
+            "student",
+            "is",
+            "going",
+            "to",
+            "voluntarily",
+            "drown",
+            "themselves",
+            "in",
+            "info",
+            "and",
+            "stress",
+            "about",
+            "college",
+            "\ud83d\ude2d",
+            "i",
+            "also",
+            "just",
+            "retraced",
+            "my",
+            "day",
+            "and",
+            "realised",
+            "i",
+            "spent",
+            "all",
+            "my",
+            "waking",
+            "hours",
+            "on",
+            "school",
+            "and",
+            "college",
+            "apps",
+            "(",
+            "with",
+            "the",
+            "occasional",
+            "netflix",
+            "binge",
+            "ofc",
+            ")",
+            "\ud83d\ude2d\ud83d\ude2d"
+        ]
+    ]
+}

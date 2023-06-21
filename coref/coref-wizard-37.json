@@ -1,0 +1,480 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "them",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the others",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "three young girls",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Good Witch",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Glinda",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a very beautiful Castle",
+                "pos": [
+                    23,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Castle",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one of them",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "the girl soldier",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-37",
+    "sents": [
+        [
+            "Thanking",
+            "the",
+            "good",
+            "woman",
+            ",",
+            "they",
+            "started",
+            "afresh",
+            "and",
+            "walked",
+            "by",
+            "the",
+            "fields",
+            "and",
+            "across",
+            "the",
+            "pretty",
+            "bridges",
+            "until",
+            "they",
+            "saw",
+            "before",
+            "them",
+            "a",
+            "very",
+            "beautiful",
+            "Castle",
+            "."
+        ],
+        [
+            "Before",
+            "the",
+            "gates",
+            "were",
+            "three",
+            "young",
+            "girls",
+            ",",
+            "dressed",
+            "in",
+            "handsome",
+            "red",
+            "uniforms",
+            "trimmed",
+            "with",
+            "gold",
+            "braid",
+            ";",
+            "and",
+            "as",
+            "Dorothy",
+            "approached",
+            ",",
+            "one",
+            "of",
+            "them",
+            "said",
+            "to",
+            "her",
+            ":"
+        ],
+        [
+            "\"",
+            "Why",
+            "have",
+            "you",
+            "come",
+            "to",
+            "the",
+            "South",
+            "Country",
+            "?",
+            "\""
+        ],
+        [
+            "\"",
+            "To",
+            "see",
+            "the",
+            "Good",
+            "Witch",
+            "who",
+            "rules",
+            "here",
+            ",",
+            "\"",
+            "she",
+            "answered",
+            "."
+        ],
+        [
+            "\"",
+            "Will",
+            "you",
+            "take",
+            "me",
+            "to",
+            "her",
+            "?",
+            "\""
+        ],
+        [
+            "\"",
+            "Let",
+            "me",
+            "have",
+            "your",
+            "name",
+            ",",
+            "and",
+            "I",
+            "will",
+            "ask",
+            "Glinda",
+            "if",
+            "she",
+            "will",
+            "receive",
+            "you",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "They",
+            "told",
+            "who",
+            "they",
+            "were",
+            ",",
+            "and",
+            "the",
+            "girl",
+            "soldier",
+            "went",
+            "into",
+            "the",
+            "Castle",
+            "."
+        ],
+        [
+            "After",
+            "a",
+            "few",
+            "moments",
+            "she",
+            "came",
+            "back",
+            "to",
+            "say",
+            "that",
+            "Dorothy",
+            "and",
+            "the",
+            "others",
+            "were",
+            "to",
+            "be",
+            "admitted",
+            "at",
+            "once",
+            "."
+        ]
+    ]
+}

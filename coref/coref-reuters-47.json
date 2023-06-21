@@ -1,0 +1,308 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Official sources",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Pakistan",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Pakistan",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Pakistan",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "cotton yarn",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            },
+            {
+                "name": "yarn",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "cotton traders",
+                "pos": [
+                    28,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "The traders",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the current financial year",
+                "pos": [
+                    14,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the current fiscal year",
+                "pos": [
+                    17,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "this fiscal year",
+                "pos": [
+                    12,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-47",
+    "sents": [
+        [
+            "Pakistan",
+            "cotton",
+            "production",
+            "during",
+            "the",
+            "current",
+            "crop",
+            "season",
+            "(",
+            "Sept",
+            "/",
+            "March",
+            ")",
+            "reached",
+            "7.7",
+            "mln",
+            "bales",
+            "of",
+            "375",
+            "pounds",
+            "each",
+            ",",
+            "up",
+            "500,000",
+            "from",
+            "last",
+            "season",
+            ",",
+            "Shafi",
+            "Niaz",
+            ",",
+            "Chairman",
+            "of",
+            "the",
+            "Agricultural",
+            "Prices",
+            "Commission",
+            ",",
+            "said",
+            "."
+        ],
+        [
+            "Official",
+            "sources",
+            "said",
+            "Pakistan",
+            "was",
+            "likely",
+            "to",
+            "use",
+            "3.4",
+            "mln",
+            "bales",
+            "of",
+            "cotton",
+            "during",
+            "the",
+            "current",
+            "financial",
+            "year",
+            "ending",
+            "June",
+            "after",
+            "2.96",
+            "mln",
+            "in",
+            "1985",
+            "/",
+            "86",
+            "and",
+            "2.70",
+            "mln",
+            "in",
+            "1984",
+            "/",
+            "85",
+            "."
+        ],
+        [
+            "They",
+            "said",
+            "consumption",
+            "would",
+            "increase",
+            "due",
+            "to",
+            "a",
+            "rise",
+            "in",
+            "demand",
+            "for",
+            "cotton",
+            "yarn",
+            "in",
+            "domestic",
+            "markets",
+            "and",
+            "abroad",
+            "."
+        ],
+        [
+            "Pakistan",
+            "produced",
+            "540",
+            "mln",
+            "kilos",
+            "of",
+            "yarn",
+            "in",
+            "fiscal",
+            "year",
+            "1985",
+            "/",
+            "86",
+            "and",
+            "exported",
+            "157",
+            "mln",
+            "."
+        ],
+        [
+            "The",
+            "State",
+            "-",
+            "owned",
+            "cotton",
+            "export",
+            "corporation",
+            "was",
+            "likely",
+            "to",
+            "export",
+            "3.8",
+            "mln",
+            "bales",
+            "of",
+            "cotton",
+            "during",
+            "the",
+            "current",
+            "fiscal",
+            "year",
+            "compared",
+            "with",
+            "3.86",
+            "mln",
+            "last",
+            "year",
+            ",",
+            "cotton",
+            "traders",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "traders",
+            "said",
+            "there",
+            "would",
+            "be",
+            "1.3",
+            "mln",
+            "bales",
+            "of",
+            "cotton",
+            "carryover",
+            "this",
+            "fiscal",
+            "year",
+            "compared",
+            "with",
+            "just",
+            "over",
+            "a",
+            "mln",
+            "bales",
+            "last",
+            "year",
+            "."
+        ]
+    ]
+}

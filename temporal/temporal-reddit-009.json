@@ -1,0 +1,547 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m a TA",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "notice",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "decided",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was dying",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been sick",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "spoke with",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "worked",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "extend",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "make",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is a busy time",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are sometimes afraid",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are afraid",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shared",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am deeply sorry",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seems",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hope",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 19,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-009",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "a",
+            "TA",
+            "and",
+            "I",
+            "started",
+            "to",
+            "notice",
+            "a",
+            "downward",
+            "trend",
+            "in",
+            "a",
+            "students",
+            "performance",
+            "and",
+            "decided",
+            "to",
+            "reach",
+            "out",
+            "to",
+            "them",
+            "."
+        ],
+        [
+            "Turns",
+            "out",
+            "her",
+            "father",
+            "was",
+            "dying",
+            ",",
+            "but",
+            "because",
+            "he",
+            "had",
+            "been",
+            "sick",
+            "for",
+            "so",
+            "long",
+            "she",
+            "did",
+            "n\u2019t",
+            "feel",
+            "like",
+            "she",
+            "could",
+            "ask",
+            "for",
+            "help",
+            "."
+        ],
+        [
+            "I",
+            "immediately",
+            "spoke",
+            "with",
+            "the",
+            "professor",
+            "of",
+            "this",
+            "class",
+            "and",
+            "we",
+            "worked",
+            "together",
+            "to",
+            "extend",
+            "deadlines",
+            "and",
+            "make",
+            "the",
+            "class",
+            "more",
+            "manageable",
+            "for",
+            "them",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "grad",
+            "school",
+            "is",
+            "a",
+            "busy",
+            "time",
+            "but",
+            "do",
+            "n\u2019t",
+            "forget",
+            "that",
+            "undergraduates",
+            "have",
+            "difficult",
+            "times",
+            "too",
+            "."
+        ],
+        [
+            "Just",
+            "like",
+            "we",
+            "are",
+            "sometimes",
+            "afraid",
+            "to",
+            "talk",
+            "to",
+            "our",
+            "advisors",
+            "they",
+            "are",
+            "afraid",
+            "to",
+            "talk",
+            "to",
+            "us",
+            "Wow",
+            "guys",
+            ",",
+            "thanks",
+            "for",
+            "the",
+            "upvotes",
+            "and",
+            "awards",
+            "."
+        ],
+        [
+            "To",
+            "those",
+            "of",
+            "you",
+            "have",
+            "shared",
+            "your",
+            "stories",
+            ",",
+            "thank",
+            "you",
+            "."
+        ],
+        [
+            "Also",
+            ",",
+            "I",
+            "am",
+            "deeply",
+            "sorry",
+            "for",
+            "any",
+            "of",
+            "you",
+            "that",
+            "had",
+            "a",
+            "terrible",
+            "experience",
+            "with",
+            "your",
+            "TA",
+            "or",
+            "professor",
+            "."
+        ],
+        [
+            "No",
+            "one",
+            "should",
+            "ever",
+            "have",
+            "to",
+            "deal",
+            "with",
+            "that",
+            "and",
+            "yet",
+            "it",
+            "seems",
+            "to",
+            "have",
+            "been",
+            "normalized",
+            "."
+        ],
+        [
+            "I",
+            "hope",
+            "that",
+            "this",
+            "will",
+            "change"
+        ]
+    ]
+}

@@ -1,0 +1,411 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "my mom",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "our loved ones",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my mom",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this semester",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "This semester",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "our loved ones",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Their",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "all of us",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-054",
+    "sents": [
+        [
+            "This",
+            "is",
+            "what",
+            "my",
+            "mom",
+            "sent",
+            "to",
+            "me",
+            "before",
+            "she",
+            "went",
+            "to",
+            "bed",
+            "tonight",
+            "."
+        ],
+        [
+            "She",
+            "'s",
+            "in",
+            "the",
+            "province",
+            "so",
+            "we",
+            "'re",
+            "just",
+            "relying",
+            "on",
+            "video",
+            "calls",
+            "and",
+            "messages",
+            "to",
+            "update",
+            "each",
+            "other",
+            "."
+        ],
+        [
+            "However",
+            ",",
+            "because",
+            "we",
+            "have",
+            "a",
+            "lot",
+            "of",
+            "requirements",
+            "for",
+            "this",
+            "semester",
+            ",",
+            "I",
+            "'ve",
+            "been",
+            "very",
+            "busy",
+            "that",
+            "I",
+            "can",
+            "no",
+            "longer",
+            "call",
+            "as",
+            "often",
+            "as",
+            "I",
+            "did",
+            "."
+        ],
+        [
+            "I",
+            "resorted",
+            "to",
+            "updating",
+            "her",
+            "by",
+            "sending",
+            "her",
+            "photos",
+            "of",
+            "me",
+            "studying",
+            ",",
+            "attending",
+            "Zoom",
+            "classes",
+            ",",
+            "and",
+            "printing",
+            "papers",
+            "."
+        ],
+        [
+            "This",
+            "semester",
+            "may",
+            "be",
+            "tough",
+            "for",
+            "all",
+            "of",
+            "us",
+            "but",
+            "here",
+            "'s",
+            "a",
+            "reminder",
+            "that",
+            "our",
+            "loved",
+            "ones",
+            "are",
+            "proud",
+            "of",
+            "us",
+            "."
+        ],
+        [
+            "Their",
+            "support",
+            "will",
+            "be",
+            "of",
+            "significance",
+            "in",
+            "helping",
+            "us",
+            "finish",
+            "this",
+            "!"
+        ],
+        [
+            "Virtual",
+            "hugs",
+            "!"
+        ]
+    ]
+}

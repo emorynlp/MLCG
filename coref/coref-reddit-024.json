@@ -1,0 +1,217 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "My favorite school",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-024",
+    "sents": [
+        [
+            "My",
+            "favorite",
+            "school",
+            "started",
+            "as",
+            "a",
+            "\"",
+            "why",
+            "not",
+            "apply",
+            "\"",
+            "safety",
+            "and",
+            "the",
+            "more",
+            "I",
+            "learned",
+            "about",
+            "it",
+            "the",
+            "more",
+            "I",
+            "liked",
+            "it",
+            "so",
+            ",",
+            "everybody",
+            "else",
+            "gas",
+            "up",
+            "your",
+            "safety",
+            "/",
+            "least",
+            "prestigious",
+            "school",
+            "."
+        ],
+        [
+            "I",
+            "'ll",
+            "go",
+            "first",
+            "."
+        ],
+        [
+            "Florida",
+            "Gulf",
+            "Coast",
+            "University",
+            "!"
+        ],
+        [
+            "Amazing",
+            "Dorms",
+            ",",
+            "like",
+            "genuinely",
+            "the",
+            "best",
+            "I",
+            "'ve",
+            "ever",
+            "seen",
+            "."
+        ],
+        [
+            "In-state",
+            "tuition",
+            "with",
+            "great",
+            "merit",
+            "scholarships",
+            "."
+        ],
+        [
+            "Amazing",
+            "honors",
+            "college",
+            "opportunities",
+            "(",
+            "exclusive",
+            "study",
+            "abroad",
+            "programs",
+            ",",
+            "undergrad",
+            "research",
+            "funding",
+            ",",
+            "etc",
+            ")",
+            "Unique",
+            "and",
+            "fun",
+            "classes",
+            ",",
+            "including",
+            "Gen",
+            "-",
+            "eds",
+            "(",
+            "music",
+            "appreciation",
+            ",",
+            "art",
+            "appreciation",
+            ",",
+            "etc",
+            ")",
+            "The",
+            "campus",
+            "is",
+            "clean",
+            "+",
+            "beautiful",
+            "High",
+            "-",
+            "quality",
+            "food",
+            "with",
+            "a",
+            "lot",
+            "of",
+            "options",
+            "Free",
+            "parking",
+            "for",
+            "all",
+            "students",
+            "."
+        ]
+    ]
+}

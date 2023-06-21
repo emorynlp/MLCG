@@ -1,0 +1,333 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I have been struggling",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "with",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "this subject",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I got bad grades in 3 of the exams and passed in one and that one exam i did was essay type",
+                "pos": [
+                    0,
+                    22
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 8,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "i arrived 5 minutes late and",
+                "pos": [
+                    33,
+                    39
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he said i can not take my exam",
+                "pos": [
+                    39,
+                    47
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "So",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 9,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he made an essay exam and i passed in that",
+                "pos": [
+                    1,
+                    11
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-028",
+    "sents": [
+        [
+            "I",
+            "did",
+            "a",
+            "good",
+            "preperation",
+            "."
+        ],
+        [
+            "I",
+            "made",
+            "all",
+            "the",
+            "notes",
+            "in",
+            "class",
+            "and",
+            "memorized",
+            "them",
+            "."
+        ],
+        [
+            "The",
+            "professor",
+            "said",
+            "to",
+            "make",
+            "notes",
+            "and",
+            "not",
+            "to",
+            "preffer",
+            "the",
+            "book",
+            "."
+        ],
+        [
+            "Still",
+            "he",
+            "gave",
+            "questions",
+            "from",
+            "rhe",
+            "book",
+            "and",
+            "luckily",
+            "i",
+            "did",
+            "memorized",
+            "everything",
+            "from",
+            "the",
+            "book",
+            "."
+        ],
+        [
+            "And",
+            "what",
+            "i",
+            "got",
+            "?"
+        ],
+        [
+            "45",
+            "/",
+            "100",
+            "."
+        ],
+        [
+            "Fuck",
+            "!!!!!!!."
+        ],
+        [
+            "I",
+            "have",
+            "been",
+            "struggling",
+            "with",
+            "this",
+            "subject",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "bad",
+            "grades",
+            "in",
+            "3",
+            "of",
+            "the",
+            "exams",
+            "and",
+            "passed",
+            "in",
+            "one",
+            "and",
+            "that",
+            "one",
+            "exam",
+            "i",
+            "did",
+            "was",
+            "essay",
+            "type",
+            ",",
+            "(",
+            "we",
+            "have",
+            "multiple",
+            "choice",
+            "not",
+            "essay",
+            ",",
+            ")",
+            "because",
+            "i",
+            "arrived",
+            "5",
+            "minutes",
+            "late",
+            "and",
+            "he",
+            "said",
+            "i",
+            "can",
+            "not",
+            "take",
+            "my",
+            "exam",
+            "."
+        ],
+        [
+            "So",
+            "he",
+            "made",
+            "an",
+            "essay",
+            "exam",
+            "and",
+            "i",
+            "passed",
+            "in",
+            "that",
+            "."
+        ],
+        [
+            "But",
+            "worked",
+            "hard",
+            "in",
+            "my",
+            "final",
+            "exam",
+            "and",
+            "still",
+            "did",
+            "nt",
+            "pass",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "a",
+            "freshman",
+            "and",
+            "i",
+            "am",
+            "in",
+            "first",
+            "semester",
+            "."
+        ],
+        [
+            "Fuck",
+            "!!!!!"
+        ],
+        [
+            "I",
+            "really",
+            "wan",
+            "na",
+            "cry",
+            "and",
+            "break",
+            "things",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I know this is true",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I am one of them myself",
+                "pos": [
+                    7,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "now that",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you have killed one of them",
+                "pos": [
+                    19,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "there is but one Wicked Witch in all the Land of Oz",
+                "pos": [
+                    26,
+                    38
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-08",
+    "sents": [
+        [
+            "\"",
+            "But",
+            "I",
+            "thought",
+            "all",
+            "witches",
+            "were",
+            "wicked",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "girl",
+            ",",
+            "who",
+            "was",
+            "half",
+            "frightened",
+            "at",
+            "facing",
+            "a",
+            "real",
+            "witch",
+            "."
+        ],
+        [
+            "\"",
+            "Oh",
+            ",",
+            "no",
+            ",",
+            "that",
+            "is",
+            "a",
+            "great",
+            "mistake",
+            "."
+        ],
+        [
+            "There",
+            "were",
+            "only",
+            "four",
+            "witches",
+            "in",
+            "all",
+            "the",
+            "Land",
+            "of",
+            "Oz",
+            ",",
+            "and",
+            "two",
+            "of",
+            "them",
+            ",",
+            "those",
+            "who",
+            "live",
+            "in",
+            "the",
+            "North",
+            "and",
+            "the",
+            "South",
+            ",",
+            "are",
+            "good",
+            "witches",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "this",
+            "is",
+            "true",
+            ",",
+            "for",
+            "I",
+            "am",
+            "one",
+            "of",
+            "them",
+            "myself",
+            ",",
+            "and",
+            "can",
+            "not",
+            "be",
+            "mistaken",
+            "."
+        ],
+        [
+            "Those",
+            "who",
+            "dwelt",
+            "in",
+            "the",
+            "East",
+            "and",
+            "the",
+            "West",
+            "were",
+            ",",
+            "indeed",
+            ",",
+            "wicked",
+            "witches",
+            ";",
+            "but",
+            "now",
+            "that",
+            "you",
+            "have",
+            "killed",
+            "one",
+            "of",
+            "them",
+            ",",
+            "there",
+            "is",
+            "but",
+            "one",
+            "Wicked",
+            "Witch",
+            "in",
+            "all",
+            "the",
+            "Land",
+            "of",
+            "Oz",
+            "--",
+            "the",
+            "one",
+            "who",
+            "lives",
+            "in",
+            "the",
+            "West",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

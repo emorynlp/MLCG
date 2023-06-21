@@ -1,0 +1,326 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "him",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "acceptance letter",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the letter",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "mom",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "his mom",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "HE",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "His",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "him\ud83d\ude0a",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-093",
+    "sents": [
+        [
+            "I",
+            "know",
+            "you",
+            "all",
+            "were",
+            "wondering",
+            "what",
+            "happened",
+            "to",
+            "him",
+            "."
+        ],
+        [
+            "He",
+            "lied",
+            "about",
+            "getting",
+            "accepted",
+            "to",
+            "Columbia",
+            "ED",
+            "when",
+            "he",
+            "really",
+            "got",
+            "deferred",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "because",
+            "I",
+            "saw",
+            "the",
+            "deferral",
+            "letter",
+            "."
+        ],
+        [
+            "https://www.reddit.com/r/ApplyingToCollege/comments/mkws6q/currently_fearing_for_the_boy_at_my_school_who/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+            "Well",
+            ",",
+            "today",
+            "I",
+            "saw",
+            "mom",
+            "\u2019s",
+            "Facebook",
+            "."
+        ],
+        [
+            "And",
+            "HOLY",
+            "SHIT",
+            "HE",
+            "GOT",
+            "ACCEPTED\ud83e\udd73",
+            "She",
+            "posted",
+            "his",
+            "acceptance",
+            "letter",
+            "and",
+            "reaction",
+            "video",
+            "."
+        ],
+        [
+            "As",
+            "soon",
+            "as",
+            "he",
+            "opened",
+            "the",
+            "letter",
+            "and",
+            "saw",
+            "congratulations",
+            ",",
+            "he",
+            "started",
+            "crying",
+            "and",
+            "his",
+            "mom",
+            "and",
+            "dad",
+            "started",
+            "screaming",
+            "."
+        ],
+        [
+            "His",
+            "grandma",
+            "was",
+            "also",
+            "there",
+            "and",
+            "started",
+            "sobbing",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "actually",
+            "so",
+            "cute\ud83e\udd7a",
+            "I",
+            "\u2019m",
+            "really",
+            "relieved",
+            "and",
+            "happy",
+            "for",
+            "him\ud83d\ude0a"
+        ]
+    ]
+}

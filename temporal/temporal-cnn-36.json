@@ -1,0 +1,361 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been hindered",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "depends on",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "estimated",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-36",
+    "sents": [
+        [
+            "Iraq",
+            "'s",
+            "state",
+            "-",
+            "owned",
+            "oil",
+            "exploration",
+            "company",
+            "has",
+            "made",
+            "the",
+            "country",
+            "'s",
+            "first",
+            "oil",
+            "find",
+            "in",
+            "30",
+            "years",
+            ",",
+            "an",
+            "Oil",
+            "Ministry",
+            "spokesman",
+            "said",
+            "Monday",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "found",
+            "at",
+            "least",
+            "a",
+            "billion",
+            "barrels",
+            "of",
+            "crude",
+            "under",
+            "the",
+            "ground",
+            "in",
+            "a",
+            "southeastern",
+            "province",
+            "near",
+            "the",
+            "border",
+            "with",
+            "Iran",
+            ",",
+            "spokesman",
+            "Assim",
+            "Jihad",
+            "said",
+            "Monday",
+            "."
+        ],
+        [
+            "The",
+            "discovery",
+            "in",
+            "Maysan",
+            ",",
+            "about",
+            "350",
+            "kilometers",
+            "(",
+            "215",
+            "miles",
+            ")",
+            "south",
+            "of",
+            "Baghdad",
+            ",",
+            "is",
+            "a",
+            "\"",
+            "significant",
+            "achievement",
+            "\"",
+            "for",
+            "the",
+            "country",
+            ",",
+            "Jihad",
+            "said",
+            "."
+        ],
+        [
+            "Despite",
+            "vast",
+            "reserves",
+            "and",
+            "reliance",
+            "on",
+            "oil",
+            "for",
+            "government",
+            "income",
+            ",",
+            "exploration",
+            "in",
+            "Iraq",
+            "has",
+            "been",
+            "hindered",
+            "by",
+            "decades",
+            "of",
+            "conflict",
+            "."
+        ],
+        [
+            "With",
+            "the",
+            "world",
+            "'s",
+            "fourth",
+            "-",
+            "largest",
+            "oil",
+            "reserves",
+            ",",
+            "Iraq",
+            "'s",
+            "government",
+            "depends",
+            "on",
+            "oil",
+            "revenues",
+            "to",
+            "fund",
+            "more",
+            "than",
+            "90%",
+            "of",
+            "its",
+            "budget",
+            "."
+        ],
+        [
+            "The",
+            "discovery",
+            "comes",
+            "seven",
+            "months",
+            "after",
+            "exploratory",
+            "drilling",
+            "began",
+            ",",
+            "Jihad",
+            "said",
+            "."
+        ],
+        [
+            "Iraq",
+            "produces",
+            "3.2",
+            "million",
+            "barrels",
+            "of",
+            "oil",
+            "a",
+            "day",
+            ",",
+            "exporting",
+            "72%",
+            "of",
+            "it",
+            ",",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "In",
+            "2010",
+            ",",
+            "Iraqi",
+            "officials",
+            "estimated",
+            "the",
+            "country",
+            "had",
+            "143",
+            "billion",
+            "barrels",
+            "of",
+            "extractable",
+            "oil",
+            ",",
+            "most",
+            "of",
+            "it",
+            "in",
+            "the",
+            "southern",
+            "oil",
+            "fields",
+            "."
+        ]
+    ]
+}

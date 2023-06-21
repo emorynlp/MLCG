@@ -1,0 +1,243 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "thrust",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "grasped",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "prevented",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Unwilling",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lamented",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "standing by",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gave",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-36",
+    "sents": [
+        [
+            "A",
+            "BOY",
+            "once",
+            "thrust",
+            "his",
+            "hand",
+            "into",
+            "a",
+            "pitcher",
+            "nearly",
+            "filled",
+            "with",
+            "Filberts",
+            "."
+        ],
+        [
+            "He",
+            "grasped",
+            "as",
+            "many",
+            "as",
+            "his",
+            "hand",
+            "could",
+            "possibly",
+            "hold",
+            ";",
+            "but",
+            "when",
+            "he",
+            "tried",
+            "to",
+            "draw",
+            "out",
+            "his",
+            "closed",
+            "fist",
+            ",",
+            "the",
+            "narrowness",
+            "of",
+            "the",
+            "neck",
+            "prevented",
+            "him",
+            "from",
+            "doing",
+            "so",
+            "."
+        ],
+        [
+            "Unwilling",
+            "to",
+            "lose",
+            "his",
+            "nuts",
+            ",",
+            "yet",
+            "unable",
+            "to",
+            "get",
+            "them",
+            "by",
+            "drawing",
+            "out",
+            "his",
+            "hand",
+            ",",
+            "he",
+            "burst",
+            "into",
+            "tears",
+            "and",
+            "bitterly",
+            "lamented",
+            "his",
+            "hard",
+            "fortune",
+            "."
+        ],
+        [
+            "A",
+            "person",
+            "standing",
+            "by",
+            "finally",
+            "gave",
+            "him",
+            "this",
+            "wise",
+            "and",
+            "reasonable",
+            "advice",
+            ":",
+            "\u201c",
+            "Be",
+            "satisfied",
+            "to",
+            "take",
+            "half",
+            "as",
+            "many",
+            ",",
+            "my",
+            "boy",
+            ",",
+            "and",
+            "you",
+            "will",
+            "get",
+            "them",
+            "easily",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

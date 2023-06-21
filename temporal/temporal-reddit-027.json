@@ -1,0 +1,457 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "came up",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m a bit baffled",
+                "pos": [
+                    10,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finish",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was trying",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knocked it out",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "slows me down",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s open book",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "admit",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seems",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cracked",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-027",
+    "sents": [
+        [
+            "This",
+            "came",
+            "up",
+            "over",
+            "in",
+            "the",
+            "Professors",
+            "subreddit",
+            "and",
+            "I",
+            "\u2019m",
+            "a",
+            "bit",
+            "baffled",
+            "."
+        ],
+        [
+            "Someone",
+            "had",
+            "a",
+            "student",
+            "finish",
+            "a",
+            "25",
+            "multiple",
+            "choice",
+            "(",
+            "and",
+            "one",
+            "essay",
+            "question",
+            ")",
+            "test",
+            "in",
+            "26",
+            "minutes",
+            ",",
+            "and",
+            "was",
+            "trying",
+            "to",
+            "find",
+            "out",
+            "if",
+            "that",
+            "was",
+            "a",
+            "sign",
+            "of",
+            "cheating",
+            "."
+        ],
+        [
+            "So",
+            "my",
+            "question",
+            "to",
+            "you",
+            "all",
+            "is",
+            ":",
+            "Is",
+            "it",
+            "that",
+            "unusual",
+            "to",
+            "finish",
+            "primarily",
+            "multiple",
+            "choice",
+            "tests",
+            "so",
+            "quickly",
+            "?"
+        ],
+        [
+            "I",
+            "just",
+            "had",
+            "a",
+            "25",
+            "question",
+            "true",
+            "/",
+            "false",
+            "final",
+            "(",
+            "no",
+            "idea",
+            "why",
+            ")",
+            "and",
+            "knocked",
+            "it",
+            "out",
+            "in",
+            "3",
+            "minutes",
+            "."
+        ],
+        [
+            "If",
+            "the",
+            "test",
+            "is",
+            "set",
+            "up",
+            "so",
+            "you",
+            "ca",
+            "n\u2019t",
+            "go",
+            "back",
+            "and",
+            "check",
+            "your",
+            "answers",
+            ",",
+            "there",
+            "\u2019s",
+            "no",
+            "point",
+            "in",
+            "dawdling",
+            "."
+        ],
+        [
+            "In",
+            "fact",
+            ",",
+            "it",
+            "slows",
+            "me",
+            "down",
+            "when",
+            "it",
+            "\u2019s",
+            "open",
+            "book",
+            "since",
+            "I",
+            "can",
+            "check",
+            "my",
+            "answers",
+            "."
+        ],
+        [
+            "I",
+            "admit",
+            ",",
+            "I",
+            "have",
+            "OCD",
+            "and",
+            "there",
+            "seems",
+            "to",
+            "be",
+            "a",
+            "compulsive",
+            "aspect",
+            "to",
+            "my",
+            "online",
+            "test",
+            "taking",
+            ",",
+            "so",
+            "I",
+            "probably",
+            "rush",
+            "because",
+            "of",
+            "anxiety",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "\u2019ve",
+            "probably",
+            "barely",
+            "cracked",
+            "10",
+            "minutes",
+            "on",
+            "any",
+            "multiple",
+            "choice",
+            "exam",
+            "all",
+            "semester",
+            "."
+        ],
+        [
+            "Is",
+            "it",
+            "really",
+            "that",
+            "odd",
+            "?"
+        ]
+    ]
+}

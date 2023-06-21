@@ -1,0 +1,249 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the U.S. rocket fleet",
+                "pos": [
+                    15,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two delays",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The first postponement",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the second",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "NASA",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "NASA",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "An unmanned Delta rocket",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The 116 - foot ( 35.4 - meter ) Delta",
+                "pos": [
+                    0,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the rocket",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reuters-28",
+    "sents": [
+        [
+            "An",
+            "unmanned",
+            "Delta",
+            "rocket",
+            "carrying",
+            "a",
+            "57",
+            "mln",
+            "dlr",
+            "hurricane",
+            "-",
+            "tracking",
+            "satellite",
+            "blasted",
+            "off",
+            "here",
+            "today",
+            "in",
+            "NASA",
+            "'s",
+            "first",
+            "successful",
+            "launch",
+            "of",
+            "the",
+            "year",
+            "."
+        ],
+        [
+            "The",
+            "116",
+            "-",
+            "foot",
+            "(",
+            "35.4",
+            "-",
+            "meter",
+            ")",
+            "Delta",
+            "--",
+            "a",
+            "reliable",
+            "workhorse",
+            "of",
+            "the",
+            "U.S.",
+            "rocket",
+            "fleet",
+            "--",
+            "lifted",
+            "off",
+            "at",
+            "1805",
+            "EST",
+            "from",
+            "Cape",
+            "Canaveral",
+            "Air",
+            "Force",
+            "Station",
+            "in",
+            "a",
+            "crucial",
+            "test",
+            "of",
+            "the",
+            "space",
+            "agency",
+            "'s",
+            "ability",
+            "to",
+            "recover",
+            "from",
+            "the",
+            "Challenger",
+            "disaster",
+            "and",
+            "a",
+            "string",
+            "of",
+            "other",
+            "failures",
+            "."
+        ],
+        [
+            "The",
+            "launch",
+            "came",
+            "after",
+            "two",
+            "delays",
+            "in",
+            "two",
+            "days",
+            "."
+        ],
+        [
+            "The",
+            "first",
+            "postponement",
+            "was",
+            "caused",
+            "by",
+            "fuel",
+            "leak",
+            "and",
+            "the",
+            "second",
+            "by",
+            "high",
+            "-",
+            "speed",
+            "crosswinds",
+            "that",
+            "NASA",
+            "officials",
+            "say",
+            "could",
+            "have",
+            "torn",
+            "the",
+            "rocket",
+            "apart",
+            "during",
+            "fiery",
+            "ascent",
+            "."
+        ]
+    ]
+}

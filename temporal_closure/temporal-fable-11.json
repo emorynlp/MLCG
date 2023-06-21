@@ -1,0 +1,299 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "sat",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chattering",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "replied",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "mused",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "browsing",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-11",
+    "sents": [
+        [
+            "A",
+            "JACKDAW",
+            "sat",
+            "chattering",
+            "upon",
+            "the",
+            "back",
+            "of",
+            "a",
+            "Sheep",
+            "."
+        ],
+        [
+            "\u201c",
+            "Peace",
+            ",",
+            "I",
+            "pray",
+            "you",
+            ",",
+            "noisy",
+            "bird",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Sheep",
+            "."
+        ],
+        [
+            "\u201c",
+            "You",
+            "are",
+            "wearing",
+            "my",
+            "life",
+            "out",
+            "If",
+            "I",
+            "were",
+            "a",
+            "dog",
+            ",",
+            "you",
+            "would",
+            "not",
+            "think",
+            "of",
+            "serving",
+            "me",
+            "so",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "That",
+            "is",
+            "true",
+            ",",
+            "\u201d",
+            "replied",
+            "the",
+            "Jackdaw",
+            ";",
+            "\u201c",
+            "you",
+            "are",
+            "right",
+            "."
+        ],
+        [
+            "I",
+            "never",
+            "meddle",
+            "with",
+            "the",
+            "surly",
+            "and",
+            "revengeful",
+            ";",
+            "but",
+            "I",
+            "love",
+            "to",
+            "plague",
+            "gentle",
+            ",",
+            "helpless",
+            "creatures",
+            "like",
+            "you",
+            ",",
+            "that",
+            "can",
+            "not",
+            "do",
+            "me",
+            "any",
+            "harm",
+            "in",
+            "return",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "I",
+            "wonder",
+            "if",
+            "all",
+            "cowards",
+            "are",
+            "not",
+            "like",
+            "the",
+            "Jackdaw",
+            ",",
+            "\u201d",
+            "mused",
+            "the",
+            "Sheep",
+            ",",
+            "as",
+            "it",
+            "went",
+            "on",
+            "contentedly",
+            "browsing",
+            "on",
+            "the",
+            "hillside",
+            "."
+        ]
+    ]
+}

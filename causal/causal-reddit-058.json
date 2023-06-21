@@ -1,0 +1,270 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the one class I need this semester",
+                "pos": [
+                    5,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "I can finally graduate",
+                "pos": [
+                    13,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I have to complete all my classes",
+                "pos": [
+                    0,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "before",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "I student teach this spring semester",
+                "pos": [
+                    8,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I ca n't stay another semester",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "my loans run out",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-058",
+    "sents": [
+        [
+            "Like",
+            "the",
+            "title",
+            "says",
+            ",",
+            "the",
+            "one",
+            "class",
+            "I",
+            "need",
+            "this",
+            "semester",
+            "so",
+            "I",
+            "can",
+            "finally",
+            "graduate",
+            "is",
+            "n't",
+            "being",
+            "offered",
+            ",",
+            "my",
+            "last",
+            "foreign",
+            "language",
+            "requirement",
+            "and",
+            "the",
+            "Dean",
+            "'s",
+            "office",
+            "is",
+            "n't",
+            "budging",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "to",
+            "complete",
+            "all",
+            "my",
+            "classes",
+            "before",
+            "I",
+            "student",
+            "teach",
+            "this",
+            "spring",
+            "semester",
+            "."
+        ],
+        [
+            "I",
+            "ca",
+            "n't",
+            "stay",
+            "another",
+            "semester",
+            "because",
+            "my",
+            "loans",
+            "run",
+            "out",
+            "."
+        ],
+        [
+            "College",
+            "has",
+            "honestly",
+            "been",
+            "the",
+            "worst",
+            "experience",
+            "of",
+            "my",
+            "life",
+            ",",
+            "between",
+            "being",
+            "diagnosed",
+            "with",
+            "a",
+            "lifelong",
+            "disease",
+            ",",
+            "type",
+            "1",
+            "diabetes",
+            ",",
+            "to",
+            "my",
+            "father",
+            "dying",
+            "this",
+            "whole",
+            "experience",
+            "has",
+            "been",
+            "a",
+            "living",
+            "hell",
+            "and",
+            "when",
+            "I",
+            "'m",
+            "just",
+            "about",
+            "to",
+            "finish",
+            "this",
+            "happens",
+            "."
+        ],
+        [
+            "I",
+            "think",
+            "I",
+            "'m",
+            "just",
+            "done",
+            "."
+        ]
+    ]
+}

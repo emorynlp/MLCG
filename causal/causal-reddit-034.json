@@ -1,0 +1,407 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a lot of various factors",
+                "pos": [
+                    2,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "cause",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "My bed",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "causes",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "me pain every now and then in my shoulder , back , and knee",
+                "pos": [
+                    9,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I say its broken",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the center pole collapsed and its now a v shape",
+                "pos": [
+                    5,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I saved up $ 4k",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "college",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I dip into the savings and take out $ 500",
+                "pos": [
+                    1,
+                    11
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a new bed frame and mattress",
+                "pos": [
+                    12,
+                    18
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-034",
+    "sents": [
+        [
+            "I",
+            "'m",
+            "starting",
+            "to",
+            "crack",
+            "down",
+            "on",
+            "my",
+            "isomnia",
+            "that",
+            "has",
+            "been",
+            "persistent",
+            "for",
+            "a",
+            "year",
+            "now",
+            "."
+        ],
+        [
+            "There",
+            "'s",
+            "a",
+            "lot",
+            "of",
+            "various",
+            "factors",
+            "that",
+            "cause",
+            "it",
+            "such",
+            "as",
+            "working",
+            "a",
+            "night",
+            "shift",
+            "and",
+            "late",
+            "night",
+            "assignments",
+            "but",
+            "now",
+            "im",
+            "starting",
+            "to",
+            "believe",
+            "my",
+            "bed",
+            "is",
+            "an",
+            "issue",
+            "as",
+            "well",
+            "."
+        ],
+        [
+            "My",
+            "bed",
+            "is",
+            "hard",
+            ",",
+            "broken",
+            ",",
+            "and",
+            "causes",
+            "me",
+            "pain",
+            "every",
+            "now",
+            "and",
+            "then",
+            "in",
+            "my",
+            "shoulder",
+            ",",
+            "back",
+            ",",
+            "and",
+            "knee",
+            "."
+        ],
+        [
+            "I",
+            "say",
+            "its",
+            "broken",
+            "because",
+            "the",
+            "center",
+            "pole",
+            "collapsed",
+            "and",
+            "its",
+            "now",
+            "a",
+            "v",
+            "shape",
+            "."
+        ],
+        [
+            "I",
+            "wake",
+            "up",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "night",
+            "too",
+            "."
+        ],
+        [
+            "I",
+            "saved",
+            "up",
+            "$",
+            "4k",
+            "for",
+            "college",
+            ",",
+            "this",
+            "money",
+            "is",
+            "only",
+            "for",
+            "college",
+            "."
+        ],
+        [
+            "Should",
+            "I",
+            "dip",
+            "into",
+            "the",
+            "savings",
+            "and",
+            "take",
+            "out",
+            "$",
+            "500",
+            "for",
+            "a",
+            "new",
+            "bed",
+            "frame",
+            "and",
+            "mattress",
+            "?"
+        ],
+        [
+            "Would",
+            "buying",
+            "a",
+            "new",
+            "bed",
+            "frame",
+            "and",
+            "mattress",
+            "be",
+            "a",
+            "\"",
+            "college",
+            "essential",
+            "\"",
+            "purchase",
+            "?"
+        ],
+        [
+            "Thanks",
+            "!"
+        ]
+    ]
+}

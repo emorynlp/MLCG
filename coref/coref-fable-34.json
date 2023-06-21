@@ -1,0 +1,296 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the beasts",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "tell",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "a Frog",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            },
+            {
+                "name": "themselves",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "gen-entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-34",
+    "sents": [
+        [
+            "THERE",
+            "was",
+            "once",
+            "a",
+            "Frog",
+            "who",
+            "made",
+            "proclamation",
+            "that",
+            "he",
+            "was",
+            "a",
+            "learned",
+            "physician",
+            ",",
+            "able",
+            "to",
+            "heal",
+            "all",
+            "diseases",
+            "."
+        ],
+        [
+            "He",
+            "went",
+            "so",
+            "far",
+            "as",
+            "to",
+            "tell",
+            "the",
+            "beasts",
+            "that",
+            "it",
+            "was",
+            "their",
+            "own",
+            "fault",
+            "that",
+            "they",
+            "were",
+            "ill",
+            ",",
+            "since",
+            "if",
+            "they",
+            "would",
+            "but",
+            "submit",
+            "to",
+            "his",
+            "treatment",
+            ",",
+            "he",
+            "would",
+            "restore",
+            "them",
+            "to",
+            "perfect",
+            "health",
+            "."
+        ],
+        [
+            "A",
+            "Fox",
+            ",",
+            "hearing",
+            "it",
+            ",",
+            "asked",
+            ":",
+            "\u201c",
+            "How",
+            "is",
+            "it",
+            ",",
+            "since",
+            "you",
+            "can",
+            "do",
+            "such",
+            "great",
+            "things",
+            "for",
+            "others",
+            ",",
+            "you",
+            "do",
+            "not",
+            "first",
+            "try",
+            "to",
+            "mend",
+            "your",
+            "own",
+            "ugly",
+            "gait",
+            "and",
+            "your",
+            "wrinkled",
+            "skin",
+            "?"
+        ],
+        [
+            "They",
+            "who",
+            "assume",
+            "to",
+            "help",
+            "others",
+            "should",
+            "first",
+            "improve",
+            "themselves",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

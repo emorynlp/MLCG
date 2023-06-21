@@ -1,0 +1,230 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "drove",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stuck",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fell upon",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "call upon",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-43",
+    "sents": [
+        [
+            "AS",
+            "A",
+            "WAGONER",
+            "drove",
+            "his",
+            "wagon",
+            "through",
+            "a",
+            "miry",
+            "lane",
+            ",",
+            "the",
+            "wheels",
+            "stuck",
+            "fast",
+            "in",
+            "the",
+            "clay",
+            ",",
+            "so",
+            "that",
+            "the",
+            "horses",
+            "could",
+            "proceed",
+            "no",
+            "further",
+            "."
+        ],
+        [
+            "The",
+            "Man",
+            ",",
+            "without",
+            "making",
+            "the",
+            "least",
+            "effort",
+            "to",
+            "remedy",
+            "the",
+            "matter",
+            ",",
+            "fell",
+            "upon",
+            "his",
+            "knees",
+            "and",
+            "began",
+            "to",
+            "call",
+            "upon",
+            "Hercules",
+            "to",
+            "come",
+            "and",
+            "help",
+            "him",
+            "out",
+            "of",
+            "his",
+            "trouble",
+            "."
+        ],
+        [
+            "\u201c",
+            "Lazy",
+            "fellow",
+            ",",
+            "\u201d",
+            "said",
+            "Hercules",
+            ",",
+            "\u201c",
+            "lay",
+            "your",
+            "own",
+            "shoulder",
+            "to",
+            "the",
+            "wheel",
+            "."
+        ],
+        [
+            "Stir",
+            "yourself",
+            "and",
+            "do",
+            "what",
+            "you",
+            "can",
+            "."
+        ],
+        [
+            "Then",
+            ",",
+            "if",
+            "you",
+            "want",
+            "aid",
+            "from",
+            "the",
+            "gods",
+            ",",
+            "you",
+            "shall",
+            "have",
+            "it",
+            "."
+        ],
+        [
+            "Remember",
+            "the",
+            "proverb",
+            ",",
+            "Heaven",
+            "helps",
+            "those",
+            "who",
+            "help",
+            "themselves",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

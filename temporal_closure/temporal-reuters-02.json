@@ -1,0 +1,307 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Noting",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reports",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-02",
+    "sents": [
+        [
+            "Ohio",
+            "Mattress",
+            "Co",
+            "said",
+            "its",
+            "first",
+            "quarter",
+            ",",
+            "ending",
+            "February",
+            "28",
+            ",",
+            "profits",
+            "may",
+            "be",
+            "below",
+            "the",
+            "2.4",
+            "mln",
+            "dlrs",
+            ",",
+            "or",
+            "15",
+            "cts",
+            "a",
+            "share",
+            ",",
+            "earned",
+            "in",
+            "the",
+            "first",
+            "quarter",
+            "of",
+            "fiscal",
+            "1986",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "said",
+            "any",
+            "decline",
+            "would",
+            "be",
+            "due",
+            "to",
+            "expenses",
+            "related",
+            "to",
+            "the",
+            "acquisitions",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "current",
+            "quarter",
+            "of",
+            "seven",
+            "licensees",
+            "of",
+            "Sealy",
+            "Inc",
+            ",",
+            "as",
+            "well",
+            "as",
+            "82",
+            "pct",
+            "of",
+            "the",
+            "outstanding",
+            "capital",
+            "stock",
+            "of",
+            "Sealy",
+            "."
+        ],
+        [
+            "Because",
+            "of",
+            "these",
+            "acquisitions",
+            ",",
+            "it",
+            "said",
+            ",",
+            "first",
+            "quarter",
+            "sales",
+            "will",
+            "be",
+            "substantially",
+            "higher",
+            "than",
+            "last",
+            "year",
+            "'s",
+            "67.1",
+            "mln",
+            "dlrs",
+            "."
+        ],
+        [
+            "Noting",
+            "that",
+            "it",
+            "typically",
+            "reports",
+            "first",
+            "quarter",
+            "results",
+            "in",
+            "late",
+            "march",
+            ",",
+            "said",
+            "the",
+            "report",
+            "is",
+            "likely",
+            "to",
+            "be",
+            "issued",
+            "in",
+            "early",
+            "April",
+            "this",
+            "year",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "the",
+            "delay",
+            "is",
+            "due",
+            "to",
+            "administrative",
+            "considerations",
+            ",",
+            "including",
+            "conducting",
+            "appraisals",
+            ",",
+            "in",
+            "connection",
+            "with",
+            "the",
+            "acquisitions",
+            "."
+        ]
+    ]
+}

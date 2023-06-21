@@ -1,0 +1,183 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I 've finally annotated my entire calendar",
+                "pos": [
+                    3,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I forget to read the times for all 4 or 5 things in the color coded square on any given day",
+                "pos": [
+                    12,
+                    33
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-000",
+    "sents": [
+        [
+            "I",
+            "would",
+            "like",
+            "to",
+            "know",
+            "the",
+            "thought",
+            "process",
+            "behind",
+            "setting",
+            "a",
+            "due",
+            "date",
+            "for",
+            "10:30",
+            "AM",
+            "."
+        ],
+        [
+            "It",
+            "seems",
+            "like",
+            "95%",
+            "percent",
+            "of",
+            "things",
+            "are",
+            "due",
+            "at",
+            "11:59",
+            "PM",
+            ";",
+            "and",
+            "then",
+            "I",
+            "always",
+            "have",
+            "that",
+            "one",
+            "oddball",
+            "due",
+            "date",
+            "time",
+            "assignment",
+            "every",
+            "couple",
+            "weeks",
+            "."
+        ],
+        [
+            "Are",
+            "we",
+            "doing",
+            "me",
+            "a",
+            "favor",
+            "with",
+            "this",
+            "?"
+        ],
+        [
+            "or",
+            "what",
+            "'s",
+            "the",
+            "process",
+            "?"
+        ],
+        [
+            "Simulating",
+            "a",
+            "\"",
+            "class",
+            "experience",
+            "\"",
+            "."
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "I",
+            "'ve",
+            "finally",
+            "annotated",
+            "my",
+            "entire",
+            "calendar",
+            ",",
+            "because",
+            "I",
+            "forget",
+            "to",
+            "read",
+            "the",
+            "times",
+            "for",
+            "all",
+            "4",
+            "or",
+            "5",
+            "things",
+            "in",
+            "the",
+            "color",
+            "coded",
+            "square",
+            "on",
+            "any",
+            "given",
+            "day",
+            "."
+        ],
+        [
+            "Is",
+            "this",
+            "just",
+            "me",
+            ",",
+            "anyone",
+            "else",
+            "getting",
+            "burned",
+            "on",
+            "this",
+            "one",
+            "."
+        ]
+    ]
+}

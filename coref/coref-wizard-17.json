@@ -1,0 +1,239 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the fence",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the fence",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-wizard-17",
+    "sents": [
+        [
+            "This",
+            "worried",
+            "Dorothy",
+            "a",
+            "little",
+            ",",
+            "but",
+            "she",
+            "knew",
+            "that",
+            "only",
+            "the",
+            "Great",
+            "Oz",
+            "could",
+            "help",
+            "her",
+            "get",
+            "to",
+            "Kansas",
+            "again",
+            ",",
+            "so",
+            "she",
+            "bravely",
+            "resolved",
+            "not",
+            "to",
+            "turn",
+            "back",
+            "."
+        ],
+        [
+            "She",
+            "bade",
+            "her",
+            "friends",
+            "good",
+            "-",
+            "bye",
+            ",",
+            "and",
+            "again",
+            "started",
+            "along",
+            "the",
+            "road",
+            "of",
+            "yellow",
+            "brick",
+            "."
+        ],
+        [
+            "When",
+            "she",
+            "had",
+            "gone",
+            "several",
+            "miles",
+            "she",
+            "thought",
+            "she",
+            "would",
+            "stop",
+            "to",
+            "rest",
+            ",",
+            "and",
+            "so",
+            "climbed",
+            "to",
+            "the",
+            "top",
+            "of",
+            "the",
+            "fence",
+            "beside",
+            "the",
+            "road",
+            "and",
+            "sat",
+            "down",
+            "."
+        ],
+        [
+            "There",
+            "was",
+            "a",
+            "great",
+            "cornfield",
+            "beyond",
+            "the",
+            "fence",
+            ",",
+            "and",
+            "not",
+            "far",
+            "away",
+            "she",
+            "saw",
+            "a",
+            "Scarecrow",
+            ",",
+            "placed",
+            "high",
+            "on",
+            "a",
+            "pole",
+            "to",
+            "keep",
+            "the",
+            "birds",
+            "from",
+            "the",
+            "ripe",
+            "corn",
+            "."
+        ]
+    ]
+}

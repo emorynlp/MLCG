@@ -1,0 +1,237 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "they had grown so fond of the Tin Woodman",
+                "pos": [
+                    10,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they begged him to stay and rule over them and the Yellow Land of the West",
+                "pos": [
+                    20,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to the Scarecrow they gave a gold - headed walking stick",
+                "pos": [
+                    32,
+                    43
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    44,
+                    45
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "keep him from stumbling",
+                "pos": [
+                    45,
+                    49
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-30",
+    "sents": [
+        [
+            "This",
+            "they",
+            "decided",
+            "to",
+            "do",
+            "."
+        ],
+        [
+            "The",
+            "next",
+            "day",
+            "they",
+            "called",
+            "the",
+            "Winkies",
+            "together",
+            "and",
+            "bade",
+            "them",
+            "good",
+            "-",
+            "bye",
+            "."
+        ],
+        [
+            "The",
+            "Winkies",
+            "were",
+            "sorry",
+            "to",
+            "have",
+            "them",
+            "go",
+            ",",
+            "and",
+            "they",
+            "had",
+            "grown",
+            "so",
+            "fond",
+            "of",
+            "the",
+            "Tin",
+            "Woodman",
+            "that",
+            "they",
+            "begged",
+            "him",
+            "to",
+            "stay",
+            "and",
+            "rule",
+            "over",
+            "them",
+            "and",
+            "the",
+            "Yellow",
+            "Land",
+            "of",
+            "the",
+            "West",
+            "."
+        ],
+        [
+            "Finding",
+            "they",
+            "were",
+            "determined",
+            "to",
+            "go",
+            ",",
+            "the",
+            "Winkies",
+            "gave",
+            "Toto",
+            "and",
+            "the",
+            "Lion",
+            "each",
+            "a",
+            "golden",
+            "collar",
+            ";",
+            "and",
+            "to",
+            "Dorothy",
+            "they",
+            "presented",
+            "a",
+            "beautiful",
+            "bracelet",
+            "studded",
+            "with",
+            "diamonds",
+            ";",
+            "and",
+            "to",
+            "the",
+            "Scarecrow",
+            "they",
+            "gave",
+            "a",
+            "gold",
+            "-",
+            "headed",
+            "walking",
+            "stick",
+            ",",
+            "to",
+            "keep",
+            "him",
+            "from",
+            "stumbling",
+            ";",
+            "and",
+            "to",
+            "the",
+            "Tin",
+            "Woodman",
+            "they",
+            "offered",
+            "a",
+            "silver",
+            "oil",
+            "-",
+            "can",
+            ",",
+            "inlaid",
+            "with",
+            "gold",
+            "and",
+            "set",
+            "with",
+            "precious",
+            "jewels",
+            "."
+        ]
+    ]
+}

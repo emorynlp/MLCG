@@ -1,0 +1,299 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "its stake",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "its stake",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Wrather Corp",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Wrather",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Wrather",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Industrial Equity ( Pacific ) Ltd",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Industrial Equity",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "bought",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "bought",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Wrather common shares",
+                "pos": [
+                    33,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the stock",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-18",
+    "sents": [
+        [
+            "Industrial",
+            "Equity",
+            "(",
+            "Pacific",
+            ")",
+            "Ltd",
+            ",",
+            "a",
+            "Hong",
+            "Kong",
+            "investment",
+            "firm",
+            ",",
+            "said",
+            "it",
+            "raised",
+            "its",
+            "stake",
+            "in",
+            "Wrather",
+            "Corp",
+            "to",
+            "816,000",
+            "shares",
+            ",",
+            "or",
+            "11.3",
+            "pct",
+            "of",
+            "the",
+            "total",
+            "outstanding",
+            "common",
+            "stock",
+            ",",
+            "from",
+            "453,300",
+            "shares",
+            ",",
+            "or",
+            "6.3",
+            "pct",
+            "."
+        ],
+        [
+            "In",
+            "a",
+            "filing",
+            "with",
+            "the",
+            "Securities",
+            "and",
+            "Exchange",
+            "Commission",
+            ",",
+            "Industrial",
+            "Equity",
+            ",",
+            "which",
+            "is",
+            "principally",
+            "owned",
+            "by",
+            "Brierley",
+            "Investments",
+            "Ltd",
+            ",",
+            "a",
+            "publicly",
+            "held",
+            "New",
+            "Zealand",
+            "company",
+            ",",
+            "said",
+            "it",
+            "bought",
+            "362,700",
+            "Wrather",
+            "common",
+            "shares",
+            "between",
+            "Feb",
+            "13",
+            "and",
+            "24",
+            "for",
+            "6.6",
+            "mln",
+            "dlrs",
+            "."
+        ],
+        [
+            "When",
+            "it",
+            "first",
+            "disclosed",
+            "its",
+            "stake",
+            "in",
+            "Wrather",
+            "earlier",
+            "this",
+            "month",
+            ",",
+            "it",
+            "said",
+            "it",
+            "bought",
+            "the",
+            "stock",
+            "for",
+            "investment",
+            "purposes",
+            "."
+        ]
+    ]
+}

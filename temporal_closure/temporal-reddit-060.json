@@ -1,0 +1,349 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "been going",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "decided",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s optional",
+                "pos": [
+                    41,
+                    43
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "decides",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s definitely motivating",
+                "pos": [
+                    40,
+                    43
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-060",
+    "sents": [
+        [
+            "I",
+            "\u2019ve",
+            "been",
+            "going",
+            "strong",
+            "in",
+            "my",
+            "bio",
+            "3",
+            "lecture",
+            "course",
+            "with",
+            "a",
+            "98%",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "my",
+            "final",
+            "exam",
+            "today",
+            "so",
+            "I",
+            "decided",
+            "to",
+            "check",
+            "out",
+            "the",
+            "syllabus",
+            "again",
+            "at",
+            "the",
+            "grading",
+            "policy",
+            "to",
+            "see",
+            "if",
+            "the",
+            "professor",
+            "had",
+            "A",
+            "-",
+            "(",
+            "b/c",
+            "not",
+            "all",
+            "teachers",
+            "have",
+            "to",
+            "use",
+            "this",
+            "method",
+            "of",
+            "grading",
+            ",",
+            "it",
+            "\u2019s",
+            "optional",
+            ")",
+            "."
+        ],
+        [
+            "My",
+            "prof",
+            "decides",
+            "to",
+            "have",
+            "A-set",
+            "at",
+            "90.00",
+            "to",
+            "92.99%",
+            ",",
+            "I",
+            "know",
+            "it",
+            "\u2019s",
+            "not",
+            "the",
+            "biggest",
+            "deal",
+            "in",
+            "the",
+            "world",
+            "but",
+            "I",
+            "have",
+            "to",
+            "get",
+            "at",
+            "least",
+            "an",
+            "80%",
+            "on",
+            "my",
+            "final",
+            "to",
+            "keep",
+            "my",
+            "4.0",
+            ";",
+            "it",
+            "\u2019s",
+            "definitely",
+            "motivating",
+            "me",
+            "to",
+            "review",
+            "all",
+            "my",
+            "notes",
+            "/",
+            "powerpoints",
+            "but",
+            "I",
+            "just",
+            "do",
+            "n\u2019t",
+            "think",
+            "it",
+            "\u2019s",
+            "in",
+            "the",
+            "favor",
+            "of",
+            "the",
+            "student",
+            "."
+        ]
+    ]
+}

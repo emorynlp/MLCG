@@ -1,0 +1,377 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "job",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "career",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "a strict 9-5 day",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "One",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "feeling guilty",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "feel guilty",
+                "pos": [
+                    35,
+                    37
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "weekends off",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    52,
+                    53
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    56,
+                    57
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "it",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "doc-situation"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-109",
+    "sents": [
+        [
+            "I",
+            "know",
+            "that",
+            "no",
+            "job",
+            "is",
+            "great",
+            "but",
+            "I",
+            "sometimes",
+            "I",
+            "wish",
+            "I",
+            "choose",
+            "a",
+            "different",
+            "career",
+            "."
+        ],
+        [
+            "One",
+            "that",
+            "had",
+            "me",
+            "on",
+            "a",
+            "strict",
+            "9-5",
+            "day",
+            "or",
+            "something",
+            "like",
+            "that",
+            "."
+        ],
+        [
+            "I",
+            "wan",
+            "na",
+            "go",
+            "home",
+            "and",
+            "be",
+            "able",
+            "to",
+            "turn",
+            "it",
+            "off",
+            "."
+        ],
+        [
+            "I",
+            "want",
+            "weekends",
+            "off",
+            "without",
+            "feeling",
+            "guilty",
+            "."
+        ],
+        [
+            "Should",
+            "clarify",
+            ",",
+            "I",
+            "do",
+            "all",
+            "the",
+            "typical",
+            "things",
+            "like",
+            "stop",
+            "checking",
+            "emails",
+            "after",
+            "5",
+            "and",
+            "on",
+            "weekends",
+            "etc",
+            "etc",
+            "but",
+            "when",
+            "the",
+            "work",
+            "never",
+            "seems",
+            "to",
+            "be",
+            "done",
+            ",",
+            "it",
+            "\u2019s",
+            "hard",
+            "to",
+            "not",
+            "feel",
+            "guilty",
+            "for",
+            "that",
+            ",",
+            "esp",
+            "as",
+            "a",
+            "social",
+            "science",
+            "PhD",
+            "who",
+            "studies",
+            "things",
+            "that",
+            "directly",
+            "effect",
+            "me",
+            "and",
+            "the",
+            "people",
+            "I",
+            "love",
+            "."
+        ],
+        [
+            "Lol",
+            "just",
+            "let",
+            "me",
+            "rant",
+            "yall",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "heard",
+            "it",
+            "all",
+            "before",
+            "."
+        ],
+        [
+            "Does",
+            "n\u2019t",
+            "make",
+            "it",
+            "any",
+            "easier"
+        ]
+    ]
+}

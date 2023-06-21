@@ -1,0 +1,360 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the U.S. Embassy",
+                "pos": [
+                    30,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The embassy",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "raw sugar",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "raw sugar",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "raw sugar",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "Indonesia",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Indonesia",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Indonesia",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Indonesia",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "its agricultural outlook",
+                "pos": [
+                    35,
+                    38
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the report",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "The report",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The government",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "the government",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "plant",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "event"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "event"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-32",
+    "sents": [
+        [
+            "Indonesia",
+            "'s",
+            "raw",
+            "sugar",
+            "output",
+            "is",
+            "likely",
+            "to",
+            "be",
+            "1.8",
+            "mln",
+            "tonnes",
+            "in",
+            "calendar",
+            "1987",
+            ",",
+            "unchanged",
+            "from",
+            "1986",
+            "and",
+            "below",
+            "the",
+            "government",
+            "'s",
+            "1987",
+            "forecast",
+            "of",
+            "2.5",
+            "mln",
+            ",",
+            "the",
+            "U.S.",
+            "Embassy",
+            "said",
+            "in",
+            "its",
+            "agricultural",
+            "outlook",
+            "for",
+            "1987",
+            "."
+        ],
+        [
+            "Indonesia",
+            "bought",
+            "162,500",
+            "tonnes",
+            "of",
+            "raw",
+            "sugar",
+            "on",
+            "world",
+            "markets",
+            "in",
+            "late",
+            "1986",
+            ",",
+            "the",
+            "report",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "embassy",
+            "estimated",
+            "Indonesia",
+            "'s",
+            "calendar",
+            "1986",
+            "raw",
+            "sugar",
+            "production",
+            "at",
+            "1.8",
+            "mln",
+            "tonnes",
+            ",",
+            "against",
+            "a",
+            "government",
+            "estimate",
+            "of",
+            "1.99",
+            "mln",
+            "."
+        ],
+        [
+            "It",
+            "said",
+            "that",
+            "Indonesia",
+            "'s",
+            "move",
+            "into",
+            "sugar",
+            "self-sufficiency",
+            "in",
+            "1984",
+            "may",
+            "have",
+            "been",
+            "short",
+            "-",
+            "lived",
+            "."
+        ],
+        [
+            "The",
+            "report",
+            "said",
+            ",",
+            "\"",
+            "The",
+            "government",
+            "continues",
+            "to",
+            "promote",
+            "sugarcane",
+            "production",
+            "through",
+            "its",
+            "smallholder",
+            "intensification",
+            "program",
+            "and",
+            "a",
+            "relatively",
+            "high",
+            "guaranteed",
+            "price",
+            "to",
+            "sugarcane",
+            "producers",
+            ".",
+            "\""
+        ],
+        [
+            "However",
+            ",",
+            "there",
+            "are",
+            "considerable",
+            "indications",
+            "that",
+            "farmers",
+            "are",
+            "reluctant",
+            "to",
+            "plant",
+            "cane",
+            "because",
+            "its",
+            "economic",
+            "return",
+            "is",
+            "not",
+            "as",
+            "good",
+            "as",
+            "that",
+            "of",
+            "other",
+            "crops",
+            "."
+        ]
+    ]
+}

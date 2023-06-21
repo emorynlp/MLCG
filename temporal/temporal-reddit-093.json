@@ -1,0 +1,464 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were wondering",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lied",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got deferred",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ACCEPTED\ud83e\udd73",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "posted",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "opened",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "crying",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "screaming",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was also there",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sobbing",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was actually so cute\ud83e\udd7a",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m really relieved",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "happy",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-093",
+    "sents": [
+        [
+            "I",
+            "know",
+            "you",
+            "all",
+            "were",
+            "wondering",
+            "what",
+            "happened",
+            "to",
+            "him",
+            "."
+        ],
+        [
+            "He",
+            "lied",
+            "about",
+            "getting",
+            "accepted",
+            "to",
+            "Columbia",
+            "ED",
+            "when",
+            "he",
+            "really",
+            "got",
+            "deferred",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "because",
+            "I",
+            "saw",
+            "the",
+            "deferral",
+            "letter",
+            "."
+        ],
+        [
+            "https://www.reddit.com/r/ApplyingToCollege/comments/mkws6q/currently_fearing_for_the_boy_at_my_school_who/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+            "Well",
+            ",",
+            "today",
+            "I",
+            "saw",
+            "mom",
+            "\u2019s",
+            "Facebook",
+            "."
+        ],
+        [
+            "And",
+            "HOLY",
+            "SHIT",
+            "HE",
+            "GOT",
+            "ACCEPTED\ud83e\udd73",
+            "She",
+            "posted",
+            "his",
+            "acceptance",
+            "letter",
+            "and",
+            "reaction",
+            "video",
+            "."
+        ],
+        [
+            "As",
+            "soon",
+            "as",
+            "he",
+            "opened",
+            "the",
+            "letter",
+            "and",
+            "saw",
+            "congratulations",
+            ",",
+            "he",
+            "started",
+            "crying",
+            "and",
+            "his",
+            "mom",
+            "and",
+            "dad",
+            "started",
+            "screaming",
+            "."
+        ],
+        [
+            "His",
+            "grandma",
+            "was",
+            "also",
+            "there",
+            "and",
+            "started",
+            "sobbing",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "actually",
+            "so",
+            "cute\ud83e\udd7a",
+            "I",
+            "\u2019m",
+            "really",
+            "relieved",
+            "and",
+            "happy",
+            "for",
+            "him\ud83d\ude0a"
+        ]
+    ]
+}

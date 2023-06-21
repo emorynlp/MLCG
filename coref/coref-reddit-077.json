@@ -1,0 +1,380 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "whole pandemic thing",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "self-quarantine",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A paper",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "project",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-077",
+    "sents": [
+        [
+            "A",
+            "paper",
+            "I",
+            "have",
+            "been",
+            "working",
+            "on",
+            "for",
+            "13",
+            "months",
+            "is",
+            "**DONE",
+            "!"
+        ],
+        [
+            "**",
+            "Done",
+            "done",
+            "done",
+            "done",
+            "doooooone",
+            "!"
+        ],
+        [
+            "Finished",
+            ",",
+            "final",
+            ",",
+            "complete",
+            ",",
+            "and",
+            "whole",
+            "(",
+            "at",
+            "least",
+            "until",
+            "the",
+            "revise",
+            "and",
+            "resubmit",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "not",
+            "sure",
+            "whether",
+            "my",
+            "feet",
+            "are",
+            "touching",
+            "the",
+            "ground",
+            "when",
+            "I",
+            "walk",
+            "or",
+            "if",
+            "I",
+            "'m",
+            "just",
+            "flying",
+            "around",
+            "my",
+            "apartment",
+            "right",
+            "now",
+            "."
+        ],
+        [
+            "Apparently",
+            "there",
+            "'s",
+            "this",
+            "whole",
+            "pandemic",
+            "thing",
+            "going",
+            "on",
+            "outside",
+            "that",
+            "I",
+            "used",
+            "to",
+            "spend",
+            "a",
+            "lot",
+            "of",
+            "time",
+            "reading",
+            "news",
+            "about",
+            ",",
+            "but",
+            "I",
+            "did",
+            "n't",
+            "think",
+            "about",
+            "it",
+            "at",
+            "all",
+            "today",
+            "."
+        ],
+        [
+            "I",
+            "always",
+            "self-quarantine",
+            "when",
+            "I",
+            "'m",
+            "finishing",
+            "a",
+            "project",
+            "anyway",
+            ",",
+            "and",
+            "even",
+            "take",
+            "additional",
+            "precautions",
+            "like",
+            "refraining",
+            "from",
+            "washing",
+            "my",
+            "laundry",
+            "because",
+            "..."
+        ],
+        [
+            "uhm",
+            "..."
+        ],
+        [
+            "at",
+            "the",
+            "moment",
+            "I",
+            "think",
+            "I",
+            "can",
+            "get",
+            "away",
+            "with",
+            "saying",
+            "I",
+            "was",
+            "doing",
+            "it",
+            "for",
+            "\"",
+            "olfactory",
+            "enforcement",
+            "of",
+            "social",
+            "distancing",
+            "\"",
+            "..."
+        ],
+        [
+            "yeah",
+            ",",
+            "that",
+            "'s",
+            "it",
+            "!"
+        ],
+        [
+            "Anyway",
+            "..."
+        ],
+        [
+            "project",
+            "!"
+        ],
+        [
+            "done",
+            "!"
+        ]
+    ]
+}

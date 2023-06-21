@@ -1,0 +1,260 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "After",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "conducting several interviews",
+                "pos": [
+                    27,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I just wanted to tell you how much yours stood out to me",
+                "pos": [
+                    31,
+                    44
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Your interview",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "me feel inspired and hopeful for the next generation",
+                "pos": [
+                    3,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-095",
+    "sents": [
+        [
+            "i",
+            "had",
+            "my",
+            "upenn",
+            "interview",
+            "at",
+            "the",
+            "end",
+            "of",
+            "january",
+            ",",
+            "and",
+            "she",
+            "sent",
+            "me",
+            "this",
+            "follow",
+            "-",
+            "up",
+            "email",
+            "about",
+            "a",
+            "week",
+            "ago",
+            ":",
+            ">",
+            "After",
+            "conducting",
+            "several",
+            "interviews",
+            ",",
+            "I",
+            "just",
+            "wanted",
+            "to",
+            "tell",
+            "you",
+            "how",
+            "much",
+            "yours",
+            "stood",
+            "out",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "Your",
+            "interview",
+            "made",
+            "me",
+            "feel",
+            "inspired",
+            "and",
+            "hopeful",
+            "for",
+            "the",
+            "next",
+            "generation",
+            "."
+        ],
+        [
+            "I",
+            "gave",
+            "you",
+            "the",
+            "highest",
+            "possible",
+            "scoring",
+            "in",
+            "my",
+            "recommendation",
+            "and",
+            "really",
+            "hope",
+            "that",
+            "you",
+            "are",
+            "able",
+            "to",
+            "fulfill",
+            "all",
+            "of",
+            "your",
+            "hopes",
+            "and",
+            "dreams",
+            "whether",
+            "it",
+            "is",
+            "at",
+            "Penn",
+            "or",
+            "elsewhere",
+            "."
+        ],
+        [
+            "I",
+            "anticipate",
+            "reading",
+            "about",
+            "you",
+            "in",
+            "the",
+            "future",
+            "as",
+            "the",
+            "next",
+            "great",
+            "\\",
+            "[",
+            "insert",
+            "future",
+            "job",
+            "aspiration\\",
+            "]",
+            "!"
+        ],
+        [
+            "i",
+            "almost",
+            "cried",
+            "the",
+            "first",
+            "time",
+            "i",
+            "read",
+            "it",
+            ",",
+            "and",
+            "now",
+            "i",
+            "come",
+            "back",
+            "to",
+            "this",
+            "email",
+            "every",
+            "time",
+            "i",
+            "feel",
+            "down",
+            "about",
+            "myself",
+            "."
+        ],
+        [
+            "shoutout",
+            "to",
+            "my",
+            "amazing",
+            "penn",
+            "interviewer",
+            ",",
+            "you",
+            "a",
+            "real",
+            "one",
+            "<3"
+        ]
+    ]
+}

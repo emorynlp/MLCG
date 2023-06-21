@@ -1,0 +1,418 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "'m looking into",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are smaller , more isolated schools",
+                "pos": [
+                    24,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hard",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "watch",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been watching",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-154",
+    "sents": [
+        [
+            "Pretty",
+            "much",
+            "the",
+            "titile",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "looking",
+            "into",
+            "schools",
+            "like",
+            "Vassar",
+            ",",
+            "Amherst",
+            ",",
+            "Carleton",
+            ",",
+            "Cornell",
+            ",",
+            "Bates",
+            ",",
+            "Tufts",
+            ",",
+            "F&M",
+            ",",
+            "Skidmore",
+            "and",
+            "while",
+            "these",
+            "are",
+            "smaller",
+            ",",
+            "more",
+            "isolated",
+            "schools",
+            ",",
+            "I",
+            "find",
+            "it",
+            "hard",
+            "to",
+            "determine",
+            "the",
+            "difference",
+            "between",
+            "\"",
+            "not",
+            "urban",
+            "\"",
+            "and",
+            "\"",
+            "extremely",
+            "extremely",
+            "rural",
+            "\"",
+            "for",
+            "these",
+            "colleges",
+            "."
+        ],
+        [
+            "Virtual",
+            "tours",
+            "do",
+            "n't",
+            "really",
+            "give",
+            "me",
+            "the",
+            "perspective",
+            "I",
+            "watch",
+            ",",
+            "and",
+            "I",
+            "do",
+            "n't",
+            "think",
+            "the",
+            "youtube",
+            "videos",
+            "I",
+            "'ve",
+            "been",
+            "watching",
+            "have",
+            "been",
+            "descriptive",
+            "as",
+            "I",
+            "want",
+            "either",
+            "."
+        ],
+        [
+            "I",
+            "want",
+            "a",
+            "small",
+            "college",
+            "that",
+            "has",
+            "a",
+            "balance",
+            "of",
+            "meaningful",
+            "interaction",
+            "with",
+            "off",
+            "-",
+            "campus",
+            "stuff",
+            "and",
+            "being",
+            "a",
+            "tight",
+            "-",
+            "knit",
+            "community",
+            "."
+        ],
+        [
+            "(",
+            "whether",
+            "that",
+            "s",
+            "because",
+            "of",
+            "transportation",
+            "to",
+            "big",
+            "cities",
+            "or",
+            "if",
+            "I",
+            "can",
+            "regularly",
+            "go",
+            "to",
+            "cities",
+            "outside",
+            "campus",
+            "for",
+            "other",
+            "activities",
+            ",",
+            "etc",
+            "etc",
+            ")"
+        ]
+    ]
+}

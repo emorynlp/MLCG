@@ -1,0 +1,388 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "set",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were lovely patches of greensward",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bearing",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were on",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sang",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fluttered",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a small brook",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "rushing",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sparkling",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "murmuring",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lived",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-05",
+    "sents": [
+        [
+            "The",
+            "cyclone",
+            "had",
+            "set",
+            "the",
+            "house",
+            "down",
+            "very",
+            "gently",
+            "--",
+            "for",
+            "a",
+            "cyclone",
+            "--",
+            "in",
+            "the",
+            "midst",
+            "of",
+            "a",
+            "country",
+            "of",
+            "marvelous",
+            "beauty",
+            "."
+        ],
+        [
+            "There",
+            "were",
+            "lovely",
+            "patches",
+            "of",
+            "greensward",
+            "all",
+            "about",
+            ",",
+            "with",
+            "stately",
+            "trees",
+            "bearing",
+            "rich",
+            "and",
+            "luscious",
+            "fruits",
+            "."
+        ],
+        [
+            "Banks",
+            "of",
+            "gorgeous",
+            "flowers",
+            "were",
+            "on",
+            "every",
+            "hand",
+            ",",
+            "and",
+            "birds",
+            "with",
+            "rare",
+            "and",
+            "brilliant",
+            "plumage",
+            "sang",
+            "and",
+            "fluttered",
+            "in",
+            "the",
+            "trees",
+            "and",
+            "bushes",
+            "."
+        ],
+        [
+            "A",
+            "little",
+            "way",
+            "off",
+            "was",
+            "a",
+            "small",
+            "brook",
+            ",",
+            "rushing",
+            "and",
+            "sparkling",
+            "along",
+            "between",
+            "green",
+            "banks",
+            ",",
+            "and",
+            "murmuring",
+            "in",
+            "a",
+            "voice",
+            "very",
+            "grateful",
+            "to",
+            "a",
+            "little",
+            "girl",
+            "who",
+            "had",
+            "lived",
+            "so",
+            "long",
+            "on",
+            "the",
+            "dry",
+            ",",
+            "gray",
+            "prairies",
+            "."
+        ]
+    ]
+}

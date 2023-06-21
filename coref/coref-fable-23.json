@@ -1,0 +1,357 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a snowy Swan",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Swan",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "washing",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the lake",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the lake",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A RAVEN",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Raven",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "_I_",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-23",
+    "sents": [
+        [
+            "A",
+            "RAVEN",
+            "saw",
+            "a",
+            "snowy",
+            "Swan",
+            "floating",
+            "on",
+            "the",
+            "lake",
+            "."
+        ],
+        [
+            "\u201c",
+            "No",
+            "wonder",
+            "the",
+            "Swan",
+            "is",
+            "so",
+            "white",
+            ",",
+            "\u201d",
+            "thought",
+            "the",
+            "Raven",
+            ",",
+            "as",
+            "he",
+            "looked",
+            "at",
+            "his",
+            "own",
+            "black",
+            "feathers",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "dare",
+            "say",
+            "_I_",
+            "should",
+            "be",
+            ",",
+            "if",
+            "I",
+            "were",
+            "all",
+            "the",
+            "time",
+            "washing",
+            "myself",
+            "."
+        ],
+        [
+            "I",
+            "believe",
+            "I",
+            "\u2019ll",
+            "try",
+            "it",
+            ".",
+            "\u201d"
+        ],
+        [
+            "Then",
+            "he",
+            "left",
+            "his",
+            "home",
+            ",",
+            "where",
+            "he",
+            "always",
+            "found",
+            "plenty",
+            "to",
+            "eat",
+            ",",
+            "and",
+            "came",
+            "and",
+            "lived",
+            "by",
+            "the",
+            "lake",
+            "."
+        ],
+        [
+            "He",
+            "washed",
+            "himself",
+            "from",
+            "morning",
+            "till",
+            "night",
+            ",",
+            "but",
+            "he",
+            "grew",
+            "no",
+            "whiter",
+            ";",
+            "and",
+            ",",
+            "as",
+            "he",
+            "found",
+            "nothing",
+            "to",
+            "eat",
+            ",",
+            "he",
+            "came",
+            "near",
+            "dying",
+            "for",
+            "want",
+            "of",
+            "food",
+            "."
+        ]
+    ]
+}

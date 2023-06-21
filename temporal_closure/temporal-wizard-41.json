@@ -1,0 +1,539 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were thousands of them",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "brought",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was about this time",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "woke",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "opened",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was greatly astonished",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lying",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "standing around",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looking at",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "turning to",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "nodded",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "friendly",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-41",
+    "sents": [
+        [
+            "They",
+            "came",
+            "from",
+            "all",
+            "directions",
+            ",",
+            "and",
+            "there",
+            "were",
+            "thousands",
+            "of",
+            "them",
+            ":",
+            "big",
+            "mice",
+            "and",
+            "little",
+            "mice",
+            "and",
+            "middle",
+            "-",
+            "sized",
+            "mice",
+            ";",
+            "and",
+            "each",
+            "one",
+            "brought",
+            "a",
+            "piece",
+            "of",
+            "string",
+            "in",
+            "his",
+            "mouth",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "about",
+            "this",
+            "time",
+            "that",
+            "Dorothy",
+            "woke",
+            "from",
+            "her",
+            "long",
+            "sleep",
+            "and",
+            "opened",
+            "her",
+            "eyes",
+            "."
+        ],
+        [
+            "She",
+            "was",
+            "greatly",
+            "astonished",
+            "to",
+            "find",
+            "herself",
+            "lying",
+            "upon",
+            "the",
+            "grass",
+            ",",
+            "with",
+            "thousands",
+            "of",
+            "mice",
+            "standing",
+            "around",
+            "and",
+            "looking",
+            "at",
+            "her",
+            "timidly",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "Scarecrow",
+            "told",
+            "her",
+            "about",
+            "everything",
+            ",",
+            "and",
+            "turning",
+            "to",
+            "the",
+            "dignified",
+            "little",
+            "Mouse",
+            ",",
+            "he",
+            "said",
+            ":"
+        ],
+        [
+            "\"",
+            "Permit",
+            "me",
+            "to",
+            "introduce",
+            "to",
+            "you",
+            "her",
+            "Majesty",
+            ",",
+            "the",
+            "Queen",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "Dorothy",
+            "nodded",
+            "gravely",
+            "and",
+            "the",
+            "Queen",
+            "made",
+            "a",
+            "curtsy",
+            ",",
+            "after",
+            "which",
+            "she",
+            "became",
+            "quite",
+            "friendly",
+            "with",
+            "the",
+            "little",
+            "girl",
+            "."
+        ]
+    ]
+}

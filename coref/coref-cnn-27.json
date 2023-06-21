@@ -1,0 +1,368 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "were shot",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "were killed",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "were fatally shot",
+                "pos": [
+                    7,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Six gay men",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "were killed",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The shootings",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two men",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the victims",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "four additional men",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the victims",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The official",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Sadr City",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the same city",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "Sadr City",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-27",
+    "sents": [
+        [
+            "Six",
+            "gay",
+            "men",
+            "were",
+            "shot",
+            "dead",
+            "by",
+            "members",
+            "of",
+            "their",
+            "tribe",
+            "in",
+            "two",
+            "separate",
+            "incidents",
+            "in",
+            "the",
+            "past",
+            "10",
+            "days",
+            ",",
+            "an",
+            "official",
+            "with",
+            "Iraq",
+            "'s",
+            "Interior",
+            "ministry",
+            "said",
+            "."
+        ],
+        [
+            "In",
+            "the",
+            "most",
+            "recent",
+            "attack",
+            ",",
+            "two",
+            "men",
+            "were",
+            "killed",
+            "Thursday",
+            "in",
+            "Sadr",
+            "City",
+            "area",
+            "of",
+            "Baghdad",
+            "after",
+            "they",
+            "were",
+            "disowned",
+            "by",
+            "relatives",
+            ",",
+            "the",
+            "official",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "shootings",
+            "came",
+            "after",
+            "a",
+            "tribal",
+            "meeting",
+            "was",
+            "held",
+            "and",
+            "the",
+            "members",
+            "decided",
+            "to",
+            "go",
+            "after",
+            "the",
+            "victims",
+            "."
+        ],
+        [
+            "On",
+            "March",
+            "26",
+            ",",
+            "four",
+            "additional",
+            "men",
+            "were",
+            "fatally",
+            "shot",
+            "in",
+            "the",
+            "same",
+            "city",
+            ",",
+            "the",
+            "official",
+            "said",
+            ",",
+            "adding",
+            "that",
+            "the",
+            "victims",
+            "had",
+            "also",
+            "been",
+            "disowned",
+            "by",
+            "their",
+            "relatives",
+            "."
+        ],
+        [
+            "The",
+            "official",
+            "declined",
+            "to",
+            "be",
+            "identified",
+            "because",
+            "he",
+            "is",
+            "not",
+            "authorized",
+            "to",
+            "speak",
+            "to",
+            "the",
+            "media",
+            "."
+        ],
+        [
+            "Witnesses",
+            "told",
+            "CNN",
+            "that",
+            "a",
+            "Sadr",
+            "City",
+            "cafe",
+            ",",
+            "which",
+            "was",
+            "a",
+            "popular",
+            "gathering",
+            "spot",
+            "for",
+            "gays",
+            ",",
+            "was",
+            "also",
+            "set",
+            "on",
+            "fire",
+            "."
+        ]
+    ]
+}

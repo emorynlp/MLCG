@@ -1,0 +1,392 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "unleashed",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cut off",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "blocked",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were forced",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "use",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "evacuate",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "estimated",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were reported",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-33",
+    "sents": [
+        [
+            "Peru",
+            "'s",
+            "ancient",
+            "Inca",
+            "ruins",
+            "of",
+            "Machu",
+            "Picchu",
+            "should",
+            "reopen",
+            "April",
+            "1",
+            ",",
+            "more",
+            "than",
+            "two",
+            "months",
+            "after",
+            "rain",
+            "stranded",
+            "hundreds",
+            "of",
+            "tourists",
+            "at",
+            "the",
+            "popular",
+            "spot",
+            ",",
+            "the",
+            "government",
+            "said",
+            "."
+        ],
+        [
+            "Heavy",
+            "rain",
+            "in",
+            "January",
+            "unleashed",
+            "mudslides",
+            "that",
+            "cut",
+            "off",
+            "roads",
+            "and",
+            "blocked",
+            "a",
+            "rail",
+            "line",
+            "between",
+            "Machu",
+            "Picchu",
+            "and",
+            "the",
+            "nearby",
+            "city",
+            "of",
+            "Cusco",
+            "."
+        ],
+        [
+            "Water",
+            "levels",
+            "at",
+            "the",
+            "Vilcanota",
+            "River",
+            "have",
+            "receded",
+            "enough",
+            "to",
+            "allow",
+            "repairs",
+            "to",
+            "the",
+            "rail",
+            "line",
+            ",",
+            "said",
+            "Martin",
+            "Perez",
+            ",",
+            "head",
+            "of",
+            "Peru",
+            "'s",
+            "Ministry",
+            "of",
+            "Exterior",
+            "Commerce",
+            "and",
+            "Tourism",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "expect",
+            "that",
+            "starting",
+            "April",
+            "1",
+            ",",
+            "we",
+            "will",
+            "start",
+            "to",
+            "receive",
+            "the",
+            "millions",
+            "of",
+            "tourists",
+            "who",
+            "always",
+            "have",
+            "come",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "Tuesday",
+            "."
+        ],
+        [
+            "Peruvian",
+            "officials",
+            "were",
+            "forced",
+            "to",
+            "use",
+            "helicopters",
+            "to",
+            "evacuate",
+            "more",
+            "than",
+            "1,000",
+            "stranded",
+            "tourists",
+            "last",
+            "month",
+            "."
+        ],
+        [
+            "Authorities",
+            "estimated",
+            "that",
+            "10,000",
+            "people",
+            "were",
+            "affected",
+            "by",
+            "the",
+            "rain",
+            "and",
+            "2,000",
+            "homes",
+            "were",
+            "ruined",
+            "near",
+            "Machu",
+            "Picchu",
+            "."
+        ],
+        [
+            "At",
+            "least",
+            "seven",
+            "deaths",
+            "were",
+            "reported",
+            "."
+        ]
+    ]
+}

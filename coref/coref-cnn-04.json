@@ -1,0 +1,601 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "an additional two bodies of crew members",
+                "pos": [
+                    7,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "crew members",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Rescuers",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a total three bodies",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Capt. Donald J. Rose",
+                "pos": [
+                    14,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "95% of Mobile Bay",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "suspended",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "suspend",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the extensive search",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "the active search",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Mobile Bay",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Mobile",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Bay",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "95% of Mobile",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the search area",
+                "pos": [
+                    19,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "recovery operations",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "event"
+            },
+            {
+                "name": "recover",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "one other person",
+                "pos": [
+                    21,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the missing crewman",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a helicopter",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The helicopter",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Tuesday",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Tuesday",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "crash",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "the Tuesday crash",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "the crash",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "The U.S. Coast Guard",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Coast Guard",
+                "pos": [
+                    28,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Coast Guard",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "We",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "the Coast Guard",
+                "pos": [
+                    28,
+                    31
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the Coast Guard",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 16,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 16,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 8,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-04",
+    "sents": [
+        [
+            "The",
+            "U.S.",
+            "Coast",
+            "Guard",
+            "on",
+            "Thursday",
+            "found",
+            "an",
+            "additional",
+            "two",
+            "bodies",
+            "of",
+            "crew",
+            "members",
+            "missing",
+            "after",
+            "a",
+            "helicopter",
+            "crash",
+            "in",
+            "Alabama",
+            "'s",
+            "Mobile",
+            "Bay",
+            "."
+        ],
+        [
+            "Rescuers",
+            "have",
+            "now",
+            "found",
+            "a",
+            "total",
+            "three",
+            "bodies",
+            "from",
+            "the",
+            "Tuesday",
+            "crash",
+            ",",
+            "and",
+            "have",
+            "suspended",
+            "the",
+            "extensive",
+            "search",
+            "even",
+            "though",
+            "one",
+            "other",
+            "person",
+            "was",
+            "still",
+            "missing",
+            ",",
+            "the",
+            "Coast",
+            "Guard",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "decision",
+            "to",
+            "suspend",
+            "the",
+            "active",
+            "search",
+            "was",
+            "terribly",
+            "difficult",
+            ",",
+            "\"",
+            "said",
+            "Capt.",
+            "Donald",
+            "J.",
+            "Rose",
+            ",",
+            "a",
+            "Coast",
+            "Guard",
+            "commander",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "saturated",
+            "95%",
+            "of",
+            "Mobile",
+            "Bay",
+            "for",
+            "nearly",
+            "two",
+            "days",
+            "with",
+            "both",
+            "aircraft",
+            "and",
+            "boats",
+            "to",
+            "thoroughly",
+            "cover",
+            "the",
+            "search",
+            "area",
+            "."
+        ],
+        [
+            "Now",
+            ",",
+            "we",
+            "must",
+            "shift",
+            "our",
+            "focus",
+            "to",
+            "continuing",
+            "salvage",
+            "and",
+            "recovery",
+            "operations",
+            "."
+        ],
+        [
+            "As",
+            "we",
+            "continue",
+            "to",
+            "recover",
+            "wreckage",
+            ",",
+            "we",
+            "will",
+            "look",
+            "for",
+            "the",
+            "missing",
+            "crewman",
+            ".",
+            "\""
+        ],
+        [
+            "The",
+            "helicopter",
+            ",",
+            "an",
+            "MH",
+            "-",
+            "65C",
+            ",",
+            "crashed",
+            "Tuesday",
+            "night",
+            "while",
+            "on",
+            "a",
+            "mission",
+            "from",
+            "the",
+            "Aviation",
+            "Training",
+            "Center",
+            "at",
+            "Mobile",
+            "Regional",
+            "Airport",
+            ",",
+            "a",
+            "statement",
+            "from",
+            "the",
+            "Coast",
+            "Guard",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "cause",
+            "of",
+            "the",
+            "crash",
+            "is",
+            "under",
+            "investigation",
+            ",",
+            "the",
+            "Coast",
+            "Guard",
+            "said",
+            "."
+        ]
+    ]
+}

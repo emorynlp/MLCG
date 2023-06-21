@@ -1,0 +1,273 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "it 's",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "get us to",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "us to engage with each other like we would usually be forced to do in class",
+                "pos": [
+                    7,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "every reply is just , \" I like how you answered this , this is a good answer , good job",
+                "pos": [
+                    17,
+                    38
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "ALL OF OUR ANSWERS ARE BASICALLY THE SAME",
+                "pos": [
+                    40,
+                    48
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Maybe it 'd be better",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "we were allowed some creative freedom in our posts",
+                "pos": [
+                    6,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-063",
+    "sents": [
+        [
+            "Like",
+            "I",
+            "know",
+            "it",
+            "'s",
+            "to",
+            "get",
+            "us",
+            "to",
+            "engage",
+            "with",
+            "each",
+            "other",
+            "like",
+            "we",
+            "would",
+            "usually",
+            "be",
+            "forced",
+            "to",
+            "do",
+            "in",
+            "class",
+            "but",
+            "come",
+            "on",
+            "."
+        ],
+        [
+            "The",
+            "discussion",
+            "post",
+            "will",
+            "be",
+            "to",
+            "answer",
+            "questions",
+            "from",
+            "the",
+            "chapter",
+            "we",
+            "read",
+            ",",
+            "and",
+            "then",
+            "literally",
+            "every",
+            "reply",
+            "is",
+            "just",
+            ",",
+            "\"",
+            "I",
+            "like",
+            "how",
+            "you",
+            "answered",
+            "this",
+            ",",
+            "this",
+            "is",
+            "a",
+            "good",
+            "answer",
+            ",",
+            "good",
+            "job",
+            "\"",
+            "because",
+            "ALL",
+            "OF",
+            "OUR",
+            "ANSWERS",
+            "ARE",
+            "BASICALLY",
+            "THE",
+            "SAME",
+            "."
+        ],
+        [
+            "It",
+            "takes",
+            "like",
+            "2",
+            "brain",
+            "cells",
+            "to",
+            "come",
+            "up",
+            "with",
+            "a",
+            "reply",
+            "to",
+            "another",
+            "student",
+            "and",
+            "it",
+            "just",
+            "feels",
+            "like",
+            "a",
+            "waste",
+            "of",
+            "time",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "Maybe",
+            "it",
+            "'d",
+            "be",
+            "better",
+            "if",
+            "we",
+            "were",
+            "allowed",
+            "some",
+            "creative",
+            "freedom",
+            "in",
+            "our",
+            "posts",
+            "but",
+            "whatever",
+            "."
+        ]
+    ]
+}

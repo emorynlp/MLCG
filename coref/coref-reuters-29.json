@@ -1,0 +1,273 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the quarterly dividend",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the quarterly cash dividend",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a two for one stock split",
+                "pos": [
+                    5,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "the stock split",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "the split",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "offer",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "offer",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Avery",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The company",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Avery",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-29",
+    "sents": [
+        [
+            "Avery",
+            "said",
+            "its",
+            "board",
+            "authorizerd",
+            "a",
+            "two",
+            "for",
+            "one",
+            "stock",
+            "split",
+            ",",
+            "an",
+            "increased",
+            "in",
+            "the",
+            "quarterly",
+            "dividend",
+            "and",
+            "plans",
+            "to",
+            "offer",
+            "four",
+            "mln",
+            "shares",
+            "of",
+            "common",
+            "stock",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "said",
+            "the",
+            "stock",
+            "split",
+            "is",
+            "effective",
+            "March",
+            "16",
+            "with",
+            "a",
+            "distribution",
+            "of",
+            "one",
+            "additional",
+            "share",
+            "to",
+            "each",
+            "shareholder",
+            "of",
+            "record",
+            "March",
+            "9."
+        ],
+        [
+            "It",
+            "said",
+            "the",
+            "quarterly",
+            "cash",
+            "dividend",
+            "of",
+            "10.5",
+            "cts",
+            "per",
+            "share",
+            "on",
+            "the",
+            "split",
+            "shares",
+            ",",
+            "a",
+            "10.5",
+            "pct",
+            "increase",
+            "from",
+            "the",
+            "19",
+            "cts",
+            "per",
+            "share",
+            "before",
+            "the",
+            "split",
+            "."
+        ],
+        [
+            "Avery",
+            "said",
+            "it",
+            "will",
+            "register",
+            "with",
+            "the",
+            "Securities",
+            "and",
+            "Exchange",
+            "Commission",
+            "shrortly",
+            "to",
+            "offer",
+            "four",
+            "mln",
+            "additional",
+            "common",
+            "shares",
+            "."
+        ],
+        [
+            "It",
+            "will",
+            "use",
+            "the",
+            "proceeds",
+            "to",
+            "repay",
+            "debt",
+            ",",
+            "finance",
+            "recent",
+            "acquisitions",
+            "and",
+            "for",
+            "other",
+            "corporate",
+            "purposes",
+            "."
+        ]
+    ]
+}

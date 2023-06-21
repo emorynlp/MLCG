@@ -1,0 +1,439 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Iraq 's state - owned oil exploration company",
+                "pos": [
+                    0,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the country 's first oil find in 30 years",
+                "pos": [
+                    10,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "reliance on oil",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "government income",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "exploration in Iraq",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "hindered",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "decades of conflict",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "oil revenues",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "fund more than 90% of its budget",
+                "pos": [
+                    18,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The discovery comes",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "exploratory drilling began",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "means",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-36",
+    "sents": [
+        [
+            "Iraq",
+            "'s",
+            "state",
+            "-",
+            "owned",
+            "oil",
+            "exploration",
+            "company",
+            "has",
+            "made",
+            "the",
+            "country",
+            "'s",
+            "first",
+            "oil",
+            "find",
+            "in",
+            "30",
+            "years",
+            ",",
+            "an",
+            "Oil",
+            "Ministry",
+            "spokesman",
+            "said",
+            "Monday",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "found",
+            "at",
+            "least",
+            "a",
+            "billion",
+            "barrels",
+            "of",
+            "crude",
+            "under",
+            "the",
+            "ground",
+            "in",
+            "a",
+            "southeastern",
+            "province",
+            "near",
+            "the",
+            "border",
+            "with",
+            "Iran",
+            ",",
+            "spokesman",
+            "Assim",
+            "Jihad",
+            "said",
+            "Monday",
+            "."
+        ],
+        [
+            "The",
+            "discovery",
+            "in",
+            "Maysan",
+            ",",
+            "about",
+            "350",
+            "kilometers",
+            "(",
+            "215",
+            "miles",
+            ")",
+            "south",
+            "of",
+            "Baghdad",
+            ",",
+            "is",
+            "a",
+            "\"",
+            "significant",
+            "achievement",
+            "\"",
+            "for",
+            "the",
+            "country",
+            ",",
+            "Jihad",
+            "said",
+            "."
+        ],
+        [
+            "Despite",
+            "vast",
+            "reserves",
+            "and",
+            "reliance",
+            "on",
+            "oil",
+            "for",
+            "government",
+            "income",
+            ",",
+            "exploration",
+            "in",
+            "Iraq",
+            "has",
+            "been",
+            "hindered",
+            "by",
+            "decades",
+            "of",
+            "conflict",
+            "."
+        ],
+        [
+            "With",
+            "the",
+            "world",
+            "'s",
+            "fourth",
+            "-",
+            "largest",
+            "oil",
+            "reserves",
+            ",",
+            "Iraq",
+            "'s",
+            "government",
+            "depends",
+            "on",
+            "oil",
+            "revenues",
+            "to",
+            "fund",
+            "more",
+            "than",
+            "90%",
+            "of",
+            "its",
+            "budget",
+            "."
+        ],
+        [
+            "The",
+            "discovery",
+            "comes",
+            "seven",
+            "months",
+            "after",
+            "exploratory",
+            "drilling",
+            "began",
+            ",",
+            "Jihad",
+            "said",
+            "."
+        ],
+        [
+            "Iraq",
+            "produces",
+            "3.2",
+            "million",
+            "barrels",
+            "of",
+            "oil",
+            "a",
+            "day",
+            ",",
+            "exporting",
+            "72%",
+            "of",
+            "it",
+            ",",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "In",
+            "2010",
+            ",",
+            "Iraqi",
+            "officials",
+            "estimated",
+            "the",
+            "country",
+            "had",
+            "143",
+            "billion",
+            "barrels",
+            "of",
+            "extractable",
+            "oil",
+            ",",
+            "most",
+            "of",
+            "it",
+            "in",
+            "the",
+            "southern",
+            "oil",
+            "fields",
+            "."
+        ]
+    ]
+}

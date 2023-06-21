@@ -1,0 +1,289 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy did not know what to say to this",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "all the people seemed to think her a witch",
+                "pos": [
+                    11,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "an ordinary little girl who had come",
+                "pos": [
+                    29,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the chance of a cyclone",
+                "pos": [
+                    37,
+                    42
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "When",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "she had tired watching the dancing",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Boq led her into the house",
+                "pos": [
+                    8,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-15",
+    "sents": [
+        [
+            "Dorothy",
+            "ate",
+            "a",
+            "hearty",
+            "supper",
+            "and",
+            "was",
+            "waited",
+            "upon",
+            "by",
+            "the",
+            "rich",
+            "Munchkin",
+            "himself",
+            ",",
+            "whose",
+            "name",
+            "was",
+            "Boq",
+            "."
+        ],
+        [
+            "Then",
+            "she",
+            "sat",
+            "upon",
+            "a",
+            "settee",
+            "and",
+            "watched",
+            "the",
+            "people",
+            "dance",
+            "."
+        ],
+        [
+            "Dorothy",
+            "did",
+            "not",
+            "know",
+            "what",
+            "to",
+            "say",
+            "to",
+            "this",
+            ",",
+            "for",
+            "all",
+            "the",
+            "people",
+            "seemed",
+            "to",
+            "think",
+            "her",
+            "a",
+            "witch",
+            ",",
+            "and",
+            "she",
+            "knew",
+            "very",
+            "well",
+            "she",
+            "was",
+            "only",
+            "an",
+            "ordinary",
+            "little",
+            "girl",
+            "who",
+            "had",
+            "come",
+            "by",
+            "the",
+            "chance",
+            "of",
+            "a",
+            "cyclone",
+            "into",
+            "a",
+            "strange",
+            "land",
+            "."
+        ],
+        [
+            "When",
+            "she",
+            "had",
+            "tired",
+            "watching",
+            "the",
+            "dancing",
+            ",",
+            "Boq",
+            "led",
+            "her",
+            "into",
+            "the",
+            "house",
+            ",",
+            "where",
+            "he",
+            "gave",
+            "her",
+            "a",
+            "room",
+            "with",
+            "a",
+            "pretty",
+            "bed",
+            "in",
+            "it",
+            "."
+        ],
+        [
+            "The",
+            "sheets",
+            "were",
+            "made",
+            "of",
+            "blue",
+            "cloth",
+            ",",
+            "and",
+            "Dorothy",
+            "slept",
+            "soundly",
+            "in",
+            "them",
+            "till",
+            "morning",
+            ",",
+            "with",
+            "Toto",
+            "curled",
+            "up",
+            "on",
+            "the",
+            "blue",
+            "rug",
+            "beside",
+            "her",
+            "."
+        ]
+    ]
+}

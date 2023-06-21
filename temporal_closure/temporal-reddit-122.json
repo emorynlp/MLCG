@@ -1,0 +1,906 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "'re the last class",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finished",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "The last class",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "start",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "The first class",
+                "pos": [
+                    27,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finish",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "start",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "The first class",
+                "pos": [
+                    43,
+                    46
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finish",
+                "pos": [
+                    47,
+                    48
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "The first class",
+                "pos": [
+                    55,
+                    58
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be born",
+                "pos": [
+                    60,
+                    62
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "The last class",
+                "pos": [
+                    65,
+                    68
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be born",
+                "pos": [
+                    69,
+                    71
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "existed",
+                "pos": [
+                    73,
+                    74
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "crazy",
+                "pos": [
+                    81,
+                    82
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were born",
+                "pos": [
+                    97,
+                    99
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "used",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were the most popular consoles",
+                "pos": [
+                    22,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Edit",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was expecting",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 20,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 18,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 19,
+            "t": 14,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-122",
+    "sents": [
+        [
+            "*",
+            "We",
+            "'re",
+            "the",
+            "last",
+            "class",
+            "to",
+            "have",
+            "finished",
+            "kindergarten",
+            "in",
+            "the",
+            "2000s",
+            "*",
+            "The",
+            "last",
+            "class",
+            "to",
+            "start",
+            "elementary",
+            "school",
+            "under",
+            "President",
+            "George",
+            "W.",
+            "Bush",
+            "*",
+            "The",
+            "first",
+            "class",
+            "to",
+            "finish",
+            "middle",
+            "school",
+            "and",
+            "start",
+            "high",
+            "school",
+            "under",
+            "President",
+            "Donald",
+            "Trump",
+            "*",
+            "The",
+            "first",
+            "class",
+            "to",
+            "finish",
+            "high",
+            "school",
+            "under",
+            "President",
+            "Joe",
+            "Biden",
+            "*",
+            "The",
+            "first",
+            "class",
+            "to",
+            "exclusively",
+            "be",
+            "born",
+            "after",
+            "9/11",
+            "*",
+            "The",
+            "last",
+            "class",
+            "to",
+            "be",
+            "born",
+            "before",
+            "Facebook",
+            "existed",
+            "&",
+            "#x200B",
+            ";",
+            "Also",
+            "I",
+            "find",
+            "it",
+            "crazy",
+            "to",
+            "think",
+            "about",
+            "how",
+            "different",
+            "things",
+            "were",
+            "back",
+            "in",
+            "the",
+            "early",
+            "2000s",
+            ",",
+            "when",
+            "we",
+            "were",
+            "born",
+            ",",
+            "compared",
+            "to",
+            "now",
+            "."
+        ],
+        [
+            "iPhones",
+            "did",
+            "n't",
+            "exist",
+            "yet",
+            ",",
+            "most",
+            "people",
+            "still",
+            "used",
+            "dial",
+            "-",
+            "up",
+            "to",
+            "access",
+            "the",
+            "Internet",
+            ",",
+            "the",
+            "Gamecube",
+            "and",
+            "PS2",
+            "were",
+            "the",
+            "most",
+            "popular",
+            "consoles",
+            ",",
+            "and",
+            "none",
+            "of",
+            "the",
+            "popular",
+            "social",
+            "media",
+            "platforms",
+            "like",
+            "Facebook",
+            ",",
+            "Twitter",
+            ",",
+            "YouTube",
+            ",",
+            "or",
+            "Reddit",
+            "existed",
+            "yet",
+            "."
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "Edit",
+            ":",
+            "Thanks",
+            "so",
+            "much",
+            "for",
+            "1.5k",
+            "upvotes",
+            "!"
+        ],
+        [
+            "Ngl",
+            "I",
+            "was",
+            "expecting",
+            "this",
+            "post",
+            "to",
+            "level",
+            "out",
+            "at",
+            "around",
+            "200",
+            "upvotes",
+            "."
+        ]
+    ]
+}

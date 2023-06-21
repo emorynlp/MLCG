@@ -1,0 +1,325 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "these posts",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "that info",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "people",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "You",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "u",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "yourself",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the waitlist",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the waitlist",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "waitlist",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-037",
+    "sents": [
+        [
+            "i",
+            "\u2019m",
+            "tired",
+            "of",
+            "seeing",
+            "these",
+            "posts",
+            "."
+        ],
+        [
+            "You",
+            "are",
+            "bragging",
+            "."
+        ],
+        [
+            "that",
+            "\u2019s",
+            "all",
+            "you",
+            "are",
+            "doing",
+            "."
+        ],
+        [
+            "celebrate",
+            "where",
+            "you",
+            "choose",
+            "to",
+            "go",
+            ",",
+            "do",
+            "n\u2019t",
+            "list",
+            "all",
+            "the",
+            "schools",
+            "you",
+            "got",
+            "into",
+            "for",
+            "the",
+            "clout",
+            "."
+        ],
+        [
+            "there",
+            "\u2019s",
+            "no",
+            "benefit",
+            "you",
+            "or",
+            "anyone",
+            "else",
+            "gets",
+            "from",
+            "u",
+            "posting",
+            "that",
+            "info",
+            ",",
+            "it",
+            "\u2019s",
+            "just",
+            "feeding",
+            "your",
+            "ego",
+            "."
+        ],
+        [
+            "that",
+            "\u2019s",
+            "just",
+            "boastful",
+            "."
+        ],
+        [
+            "you",
+            "\u2019re",
+            "lying",
+            "to",
+            "yourself",
+            "if",
+            "you",
+            "justify",
+            "your",
+            "bragging",
+            "by",
+            "telling",
+            "people",
+            "they",
+            "\u2019ll",
+            "get",
+            "off",
+            "the",
+            "waitlist",
+            "."
+        ],
+        [
+            "just",
+            "because",
+            "you",
+            "decline",
+            "your",
+            "offer",
+            "does",
+            "n\u2019t",
+            "mean",
+            "someone",
+            "is",
+            "getting",
+            "off",
+            "the",
+            "waitlist",
+            "."
+        ],
+        [
+            "waitlist",
+            "acceptances",
+            "are",
+            "not",
+            "1:1",
+            "to",
+            "declined",
+            "offers",
+            "."
+        ]
+    ]
+}

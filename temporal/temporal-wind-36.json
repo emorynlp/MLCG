@@ -1,0 +1,316 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "caught up",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "chattering",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gone",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were passing",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bordered",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stopped",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-36",
+    "sents": [
+        [
+            "With",
+            "an",
+            "effort",
+            "he",
+            "caught",
+            "up",
+            "to",
+            "the",
+            "unsuspecting",
+            "Rat",
+            ",",
+            "who",
+            "began",
+            "chattering",
+            "cheerfully",
+            "about",
+            "what",
+            "they",
+            "would",
+            "do",
+            "when",
+            "they",
+            "got",
+            "back",
+            ",",
+            "and",
+            "how",
+            "jolly",
+            "a",
+            "fire",
+            "of",
+            "logs",
+            "in",
+            "the",
+            "parlour",
+            "would",
+            "be",
+            ",",
+            "and",
+            "what",
+            "a",
+            "supper",
+            "he",
+            "meant",
+            "to",
+            "eat",
+            ";",
+            "never",
+            "noticing",
+            "his",
+            "companion",
+            "'s",
+            "silence",
+            "and",
+            "distressful",
+            "state",
+            "of",
+            "mind",
+            "."
+        ],
+        [
+            "At",
+            "last",
+            ",",
+            "however",
+            ",",
+            "when",
+            "they",
+            "had",
+            "gone",
+            "some",
+            "considerable",
+            "way",
+            "further",
+            ",",
+            "and",
+            "were",
+            "passing",
+            "some",
+            "tree",
+            "-",
+            "stumps",
+            "at",
+            "the",
+            "edge",
+            "of",
+            "a",
+            "copse",
+            "that",
+            "bordered",
+            "the",
+            "road",
+            ",",
+            "he",
+            "stopped",
+            "and",
+            "said",
+            "kindly",
+            ",",
+            "\"",
+            "Look",
+            "here",
+            ",",
+            "Mole",
+            "old",
+            "chap",
+            ",",
+            "you",
+            "seem",
+            "dead",
+            "tired",
+            "."
+        ],
+        [
+            "No",
+            "talk",
+            "left",
+            "in",
+            "you",
+            ",",
+            "and",
+            "your",
+            "feet",
+            "dragging",
+            "like",
+            "lead",
+            "."
+        ],
+        [
+            "We",
+            "'ll",
+            "sit",
+            "down",
+            "here",
+            "for",
+            "a",
+            "minute",
+            "and",
+            "rest",
+            "."
+        ],
+        [
+            "The",
+            "snow",
+            "has",
+            "held",
+            "off",
+            "so",
+            "far",
+            ",",
+            "and",
+            "the",
+            "best",
+            "part",
+            "of",
+            "our",
+            "journey",
+            "is",
+            "over",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

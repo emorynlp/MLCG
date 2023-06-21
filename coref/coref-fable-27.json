@@ -1,0 +1,302 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A DOG",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Dog",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Hare",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Hare",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "he",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his prey",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the bewildered Hare",
+                "pos": [
+                    25,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-27",
+    "sents": [
+        [
+            "A",
+            "DOG",
+            "once",
+            "gave",
+            "chase",
+            "to",
+            "a",
+            "Hare",
+            "."
+        ],
+        [
+            "Having",
+            "not",
+            "long",
+            "since",
+            "made",
+            "a",
+            "good",
+            "meal",
+            ",",
+            "the",
+            "Dog",
+            "was",
+            "not",
+            "hungry",
+            ",",
+            "and",
+            "so",
+            "was",
+            "not",
+            "in",
+            "haste",
+            "to",
+            "end",
+            "the",
+            "sport",
+            "by",
+            "killing",
+            "the",
+            "Hare",
+            "."
+        ],
+        [
+            "At",
+            "times",
+            "he",
+            "would",
+            "snap",
+            "at",
+            "his",
+            "prey",
+            ",",
+            "and",
+            "at",
+            "times",
+            "play",
+            "with",
+            "him",
+            "and",
+            "lick",
+            "him",
+            "with",
+            "his",
+            "tongue",
+            ",",
+            "till",
+            "at",
+            "last",
+            "the",
+            "bewildered",
+            "Hare",
+            "cried",
+            ":",
+            "\u201c",
+            "Pray",
+            "tell",
+            "me",
+            ",",
+            "are",
+            "you",
+            "an",
+            "enemy",
+            "or",
+            "a",
+            "friend",
+            "?"
+        ],
+        [
+            "If",
+            "a",
+            "friend",
+            ",",
+            "why",
+            "do",
+            "you",
+            "bite",
+            "me",
+            "so",
+            "?"
+        ],
+        [
+            "and",
+            "if",
+            "an",
+            "enemy",
+            ",",
+            "why",
+            "do",
+            "you",
+            "caress",
+            "me",
+            "?",
+            "\u201d"
+        ],
+        [
+            "No",
+            "one",
+            "can",
+            "trust",
+            "a",
+            "person",
+            "who",
+            "is",
+            "neither",
+            "the",
+            "one",
+            "thing",
+            "nor",
+            "the",
+            "other",
+            "."
+        ]
+    ]
+}

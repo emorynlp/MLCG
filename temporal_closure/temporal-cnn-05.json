@@ -1,0 +1,302 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "invited",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Asked",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "remarked",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is set",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-05",
+    "sents": [
+        [
+            "India",
+            "on",
+            "Wednesday",
+            "invited",
+            "the",
+            "Prime",
+            "Minister",
+            "of",
+            "its",
+            "archrival",
+            "Pakistan",
+            "to",
+            "the",
+            "swearing",
+            "-",
+            "in",
+            "of",
+            "its",
+            "new",
+            "leader",
+            ",",
+            "Narendra",
+            "Modi",
+            "."
+        ],
+        [
+            "Invitations",
+            "were",
+            "extended",
+            "to",
+            "the",
+            "heads",
+            "of",
+            "all",
+            "eight",
+            "countries",
+            "in",
+            "the",
+            "South",
+            "Asian",
+            "Association",
+            "for",
+            "Regional",
+            "Cooperation",
+            ",",
+            "which",
+            "includes",
+            "Pakistani",
+            "Prime",
+            "Minister",
+            "Nawaz",
+            "Sharif",
+            ",",
+            "the",
+            "Indian",
+            "external",
+            "affairs",
+            "ministry",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "This",
+            "is",
+            "the",
+            "first",
+            "time",
+            "that",
+            "India",
+            "has",
+            "invited",
+            "all",
+            "SAARC",
+            "members",
+            "to",
+            "attend",
+            "a",
+            "swearing",
+            "-",
+            "in",
+            "ceremony",
+            "of",
+            "a",
+            "prime",
+            "minister",
+            ",",
+            "\"",
+            "ministry",
+            "spokesman",
+            "Syed",
+            "Akbaruddin",
+            "said",
+            "."
+        ],
+        [
+            "Asked",
+            "whether",
+            "the",
+            "move",
+            "marked",
+            "the",
+            "start",
+            "of",
+            "a",
+            "better",
+            "relationship",
+            "with",
+            "Pakistan",
+            ",",
+            "he",
+            "remarked",
+            ",",
+            "\"",
+            "Let",
+            "'s",
+            "take",
+            "one",
+            "step",
+            "at",
+            "a",
+            "time",
+            ".",
+            "\""
+        ],
+        [
+            "At",
+            "this",
+            "stage",
+            ",",
+            "the",
+            "invitations",
+            "have",
+            "gone",
+            "."
+        ],
+        [
+            "Let",
+            "'s",
+            "take",
+            "responses",
+            "on",
+            "this",
+            "and",
+            "we",
+            "will",
+            "take",
+            "it",
+            "from",
+            "there",
+            ",",
+            "rather",
+            "than",
+            "jump",
+            "to",
+            "conclusions",
+            "on",
+            "the",
+            "basis",
+            "of",
+            "our",
+            "first",
+            "step",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "swearing",
+            "-",
+            "in",
+            "is",
+            "set",
+            "to",
+            "take",
+            "place",
+            "Monday",
+            "."
+        ]
+    ]
+}

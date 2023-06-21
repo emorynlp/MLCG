@@ -1,0 +1,451 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Lion",
+                "pos": [
+                    31,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The Tin Woodman",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "a broad river",
+                "pos": [
+                    21,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "the water",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the road",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "all the road",
+                "pos": [
+                    29,
+                    32
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a beautiful country",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "this delightful country",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the travelers",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 10,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 10,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 10,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-33",
+    "sents": [
+        [
+            "This",
+            "adventure",
+            "made",
+            "the",
+            "travelers",
+            "more",
+            "anxious",
+            "than",
+            "ever",
+            "to",
+            "get",
+            "out",
+            "of",
+            "the",
+            "forest",
+            ",",
+            "and",
+            "they",
+            "walked",
+            "so",
+            "fast",
+            "that",
+            "Dorothy",
+            "became",
+            "tired",
+            ",",
+            "and",
+            "had",
+            "to",
+            "ride",
+            "on",
+            "the",
+            "Lion",
+            "'",
+            "s",
+            "back",
+            "."
+        ],
+        [
+            "To",
+            "their",
+            "great",
+            "joy",
+            "the",
+            "trees",
+            "became",
+            "thinner",
+            "the",
+            "farther",
+            "they",
+            "advanced",
+            ",",
+            "and",
+            "in",
+            "the",
+            "afternoon",
+            "they",
+            "suddenly",
+            "came",
+            "upon",
+            "a",
+            "broad",
+            "river",
+            ",",
+            "flowing",
+            "swiftly",
+            "just",
+            "before",
+            "them",
+            "."
+        ],
+        [
+            "On",
+            "the",
+            "other",
+            "side",
+            "of",
+            "the",
+            "water",
+            "they",
+            "could",
+            "see",
+            "the",
+            "road",
+            "of",
+            "yellow",
+            "brick",
+            "running",
+            "through",
+            "a",
+            "beautiful",
+            "country",
+            ",",
+            "with",
+            "green",
+            "meadows",
+            "dotted",
+            "with",
+            "bright",
+            "flowers",
+            "and",
+            "all",
+            "the",
+            "road",
+            "bordered",
+            "with",
+            "trees",
+            "hanging",
+            "full",
+            "of",
+            "delicious",
+            "fruits",
+            "."
+        ],
+        [
+            "They",
+            "were",
+            "greatly",
+            "pleased",
+            "to",
+            "see",
+            "this",
+            "delightful",
+            "country",
+            "before",
+            "them",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "shall",
+            "we",
+            "cross",
+            "the",
+            "river",
+            "?",
+            "\"",
+            "asked",
+            "Dorothy",
+            "."
+        ],
+        [
+            "\"",
+            "That",
+            "is",
+            "easily",
+            "done",
+            ",",
+            "\"",
+            "replied",
+            "the",
+            "Scarecrow",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "Tin",
+            "Woodman",
+            "must",
+            "build",
+            "us",
+            "a",
+            "raft",
+            ",",
+            "so",
+            "we",
+            "can",
+            "float",
+            "to",
+            "the",
+            "other",
+            "side",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

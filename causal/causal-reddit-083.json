@@ -1,0 +1,194 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "The person I spoke to said it 's very easy to transition into the PhD program after a year",
+                "pos": [
+                    0,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I 'm hoping for that",
+                "pos": [
+                    21,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-083",
+    "sents": [
+        [
+            "Hi",
+            "all",
+            "!"
+        ],
+        [
+            "I",
+            "just",
+            "found",
+            "out",
+            "this",
+            "week",
+            "I",
+            "was",
+            "accepted",
+            "into",
+            "a",
+            "Master",
+            "'s",
+            "program",
+            "for",
+            "Chemistry",
+            "along",
+            "with",
+            "an",
+            "assistantship",
+            "(",
+            "TA",
+            ")",
+            "!!!"
+        ],
+        [
+            "I",
+            "ca",
+            "n't",
+            "even",
+            "begin",
+            "to",
+            "describe",
+            "how",
+            "happy",
+            "I",
+            "am",
+            "."
+        ],
+        [
+            "Its",
+            "truly",
+            "a",
+            "dream",
+            "come",
+            "true",
+            "."
+        ],
+        [
+            "The",
+            "person",
+            "I",
+            "spoke",
+            "to",
+            "said",
+            "it",
+            "'s",
+            "very",
+            "easy",
+            "to",
+            "transition",
+            "into",
+            "the",
+            "PhD",
+            "program",
+            "after",
+            "a",
+            "year",
+            ",",
+            "so",
+            "I",
+            "'m",
+            "hoping",
+            "for",
+            "that",
+            "."
+        ],
+        [
+            "Anyways",
+            ",",
+            "I",
+            "'m",
+            "looking",
+            "for",
+            "advice",
+            "on",
+            "how",
+            "to",
+            "prepare",
+            "."
+        ],
+        [
+            "What",
+            "should",
+            "I",
+            "brush",
+            "up",
+            "on",
+            "?"
+        ],
+        [
+            "What",
+            "are",
+            "somethings",
+            "I",
+            "should",
+            "master",
+            "before",
+            "I",
+            "start",
+            "grad",
+            "school",
+            "?"
+        ],
+        [
+            "Any",
+            "and",
+            "all",
+            "advice",
+            "is",
+            "welcomed",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "want",
+            "to",
+            "fuck",
+            "this",
+            "up",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "bow",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "start",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stars",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "concluded",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was thought",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "convinced",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "picks up",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "finds",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "living",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-42",
+    "sents": [
+        [
+            "(",
+            "EW.com",
+            ")",
+            "--",
+            "HBO",
+            "will",
+            "bow",
+            "the",
+            "fourth",
+            "and",
+            "final",
+            "season",
+            "of",
+            "\"",
+            "Eastbound",
+            "and",
+            "Down",
+            "\"",
+            "on",
+            "Sept.",
+            "29",
+            "."
+        ],
+        [
+            "Production",
+            "on",
+            "the",
+            "eight",
+            "-",
+            "episode",
+            "season",
+            "will",
+            "start",
+            "Friday",
+            "in",
+            "North",
+            "Carolina",
+            "."
+        ],
+        [
+            "The",
+            "single",
+            "-",
+            "camera",
+            "comedy",
+            "stars",
+            "Kenny",
+            "Powers",
+            "as",
+            "a",
+            "former",
+            "major",
+            "league",
+            "pitcher",
+            "."
+        ],
+        [
+            "The",
+            "third",
+            "season",
+            "concluded",
+            "in",
+            "April",
+            "2012",
+            "and",
+            "was",
+            "thought",
+            "to",
+            "be",
+            "its",
+            "last",
+            ",",
+            "though",
+            "HBO",
+            "convinced",
+            "star",
+            "Danny",
+            "McBride",
+            "and",
+            "executive",
+            "producers",
+            "Jody",
+            "Hill",
+            ",",
+            "Will",
+            "Ferrell",
+            ",",
+            "Chris",
+            "Henchy",
+            "and",
+            "Adam",
+            "McKay",
+            "to",
+            "create",
+            "more",
+            "episodes",
+            "of",
+            "the",
+            "cult",
+            "hit",
+            "."
+        ],
+        [
+            "The",
+            "upcoming",
+            "fourth",
+            "season",
+            "picks",
+            "up",
+            "the",
+            "action",
+            "several",
+            "years",
+            "later",
+            "and",
+            "finds",
+            "Kenny",
+            "living",
+            "the",
+            "American",
+            "Dream",
+            "with",
+            "his",
+            "family",
+            "in",
+            "North",
+            "Carolina",
+            "."
+        ],
+        [
+            "See",
+            "the",
+            "original",
+            "article",
+            "at",
+            "EW.com",
+            "."
+        ],
+        [
+            "CLICK",
+            "HERE",
+            "to",
+            "Try",
+            "2",
+            "RISK",
+            "FREE",
+            "issues",
+            "of",
+            "Entertainment",
+            "Weekly",
+            "\u00a9",
+            "2011",
+            "Entertainment",
+            "Weekly",
+            "and",
+            "Time",
+            "Inc.",
+            "All",
+            "rights",
+            "reserved",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,333 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a Snake",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Snake",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "You",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Farmer",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Farmer",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his kind friend",
+                "pos": [
+                    21,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Farmer",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-22",
+    "sents": [
+        [
+            "ONE",
+            "wintry",
+            "day",
+            "a",
+            "Farmer",
+            "found",
+            "a",
+            "Snake",
+            "lying",
+            "on",
+            "the",
+            "frozen",
+            "ground",
+            ",",
+            "quite",
+            "stiff",
+            "and",
+            "nearly",
+            "dead",
+            "with",
+            "cold",
+            "."
+        ],
+        [
+            "In",
+            "a",
+            "fit",
+            "of",
+            "compassion",
+            "the",
+            "Farmer",
+            "brought",
+            "him",
+            "carefully",
+            "to",
+            "his",
+            "house",
+            ",",
+            "and",
+            "laid",
+            "him",
+            "near",
+            "the",
+            "fire",
+            "."
+        ],
+        [
+            "But",
+            "as",
+            "soon",
+            "as",
+            "the",
+            "Snake",
+            "began",
+            "to",
+            "feel",
+            "the",
+            "pleasant",
+            "warmth",
+            ",",
+            "he",
+            "raised",
+            "his",
+            "head",
+            "and",
+            "tried",
+            "to",
+            "bite",
+            "his",
+            "kind",
+            "friend",
+            "."
+        ],
+        [
+            "\u201c",
+            "Oh",
+            "!",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Farmer",
+            ",",
+            "\u201c",
+            "is",
+            "that",
+            "the",
+            "way",
+            "you",
+            "repay",
+            "me",
+            "for",
+            "my",
+            "trouble",
+            "?"
+        ],
+        [
+            "You",
+            "are",
+            "a",
+            "venomous",
+            "creature",
+            ",",
+            "I",
+            "am",
+            "sure",
+            ",",
+            "and",
+            "the",
+            "sooner",
+            "you",
+            "die",
+            "the",
+            "better",
+            ".",
+            "\u201d"
+        ],
+        [
+            "And",
+            "he",
+            "killed",
+            "him",
+            "with",
+            "one",
+            "blow",
+            "of",
+            "his",
+            "stick",
+            "."
+        ]
+    ]
+}

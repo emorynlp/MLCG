@@ -1,0 +1,340 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was held",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "decided",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "adding",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "declined",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-27",
+    "sents": [
+        [
+            "Six",
+            "gay",
+            "men",
+            "were",
+            "shot",
+            "dead",
+            "by",
+            "members",
+            "of",
+            "their",
+            "tribe",
+            "in",
+            "two",
+            "separate",
+            "incidents",
+            "in",
+            "the",
+            "past",
+            "10",
+            "days",
+            ",",
+            "an",
+            "official",
+            "with",
+            "Iraq",
+            "'s",
+            "Interior",
+            "ministry",
+            "said",
+            "."
+        ],
+        [
+            "In",
+            "the",
+            "most",
+            "recent",
+            "attack",
+            ",",
+            "two",
+            "men",
+            "were",
+            "killed",
+            "Thursday",
+            "in",
+            "Sadr",
+            "City",
+            "area",
+            "of",
+            "Baghdad",
+            "after",
+            "they",
+            "were",
+            "disowned",
+            "by",
+            "relatives",
+            ",",
+            "the",
+            "official",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "shootings",
+            "came",
+            "after",
+            "a",
+            "tribal",
+            "meeting",
+            "was",
+            "held",
+            "and",
+            "the",
+            "members",
+            "decided",
+            "to",
+            "go",
+            "after",
+            "the",
+            "victims",
+            "."
+        ],
+        [
+            "On",
+            "March",
+            "26",
+            ",",
+            "four",
+            "additional",
+            "men",
+            "were",
+            "fatally",
+            "shot",
+            "in",
+            "the",
+            "same",
+            "city",
+            ",",
+            "the",
+            "official",
+            "said",
+            ",",
+            "adding",
+            "that",
+            "the",
+            "victims",
+            "had",
+            "also",
+            "been",
+            "disowned",
+            "by",
+            "their",
+            "relatives",
+            "."
+        ],
+        [
+            "The",
+            "official",
+            "declined",
+            "to",
+            "be",
+            "identified",
+            "because",
+            "he",
+            "is",
+            "not",
+            "authorized",
+            "to",
+            "speak",
+            "to",
+            "the",
+            "media",
+            "."
+        ],
+        [
+            "Witnesses",
+            "told",
+            "CNN",
+            "that",
+            "a",
+            "Sadr",
+            "City",
+            "cafe",
+            ",",
+            "which",
+            "was",
+            "a",
+            "popular",
+            "gathering",
+            "spot",
+            "for",
+            "gays",
+            ",",
+            "was",
+            "also",
+            "set",
+            "on",
+            "fire",
+            "."
+        ]
+    ]
+}

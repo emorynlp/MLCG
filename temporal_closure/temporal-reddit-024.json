@@ -1,0 +1,325 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "started",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "learned about",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "liked",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gas up",
+                "pos": [
+                    28,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "go",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seen",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is clean",
+                "pos": [
+                    36,
+                    38
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "beautiful",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-024",
+    "sents": [
+        [
+            "My",
+            "favorite",
+            "school",
+            "started",
+            "as",
+            "a",
+            "\"",
+            "why",
+            "not",
+            "apply",
+            "\"",
+            "safety",
+            "and",
+            "the",
+            "more",
+            "I",
+            "learned",
+            "about",
+            "it",
+            "the",
+            "more",
+            "I",
+            "liked",
+            "it",
+            "so",
+            ",",
+            "everybody",
+            "else",
+            "gas",
+            "up",
+            "your",
+            "safety",
+            "/",
+            "least",
+            "prestigious",
+            "school",
+            "."
+        ],
+        [
+            "I",
+            "'ll",
+            "go",
+            "first",
+            "."
+        ],
+        [
+            "Florida",
+            "Gulf",
+            "Coast",
+            "University",
+            "!"
+        ],
+        [
+            "Amazing",
+            "Dorms",
+            ",",
+            "like",
+            "genuinely",
+            "the",
+            "best",
+            "I",
+            "'ve",
+            "ever",
+            "seen",
+            "."
+        ],
+        [
+            "In-state",
+            "tuition",
+            "with",
+            "great",
+            "merit",
+            "scholarships",
+            "."
+        ],
+        [
+            "Amazing",
+            "honors",
+            "college",
+            "opportunities",
+            "(",
+            "exclusive",
+            "study",
+            "abroad",
+            "programs",
+            ",",
+            "undergrad",
+            "research",
+            "funding",
+            ",",
+            "etc",
+            ")",
+            "Unique",
+            "and",
+            "fun",
+            "classes",
+            ",",
+            "including",
+            "Gen",
+            "-",
+            "eds",
+            "(",
+            "music",
+            "appreciation",
+            ",",
+            "art",
+            "appreciation",
+            ",",
+            "etc",
+            ")",
+            "The",
+            "campus",
+            "is",
+            "clean",
+            "+",
+            "beautiful",
+            "High",
+            "-",
+            "quality",
+            "food",
+            "with",
+            "a",
+            "lot",
+            "of",
+            "options",
+            "Free",
+            "parking",
+            "for",
+            "all",
+            "students",
+            "."
+        ]
+    ]
+}

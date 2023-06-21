@@ -1,0 +1,264 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "as",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy approached",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "one of them said to her",
+                "pos": [
+                    23,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "she came back",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 8,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "say that Dorothy and the others were to be admitted at once",
+                "pos": [
+                    8,
+                    20
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-37",
+    "sents": [
+        [
+            "Thanking",
+            "the",
+            "good",
+            "woman",
+            ",",
+            "they",
+            "started",
+            "afresh",
+            "and",
+            "walked",
+            "by",
+            "the",
+            "fields",
+            "and",
+            "across",
+            "the",
+            "pretty",
+            "bridges",
+            "until",
+            "they",
+            "saw",
+            "before",
+            "them",
+            "a",
+            "very",
+            "beautiful",
+            "Castle",
+            "."
+        ],
+        [
+            "Before",
+            "the",
+            "gates",
+            "were",
+            "three",
+            "young",
+            "girls",
+            ",",
+            "dressed",
+            "in",
+            "handsome",
+            "red",
+            "uniforms",
+            "trimmed",
+            "with",
+            "gold",
+            "braid",
+            ";",
+            "and",
+            "as",
+            "Dorothy",
+            "approached",
+            ",",
+            "one",
+            "of",
+            "them",
+            "said",
+            "to",
+            "her",
+            ":"
+        ],
+        [
+            "\"",
+            "Why",
+            "have",
+            "you",
+            "come",
+            "to",
+            "the",
+            "South",
+            "Country",
+            "?",
+            "\""
+        ],
+        [
+            "\"",
+            "To",
+            "see",
+            "the",
+            "Good",
+            "Witch",
+            "who",
+            "rules",
+            "here",
+            ",",
+            "\"",
+            "she",
+            "answered",
+            "."
+        ],
+        [
+            "\"",
+            "Will",
+            "you",
+            "take",
+            "me",
+            "to",
+            "her",
+            "?",
+            "\""
+        ],
+        [
+            "\"",
+            "Let",
+            "me",
+            "have",
+            "your",
+            "name",
+            ",",
+            "and",
+            "I",
+            "will",
+            "ask",
+            "Glinda",
+            "if",
+            "she",
+            "will",
+            "receive",
+            "you",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "They",
+            "told",
+            "who",
+            "they",
+            "were",
+            ",",
+            "and",
+            "the",
+            "girl",
+            "soldier",
+            "went",
+            "into",
+            "the",
+            "Castle",
+            "."
+        ],
+        [
+            "After",
+            "a",
+            "few",
+            "moments",
+            "she",
+            "came",
+            "back",
+            "to",
+            "say",
+            "that",
+            "Dorothy",
+            "and",
+            "the",
+            "others",
+            "were",
+            "to",
+            "be",
+            "admitted",
+            "at",
+            "once",
+            "."
+        ]
+    ]
+}

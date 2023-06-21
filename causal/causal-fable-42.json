@@ -1,0 +1,195 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "had",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you not come before your time",
+                "pos": [
+                    10,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I should not now be so wretched , and you might have escaped your fate",
+                "pos": [
+                    17,
+                    32
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-42",
+    "sents": [
+        [
+            "A",
+            "YOUNG",
+            "man",
+            "who",
+            "had",
+            "been",
+            "a",
+            "great",
+            "spendthrift",
+            ",",
+            "and",
+            "had",
+            "run",
+            "through",
+            "all",
+            "the",
+            "money",
+            "he",
+            "had",
+            "inherited",
+            ",",
+            "and",
+            "even",
+            "sold",
+            "all",
+            "his",
+            "outer",
+            "clothing",
+            "except",
+            "his",
+            "cloak",
+            ",",
+            "saw",
+            "a",
+            "Swallow",
+            "skimming",
+            "over",
+            "the",
+            "meadows",
+            "in",
+            "the",
+            "early",
+            "springtime",
+            "and",
+            "twittering",
+            "gayly",
+            "."
+        ],
+        [
+            "Believing",
+            "that",
+            "summer",
+            "was",
+            "really",
+            "come",
+            ",",
+            "he",
+            "sold",
+            "his",
+            "cloak",
+            "also",
+            "."
+        ],
+        [
+            "The",
+            "next",
+            "day",
+            "there",
+            "happened",
+            "to",
+            "be",
+            "a",
+            "severe",
+            "frost",
+            ",",
+            "and",
+            ",",
+            "shivering",
+            "himself",
+            ",",
+            "he",
+            "found",
+            "the",
+            "Swallow",
+            "lying",
+            "frozen",
+            "and",
+            "stiff",
+            "upon",
+            "the",
+            "ground",
+            "."
+        ],
+        [
+            "\u201c",
+            "Unhappy",
+            "bird",
+            ",",
+            "\u201d",
+            "he",
+            "said",
+            ",",
+            "\u201c",
+            "had",
+            "you",
+            "not",
+            "come",
+            "before",
+            "your",
+            "time",
+            ",",
+            "I",
+            "should",
+            "not",
+            "now",
+            "be",
+            "so",
+            "wretched",
+            ",",
+            "and",
+            "you",
+            "might",
+            "have",
+            "escaped",
+            "your",
+            "fate",
+            "."
+        ],
+        [
+            "A",
+            "single",
+            "swallow",
+            "does",
+            "not",
+            "make",
+            "a",
+            "summer",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

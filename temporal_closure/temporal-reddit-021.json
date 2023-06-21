@@ -1,0 +1,423 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m currently a college freshman",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were stressful",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "being surrounded by",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "done",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is currently curing",
+                "pos": [
+                    15,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is real",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wishing",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-021",
+    "sents": [
+        [
+            "i",
+            "\u2019m",
+            "currently",
+            "a",
+            "college",
+            "freshman",
+            "at",
+            "a",
+            "top",
+            "20",
+            "."
+        ],
+        [
+            "college",
+            "admissions",
+            "were",
+            "stressful",
+            ",",
+            "especially",
+            "being",
+            "surrounded",
+            "by",
+            "so",
+            "many",
+            "people",
+            "who",
+            "feel",
+            "more",
+            "qualified",
+            "than",
+            "you",
+            "."
+        ],
+        [
+            "once",
+            "you",
+            "get",
+            "to",
+            "school",
+            ",",
+            "it",
+            "becomes",
+            "so",
+            "much",
+            "worse",
+            "."
+        ],
+        [
+            "suddenly",
+            ",",
+            "every",
+            "one",
+            "around",
+            "you",
+            "has",
+            "had",
+            "incredible",
+            "internships",
+            "and",
+            "has",
+            "done",
+            "research",
+            "and",
+            "is",
+            "currently",
+            "curing",
+            "cancer",
+            "."
+        ],
+        [
+            "the",
+            "imposter",
+            "syndrome",
+            "is",
+            "real",
+            "."
+        ],
+        [
+            "please",
+            "keep",
+            "in",
+            "mind",
+            "while",
+            "you",
+            "\u2019re",
+            "applying",
+            "that",
+            "it",
+            "does",
+            "n\u2019t",
+            "end",
+            "once",
+            "you",
+            "get",
+            "accepted",
+            "and",
+            "pay",
+            "your",
+            "enrollment",
+            "deposit",
+            "."
+        ],
+        [
+            "do",
+            "n\u2019t",
+            "sign",
+            "up",
+            "for",
+            "something",
+            "you",
+            "are",
+            "n\u2019t",
+            "sure",
+            "if",
+            "you",
+            "can",
+            "handle",
+            "."
+        ],
+        [
+            "wishing",
+            "you",
+            "all",
+            "the",
+            "best",
+            "of",
+            "luck",
+            "<3"
+        ]
+    ]
+}

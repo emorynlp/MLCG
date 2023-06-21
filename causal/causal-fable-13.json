@@ -1,0 +1,211 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "A WOLF saw a Goat feeding at the top of a steep precipice",
+                "pos": [
+                    0,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "where",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he could not reach her",
+                "pos": [
+                    15,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-13",
+    "sents": [
+        [
+            "A",
+            "WOLF",
+            "saw",
+            "a",
+            "Goat",
+            "feeding",
+            "at",
+            "the",
+            "top",
+            "of",
+            "a",
+            "steep",
+            "precipice",
+            ",",
+            "where",
+            "he",
+            "could",
+            "not",
+            "reach",
+            "her",
+            "."
+        ],
+        [
+            "\u201c",
+            "My",
+            "dear",
+            "friend",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Wolf",
+            ",",
+            "\u201c",
+            "be",
+            "careful",
+            "!"
+        ],
+        [
+            "I",
+            "am",
+            "afraid",
+            "you",
+            "will",
+            "fall",
+            "and",
+            "break",
+            "your",
+            "neck",
+            "."
+        ],
+        [
+            "Do",
+            "come",
+            "down",
+            "to",
+            "the",
+            "meadow",
+            ",",
+            "where",
+            "the",
+            "grass",
+            "is",
+            "fresh",
+            "and",
+            "green",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Are",
+            "you",
+            "very",
+            "hungry",
+            "?",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Goat",
+            "."
+        ],
+        [
+            "\u201c",
+            "And",
+            "is",
+            "it",
+            "your",
+            "dinner",
+            "time",
+            "?"
+        ],
+        [
+            "And",
+            "would",
+            "you",
+            "like",
+            "to",
+            "eat",
+            "me",
+            "?"
+        ],
+        [
+            "I",
+            "think",
+            "I",
+            "will",
+            "not",
+            "go",
+            "down",
+            "to",
+            "the",
+            "meadow",
+            "to",
+            "-",
+            "day",
+            ",",
+            "thank",
+            "you",
+            ".",
+            "\u201d"
+        ],
+        [
+            "And",
+            "she",
+            "capered",
+            "contentedly",
+            "about",
+            "on",
+            "the",
+            "edge",
+            "of",
+            "the",
+            "rock",
+            ",",
+            "as",
+            "safe",
+            "from",
+            "falling",
+            "as",
+            "she",
+            "was",
+            "from",
+            "the",
+            "greedy",
+            "Wolf",
+            "with",
+            "his",
+            "false",
+            "care",
+            "for",
+            "her",
+            "."
+        ]
+    ]
+}

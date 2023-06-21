@@ -1,0 +1,230 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "two oil tankers carrying fuel",
+                "pos": [
+                    6,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "U.S. and NATO forces in Afghanistan",
+                "pos": [
+                    12,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "roaring flames of fire",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the attack",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-03",
+    "sents": [
+        [
+            "Armed",
+            "militants",
+            "in",
+            "southwest",
+            "Pakistan",
+            "torched",
+            "two",
+            "oil",
+            "tankers",
+            "carrying",
+            "fuel",
+            "for",
+            "U.S.",
+            "and",
+            "NATO",
+            "forces",
+            "in",
+            "Afghanistan",
+            ",",
+            "a",
+            "government",
+            "official",
+            "told",
+            "CNN",
+            "."
+        ],
+        [
+            "Azam",
+            "Shahwani",
+            ",",
+            "a",
+            "senior",
+            "government",
+            "official",
+            "in",
+            "Baluchistan",
+            "province",
+            ",",
+            "said",
+            "four",
+            "gunmen",
+            "riding",
+            "on",
+            "motorcycles",
+            "opened",
+            "fire",
+            "on",
+            "a",
+            "convey",
+            "of",
+            "five",
+            "oil",
+            "tankers",
+            "in",
+            "the",
+            "area",
+            "of",
+            "Mithri",
+            ",",
+            "a",
+            "village",
+            "in",
+            "the",
+            "district",
+            "of",
+            "Bolan",
+            "."
+        ],
+        [
+            "Shahwani",
+            "said",
+            "the",
+            "oil",
+            "tankers",
+            "were",
+            "heading",
+            "toward",
+            "Afghanistan",
+            "."
+        ],
+        [
+            "No",
+            "one",
+            "was",
+            "injured",
+            ",",
+            "but",
+            "two",
+            "of",
+            "the",
+            "oil",
+            "tankers",
+            "were",
+            "destroyed",
+            ",",
+            "Shahwani",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "could",
+            "see",
+            "roaring",
+            "flames",
+            "of",
+            "fire",
+            "even",
+            "three",
+            "hours",
+            "after",
+            "the",
+            "attack",
+            ",",
+            "\"",
+            "Shahwani",
+            "said",
+            "."
+        ],
+        [
+            "Journalist",
+            "Nasir",
+            "Habib",
+            "contributed",
+            "to",
+            "this",
+            "report",
+            "."
+        ]
+    ]
+}

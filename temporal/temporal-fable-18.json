@@ -1,0 +1,588 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "prowling about",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heard",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "crying",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Listening",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heard",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "say",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sat down",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thinking",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sleep",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heard",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "say",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "trotted",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "met",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "growled",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 10,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-18",
+    "sents": [
+        [
+            "A",
+            "WOLF",
+            ",",
+            "prowling",
+            "about",
+            "to",
+            "find",
+            "something",
+            "for",
+            "supper",
+            ",",
+            "heard",
+            "a",
+            "Child",
+            "crying",
+            "in",
+            "a",
+            "house",
+            "."
+        ],
+        [
+            "Listening",
+            ",",
+            "he",
+            "heard",
+            "the",
+            "Nurse",
+            "say",
+            ",",
+            "\u201c",
+            "Stop",
+            "crying",
+            "this",
+            "minute",
+            ",",
+            "or",
+            "I",
+            "will",
+            "throw",
+            "you",
+            "out",
+            "of",
+            "doors",
+            "to",
+            "the",
+            "Wolf",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Wolf",
+            "sat",
+            "down",
+            "near",
+            "the",
+            "door",
+            ",",
+            "thinking",
+            "within",
+            "himself",
+            ",",
+            "\u201c",
+            "I",
+            "shall",
+            "soon",
+            "have",
+            "a",
+            "good",
+            "supper",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Baby",
+            "cried",
+            "and",
+            "cried",
+            ",",
+            "till",
+            "at",
+            "last",
+            "it",
+            "went",
+            "to",
+            "sleep",
+            ";",
+            "and",
+            "then",
+            "the",
+            "Wolf",
+            "heard",
+            "the",
+            "Nurse",
+            "say",
+            ":",
+            "\u201c",
+            "There",
+            ",",
+            "that",
+            "\u2019s",
+            "a",
+            "good",
+            "Baby",
+            "."
+        ],
+        [
+            "If",
+            "the",
+            "naughty",
+            "old",
+            "Wolf",
+            "comes",
+            "for",
+            "my",
+            "darling",
+            ",",
+            "we",
+            "\u2019ll",
+            "beat",
+            "him",
+            ",",
+            "so",
+            "we",
+            "will",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Wolf",
+            "trotted",
+            "sadly",
+            "home",
+            "."
+        ],
+        [
+            "On",
+            "his",
+            "way",
+            "he",
+            "met",
+            "the",
+            "Fox",
+            "."
+        ],
+        [
+            "\u201c",
+            "What",
+            "makes",
+            "you",
+            "look",
+            "so",
+            "sour",
+            "and",
+            "so",
+            "forlorn",
+            ",",
+            "my",
+            "friend",
+            "?",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Fox",
+            "."
+        ],
+        [
+            "\u201c",
+            "Do",
+            "n\u2019t",
+            "speak",
+            "to",
+            "me",
+            "!",
+            "\u201d"
+        ],
+        [
+            "growled",
+            "the",
+            "Wolf",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "have",
+            "lost",
+            "my",
+            "supper",
+            "just",
+            "because",
+            "I",
+            "believed",
+            "what",
+            "a",
+            "Nurse",
+            "said",
+            "to",
+            "a",
+            "Baby",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

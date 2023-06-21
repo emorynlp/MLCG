@@ -1,0 +1,316 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the Bahamas",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the Bahamas",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Saturday",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Saturday",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Sunday",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the next day",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a tropical storm",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the storm",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the storm",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "United",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Jennifer Gray",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Gray",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "U.S.",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the States",
+                "pos": [
+                    19,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "U.S.",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the States ' Atlantic coast",
+                "pos": [
+                    19,
+                    25
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the U.S. coast",
+                "pos": [
+                    26,
+                    29
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-35",
+    "sents": [
+        [
+            "A",
+            "tropical",
+            "depression",
+            "that",
+            "is",
+            "likely",
+            "to",
+            "become",
+            "a",
+            "tropical",
+            "storm",
+            "by",
+            "Sunday",
+            "has",
+            "areas",
+            "of",
+            "the",
+            "islands",
+            "of",
+            "the",
+            "Bahamas",
+            "on",
+            "guard",
+            "."
+        ],
+        [
+            "The",
+            "Bahamian",
+            "government",
+            "issued",
+            "a",
+            "tropical",
+            "storm",
+            "warning",
+            "Saturday",
+            "evening",
+            "for",
+            "portions",
+            "of",
+            "the",
+            "Bahamas",
+            "and",
+            "the",
+            "Turks",
+            "and",
+            "Caicos",
+            "."
+        ],
+        [
+            "CNN",
+            "Meteorologist",
+            "Jennifer",
+            "Gray",
+            "said",
+            "Saturday",
+            "the",
+            "storm",
+            "is",
+            "a",
+            "bit",
+            "\"",
+            "ragged",
+            "\"",
+            "but",
+            "over",
+            "the",
+            "next",
+            "day",
+            "or",
+            "so",
+            "is",
+            "likely",
+            "to",
+            "organize",
+            "and",
+            "strengthen",
+            "."
+        ],
+        [
+            "According",
+            "to",
+            "the",
+            "U.S.",
+            "National",
+            "Hurricane",
+            "Center",
+            "forecast",
+            "track",
+            ",",
+            "the",
+            "storm",
+            "is",
+            "likely",
+            "to",
+            "stay",
+            "just",
+            "east",
+            "of",
+            "the",
+            "United",
+            "States",
+            "'",
+            "Atlantic",
+            "coast",
+            "."
+        ],
+        [
+            "However",
+            ",",
+            "Gray",
+            "said",
+            "any",
+            "sort",
+            "of",
+            "deviation",
+            "from",
+            "the",
+            "forecast",
+            "path",
+            "later",
+            "this",
+            "week",
+            "could",
+            "result",
+            "in",
+            "high",
+            "surf",
+            "and",
+            "rip",
+            "currents",
+            "in",
+            "areas",
+            "along",
+            "the",
+            "U.S.",
+            "coast",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "disclosed",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-18",
+    "sents": [
+        [
+            "Industrial",
+            "Equity",
+            "(",
+            "Pacific",
+            ")",
+            "Ltd",
+            ",",
+            "a",
+            "Hong",
+            "Kong",
+            "investment",
+            "firm",
+            ",",
+            "said",
+            "it",
+            "raised",
+            "its",
+            "stake",
+            "in",
+            "Wrather",
+            "Corp",
+            "to",
+            "816,000",
+            "shares",
+            ",",
+            "or",
+            "11.3",
+            "pct",
+            "of",
+            "the",
+            "total",
+            "outstanding",
+            "common",
+            "stock",
+            ",",
+            "from",
+            "453,300",
+            "shares",
+            ",",
+            "or",
+            "6.3",
+            "pct",
+            "."
+        ],
+        [
+            "In",
+            "a",
+            "filing",
+            "with",
+            "the",
+            "Securities",
+            "and",
+            "Exchange",
+            "Commission",
+            ",",
+            "Industrial",
+            "Equity",
+            ",",
+            "which",
+            "is",
+            "principally",
+            "owned",
+            "by",
+            "Brierley",
+            "Investments",
+            "Ltd",
+            ",",
+            "a",
+            "publicly",
+            "held",
+            "New",
+            "Zealand",
+            "company",
+            ",",
+            "said",
+            "it",
+            "bought",
+            "362,700",
+            "Wrather",
+            "common",
+            "shares",
+            "between",
+            "Feb",
+            "13",
+            "and",
+            "24",
+            "for",
+            "6.6",
+            "mln",
+            "dlrs",
+            "."
+        ],
+        [
+            "When",
+            "it",
+            "first",
+            "disclosed",
+            "its",
+            "stake",
+            "in",
+            "Wrather",
+            "earlier",
+            "this",
+            "month",
+            ",",
+            "it",
+            "said",
+            "it",
+            "bought",
+            "the",
+            "stock",
+            "for",
+            "investment",
+            "purposes",
+            "."
+        ]
+    ]
+}

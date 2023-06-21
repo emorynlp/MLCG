@@ -1,0 +1,347 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "clothed",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "being mistaken",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got into",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was short",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "coming into",
+                "pos": [
+                    28,
+                    30
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "discovered",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Tying",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hanging",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pass by",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-35",
+    "sents": [
+        [
+            "A",
+            "WOLF",
+            "once",
+            "clothed",
+            "himself",
+            "in",
+            "the",
+            "fleece",
+            "of",
+            "a",
+            "sheep",
+            ",",
+            "and",
+            "being",
+            "mistaken",
+            "for",
+            "one",
+            "of",
+            "the",
+            "flock",
+            ",",
+            "got",
+            "into",
+            "the",
+            "fold",
+            "."
+        ],
+        [
+            "He",
+            "had",
+            "a",
+            "chance",
+            "to",
+            "make",
+            "way",
+            "with",
+            "as",
+            "many",
+            "sheep",
+            "as",
+            "he",
+            "liked",
+            ";",
+            "but",
+            "his",
+            "time",
+            "for",
+            "doing",
+            "so",
+            "was",
+            "short",
+            ",",
+            "for",
+            "the",
+            "Shepherd",
+            ",",
+            "coming",
+            "into",
+            "the",
+            "fold",
+            "during",
+            "the",
+            "night",
+            ",",
+            "discovered",
+            "him",
+            "."
+        ],
+        [
+            "Tying",
+            "him",
+            "to",
+            "a",
+            "tree",
+            ",",
+            "he",
+            "left",
+            "him",
+            "hanging",
+            "there",
+            ",",
+            "still",
+            "in",
+            "his",
+            "sheep",
+            "\u2019s",
+            "dress",
+            ",",
+            "as",
+            "a",
+            "warning",
+            "to",
+            "other",
+            "wolves",
+            "who",
+            "might",
+            "be",
+            "prowling",
+            "about",
+            "."
+        ],
+        [
+            "Some",
+            "shepherds",
+            "who",
+            "chanced",
+            "to",
+            "pass",
+            "by",
+            "saw",
+            "him",
+            "there",
+            ",",
+            "and",
+            "stopped",
+            "to",
+            "inquire",
+            "why",
+            "sheep",
+            "should",
+            "be",
+            "thus",
+            "served",
+            "."
+        ],
+        [
+            "As",
+            "they",
+            "came",
+            "nearer",
+            "and",
+            "saw",
+            "that",
+            "it",
+            "was",
+            "not",
+            "a",
+            "sheep",
+            "but",
+            "a",
+            "Wolf",
+            ",",
+            "the",
+            "Shepherd",
+            "said",
+            ",",
+            "\u201c",
+            "This",
+            "is",
+            "the",
+            "way",
+            "I",
+            "serve",
+            "a",
+            "Wolf",
+            ",",
+            "even",
+            "though",
+            "I",
+            "find",
+            "him",
+            "wearing",
+            "the",
+            "habit",
+            "of",
+            "a",
+            "sheep",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

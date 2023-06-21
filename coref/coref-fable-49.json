@@ -1,0 +1,448 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "each",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "an abundant supply of food",
+                "pos": [
+                    17,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "his companions",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "each",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A STAG",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the poor Stag",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a thing",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-49",
+    "sents": [
+        [
+            "A",
+            "STAG",
+            ",",
+            "whose",
+            "joints",
+            "had",
+            "become",
+            "stiff",
+            "with",
+            "age",
+            ",",
+            "was",
+            "at",
+            "great",
+            "pains",
+            "to",
+            "gather",
+            "an",
+            "abundant",
+            "supply",
+            "of",
+            "food",
+            "\u2014",
+            "enough",
+            ",",
+            "as",
+            "he",
+            "thought",
+            ",",
+            "for",
+            "the",
+            "remainder",
+            "of",
+            "his",
+            "days",
+            "."
+        ],
+        [
+            "He",
+            "stretched",
+            "himself",
+            "beside",
+            "it",
+            ",",
+            "in",
+            "a",
+            "quiet",
+            ",",
+            "sunny",
+            "corner",
+            "of",
+            "his",
+            "pasture",
+            ",",
+            "and",
+            "now",
+            "dozing",
+            ",",
+            "now",
+            "nibbling",
+            ",",
+            "was",
+            "passing",
+            "a",
+            "happy",
+            "old",
+            "age",
+            "."
+        ],
+        [
+            "He",
+            "had",
+            "been",
+            "a",
+            "favorite",
+            "among",
+            "his",
+            "companions",
+            ",",
+            "and",
+            "they",
+            "now",
+            "came",
+            "often",
+            ",",
+            "and",
+            "in",
+            "great",
+            "numbers",
+            ",",
+            "to",
+            "call",
+            "upon",
+            "him",
+            "and",
+            "wish",
+            "him",
+            "good",
+            "luck",
+            "."
+        ],
+        [
+            "He",
+            "made",
+            "them",
+            "welcome",
+            "in",
+            "a",
+            "hospitable",
+            "manner",
+            ",",
+            "and",
+            "each",
+            ",",
+            "as",
+            "often",
+            "as",
+            "he",
+            "came",
+            ",",
+            "helped",
+            "himself",
+            "to",
+            "a",
+            "little",
+            "of",
+            "the",
+            "food",
+            "so",
+            "abundantly",
+            "provided",
+            "."
+        ],
+        [
+            "The",
+            "end",
+            "of",
+            "the",
+            "matter",
+            "was",
+            ",",
+            "that",
+            "the",
+            "poor",
+            "Stag",
+            "died",
+            ",",
+            "not",
+            "so",
+            "much",
+            "from",
+            "either",
+            "sickness",
+            "or",
+            "old",
+            "age",
+            "as",
+            "from",
+            "want",
+            "of",
+            "the",
+            "food",
+            "which",
+            "his",
+            "friends",
+            "had",
+            "eaten",
+            "for",
+            "him",
+            "."
+        ],
+        [
+            "Before",
+            "doing",
+            "a",
+            "thing",
+            ",",
+            "it",
+            "is",
+            "well",
+            "sometimes",
+            "to",
+            "consider",
+            ",",
+            "\u201c",
+            "What",
+            "if",
+            "every",
+            "one",
+            "should",
+            "do",
+            "it",
+            "?",
+            "\u201d"
+        ]
+    ]
+}

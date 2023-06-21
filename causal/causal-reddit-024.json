@@ -1,0 +1,187 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "more I learned about it",
+                "pos": [
+                    14,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the more I learned about it the",
+                "pos": [
+                    13,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "more I liked it",
+                "pos": [
+                    20,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-024",
+    "sents": [
+        [
+            "My",
+            "favorite",
+            "school",
+            "started",
+            "as",
+            "a",
+            "\"",
+            "why",
+            "not",
+            "apply",
+            "\"",
+            "safety",
+            "and",
+            "the",
+            "more",
+            "I",
+            "learned",
+            "about",
+            "it",
+            "the",
+            "more",
+            "I",
+            "liked",
+            "it",
+            "so",
+            ",",
+            "everybody",
+            "else",
+            "gas",
+            "up",
+            "your",
+            "safety",
+            "/",
+            "least",
+            "prestigious",
+            "school",
+            "."
+        ],
+        [
+            "I",
+            "'ll",
+            "go",
+            "first",
+            "."
+        ],
+        [
+            "Florida",
+            "Gulf",
+            "Coast",
+            "University",
+            "!"
+        ],
+        [
+            "Amazing",
+            "Dorms",
+            ",",
+            "like",
+            "genuinely",
+            "the",
+            "best",
+            "I",
+            "'ve",
+            "ever",
+            "seen",
+            "."
+        ],
+        [
+            "In-state",
+            "tuition",
+            "with",
+            "great",
+            "merit",
+            "scholarships",
+            "."
+        ],
+        [
+            "Amazing",
+            "honors",
+            "college",
+            "opportunities",
+            "(",
+            "exclusive",
+            "study",
+            "abroad",
+            "programs",
+            ",",
+            "undergrad",
+            "research",
+            "funding",
+            ",",
+            "etc",
+            ")",
+            "Unique",
+            "and",
+            "fun",
+            "classes",
+            ",",
+            "including",
+            "Gen",
+            "-",
+            "eds",
+            "(",
+            "music",
+            "appreciation",
+            ",",
+            "art",
+            "appreciation",
+            ",",
+            "etc",
+            ")",
+            "The",
+            "campus",
+            "is",
+            "clean",
+            "+",
+            "beautiful",
+            "High",
+            "-",
+            "quality",
+            "food",
+            "with",
+            "a",
+            "lot",
+            "of",
+            "options",
+            "Free",
+            "parking",
+            "for",
+            "all",
+            "students",
+            "."
+        ]
+    ]
+}

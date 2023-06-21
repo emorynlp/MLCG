@@ -1,0 +1,219 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "after",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "Duncan was admitted and diagnosed with Ebola",
+                "pos": [
+                    3,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "two of the nurses who were closely involved in his care contracted the deadly virus",
+                "pos": [
+                    11,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the hospital",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "mistakes",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-31",
+    "sents": [
+        [
+            "No",
+            "doubt",
+            ",",
+            "this",
+            "has",
+            "been",
+            "a",
+            "trying",
+            "time",
+            "for",
+            "Texas",
+            "Health",
+            "Presbyterian",
+            "Hospital",
+            "Dallas",
+            "."
+        ],
+        [
+            "First",
+            ",",
+            "health",
+            "care",
+            "workers",
+            "at",
+            "the",
+            "facility",
+            "sent",
+            "a",
+            "feverish",
+            "Thomas",
+            "Eric",
+            "Duncan",
+            "home",
+            "the",
+            "first",
+            "time",
+            "he",
+            "came",
+            "to",
+            "the",
+            "emergency",
+            "room",
+            ",",
+            "even",
+            "though",
+            "he",
+            "'d",
+            "informed",
+            "the",
+            "nurse",
+            "he",
+            "'d",
+            "recently",
+            "been",
+            "in",
+            "Africa",
+            "."
+        ],
+        [
+            "Then",
+            ",",
+            "after",
+            "Duncan",
+            "was",
+            "admitted",
+            "and",
+            "diagnosed",
+            "with",
+            "Ebola",
+            ",",
+            "two",
+            "of",
+            "the",
+            "nurses",
+            "who",
+            "were",
+            "closely",
+            "involved",
+            "in",
+            "his",
+            "care",
+            "contracted",
+            "the",
+            "deadly",
+            "virus",
+            "."
+        ],
+        [
+            "Earlier",
+            "this",
+            "month",
+            ",",
+            "Barclay",
+            "Berden",
+            ",",
+            "the",
+            "CEO",
+            "of",
+            "Texas",
+            "Health",
+            "Resources",
+            ",",
+            "said",
+            "the",
+            "hospital",
+            "had",
+            "\"",
+            "made",
+            "mistakes",
+            "\"",
+            "and",
+            "\"",
+            "we",
+            "are",
+            "deeply",
+            "sorry",
+            ".",
+            "\""
+        ]
+    ]
+}

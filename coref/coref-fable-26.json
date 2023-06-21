@@ -1,0 +1,346 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "one eye",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "blind eye",
+                "pos": [
+                    29,
+                    31
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the edge of a cliff",
+                "pos": [
+                    17,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the edge of a cliff",
+                "pos": [
+                    9,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Some boatmen",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A DOE",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "herself",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-fable-26",
+    "sents": [
+        [
+            "A",
+            "DOE",
+            ",",
+            "blind",
+            "in",
+            "one",
+            "eye",
+            ",",
+            "used",
+            "to",
+            "graze",
+            "as",
+            "near",
+            "as",
+            "she",
+            "could",
+            "to",
+            "the",
+            "edge",
+            "of",
+            "a",
+            "cliff",
+            ",",
+            "so",
+            "that",
+            "she",
+            "might",
+            "keep",
+            "her",
+            "blind",
+            "eye",
+            "to",
+            "the",
+            "water",
+            ",",
+            "while",
+            "with",
+            "the",
+            "other",
+            "she",
+            "kept",
+            "watch",
+            "against",
+            "the",
+            "approach",
+            "of",
+            "hunters",
+            "or",
+            "hounds",
+            "on",
+            "the",
+            "shore",
+            "."
+        ],
+        [
+            "Some",
+            "boatmen",
+            "sailing",
+            "by",
+            "saw",
+            "her",
+            "standing",
+            "thus",
+            "on",
+            "the",
+            "edge",
+            "of",
+            "a",
+            "cliff",
+            ",",
+            "and",
+            "finding",
+            "that",
+            "she",
+            "did",
+            "not",
+            "perceive",
+            "their",
+            "approach",
+            ",",
+            "they",
+            "came",
+            "very",
+            "close",
+            ",",
+            "and",
+            "taking",
+            "aim",
+            ",",
+            "shot",
+            "her",
+            "."
+        ],
+        [
+            "Finding",
+            "herself",
+            "wounded",
+            ",",
+            "she",
+            "said",
+            ",",
+            "\u201c",
+            "O",
+            "unhappy",
+            "creature",
+            "that",
+            "I",
+            "am",
+            ",",
+            "to",
+            "take",
+            "such",
+            "care",
+            "as",
+            "I",
+            "did",
+            "against",
+            "the",
+            "dangers",
+            "of",
+            "the",
+            "land",
+            ",",
+            "and",
+            "then",
+            ",",
+            "after",
+            "all",
+            ",",
+            "to",
+            "find",
+            "this",
+            "seashore",
+            ",",
+            "to",
+            "which",
+            "I",
+            "had",
+            "come",
+            "for",
+            "safety",
+            ",",
+            "so",
+            "much",
+            "more",
+            "perilous",
+            "!",
+            "\u201d"
+        ]
+    ]
+}

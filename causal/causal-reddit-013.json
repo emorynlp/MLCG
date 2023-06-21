@@ -1,0 +1,218 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "studying",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the sake of improving my GPA or getting good grades",
+                "pos": [
+                    17,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-013",
+    "sents": [
+        [
+            "Basically",
+            "I",
+            "feel",
+            "like",
+            "I",
+            "'m",
+            "not",
+            "getting",
+            "any",
+            "knowledge",
+            "into",
+            "my",
+            "head",
+            "and",
+            "studying",
+            "solely",
+            "for",
+            "the",
+            "sake",
+            "of",
+            "improving",
+            "my",
+            "GPA",
+            "or",
+            "getting",
+            "good",
+            "grades",
+            "."
+        ],
+        [
+            "First",
+            "year",
+            "college",
+            "student",
+            "here",
+            ",",
+            "I",
+            "know",
+            "I",
+            "was",
+            "n't",
+            "the",
+            "same",
+            "in",
+            "high",
+            "school",
+            "."
+        ],
+        [
+            "In",
+            "highschool",
+            "I",
+            "was",
+            "genuinely",
+            "interested",
+            "in",
+            "learning",
+            ",",
+            "for",
+            "example",
+            "I",
+            "would",
+            "actively",
+            "try",
+            "to",
+            "apply",
+            "scientific",
+            "concepts",
+            "learnt",
+            "in",
+            "school",
+            "to",
+            "daily",
+            "life",
+            "and",
+            "marvel",
+            "at",
+            "how",
+            "interesting",
+            "everything",
+            "was",
+            "."
+        ],
+        [
+            "But",
+            "now",
+            "I",
+            "feel",
+            "like",
+            "am",
+            "just",
+            "vomitting",
+            "all",
+            "content",
+            "I",
+            "'ve",
+            "learnt",
+            "through",
+            "the",
+            "semester",
+            "into",
+            "my",
+            "exams",
+            "and",
+            "forgetting",
+            "afterwards",
+            "."
+        ],
+        [
+            "My",
+            "profs",
+            "are",
+            "doing",
+            "a",
+            "good",
+            "job",
+            "at",
+            "teaching",
+            "too",
+            ",",
+            "I",
+            "just",
+            "feel",
+            "a",
+            "shift",
+            "in",
+            "my",
+            "own",
+            "mindset",
+            "."
+        ],
+        [
+            "This",
+            "is",
+            "obviously",
+            "not",
+            "good",
+            ",",
+            "I",
+            "know",
+            ",",
+            "but",
+            "are",
+            "any",
+            "of",
+            "you",
+            "experiencing",
+            "similar",
+            "things",
+            "?"
+        ],
+        [
+            "If",
+            "so",
+            ",",
+            "how",
+            "do",
+            "you",
+            "get",
+            "over",
+            "it",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I literally cried",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "my TA told me",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-030",
+    "sents": [
+        [
+            "Apparently",
+            "I",
+            "\u201c",
+            "plagiarized",
+            "\u201d",
+            "about",
+            "65%",
+            "of",
+            "a",
+            "bio",
+            "lab",
+            "report",
+            "that",
+            "I",
+            "definitely",
+            "wrote",
+            "all",
+            "by",
+            "myself",
+            "."
+        ],
+        [
+            "My",
+            "TA",
+            "gave",
+            "me",
+            "a",
+            "0",
+            "but",
+            "did",
+            "give",
+            "me",
+            "the",
+            "option",
+            "of",
+            "redoing",
+            "the",
+            "assignment",
+            "in",
+            "24",
+            "hours",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "apparently",
+            "at",
+            "risk",
+            "of",
+            "getting",
+            "reported",
+            "to",
+            "the",
+            "university",
+            "."
+        ],
+        [
+            "My",
+            "grade",
+            "dropped",
+            "a",
+            "horrific",
+            "amount",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "pretty",
+            "much",
+            "being",
+            "called",
+            "a",
+            "liar",
+            "and",
+            "a",
+            "cheat",
+            "."
+        ],
+        [
+            "Happened",
+            "to",
+            "anyone",
+            "else",
+            "?"
+        ],
+        [
+            "I",
+            "literally",
+            "cried",
+            "when",
+            "my",
+            "TA",
+            "told",
+            "me",
+            "."
+        ],
+        [
+            "This",
+            "is",
+            "my",
+            "3rd",
+            "year",
+            "at",
+            "college",
+            "and",
+            "nothing",
+            "like",
+            "this",
+            "has",
+            "ever",
+            "happened",
+            "to",
+            "me",
+            "."
+        ]
+    ]
+}

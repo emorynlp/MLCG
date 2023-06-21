@@ -1,0 +1,573 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "been wanting",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sound",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "depending on",
+                "pos": [
+                    30,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "advertise",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is in",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "worked",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "work as",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "more on",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m working",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-033",
+    "sents": [
+        [
+            "Hi",
+            "everyone",
+            "!"
+        ],
+        [
+            "I",
+            "'ve",
+            "been",
+            "wanting",
+            "to",
+            "get",
+            "a",
+            "PhD",
+            "but",
+            "I",
+            "'m",
+            "not",
+            "exactly",
+            "sure",
+            "what",
+            "degree",
+            "I",
+            "should",
+            "go",
+            "into",
+            "and",
+            "what",
+            "University",
+            ",",
+            "some",
+            "degrees",
+            "sound",
+            "similar",
+            "to",
+            "me",
+            "depending",
+            "on",
+            "how",
+            "different",
+            "universities",
+            "advertise",
+            "them",
+            "."
+        ],
+        [
+            "I",
+            "want",
+            "to",
+            "make",
+            "a",
+            "research",
+            "contribution",
+            "on",
+            "Mental",
+            "health",
+            "/",
+            "Psychology",
+            "."
+        ],
+        [
+            "My",
+            "background",
+            "is",
+            "in",
+            "tech",
+            "(",
+            "worked",
+            "4",
+            "years",
+            "with",
+            "a",
+            "Masters",
+            "in",
+            "Business",
+            "Analytics",
+            ")",
+            ",",
+            "I",
+            "work",
+            "as",
+            "a",
+            "Data",
+            "Engineer",
+            "/",
+            "Data",
+            "Scientist",
+            "for",
+            "a",
+            "healthcare",
+            "company",
+            "in",
+            "retail",
+            "(",
+            "a",
+            "little",
+            "heavy",
+            "on",
+            "programming",
+            "using",
+            "python",
+            ",",
+            "R",
+            "or",
+            "SQL",
+            "for",
+            "Supply",
+            "Chain",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "more",
+            "on",
+            "a",
+            "hands",
+            "on",
+            "problem",
+            "solving",
+            "type",
+            "and",
+            "less",
+            "theoretical",
+            "(",
+            "but",
+            "I",
+            "'m",
+            "working",
+            "on",
+            "it",
+            ")",
+            "."
+        ],
+        [
+            "Any",
+            "suggestion",
+            "on",
+            "a",
+            "tech",
+            "related",
+            "PhD",
+            "degree",
+            "that",
+            "I",
+            "can",
+            "do",
+            "this",
+            "research",
+            "on",
+            "?"
+        ],
+        [
+            "I",
+            "'ve",
+            "looked",
+            "at",
+            "a",
+            "few",
+            "like",
+            "Operations",
+            "Research",
+            "or",
+            "Computer",
+            "Engineering",
+            "but",
+            "I",
+            "'m",
+            "not",
+            "really",
+            "sure",
+            "."
+        ]
+    ]
+}

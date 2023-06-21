@@ -1,0 +1,170 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "in pure joy",
+                "pos": [
+                    20,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "at",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "being in the country again",
+                "pos": [
+                    24,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-48",
+    "sents": [
+        [
+            "The",
+            "sun",
+            "shone",
+            "brightly",
+            "as",
+            "our",
+            "friends",
+            "turned",
+            "their",
+            "faces",
+            "toward",
+            "the",
+            "Land",
+            "of",
+            "the",
+            "South",
+            "."
+        ],
+        [
+            "They",
+            "were",
+            "all",
+            "in",
+            "the",
+            "best",
+            "of",
+            "spirits",
+            ",",
+            "and",
+            "laughed",
+            "and",
+            "chatted",
+            "together",
+            "."
+        ],
+        [
+            "Dorothy",
+            "was",
+            "once",
+            "more",
+            "filled",
+            "with",
+            "the",
+            "hope",
+            "of",
+            "getting",
+            "home",
+            ",",
+            "and",
+            "the",
+            "Scarecrow",
+            "and",
+            "the",
+            "Tin",
+            "Woodman",
+            "were",
+            "glad",
+            "to",
+            "be",
+            "of",
+            "use",
+            "to",
+            "her",
+            "."
+        ],
+        [
+            "As",
+            "for",
+            "the",
+            "Lion",
+            ",",
+            "he",
+            "sniffed",
+            "the",
+            "fresh",
+            "air",
+            "with",
+            "delight",
+            "and",
+            "whisked",
+            "his",
+            "tail",
+            "from",
+            "side",
+            "to",
+            "side",
+            "in",
+            "pure",
+            "joy",
+            "at",
+            "being",
+            "in",
+            "the",
+            "country",
+            "again",
+            ",",
+            "while",
+            "Toto",
+            "ran",
+            "around",
+            "them",
+            "and",
+            "chased",
+            "the",
+            "moths",
+            "and",
+            "butterflies",
+            ",",
+            "barking",
+            "merrily",
+            "all",
+            "the",
+            "time",
+            "."
+        ]
+    ]
+}

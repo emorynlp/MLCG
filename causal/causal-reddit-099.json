@@ -1,0 +1,210 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "if",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "he wants to chill in the quad for an hour while you drink coffee and and talk to the random guy about 2 ' away from you guys sitting in a hammock attached to said tree you 're leaning against you 're leaning against",
+                "pos": [
+                    13,
+                    57
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "go for it",
+                "pos": [
+                    57,
+                    60
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you will make a very good friend from both the guy and the hammock and and the AUS SIE who is your roommate",
+                "pos": [
+                    8,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Because",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he will think it 's awesome that you went squirrel watching with him",
+                "pos": [
+                    32,
+                    45
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-099",
+    "sents": [
+        [
+            "The",
+            "dude",
+            "has",
+            "only",
+            "seen",
+            "them",
+            "in",
+            "cartoons",
+            "most",
+            "likely",
+            ",",
+            "So",
+            "if",
+            "he",
+            "wants",
+            "to",
+            "chill",
+            "in",
+            "the",
+            "quad",
+            "for",
+            "an",
+            "hour",
+            "while",
+            "you",
+            "drink",
+            "coffee",
+            "and",
+            "and",
+            "talk",
+            "to",
+            "the",
+            "random",
+            "guy",
+            "about",
+            "2",
+            "'",
+            "away",
+            "from",
+            "you",
+            "guys",
+            "sitting",
+            "in",
+            "a",
+            "hammock",
+            "attached",
+            "to",
+            "said",
+            "tree",
+            "you",
+            "'re",
+            "leaning",
+            "against",
+            "you",
+            "'re",
+            "leaning",
+            "against",
+            "go",
+            "for",
+            "it",
+            "."
+        ],
+        [
+            "It",
+            "will",
+            "be",
+            "a",
+            "weird",
+            "bonding",
+            "experience",
+            "but",
+            "you",
+            "will",
+            "make",
+            "a",
+            "very",
+            "good",
+            "friend",
+            "from",
+            "both",
+            "the",
+            "guy",
+            "and",
+            "the",
+            "hammock",
+            "and",
+            "and",
+            "the",
+            "AUS",
+            "SIE",
+            "who",
+            "is",
+            "your",
+            "roommate",
+            "Because",
+            "he",
+            "will",
+            "think",
+            "it",
+            "'s",
+            "awesome",
+            "that",
+            "you",
+            "went",
+            "squirrel",
+            "watching",
+            "with",
+            "him",
+            "."
+        ]
+    ]
+}

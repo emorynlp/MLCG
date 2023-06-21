@@ -1,0 +1,174 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "They traveled that day and part of the next",
+                "pos": [
+                    0,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "until",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "they came to the rocky plain where the Tin Woodman lay",
+                "pos": [
+                    10,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-27",
+    "sents": [
+        [
+            "So",
+            "they",
+            "called",
+            "the",
+            "yellow",
+            "Winkies",
+            "and",
+            "asked",
+            "them",
+            "if",
+            "they",
+            "would",
+            "help",
+            "to",
+            "rescue",
+            "their",
+            "friends",
+            ",",
+            "and",
+            "the",
+            "Winkies",
+            "said",
+            "that",
+            "they",
+            "would",
+            "be",
+            "delighted",
+            "to",
+            "do",
+            "all",
+            "in",
+            "their",
+            "power",
+            "for",
+            "Dorothy",
+            ",",
+            "who",
+            "had",
+            "set",
+            "them",
+            "free",
+            "from",
+            "bondage",
+            "."
+        ],
+        [
+            "So",
+            "she",
+            "chose",
+            "a",
+            "number",
+            "of",
+            "the",
+            "Winkies",
+            "who",
+            "looked",
+            "as",
+            "if",
+            "they",
+            "knew",
+            "the",
+            "most",
+            ",",
+            "and",
+            "they",
+            "all",
+            "started",
+            "away",
+            "."
+        ],
+        [
+            "They",
+            "traveled",
+            "that",
+            "day",
+            "and",
+            "part",
+            "of",
+            "the",
+            "next",
+            "until",
+            "they",
+            "came",
+            "to",
+            "the",
+            "rocky",
+            "plain",
+            "where",
+            "the",
+            "Tin",
+            "Woodman",
+            "lay",
+            ",",
+            "all",
+            "battered",
+            "and",
+            "bent",
+            "."
+        ],
+        [
+            "His",
+            "axe",
+            "was",
+            "near",
+            "him",
+            ",",
+            "but",
+            "the",
+            "blade",
+            "was",
+            "rusted",
+            "and",
+            "the",
+            "handle",
+            "broken",
+            "off",
+            "short",
+            "."
+        ]
+    ]
+}

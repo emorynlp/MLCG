@@ -1,0 +1,360 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "This",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "doc-situation"
+            },
+            {
+                "name": "similar things",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "doc-situation"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "doc-situation"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-013",
+    "sents": [
+        [
+            "Basically",
+            "I",
+            "feel",
+            "like",
+            "I",
+            "'m",
+            "not",
+            "getting",
+            "any",
+            "knowledge",
+            "into",
+            "my",
+            "head",
+            "and",
+            "studying",
+            "solely",
+            "for",
+            "the",
+            "sake",
+            "of",
+            "improving",
+            "my",
+            "GPA",
+            "or",
+            "getting",
+            "good",
+            "grades",
+            "."
+        ],
+        [
+            "First",
+            "year",
+            "college",
+            "student",
+            "here",
+            ",",
+            "I",
+            "know",
+            "I",
+            "was",
+            "n't",
+            "the",
+            "same",
+            "in",
+            "high",
+            "school",
+            "."
+        ],
+        [
+            "In",
+            "highschool",
+            "I",
+            "was",
+            "genuinely",
+            "interested",
+            "in",
+            "learning",
+            ",",
+            "for",
+            "example",
+            "I",
+            "would",
+            "actively",
+            "try",
+            "to",
+            "apply",
+            "scientific",
+            "concepts",
+            "learnt",
+            "in",
+            "school",
+            "to",
+            "daily",
+            "life",
+            "and",
+            "marvel",
+            "at",
+            "how",
+            "interesting",
+            "everything",
+            "was",
+            "."
+        ],
+        [
+            "But",
+            "now",
+            "I",
+            "feel",
+            "like",
+            "am",
+            "just",
+            "vomitting",
+            "all",
+            "content",
+            "I",
+            "'ve",
+            "learnt",
+            "through",
+            "the",
+            "semester",
+            "into",
+            "my",
+            "exams",
+            "and",
+            "forgetting",
+            "afterwards",
+            "."
+        ],
+        [
+            "My",
+            "profs",
+            "are",
+            "doing",
+            "a",
+            "good",
+            "job",
+            "at",
+            "teaching",
+            "too",
+            ",",
+            "I",
+            "just",
+            "feel",
+            "a",
+            "shift",
+            "in",
+            "my",
+            "own",
+            "mindset",
+            "."
+        ],
+        [
+            "This",
+            "is",
+            "obviously",
+            "not",
+            "good",
+            ",",
+            "I",
+            "know",
+            ",",
+            "but",
+            "are",
+            "any",
+            "of",
+            "you",
+            "experiencing",
+            "similar",
+            "things",
+            "?"
+        ],
+        [
+            "If",
+            "so",
+            ",",
+            "how",
+            "do",
+            "you",
+            "get",
+            "over",
+            "it",
+            "?"
+        ]
+    ]
+}

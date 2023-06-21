@@ -1,0 +1,471 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was about half - way",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "approaching",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "start",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fall",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "entered",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "brought",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "listened",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "slipped out",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "paid",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sauntered round",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-49",
+    "sents": [
+        [
+            "He",
+            "was",
+            "about",
+            "half",
+            "-",
+            "way",
+            "through",
+            "his",
+            "meal",
+            "when",
+            "an",
+            "only",
+            "too",
+            "familiar",
+            "sound",
+            ",",
+            "approaching",
+            "down",
+            "the",
+            "street",
+            ",",
+            "made",
+            "him",
+            "start",
+            "and",
+            "fall",
+            "a-trembling",
+            "all",
+            "over",
+            "."
+        ],
+        [
+            "The",
+            "poop",
+            "-",
+            "poop",
+            "!",
+            "drew",
+            "nearer",
+            "and",
+            "nearer",
+            ",",
+            "the",
+            "car",
+            "could",
+            "be",
+            "heard",
+            "to",
+            "turn",
+            "into",
+            "the",
+            "inn",
+            "-",
+            "yard",
+            "and",
+            "come",
+            "to",
+            "a",
+            "stop",
+            ",",
+            "and",
+            "Toad",
+            "had",
+            "to",
+            "hold",
+            "on",
+            "to",
+            "the",
+            "leg",
+            "of",
+            "the",
+            "table",
+            "to",
+            "conceal",
+            "his",
+            "over-mastering",
+            "emotion",
+            "."
+        ],
+        [
+            "Presently",
+            "the",
+            "party",
+            "entered",
+            "the",
+            "coffee",
+            "-",
+            "room",
+            ",",
+            "hungry",
+            ",",
+            "talkative",
+            ",",
+            "and",
+            "gay",
+            ",",
+            "voluble",
+            "on",
+            "their",
+            "experiences",
+            "of",
+            "the",
+            "morning",
+            "and",
+            "the",
+            "merits",
+            "of",
+            "the",
+            "chariot",
+            "that",
+            "had",
+            "brought",
+            "them",
+            "along",
+            "so",
+            "well",
+            "."
+        ],
+        [
+            "Toad",
+            "listened",
+            "eagerly",
+            ",",
+            "all",
+            "ears",
+            ",",
+            "for",
+            "a",
+            "time",
+            ";",
+            "at",
+            "last",
+            "he",
+            "could",
+            "stand",
+            "it",
+            "no",
+            "longer",
+            "."
+        ],
+        [
+            "He",
+            "slipped",
+            "out",
+            "of",
+            "the",
+            "room",
+            "quietly",
+            ",",
+            "paid",
+            "his",
+            "bill",
+            "at",
+            "the",
+            "bar",
+            ",",
+            "and",
+            "as",
+            "soon",
+            "as",
+            "he",
+            "got",
+            "outside",
+            "sauntered",
+            "round",
+            "quietly",
+            "to",
+            "the",
+            "inn",
+            "-",
+            "yard",
+            "."
+        ],
+        [
+            "\"",
+            "There",
+            "can",
+            "not",
+            "be",
+            "any",
+            "harm",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "to",
+            "himself",
+            ",",
+            "\"",
+            "in",
+            "my",
+            "only",
+            "just",
+            "LOOKING",
+            "at",
+            "it",
+            "!",
+            "\""
+        ]
+    ]
+}

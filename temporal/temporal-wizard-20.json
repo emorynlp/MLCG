@@ -1,0 +1,478 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "be rough",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "grew",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stumbled over",
+                "pos": [
+                    21,
+                    23
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were here very uneven",
+                "pos": [
+                    28,
+                    32
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were broken",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "missing",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "leaving",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "jumped across",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "walked around",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "walked",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stepped",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fell",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pick him up",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "upon",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "joined",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "laughing",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-20",
+    "sents": [
+        [
+            "After",
+            "a",
+            "few",
+            "hours",
+            "the",
+            "road",
+            "began",
+            "to",
+            "be",
+            "rough",
+            ",",
+            "and",
+            "the",
+            "walking",
+            "grew",
+            "so",
+            "difficult",
+            "that",
+            "the",
+            "Scarecrow",
+            "often",
+            "stumbled",
+            "over",
+            "the",
+            "yellow",
+            "bricks",
+            ",",
+            "which",
+            "were",
+            "here",
+            "very",
+            "uneven",
+            "."
+        ],
+        [
+            "Sometimes",
+            ",",
+            "indeed",
+            ",",
+            "they",
+            "were",
+            "broken",
+            "or",
+            "missing",
+            "altogether",
+            ",",
+            "leaving",
+            "holes",
+            "that",
+            "Toto",
+            "jumped",
+            "across",
+            "and",
+            "Dorothy",
+            "walked",
+            "around",
+            "."
+        ],
+        [
+            "As",
+            "for",
+            "the",
+            "Scarecrow",
+            ",",
+            "having",
+            "no",
+            "brains",
+            ",",
+            "he",
+            "walked",
+            "straight",
+            "ahead",
+            ",",
+            "and",
+            "so",
+            "stepped",
+            "into",
+            "the",
+            "holes",
+            "and",
+            "fell",
+            "at",
+            "full",
+            "length",
+            "on",
+            "the",
+            "hard",
+            "bricks",
+            "."
+        ],
+        [
+            "It",
+            "never",
+            "hurt",
+            "him",
+            ",",
+            "however",
+            ",",
+            "and",
+            "Dorothy",
+            "would",
+            "pick",
+            "him",
+            "up",
+            "and",
+            "set",
+            "him",
+            "upon",
+            "his",
+            "feet",
+            "again",
+            ",",
+            "while",
+            "he",
+            "joined",
+            "her",
+            "in",
+            "laughing",
+            "merrily",
+            "at",
+            "his",
+            "own",
+            "mishap",
+            "."
+        ]
+    ]
+}

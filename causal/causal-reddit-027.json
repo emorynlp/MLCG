@@ -1,0 +1,404 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "If",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the test is set up so you ca n\u2019t go back and check your answers",
+                "pos": [
+                    1,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "there \u2019s no point in dawdling",
+                "pos": [
+                    17,
+                    23
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it slows me down",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it \u2019s open book",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "since",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I can check my answers",
+                "pos": [
+                    13,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I have OCD and there seems to be a compulsive aspect to my online test taking",
+                "pos": [
+                    3,
+                    19
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I probably rush",
+                "pos": [
+                    21,
+                    24
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because of",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "anxiety",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 3,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-027",
+    "sents": [
+        [
+            "This",
+            "came",
+            "up",
+            "over",
+            "in",
+            "the",
+            "Professors",
+            "subreddit",
+            "and",
+            "I",
+            "\u2019m",
+            "a",
+            "bit",
+            "baffled",
+            "."
+        ],
+        [
+            "Someone",
+            "had",
+            "a",
+            "student",
+            "finish",
+            "a",
+            "25",
+            "multiple",
+            "choice",
+            "(",
+            "and",
+            "one",
+            "essay",
+            "question",
+            ")",
+            "test",
+            "in",
+            "26",
+            "minutes",
+            ",",
+            "and",
+            "was",
+            "trying",
+            "to",
+            "find",
+            "out",
+            "if",
+            "that",
+            "was",
+            "a",
+            "sign",
+            "of",
+            "cheating",
+            "."
+        ],
+        [
+            "So",
+            "my",
+            "question",
+            "to",
+            "you",
+            "all",
+            "is",
+            ":",
+            "Is",
+            "it",
+            "that",
+            "unusual",
+            "to",
+            "finish",
+            "primarily",
+            "multiple",
+            "choice",
+            "tests",
+            "so",
+            "quickly",
+            "?"
+        ],
+        [
+            "I",
+            "just",
+            "had",
+            "a",
+            "25",
+            "question",
+            "true",
+            "/",
+            "false",
+            "final",
+            "(",
+            "no",
+            "idea",
+            "why",
+            ")",
+            "and",
+            "knocked",
+            "it",
+            "out",
+            "in",
+            "3",
+            "minutes",
+            "."
+        ],
+        [
+            "If",
+            "the",
+            "test",
+            "is",
+            "set",
+            "up",
+            "so",
+            "you",
+            "ca",
+            "n\u2019t",
+            "go",
+            "back",
+            "and",
+            "check",
+            "your",
+            "answers",
+            ",",
+            "there",
+            "\u2019s",
+            "no",
+            "point",
+            "in",
+            "dawdling",
+            "."
+        ],
+        [
+            "In",
+            "fact",
+            ",",
+            "it",
+            "slows",
+            "me",
+            "down",
+            "when",
+            "it",
+            "\u2019s",
+            "open",
+            "book",
+            "since",
+            "I",
+            "can",
+            "check",
+            "my",
+            "answers",
+            "."
+        ],
+        [
+            "I",
+            "admit",
+            ",",
+            "I",
+            "have",
+            "OCD",
+            "and",
+            "there",
+            "seems",
+            "to",
+            "be",
+            "a",
+            "compulsive",
+            "aspect",
+            "to",
+            "my",
+            "online",
+            "test",
+            "taking",
+            ",",
+            "so",
+            "I",
+            "probably",
+            "rush",
+            "because",
+            "of",
+            "anxiety",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "\u2019ve",
+            "probably",
+            "barely",
+            "cracked",
+            "10",
+            "minutes",
+            "on",
+            "any",
+            "multiple",
+            "choice",
+            "exam",
+            "all",
+            "semester",
+            "."
+        ],
+        [
+            "Is",
+            "it",
+            "really",
+            "that",
+            "odd",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is closing",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "moved",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "trying",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "escaped",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "become",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stay",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lives in",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "says",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-067",
+    "sents": [
+        [
+            "We",
+            "just",
+            "got",
+            "the",
+            "announcement",
+            "that",
+            "our",
+            "college",
+            "is",
+            "closing",
+            "on",
+            "March",
+            "19th",
+            "I",
+            "\u2019ve",
+            "moved",
+            "5",
+            "times",
+            "this",
+            "year",
+            "trying",
+            "to",
+            "escape",
+            "an",
+            "abusive",
+            "home",
+            ",",
+            "and",
+            "now",
+            "I",
+            "\u2019ve",
+            "finally",
+            "escaped",
+            "it",
+            ",",
+            "and",
+            "college",
+            "has",
+            "become",
+            "my",
+            "home",
+            "."
+        ],
+        [
+            "During",
+            "breaks",
+            "I",
+            "stay",
+            "at",
+            "my",
+            "grandmas",
+            "but",
+            "she",
+            "lives",
+            "in",
+            "a",
+            "development",
+            "for",
+            "65+",
+            "so",
+            "I",
+            "ca",
+            "n\u2019t",
+            "stay",
+            "more",
+            "than",
+            "a",
+            "short",
+            "time",
+            "period",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "a",
+            "mattress",
+            "in",
+            "my",
+            "car",
+            ",",
+            "but",
+            "I",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "resort",
+            "to",
+            "that",
+            "I",
+            "do",
+            "n\u2019t",
+            "know",
+            "what",
+            "to",
+            "do",
+            ",",
+            "and",
+            "I",
+            "ca",
+            "n\u2019t",
+            "breathe",
+            "."
+        ],
+        [
+            "No",
+            "one",
+            "knows",
+            "what",
+            "\u2019s",
+            "happening",
+            "with",
+            "the",
+            "dorms",
+            "."
+        ],
+        [
+            "Everyone",
+            "says",
+            "the",
+            "school",
+            "will",
+            "be",
+            "closing",
+            ",",
+            "but",
+            "not",
+            "a",
+            "single",
+            "person",
+            "has",
+            "mentioned",
+            "what",
+            "happens",
+            "to",
+            "the",
+            "dormers",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "a",
+            "lot",
+            "of",
+            "dormers",
+            "have",
+            "moved",
+            "out",
+            "of",
+            "other",
+            "colleges",
+            ",",
+            "but",
+            "will",
+            "they",
+            "make",
+            "us",
+            "all",
+            "do",
+            "that",
+            "?"
+        ],
+        [
+            "What",
+            "\u2019s",
+            "going",
+            "to",
+            "happen",
+            "???"
+        ]
+    ]
+}

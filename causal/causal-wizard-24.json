@@ -1,0 +1,320 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Toto could",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "some dogs see very well in the dark",
+                "pos": [
+                    12,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you see any house , or any place where we can pass the night",
+                "pos": [
+                    2,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you must tell me",
+                "pos": [
+                    22,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": ";",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "it is very uncomfortable walking in the dark",
+                "pos": [
+                    28,
+                    36
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect|effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-24",
+    "sents": [
+        [
+            "After",
+            "an",
+            "hour",
+            "or",
+            "so",
+            "the",
+            "light",
+            "faded",
+            "away",
+            ",",
+            "and",
+            "they",
+            "found",
+            "themselves",
+            "stumbling",
+            "along",
+            "in",
+            "the",
+            "darkness",
+            "."
+        ],
+        [
+            "Dorothy",
+            "could",
+            "not",
+            "see",
+            "at",
+            "all",
+            ",",
+            "but",
+            "Toto",
+            "could",
+            ",",
+            "for",
+            "some",
+            "dogs",
+            "see",
+            "very",
+            "well",
+            "in",
+            "the",
+            "dark",
+            ";",
+            "and",
+            "the",
+            "Scarecrow",
+            "declared",
+            "he",
+            "could",
+            "see",
+            "as",
+            "well",
+            "as",
+            "by",
+            "day",
+            "."
+        ],
+        [
+            "So",
+            "she",
+            "took",
+            "hold",
+            "of",
+            "his",
+            "arm",
+            "and",
+            "managed",
+            "to",
+            "get",
+            "along",
+            "fairly",
+            "well",
+            "."
+        ],
+        [
+            "\"",
+            "If",
+            "you",
+            "see",
+            "any",
+            "house",
+            ",",
+            "or",
+            "any",
+            "place",
+            "where",
+            "we",
+            "can",
+            "pass",
+            "the",
+            "night",
+            ",",
+            "\"",
+            "she",
+            "said",
+            ",",
+            "\"",
+            "you",
+            "must",
+            "tell",
+            "me",
+            ";",
+            "for",
+            "it",
+            "is",
+            "very",
+            "uncomfortable",
+            "walking",
+            "in",
+            "the",
+            "dark",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "Soon",
+            "after",
+            "the",
+            "Scarecrow",
+            "stopped",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "see",
+            "a",
+            "little",
+            "cottage",
+            "at",
+            "the",
+            "right",
+            "of",
+            "us",
+            ",",
+            "\"",
+            "he",
+            "said",
+            ",",
+            "\"",
+            "built",
+            "of",
+            "logs",
+            "and",
+            "branches",
+            "."
+        ],
+        [
+            "Shall",
+            "we",
+            "go",
+            "there",
+            "?",
+            "\""
+        ],
+        [
+            "\"",
+            "Yes",
+            ",",
+            "indeed",
+            ",",
+            "\"",
+            "answered",
+            "the",
+            "child",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "am",
+            "all",
+            "tired",
+            "out",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

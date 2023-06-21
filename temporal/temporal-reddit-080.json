@@ -1,0 +1,417 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "is close to",
+                "pos": [
+                    5,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is super friendly",
+                "pos": [
+                    11,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "talk",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is clear",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are sitting",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is so busy",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "occupied",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hanged out with",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stick with",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is just so frustrating",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "say",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-080",
+    "sents": [
+        [
+            "In",
+            "high",
+            "school",
+            ",",
+            "everyone",
+            "is",
+            "close",
+            "to",
+            "each",
+            "other",
+            "and",
+            "is",
+            "super",
+            "friendly",
+            "to",
+            "you",
+            "."
+        ],
+        [
+            "People",
+            "talk",
+            "to",
+            "you",
+            "at",
+            "lunch",
+            "or",
+            "whatever",
+            "when",
+            "it",
+            "is",
+            "clear",
+            "you",
+            "are",
+            "sitting",
+            "by",
+            "yourself",
+            "."
+        ],
+        [
+            "In",
+            "college",
+            ",",
+            "no",
+            "one",
+            "cares",
+            "."
+        ],
+        [
+            "Someone",
+            "could",
+            "get",
+            "a",
+            "heart",
+            "attack",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "day",
+            "and",
+            "no",
+            "one",
+            "would",
+            "care",
+            "."
+        ],
+        [
+            "Everyone",
+            "is",
+            "so",
+            "busy",
+            "and",
+            "occupied",
+            "to",
+            "the",
+            "point",
+            "where",
+            "it",
+            "is",
+            "virtually",
+            "impossible",
+            "to",
+            "befriend",
+            "new",
+            "people",
+            "."
+        ],
+        [
+            "It",
+            "does",
+            "n't",
+            "help",
+            "that",
+            "at",
+            "the",
+            "beginning",
+            "in",
+            "the",
+            "school",
+            "year",
+            ",",
+            "everyone",
+            "just",
+            "seemed",
+            "to",
+            "hanged",
+            "out",
+            "with",
+            "their",
+            "high",
+            "school",
+            "friends",
+            "and",
+            "stick",
+            "with",
+            "that",
+            "group",
+            "for",
+            "the",
+            "rest",
+            "of",
+            "the",
+            "school",
+            "year",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "just",
+            "so",
+            "frustrating",
+            "when",
+            "people",
+            "say",
+            "your",
+            "social",
+            "life",
+            "gets",
+            "better",
+            "after",
+            "high",
+            "school",
+            "when",
+            "it",
+            "does",
+            "n't",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,327 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "everyone",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "companies",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Notion",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "Notion",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "students",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "gen-entity"
+            },
+            {
+                "name": "students",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 9,
+                "type": "gen-entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-092",
+    "sents": [
+        [
+            "For",
+            "everyone",
+            "that",
+            "is",
+            "procrastinating",
+            "at",
+            "these",
+            "late",
+            "hours",
+            "like",
+            "I",
+            "am",
+            ",",
+            "what",
+            "are",
+            "your",
+            "favorite",
+            "student",
+            "tools",
+            "?"
+        ],
+        [
+            "Recently",
+            "I",
+            "'ve",
+            "been",
+            "using",
+            "Notion",
+            "and",
+            "[",
+            "Monday",
+            "."
+        ],
+        [
+            "com",
+            "]",
+            "(",
+            "https://Monday.com)",
+            "a",
+            "lot",
+            "."
+        ],
+        [
+            "Notion",
+            "is",
+            "hard",
+            "to",
+            "explain",
+            ",",
+            "it",
+            "'s",
+            "kinda",
+            "like",
+            "a",
+            "personal",
+            "database",
+            "of",
+            "pages",
+            "you",
+            "create",
+            "."
+        ],
+        [
+            "Highly",
+            "customizable",
+            "and",
+            "easy",
+            "to",
+            "use",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "free",
+            "for",
+            "students",
+            "[",
+            "Monday",
+            "."
+        ],
+        [
+            "com",
+            "]",
+            "(",
+            "https://Monday.com)",
+            "is",
+            "a",
+            "productivity",
+            "management",
+            "tool",
+            "used",
+            "by",
+            "companies",
+            "."
+        ],
+        [
+            "It",
+            "makes",
+            "it",
+            "super",
+            "easy",
+            "to",
+            "track",
+            "deadlines",
+            "and",
+            "manage",
+            "multiple",
+            "projects",
+            "."
+        ],
+        [
+            "I",
+            "found",
+            "it",
+            "when",
+            "I",
+            "was",
+            "looking",
+            "for",
+            "something",
+            "to",
+            "replace",
+            "to",
+            "-",
+            "do",
+            "lists",
+            "and",
+            "track",
+            "assignments",
+            "better",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "free",
+            "for",
+            "students",
+            "Edit",
+            ":",
+            "wow",
+            "so",
+            "many",
+            "replies",
+            "haha",
+            "."
+        ],
+        [
+            "Good",
+            "luck",
+            "with",
+            "finals",
+            "everyone"
+        ]
+    ]
+}

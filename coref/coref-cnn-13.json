@@ -1,0 +1,448 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Tomi Tuominen",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Robert Lee",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Some of them",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Others",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "security researchers",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "ethical hackers",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Tomi Tuominen",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Tuominen",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my iPhone",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "your phone",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my iPhone",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a tutorial",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "your",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "your",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "gen-entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 8,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 8,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-13",
+    "sents": [
+        [
+            "(",
+            "CNNMoney",
+            ")",
+            "--",
+            "Here",
+            "'s",
+            "one",
+            "way",
+            "to",
+            "make",
+            "your",
+            "iPhone",
+            "hacker",
+            "-",
+            "proof",
+            ":",
+            "Ask",
+            "hackers",
+            "for",
+            "advice",
+            "."
+        ],
+        [
+            "I",
+            "recently",
+            "caught",
+            "up",
+            "with",
+            "security",
+            "researchers",
+            "at",
+            "the",
+            "online",
+            "security",
+            "conference",
+            "Infiltrate",
+            "."
+        ],
+        [
+            "At",
+            "dinner",
+            "one",
+            "evening",
+            ",",
+            "I",
+            "placed",
+            "my",
+            "iPhone",
+            "on",
+            "the",
+            "table",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "surrounded",
+            "by",
+            "ethical",
+            "hackers",
+            "whose",
+            "jobs",
+            "are",
+            "to",
+            "find",
+            "vulnerabilities",
+            "before",
+            "the",
+            "bad",
+            "guys",
+            "and",
+            "exploit",
+            "security",
+            "flaws",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "could",
+            "hack",
+            "your",
+            "phone",
+            "pretty",
+            "easily",
+            ",",
+            "\"",
+            "security",
+            "researcher",
+            "Tomi",
+            "Tuominen",
+            "mentioned",
+            "."
+        ],
+        [
+            "Obviously",
+            ",",
+            "I",
+            "took",
+            "notice",
+            "."
+        ],
+        [
+            "For",
+            "the",
+            "next",
+            "20",
+            "minutes",
+            ",",
+            "Tuominen",
+            "and",
+            "information",
+            "security",
+            "researcher",
+            "Robert",
+            "Lee",
+            "gave",
+            "me",
+            "a",
+            "tutorial",
+            "on",
+            "making",
+            "my",
+            "iPhone",
+            "settings",
+            "hacker",
+            "-",
+            "proof",
+            "."
+        ],
+        [
+            "Some",
+            "of",
+            "them",
+            "are",
+            "basic",
+            "--",
+            "like",
+            "changing",
+            "your",
+            "four",
+            "character",
+            "password",
+            "to",
+            "something",
+            "more",
+            "complex",
+            "."
+        ],
+        [
+            "Others",
+            "take",
+            "a",
+            "bit",
+            "more",
+            "work",
+            ",",
+            "such",
+            "as",
+            "using",
+            "settings",
+            "to",
+            "limit",
+            "ad",
+            "tracking",
+            "."
+        ],
+        [
+            "For",
+            "more",
+            "tips",
+            ",",
+            "check",
+            "out",
+            "the",
+            "video",
+            "."
+        ]
+    ]
+}

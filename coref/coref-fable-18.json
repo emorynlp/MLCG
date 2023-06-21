@@ -1,0 +1,559 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "we",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Fox",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "the Fox",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A WOLF",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Wolf",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The Wolf",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the Wolf",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the naughty old Wolf",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "The Wolf",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "my friend",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "the Wolf",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Nurse",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Nurse",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "a Nurse",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Child",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The Baby",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my darling",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "a Baby",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-18",
+    "sents": [
+        [
+            "A",
+            "WOLF",
+            ",",
+            "prowling",
+            "about",
+            "to",
+            "find",
+            "something",
+            "for",
+            "supper",
+            ",",
+            "heard",
+            "a",
+            "Child",
+            "crying",
+            "in",
+            "a",
+            "house",
+            "."
+        ],
+        [
+            "Listening",
+            ",",
+            "he",
+            "heard",
+            "the",
+            "Nurse",
+            "say",
+            ",",
+            "\u201c",
+            "Stop",
+            "crying",
+            "this",
+            "minute",
+            ",",
+            "or",
+            "I",
+            "will",
+            "throw",
+            "you",
+            "out",
+            "of",
+            "doors",
+            "to",
+            "the",
+            "Wolf",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Wolf",
+            "sat",
+            "down",
+            "near",
+            "the",
+            "door",
+            ",",
+            "thinking",
+            "within",
+            "himself",
+            ",",
+            "\u201c",
+            "I",
+            "shall",
+            "soon",
+            "have",
+            "a",
+            "good",
+            "supper",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Baby",
+            "cried",
+            "and",
+            "cried",
+            ",",
+            "till",
+            "at",
+            "last",
+            "it",
+            "went",
+            "to",
+            "sleep",
+            ";",
+            "and",
+            "then",
+            "the",
+            "Wolf",
+            "heard",
+            "the",
+            "Nurse",
+            "say",
+            ":",
+            "\u201c",
+            "There",
+            ",",
+            "that",
+            "\u2019s",
+            "a",
+            "good",
+            "Baby",
+            "."
+        ],
+        [
+            "If",
+            "the",
+            "naughty",
+            "old",
+            "Wolf",
+            "comes",
+            "for",
+            "my",
+            "darling",
+            ",",
+            "we",
+            "\u2019ll",
+            "beat",
+            "him",
+            ",",
+            "so",
+            "we",
+            "will",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Wolf",
+            "trotted",
+            "sadly",
+            "home",
+            "."
+        ],
+        [
+            "On",
+            "his",
+            "way",
+            "he",
+            "met",
+            "the",
+            "Fox",
+            "."
+        ],
+        [
+            "\u201c",
+            "What",
+            "makes",
+            "you",
+            "look",
+            "so",
+            "sour",
+            "and",
+            "so",
+            "forlorn",
+            ",",
+            "my",
+            "friend",
+            "?",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Fox",
+            "."
+        ],
+        [
+            "\u201c",
+            "Do",
+            "n\u2019t",
+            "speak",
+            "to",
+            "me",
+            "!",
+            "\u201d"
+        ],
+        [
+            "growled",
+            "the",
+            "Wolf",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "have",
+            "lost",
+            "my",
+            "supper",
+            "just",
+            "because",
+            "I",
+            "believed",
+            "what",
+            "a",
+            "Nurse",
+            "said",
+            "to",
+            "a",
+            "Baby",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

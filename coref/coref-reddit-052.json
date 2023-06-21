@@ -1,0 +1,408 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "we",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Accounting",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Accounting",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Finance",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Finance",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "need",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "event"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 8,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 10,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 11,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 14,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 14,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 15,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-052",
+    "sents": [
+        [
+            "I",
+            "convinced",
+            "college",
+            "is",
+            "a",
+            "scam",
+            "..."
+        ],
+        [
+            "why",
+            "does",
+            "a",
+            "student",
+            "need",
+            "to",
+            "jump",
+            "through",
+            "hoops",
+            "just",
+            "to",
+            "learn",
+            "something",
+            "that",
+            "is",
+            "a",
+            "\"",
+            "requirement",
+            "\"",
+            "just",
+            "to",
+            "get",
+            "to",
+            "major",
+            "specific",
+            "classes",
+            "?!?!"
+        ],
+        [
+            "I",
+            "am",
+            "currently",
+            "majoring",
+            "in",
+            "Accounting",
+            "and",
+            "Finance",
+            "."
+        ],
+        [
+            "Accounting",
+            ",",
+            "its",
+            "easy",
+            "."
+        ],
+        [
+            "Record",
+            "transaction",
+            "."
+        ],
+        [
+            "Simple",
+            ",",
+            "plus",
+            "and",
+            "minus",
+            "Finance",
+            ",",
+            "easy",
+            "."
+        ],
+        [
+            "Buy",
+            "low",
+            "and",
+            "sell",
+            "high",
+            "."
+        ],
+        [
+            "Why",
+            "do",
+            "we",
+            "need",
+            "more",
+            "classes",
+            "to",
+            "justify",
+            "our",
+            "damn",
+            "majors",
+            "?"
+        ],
+        [
+            "Not",
+            "only",
+            "that",
+            ",",
+            "what",
+            "is",
+            "with",
+            "professors",
+            "with",
+            "a",
+            "hard",
+            "on",
+            "for",
+            "written",
+            "assignments",
+            "?!?!"
+        ],
+        [
+            "I",
+            "feel",
+            "like",
+            "I",
+            "am",
+            "wasting",
+            "my",
+            "life",
+            "in",
+            "school",
+            "..."
+        ],
+        [
+            "I",
+            "honestly",
+            "have",
+            "no",
+            "choice",
+            "..."
+        ],
+        [
+            "my",
+            "parents",
+            "expect",
+            "me",
+            "to",
+            "attend",
+            "college",
+            "...."
+        ],
+        [
+            "being",
+            "raised",
+            "in",
+            "a",
+            "time",
+            "where",
+            "college",
+            "actually",
+            "meant",
+            "for",
+            "something",
+            "..."
+        ],
+        [
+            "and",
+            "was",
+            "WAY",
+            "cheaper",
+            "..."
+        ],
+        [
+            "All",
+            "I",
+            "literally",
+            "want",
+            "to",
+            "know",
+            "is",
+            "how",
+            "to",
+            "do",
+            "my",
+            "damn",
+            "taxes",
+            "...."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "need",
+            "any",
+            "of",
+            "these",
+            "other",
+            "classes",
+            "...."
+        ]
+    ]
+}

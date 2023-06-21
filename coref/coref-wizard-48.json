@@ -1,0 +1,277 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Scarecrow",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Tin Woodman",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "them",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "our friends",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Lion",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "his",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-48",
+    "sents": [
+        [
+            "The",
+            "sun",
+            "shone",
+            "brightly",
+            "as",
+            "our",
+            "friends",
+            "turned",
+            "their",
+            "faces",
+            "toward",
+            "the",
+            "Land",
+            "of",
+            "the",
+            "South",
+            "."
+        ],
+        [
+            "They",
+            "were",
+            "all",
+            "in",
+            "the",
+            "best",
+            "of",
+            "spirits",
+            ",",
+            "and",
+            "laughed",
+            "and",
+            "chatted",
+            "together",
+            "."
+        ],
+        [
+            "Dorothy",
+            "was",
+            "once",
+            "more",
+            "filled",
+            "with",
+            "the",
+            "hope",
+            "of",
+            "getting",
+            "home",
+            ",",
+            "and",
+            "the",
+            "Scarecrow",
+            "and",
+            "the",
+            "Tin",
+            "Woodman",
+            "were",
+            "glad",
+            "to",
+            "be",
+            "of",
+            "use",
+            "to",
+            "her",
+            "."
+        ],
+        [
+            "As",
+            "for",
+            "the",
+            "Lion",
+            ",",
+            "he",
+            "sniffed",
+            "the",
+            "fresh",
+            "air",
+            "with",
+            "delight",
+            "and",
+            "whisked",
+            "his",
+            "tail",
+            "from",
+            "side",
+            "to",
+            "side",
+            "in",
+            "pure",
+            "joy",
+            "at",
+            "being",
+            "in",
+            "the",
+            "country",
+            "again",
+            ",",
+            "while",
+            "Toto",
+            "ran",
+            "around",
+            "them",
+            "and",
+            "chased",
+            "the",
+            "moths",
+            "and",
+            "butterflies",
+            ",",
+            "barking",
+            "merrily",
+            "all",
+            "the",
+            "time",
+            "."
+        ]
+    ]
+}

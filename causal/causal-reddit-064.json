@@ -1,0 +1,163 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "getting at least a 94",
+                "pos": [
+                    30,
+                    35
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "maintain an A.",
+                "pos": [
+                    36,
+                    39
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-064",
+    "sents": [
+        [
+            "Been",
+            "contemplating",
+            "this",
+            "a",
+            "lot",
+            "."
+        ],
+        [
+            "Rn",
+            "I",
+            "have",
+            "a",
+            "97",
+            "GPA",
+            ",",
+            "with",
+            "most",
+            "of",
+            "my",
+            "classes",
+            "falling",
+            "between",
+            "the",
+            "94",
+            "-",
+            "100",
+            "range",
+            "."
+        ],
+        [
+            "Finals",
+            "are",
+            "coming",
+            "up",
+            ",",
+            "and",
+            "I",
+            "'m",
+            "unsure",
+            "if",
+            "I",
+            "should",
+            "spend",
+            "a",
+            "few",
+            "extra",
+            "hours",
+            "studying",
+            "and",
+            "completing",
+            "some",
+            "generous",
+            "extra",
+            "credit",
+            "assignments",
+            "given",
+            "by",
+            "professors",
+            "due",
+            "tomorrow",
+            "."
+        ],
+        [
+            "While",
+            "I",
+            "'m",
+            "in",
+            "a",
+            "pretty",
+            "confident",
+            "and",
+            "safe",
+            "spot",
+            ",",
+            "I",
+            "'m",
+            "not",
+            "sure",
+            "if",
+            "an",
+            "actual",
+            "percentage",
+            "matters",
+            "in",
+            "college",
+            "like",
+            "high",
+            "school",
+            ",",
+            "or",
+            "simply",
+            "focus",
+            "on",
+            "getting",
+            "at",
+            "least",
+            "a",
+            "94",
+            "to",
+            "maintain",
+            "an",
+            "A.",
+            "What",
+            "are",
+            "your",
+            "thoughts",
+            "?"
+        ]
+    ]
+}

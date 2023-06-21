@@ -1,0 +1,309 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "says",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "crumbled away",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "left",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feeling",
+                "pos": [
+                    30,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "start",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m scared",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been craving",
+                "pos": [
+                    30,
+                    32
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be others",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "taken place",
+                "pos": [
+                    26,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-144",
+    "sents": [
+        [
+            "The",
+            "title",
+            "pretty",
+            "much",
+            "says",
+            "it",
+            "all",
+            "."
+        ],
+        [
+            "My",
+            "friend",
+            "group",
+            "has",
+            "pretty",
+            "much",
+            "crumbled",
+            "away",
+            "over",
+            "the",
+            "course",
+            "of",
+            "the",
+            "pandemic",
+            "and",
+            "this",
+            "past",
+            "school",
+            "year",
+            "of",
+            "exclusively",
+            "online",
+            "STEM",
+            "classes",
+            "at",
+            "community",
+            "College",
+            "has",
+            "left",
+            "me",
+            "feeling",
+            "emotionally",
+            "exhausted",
+            "still",
+            "."
+        ],
+        [
+            "Now",
+            "with",
+            "about",
+            "2.5",
+            "months",
+            "until",
+            "I",
+            "start",
+            "university",
+            "I",
+            "'m",
+            "scared",
+            "I",
+            "no",
+            "longer",
+            "know",
+            "how",
+            "to",
+            "talk",
+            "to",
+            "people",
+            "and",
+            "wo",
+            "n't",
+            "get",
+            "near",
+            "the",
+            "experience",
+            "I",
+            "'ve",
+            "been",
+            "craving",
+            "since",
+            "high",
+            "school",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "want",
+            "to",
+            "know",
+            "that",
+            "I",
+            "'m",
+            "not",
+            "alone",
+            "in",
+            "these",
+            "feelings",
+            "and",
+            "that",
+            "there",
+            "will",
+            "be",
+            "others",
+            "like",
+            "me",
+            "after",
+            "the",
+            "events",
+            "that",
+            "have",
+            "taken",
+            "place",
+            "over",
+            "the",
+            "pandemic",
+            "."
+        ]
+    ]
+}

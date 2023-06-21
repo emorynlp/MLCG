@@ -1,0 +1,261 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "When",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a big branch bent down",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "seize him",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the Woodman chopped at it so fiercely",
+                "pos": [
+                    9,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he cut it in two",
+                "pos": [
+                    17,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause|effect",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "effect|cause",
+            "h": 4,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-49",
+    "sents": [
+        [
+            "\"",
+            "I",
+            "believe",
+            "I",
+            "will",
+            "try",
+            "it",
+            "myself",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "Woodman",
+            ",",
+            "and",
+            "shouldering",
+            "his",
+            "axe",
+            ",",
+            "he",
+            "marched",
+            "up",
+            "to",
+            "the",
+            "first",
+            "tree",
+            "that",
+            "had",
+            "handled",
+            "the",
+            "Scarecrow",
+            "so",
+            "roughly",
+            "."
+        ],
+        [
+            "When",
+            "a",
+            "big",
+            "branch",
+            "bent",
+            "down",
+            "to",
+            "seize",
+            "him",
+            "the",
+            "Woodman",
+            "chopped",
+            "at",
+            "it",
+            "so",
+            "fiercely",
+            "that",
+            "he",
+            "cut",
+            "it",
+            "in",
+            "two",
+            "."
+        ],
+        [
+            "At",
+            "once",
+            "the",
+            "tree",
+            "began",
+            "shaking",
+            "all",
+            "its",
+            "branches",
+            "as",
+            "if",
+            "in",
+            "pain",
+            ",",
+            "and",
+            "the",
+            "Tin",
+            "Woodman",
+            "passed",
+            "safely",
+            "under",
+            "it",
+            "."
+        ],
+        [
+            "\"",
+            "Come",
+            "on",
+            "!",
+            "\"",
+            "he",
+            "shouted",
+            "to",
+            "the",
+            "others",
+            "."
+        ],
+        [
+            "\"",
+            "Be",
+            "quick",
+            "!",
+            "\"",
+            "They",
+            "all",
+            "ran",
+            "forward",
+            "and",
+            "passed",
+            "under",
+            "the",
+            "tree",
+            "without",
+            "injury",
+            ",",
+            "except",
+            "Toto",
+            ",",
+            "who",
+            "was",
+            "caught",
+            "by",
+            "a",
+            "small",
+            "branch",
+            "and",
+            "shaken",
+            "until",
+            "he",
+            "howled",
+            "."
+        ],
+        [
+            "But",
+            "the",
+            "Woodman",
+            "promptly",
+            "chopped",
+            "off",
+            "the",
+            "branch",
+            "and",
+            "set",
+            "the",
+            "little",
+            "dog",
+            "free",
+            "."
+        ]
+    ]
+}

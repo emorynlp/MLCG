@@ -1,0 +1,701 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "lying",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "belonged to",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took off",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tried on",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fitted",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "picked up",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "closed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "locked",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "put",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "trotting",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 10,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "started",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 10,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-13",
+    "sents": [
+        [
+            "At",
+            "that",
+            "moment",
+            "Dorothy",
+            "saw",
+            "lying",
+            "on",
+            "the",
+            "table",
+            "the",
+            "silver",
+            "shoes",
+            "that",
+            "had",
+            "belonged",
+            "to",
+            "the",
+            "Witch",
+            "of",
+            "the",
+            "East",
+            "."
+        ],
+        [
+            "\"",
+            "I",
+            "wonder",
+            "if",
+            "they",
+            "will",
+            "fit",
+            "me",
+            ",",
+            "\"",
+            "she",
+            "said",
+            "to",
+            "Toto",
+            "."
+        ],
+        [
+            "\"",
+            "They",
+            "would",
+            "be",
+            "just",
+            "the",
+            "thing",
+            "to",
+            "take",
+            "a",
+            "long",
+            "walk",
+            "in",
+            ",",
+            "for",
+            "they",
+            "could",
+            "not",
+            "wear",
+            "out",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "She",
+            "took",
+            "off",
+            "her",
+            "old",
+            "leather",
+            "shoes",
+            "and",
+            "tried",
+            "on",
+            "the",
+            "silver",
+            "ones",
+            ",",
+            "which",
+            "fitted",
+            "her",
+            "as",
+            "well",
+            "as",
+            "if",
+            "they",
+            "had",
+            "been",
+            "made",
+            "for",
+            "her",
+            "."
+        ],
+        [
+            "Finally",
+            "she",
+            "picked",
+            "up",
+            "her",
+            "basket",
+            "."
+        ],
+        [
+            "\"",
+            "Come",
+            "along",
+            ",",
+            "Toto",
+            ",",
+            "\"",
+            "she",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "We",
+            "will",
+            "go",
+            "to",
+            "the",
+            "Emerald",
+            "City",
+            "and",
+            "ask",
+            "the",
+            "Great",
+            "Oz",
+            "how",
+            "to",
+            "get",
+            "back",
+            "to",
+            "Kansas",
+            "again",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "She",
+            "closed",
+            "the",
+            "door",
+            ",",
+            "locked",
+            "it",
+            ",",
+            "and",
+            "put",
+            "the",
+            "key",
+            "carefully",
+            "in",
+            "the",
+            "pocket",
+            "of",
+            "her",
+            "dress",
+            "."
+        ],
+        [
+            "And",
+            "so",
+            ",",
+            "with",
+            "Toto",
+            "trotting",
+            "along",
+            "soberly",
+            "behind",
+            "her",
+            ",",
+            "she",
+            "started",
+            "on",
+            "her",
+            "journey",
+            "."
+        ]
+    ]
+}

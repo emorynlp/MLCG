@@ -1,0 +1,167 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-06",
+    "sents": [
+        [
+            "The",
+            "Du",
+            "Pont",
+            "Co",
+            "said",
+            "it",
+            "has",
+            "devloped",
+            "a",
+            "new",
+            "generation",
+            "of",
+            "high",
+            "-",
+            "strength",
+            "aramid",
+            "fibers",
+            "which",
+            "is",
+            "stiffer",
+            "and",
+            "less",
+            "absorbant",
+            "than",
+            "previous",
+            "generations",
+            "."
+        ],
+        [
+            "Du",
+            "Pont",
+            "said",
+            "the",
+            "new",
+            "product",
+            ",",
+            "Kevlar",
+            "149",
+            ",",
+            "is",
+            "up",
+            "to",
+            "40",
+            "pct",
+            "stiffer",
+            "than",
+            "first",
+            "generation",
+            "aramids",
+            ",",
+            "and",
+            "absorbs",
+            "less",
+            "than",
+            "half",
+            "the",
+            "moister",
+            "of",
+            "other",
+            "similar",
+            "aramid",
+            "fibers",
+            "."
+        ],
+        [
+            "Kevlar",
+            "was",
+            "invented",
+            "by",
+            "Du",
+            "Pont",
+            "in",
+            "the",
+            "late",
+            "1960s",
+            "and",
+            "is",
+            "five",
+            "times",
+            "stronger",
+            "than",
+            "steel",
+            "and",
+            "10",
+            "times",
+            "stronger",
+            "than",
+            "aluminum",
+            "on",
+            "an",
+            "equal",
+            "wieght",
+            "basis",
+            ",",
+            "and",
+            "is",
+            "used",
+            "to",
+            "replace",
+            "metals",
+            "in",
+            "a",
+            "variety",
+            "of",
+            "products",
+            ",",
+            "according",
+            "to",
+            "the",
+            "company",
+            "."
+        ]
+    ]
+}

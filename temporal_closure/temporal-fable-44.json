@@ -1,0 +1,631 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "laden with",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were trudging",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "carried",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "filled with",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "carried",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "walked",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "jingling",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "went",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "followed",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sprang upon",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "attracted",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "carried",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seized",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wounding",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hearing",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fled",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 17,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 18,
+            "t": 11,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-44",
+    "sents": [
+        [
+            "TWO",
+            "Mules",
+            ",",
+            "laden",
+            "with",
+            "packs",
+            ",",
+            "were",
+            "trudging",
+            "along",
+            "the",
+            "highway",
+            "."
+        ],
+        [
+            "One",
+            "carried",
+            "panniers",
+            "filled",
+            "with",
+            "money",
+            ",",
+            "the",
+            "other",
+            "sacks",
+            "of",
+            "grain",
+            "."
+        ],
+        [
+            "The",
+            "Mule",
+            "that",
+            "carried",
+            "the",
+            "treasure",
+            "walked",
+            "with",
+            "head",
+            "erect",
+            "and",
+            "stately",
+            "step",
+            ",",
+            "jingling",
+            "the",
+            "bells",
+            "about",
+            "his",
+            "neck",
+            "as",
+            "he",
+            "went",
+            "."
+        ],
+        [
+            "His",
+            "companion",
+            "followed",
+            "at",
+            "a",
+            "quiet",
+            ",",
+            "easy",
+            "pace",
+            "."
+        ],
+        [
+            "Suddenly",
+            "a",
+            "band",
+            "of",
+            "Robbers",
+            "sprang",
+            "upon",
+            "them",
+            ",",
+            "attracted",
+            "by",
+            "the",
+            "strong",
+            ",",
+            "proud",
+            "step",
+            "and",
+            "the",
+            "jingling",
+            "bells",
+            "."
+        ],
+        [
+            "The",
+            "Mule",
+            "that",
+            "carried",
+            "the",
+            "gold",
+            "made",
+            "so",
+            "great",
+            "an",
+            "ado",
+            "that",
+            "the",
+            "Robbers",
+            "seized",
+            "his",
+            "pack",
+            ",",
+            "wounding",
+            "him",
+            "with",
+            "their",
+            "weapons",
+            ",",
+            "and",
+            ",",
+            "hearing",
+            "footsteps",
+            ",",
+            "fled",
+            "."
+        ],
+        [
+            "\u201c",
+            "I",
+            "am",
+            "glad",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "other",
+            ",",
+            "\u201c",
+            "that",
+            "I",
+            "was",
+            "thought",
+            "of",
+            "so",
+            "little",
+            "consequence",
+            ",",
+            "for",
+            "I",
+            "have",
+            "lost",
+            "nothing",
+            ",",
+            "nor",
+            "am",
+            "I",
+            "hurt",
+            "with",
+            "any",
+            "wound",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

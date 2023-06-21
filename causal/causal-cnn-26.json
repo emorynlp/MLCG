@@ -1,0 +1,321 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the blaze had already charred some 1,000 acres",
+                "pos": [
+                    6,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "getting its start Monday afternoon",
+                "pos": [
+                    15,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "The Santa Barbara Sheriff 's Department evacuated up to 6,000 people from the popular White Rock Campground at the end of the busy Memorial Day weekend",
+                "pos": [
+                    0,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "as",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the wildfire advanced",
+                "pos": [
+                    27,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the fire",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "caused",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "minor damage to a ranger station",
+                "pos": [
+                    4,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-cnn-26",
+    "sents": [
+        [
+            "Crews",
+            "in",
+            "Southern",
+            "California",
+            "struggled",
+            "to",
+            "get",
+            "the",
+            "upper",
+            "hand",
+            "on",
+            "a",
+            "fast",
+            "-",
+            "moving",
+            "wildfire",
+            "in",
+            "Santa",
+            "Barbara",
+            "County",
+            "early",
+            "Tuesday",
+            "."
+        ],
+        [
+            "Known",
+            "as",
+            "the",
+            "White",
+            "Fire",
+            ",",
+            "the",
+            "blaze",
+            "had",
+            "already",
+            "charred",
+            "some",
+            "1,000",
+            "acres",
+            "after",
+            "getting",
+            "its",
+            "start",
+            "Monday",
+            "afternoon",
+            ",",
+            "U.S.",
+            "Forest",
+            "Service",
+            "spokesman",
+            "Andrew",
+            "Madsen",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "flames",
+            "were",
+            "5%",
+            "contained",
+            "."
+        ],
+        [
+            "The",
+            "Forest",
+            "Service",
+            "expects",
+            "to",
+            "have",
+            "700",
+            "personnel",
+            "in",
+            "place",
+            "Tuesday",
+            "morning",
+            "."
+        ],
+        [
+            "The",
+            "Santa",
+            "Barbara",
+            "Sheriff",
+            "'s",
+            "Department",
+            "evacuated",
+            "up",
+            "to",
+            "6,000",
+            "people",
+            "from",
+            "the",
+            "popular",
+            "White",
+            "Rock",
+            "Campground",
+            "at",
+            "the",
+            "end",
+            "of",
+            "the",
+            "busy",
+            "Memorial",
+            "Day",
+            "weekend",
+            "as",
+            "the",
+            "wildfire",
+            "advanced",
+            ",",
+            "public",
+            "information",
+            "officer",
+            "Kelly",
+            "Hoover",
+            "said",
+            "."
+        ],
+        [
+            "Although",
+            "the",
+            "fire",
+            "caused",
+            "minor",
+            "damage",
+            "to",
+            "a",
+            "ranger",
+            "station",
+            ",",
+            "it",
+            "quickly",
+            "moved",
+            "deeper",
+            "into",
+            "Los",
+            "Padres",
+            "National",
+            "Forest",
+            ",",
+            "away",
+            "from",
+            "homes",
+            "and",
+            "structures",
+            ",",
+            "according",
+            "to",
+            "Madsen",
+            "."
+        ],
+        [
+            "No",
+            "injuries",
+            "or",
+            "fatalities",
+            "have",
+            "been",
+            "reported",
+            "."
+        ],
+        [
+            "Santa",
+            "Barbara",
+            "is",
+            "located",
+            "about",
+            "85",
+            "miles",
+            "northwest",
+            "of",
+            "downtown",
+            "Los",
+            "Angeles",
+            "."
+        ]
+    ]
+}

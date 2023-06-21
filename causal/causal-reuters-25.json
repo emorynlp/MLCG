@@ -1,0 +1,296 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "grown oats",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "their own use",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "be eligible for corn program benefits",
+                "pos": [
+                    5,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "must restrict his plantings of other program crops to the acreage base for that crop",
+                "pos": [
+                    12,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they had grown oats",
+                "pos": [
+                    16,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "their own use",
+                "pos": [
+                    21,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-25",
+    "sents": [
+        [
+            "U.S.",
+            "farmers",
+            "who",
+            "in",
+            "the",
+            "past",
+            "have",
+            "grown",
+            "oats",
+            "for",
+            "their",
+            "own",
+            "use",
+            "but",
+            "failed",
+            "to",
+            "certify",
+            "to",
+            "the",
+            "government",
+            "that",
+            "they",
+            "had",
+            "done",
+            "so",
+            "probably",
+            "will",
+            "be",
+            "allowed",
+            "to",
+            "continue",
+            "planting",
+            "that",
+            "crop",
+            "and",
+            "be",
+            "eligible",
+            "for",
+            "corn",
+            "program",
+            "benefits",
+            ",",
+            "an",
+            "aide",
+            "to",
+            "Agriculture",
+            "Secretary",
+            "Richard",
+            "Lyng",
+            "said",
+            "."
+        ],
+        [
+            "Currently",
+            "a",
+            "farmer",
+            ",",
+            "to",
+            "be",
+            "eligible",
+            "for",
+            "corn",
+            "program",
+            "benefits",
+            ",",
+            "must",
+            "restrict",
+            "his",
+            "plantings",
+            "of",
+            "other",
+            "program",
+            "crops",
+            "to",
+            "the",
+            "acreage",
+            "base",
+            "for",
+            "that",
+            "crop",
+            "."
+        ],
+        [
+            "Several",
+            "members",
+            "of",
+            "Congress",
+            "from",
+            "Iowa",
+            "have",
+            "complained",
+            "that",
+            "farmers",
+            "who",
+            "inadvertantly",
+            "failed",
+            "to",
+            "certify",
+            "that",
+            "they",
+            "had",
+            "grown",
+            "oats",
+            "for",
+            "their",
+            "own",
+            "use",
+            "in",
+            "the",
+            "past",
+            "now",
+            "are",
+            "being",
+            "asked",
+            "to",
+            "halt",
+            "oats",
+            "production",
+            "or",
+            "lose",
+            "corn",
+            "program",
+            "benefits",
+            "."
+        ],
+        [
+            "USDA",
+            "likely",
+            "will",
+            "allow",
+            "historic",
+            "oats",
+            "farmers",
+            "to",
+            "plant",
+            "oats",
+            "but",
+            "not",
+            "extend",
+            "the",
+            "exemption",
+            "to",
+            "all",
+            "farmers",
+            ",",
+            "Lyng",
+            "'s",
+            "aide",
+            "said",
+            "."
+        ]
+    ]
+}

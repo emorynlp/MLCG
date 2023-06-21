@@ -1,0 +1,432 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "starting",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "require",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "accepts",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "guess",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'re using",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m pretty sure",
+                "pos": [
+                    27,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Edit",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 2,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "'s a link",
+                "pos": [
+                    39,
+                    42
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Edit",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 2,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "made",
+                "pos": [
+                    61,
+                    62
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "make",
+                "pos": [
+                    73,
+                    74
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s ] ( https://en.wikipedia.org/wiki/College_Board#Criticism) some other fun stuff",
+                "pos": [
+                    2,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 10,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 10,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-114",
+    "sents": [
+        [
+            "This",
+            "does",
+            "n't",
+            "affect",
+            "us",
+            "seniors",
+            "(",
+            "thank",
+            "god",
+            ")",
+            "but",
+            "starting",
+            "next",
+            "year",
+            "they",
+            "'re",
+            "gon",
+            "na",
+            "require",
+            "students",
+            "to",
+            "register",
+            "for",
+            "AP",
+            "tests",
+            "in",
+            "the",
+            "fall",
+            "."
+        ],
+        [
+            "For",
+            "most",
+            "people",
+            ",",
+            "if",
+            "they",
+            "get",
+            "into",
+            "an",
+            "early",
+            "school",
+            ",",
+            "they",
+            "will",
+            "only",
+            "take",
+            "the",
+            "tests",
+            "that",
+            "that",
+            "school",
+            "accepts",
+            "for",
+            "credit",
+            ",",
+            "but",
+            "I",
+            "guess",
+            "the",
+            "College",
+            "Board",
+            "wanted",
+            "to",
+            "put",
+            "a",
+            "stop",
+            "to",
+            "that",
+            "."
+        ],
+        [
+            "They",
+            "'re",
+            "using",
+            "the",
+            "excuse",
+            "that",
+            "it",
+            "'s",
+            "so",
+            "\"",
+            "students",
+            "can",
+            "commit",
+            "to",
+            "CoLLeGe",
+            "-",
+            "LeVeL",
+            "wOrK",
+            "early",
+            "in",
+            "the",
+            "school",
+            "year",
+            "\"",
+            ",",
+            "but",
+            "I",
+            "'m",
+            "pretty",
+            "sure",
+            "we",
+            "all",
+            "know",
+            "the",
+            "real",
+            "rea$on",
+            "Edit",
+            ":",
+            "Here",
+            "'s",
+            "a",
+            "link",
+            "https://apcentral.collegeboard.org/about-ap/news-changes/ap-2019/why-are-we-making-changes",
+            "Edit",
+            "2",
+            ":",
+            "While",
+            "we",
+            "'re",
+            "at",
+            "it",
+            ",",
+            "just",
+            "a",
+            "reminder",
+            "that",
+            "the",
+            "College",
+            "Board",
+            "'s",
+            "CEO",
+            "made",
+            "$",
+            "1.3",
+            "M",
+            "in",
+            "2009",
+            ",",
+            "and",
+            "nineteen",
+            "of",
+            "its",
+            "executives",
+            "make",
+            "more",
+            "than",
+            "$",
+            "300,000",
+            "a",
+            "year",
+            "."
+        ],
+        [
+            "[",
+            "Here",
+            "'s",
+            "]",
+            "(",
+            "https://en.wikipedia.org/wiki/College_Board#Criticism)",
+            "some",
+            "other",
+            "fun",
+            "stuff",
+            "about",
+            "how",
+            "great",
+            "the",
+            "nOt",
+            "-",
+            "FoR",
+            "-",
+            "pRoFiT",
+            "College",
+            "Board",
+            "is"
+        ]
+    ]
+}

@@ -1,0 +1,495 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "claimed",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "scanned",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "scanned",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "raided",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been addressed",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is illegal",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was sent",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been mailed",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 8,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "titled",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 9,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-cnn-01",
+    "sents": [
+        [
+            "The",
+            "label",
+            "on",
+            "the",
+            "package",
+            "claimed",
+            "that",
+            "it",
+            "contained",
+            "T-shirts",
+            "and",
+            "baby",
+            "toys",
+            "."
+        ],
+        [
+            "When",
+            "customs",
+            "officials",
+            "in",
+            "Sydney",
+            "scanned",
+            "the",
+            "parcel",
+            ",",
+            "they",
+            "found",
+            "five",
+            "pythons",
+            "and",
+            "two",
+            "venomous",
+            "tarantulas",
+            "."
+        ],
+        [
+            "But",
+            "when",
+            "customs",
+            "officials",
+            "in",
+            "Sydney",
+            "X-ray",
+            "scanned",
+            "the",
+            "parcel",
+            ",",
+            "they",
+            "found",
+            "instead",
+            "five",
+            "pythons",
+            "and",
+            "two",
+            "venomous",
+            "tarantulas",
+            "."
+        ],
+        [
+            "On",
+            "Tuesday",
+            ",",
+            "authorities",
+            "raided",
+            "the",
+            "house",
+            "in",
+            "Sydney",
+            "to",
+            "which",
+            "the",
+            "parcel",
+            "had",
+            "been",
+            "addressed",
+            "."
+        ],
+        [
+            "Officials",
+            "seized",
+            "evidence",
+            "but",
+            "expect",
+            "to",
+            "file",
+            "charges",
+            "later",
+            ",",
+            "the",
+            "customs",
+            "agency",
+            "said",
+            "."
+        ],
+        [
+            "Importing",
+            "live",
+            "animals",
+            "without",
+            "a",
+            "permit",
+            "is",
+            "illegal",
+            "in",
+            "Australia",
+            "and",
+            "can",
+            "yield",
+            "a",
+            "10",
+            "-",
+            "year",
+            "prison",
+            "sentence",
+            "and",
+            "a",
+            "fine",
+            "of",
+            "110,000",
+            "Australian",
+            "dollars",
+            "(",
+            "$",
+            "92,000",
+            "U.S.",
+            ")",
+            "."
+        ],
+        [
+            "The",
+            "parcel",
+            "was",
+            "sent",
+            "from",
+            "the",
+            "United",
+            "States",
+            "last",
+            "week",
+            ",",
+            "but",
+            "officials",
+            "would",
+            "not",
+            "say",
+            "specifically",
+            "where",
+            "it",
+            "had",
+            "been",
+            "mailed",
+            "from",
+            "."
+        ],
+        [
+            "The",
+            "snakes",
+            "were",
+            "wrapped",
+            "within",
+            "white",
+            "calico",
+            "bags",
+            "and",
+            "the",
+            "spiders",
+            "were",
+            "packed",
+            "in",
+            "clear",
+            "plastic",
+            "containers",
+            ",",
+            "the",
+            "customs",
+            "agency",
+            "said",
+            "."
+        ],
+        [
+            "The",
+            "creatures",
+            "were",
+            "later",
+            "killed",
+            "because",
+            "they",
+            "posed",
+            "a",
+            "quarantine",
+            "risk",
+            ",",
+            "the",
+            "agency",
+            "said",
+            "in",
+            "a",
+            "press",
+            "release",
+            "."
+        ],
+        [
+            "It",
+            "titled",
+            "the",
+            "press",
+            "release",
+            ":",
+            "\"",
+            "Spiders",
+            "and",
+            "snakes",
+            "on",
+            "a",
+            "plane",
+            ".",
+            "\""
+        ]
+    ]
+}

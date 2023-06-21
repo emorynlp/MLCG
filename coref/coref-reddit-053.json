@@ -1,0 +1,276 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Most people",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "most people",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-053",
+    "sents": [
+        [
+            "How",
+            "do",
+            "you",
+            "deal",
+            "with",
+            "loneliness",
+            "at",
+            "college",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019m",
+            "an",
+            "international",
+            "student",
+            "and",
+            "I",
+            "was",
+            "raised",
+            "with",
+            "a",
+            "huge",
+            "difference",
+            "in",
+            "the",
+            "environment",
+            "/",
+            "ideas",
+            "for",
+            "fun",
+            "."
+        ],
+        [
+            "I",
+            "only",
+            "have",
+            "a",
+            "few",
+            "friends",
+            "/",
+            "people",
+            "I",
+            "know",
+            "."
+        ],
+        [
+            "Most",
+            "people",
+            "here",
+            "just",
+            "drink",
+            ",",
+            "party",
+            ",",
+            "or",
+            "binge",
+            "watch",
+            "in",
+            "the",
+            "weekend",
+            "."
+        ],
+        [
+            "To",
+            "make",
+            "things",
+            "worse",
+            ",",
+            "most",
+            "people",
+            "here",
+            "are",
+            "in",
+            "state",
+            "students",
+            "and",
+            "already",
+            "know",
+            "each",
+            "other",
+            "or",
+            "have",
+            "a",
+            "lot",
+            "in",
+            "common",
+            "."
+        ],
+        [
+            "My",
+            "roommates",
+            "do",
+            "n\u2019t",
+            "do",
+            "anything",
+            "but",
+            "play",
+            "video",
+            "games",
+            ",",
+            "study",
+            ",",
+            "and",
+            "watch",
+            "stuff",
+            "online",
+            "."
+        ],
+        [
+            "The",
+            "only",
+            "thing",
+            "I",
+            "can",
+            "think",
+            "of",
+            "is",
+            "going",
+            "to",
+            "the",
+            "gym",
+            "but",
+            "I",
+            "ca",
+            "n\u2019t",
+            "get",
+            "over",
+            "my",
+            "social",
+            "fears",
+            "because",
+            "I",
+            "\u2019m",
+            "small",
+            "and",
+            "skinny",
+            "."
+        ],
+        [
+            "Thank",
+            "you",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,358 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "which broke my heart",
+                "pos": [
+                    33,
+                    37
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "my dad was so proud of me",
+                "pos": [
+                    38,
+                    45
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    45,
+                    46
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "being in grad school",
+                "pos": [
+                    46,
+                    50
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Because of",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the pandemic",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I have not seen the rest of my family for over 2 months ( at a time when I really need their support",
+                "pos": [
+                    4,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "*"
+            }
+        ],
+        [
+            {
+                "name": "Right on track",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "finish my masters in December",
+                "pos": [
+                    4,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause|effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-020",
+    "sents": [
+        [
+            "I",
+            "just",
+            "had",
+            "the",
+            "semester",
+            "from",
+            "hell",
+            "\u2014",
+            "my",
+            "dad",
+            "died",
+            "unexpectedly",
+            "2",
+            "weeks",
+            "before",
+            "the",
+            "world",
+            "went",
+            "into",
+            "pandemic",
+            "lockdown",
+            "."
+        ],
+        [
+            "I",
+            "go",
+            "to",
+            "school",
+            "5",
+            "hours",
+            "away",
+            "from",
+            "my",
+            "family",
+            "and",
+            "I",
+            "remember",
+            "telling",
+            "my",
+            "mom",
+            "that",
+            "I",
+            "just",
+            "could",
+            "n\u2019t",
+            "do",
+            "it",
+            "\u2014",
+            "I",
+            "could",
+            "n\u2019t",
+            "finish",
+            "the",
+            "semester",
+            "or",
+            "my",
+            "degree",
+            "which",
+            "broke",
+            "my",
+            "heart",
+            "because",
+            "my",
+            "dad",
+            "was",
+            "so",
+            "proud",
+            "of",
+            "me",
+            "for",
+            "being",
+            "in",
+            "grad",
+            "school",
+            "."
+        ],
+        [
+            "Because",
+            "of",
+            "the",
+            "pandemic",
+            "I",
+            "have",
+            "not",
+            "seen",
+            "the",
+            "rest",
+            "of",
+            "my",
+            "family",
+            "for",
+            "over",
+            "2",
+            "months",
+            "(",
+            "at",
+            "a",
+            "time",
+            "when",
+            "I",
+            "really",
+            "need",
+            "their",
+            "support",
+            ")",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "finished",
+            "out",
+            "the",
+            "semester",
+            "!"
+        ],
+        [
+            "Kept",
+            "my",
+            "4.0",
+            ",",
+            "did",
+            "my",
+            "research",
+            "(",
+            "still",
+            "a",
+            "little",
+            "behind",
+            "but",
+            "oh",
+            "well",
+            ")",
+            ",",
+            "and",
+            "fulfilled",
+            "my",
+            "TA",
+            "duties",
+            "."
+        ],
+        [
+            "Right",
+            "on",
+            "track",
+            "to",
+            "finish",
+            "my",
+            "masters",
+            "in",
+            "December",
+            "."
+        ],
+        [
+            "I",
+            "had",
+            "days",
+            "when",
+            "I",
+            "could",
+            "n\u2019t",
+            "get",
+            "out",
+            "of",
+            "bed",
+            "but",
+            "I",
+            "still",
+            "finished",
+            "the",
+            "semester",
+            "strong",
+            "."
+        ],
+        [
+            "If",
+            "I",
+            "can",
+            "do",
+            "it",
+            ",",
+            "y\u2019all",
+            "can",
+            "too"
+        ]
+    ]
+}

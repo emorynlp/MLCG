@@ -1,0 +1,283 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "that",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "allowed",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "he gave the second exam",
+                "pos": [
+                    4,
+                    9
+                ],
+                "sent_id": 10,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "after",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 10,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "withdrawal / drop date",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 10,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-038",
+    "sents": [
+        [
+            "Wow",
+            "."
+        ],
+        [
+            "I",
+            "never",
+            "knew",
+            "that",
+            "I",
+            "would",
+            "be",
+            "in",
+            "one",
+            "of",
+            "the",
+            "classes",
+            "."
+        ],
+        [
+            "The",
+            "first",
+            "thing",
+            "he",
+            "does",
+            "is",
+            "talk",
+            "about",
+            "how",
+            "the",
+            "first",
+            "exam",
+            "had",
+            "B",
+            "average",
+            "and",
+            "second",
+            "exam",
+            "mysteriously",
+            "has",
+            "F",
+            "average",
+            "."
+        ],
+        [
+            "Turns",
+            "out",
+            "this",
+            "man",
+            "gave",
+            "the",
+            "exact",
+            "same",
+            "first",
+            "exam",
+            "to",
+            "the",
+            "previous",
+            "year",
+            "class",
+            "."
+        ],
+        [
+            "It",
+            "seems",
+            "almost",
+            "the",
+            "entire",
+            "class",
+            "of",
+            "less",
+            "than",
+            "20",
+            "students",
+            "had",
+            "the",
+            "first",
+            "exam",
+            "and",
+            "what",
+            "they",
+            "thought",
+            "would",
+            "be",
+            "is",
+            "the",
+            "second",
+            "exam",
+            "."
+        ],
+        [
+            "Somehow",
+            "I",
+            "never",
+            "knew",
+            "and",
+            "nobody",
+            "cared",
+            "to",
+            "help",
+            "me",
+            "out",
+            "."
+        ],
+        [
+            "I",
+            "guess",
+            "making",
+            "zero",
+            "friends",
+            "and",
+            "spending",
+            "my",
+            "days",
+            "in",
+            "a",
+            "library",
+            "ended",
+            "up",
+            "saving",
+            "my",
+            "career",
+            "and",
+            "was",
+            "worth",
+            "it",
+            "after",
+            "all",
+            "."
+        ],
+        [
+            "But",
+            "is",
+            "that",
+            "allowed",
+            "?"
+        ],
+        [
+            "I",
+            "thought",
+            "that",
+            "classes",
+            "need",
+            "to",
+            "have",
+            "certain",
+            "grade",
+            "averages",
+            "or",
+            "curve",
+            "will",
+            "be",
+            "mandatory",
+            "."
+        ],
+        [
+            "I",
+            "assume",
+            "almost",
+            "the",
+            "entire",
+            "class",
+            "now",
+            "received",
+            "a",
+            "0",
+            "on",
+            "the",
+            "exam",
+            "is",
+            "bad",
+            "for",
+            "average",
+            "class",
+            "GPA",
+            "or",
+            "are",
+            "those",
+            "students",
+            "not",
+            "included",
+            "?"
+        ],
+        [
+            "And",
+            "lmfao",
+            "at",
+            "how",
+            "he",
+            "gave",
+            "the",
+            "second",
+            "exam",
+            "right",
+            "after",
+            "withdrawal",
+            "/",
+            "drop",
+            "date",
+            "."
+        ]
+    ]
+}

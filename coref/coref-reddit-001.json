@@ -1,0 +1,554 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "we",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "class",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "class",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "us",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the campus",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the campus",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "My professor",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "My professor",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "some girls",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "crop tops",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "gen-entity"
+            },
+            {
+                "name": "crop tops",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            },
+            {
+                "name": "crop tops",
+                "pos": [
+                    15,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "gen-entity"
+            },
+            {
+                "name": "crop tops",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "gen-entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-001",
+    "sents": [
+        [
+            "I",
+            "wore",
+            "a",
+            "crop",
+            "top",
+            "to",
+            "class",
+            "and",
+            "I",
+            "\u2019ve",
+            "worn",
+            "crop",
+            "tops",
+            "on",
+            "few",
+            "occasions",
+            "."
+        ],
+        [
+            "My",
+            "professor",
+            "had",
+            "told",
+            "me",
+            "when",
+            "I",
+            "entered",
+            "class",
+            "that",
+            "it",
+            "was",
+            "n\u2019t",
+            "very",
+            "appropriate",
+            "for",
+            "me",
+            "to",
+            "wear",
+            "."
+        ],
+        [
+            "I",
+            "did",
+            "n\u2019t",
+            "think",
+            "much",
+            "because",
+            "again",
+            "I",
+            "\u2019ve",
+            "worn",
+            "crop",
+            "tops",
+            "to",
+            "the",
+            "campus",
+            "and",
+            "nobody",
+            "tells",
+            "me",
+            "anything",
+            "."
+        ],
+        [
+            "My",
+            "professor",
+            "told",
+            "me",
+            "that",
+            "we",
+            "have",
+            "to",
+            "dress",
+            "a",
+            "certain",
+            "way",
+            "if",
+            "we",
+            "want",
+            "to",
+            "be",
+            "professional",
+            "or",
+            "however",
+            "people",
+            "view",
+            "us",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "actually",
+            "confused",
+            "cause",
+            "I",
+            "\u2019ve",
+            "seen",
+            "a",
+            "few",
+            "girls",
+            "at",
+            "the",
+            "campus",
+            "wear",
+            "crop",
+            "tops",
+            "and",
+            "some",
+            "even",
+            "wear",
+            "the",
+            "bra",
+            "crop",
+            "tops",
+            "."
+        ],
+        [
+            "He",
+            "asked",
+            "some",
+            "girls",
+            "in",
+            "the",
+            "class",
+            "what",
+            "they",
+            "thought",
+            "and",
+            "they",
+            "sort",
+            "of",
+            "agreed",
+            "with",
+            "what",
+            "he",
+            "said",
+            ",",
+            "but",
+            "they",
+            "seemed",
+            "unbothered",
+            "by",
+            "how",
+            "I",
+            "dress",
+            "."
+        ],
+        [
+            "So",
+            "is",
+            "wearing",
+            "crop",
+            "tops",
+            "to",
+            "college",
+            "allowed",
+            "?"
+        ],
+        [
+            "Because",
+            "I",
+            "thought",
+            "you",
+            "could",
+            "wear",
+            "whatever",
+            "you",
+            "want",
+            "now",
+            "since",
+            "you",
+            "\u2019re",
+            "a",
+            "grown",
+            "adult",
+            "."
+        ]
+    ]
+}

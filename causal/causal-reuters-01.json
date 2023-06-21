@@ -1,0 +1,240 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "About seven billion dlrs of securities",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "affected",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "Marathon Oil Co 's recent establishment of up to one billion dlrs in production payment facilities on its prolific Yates Field",
+                "pos": [
+                    3,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "implications",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "USX 's unsecured creditors",
+                "pos": [
+                    29,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "positioned its steel segment",
+                "pos": [
+                    5,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a return to profit by late 1987",
+                "pos": [
+                    10,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reuters-01",
+    "sents": [
+        [
+            "Moody",
+            "'s",
+            "Investors",
+            "Service",
+            "Inc",
+            "said",
+            "it",
+            "lowered",
+            "the",
+            "debt",
+            "and",
+            "preferred",
+            "stock",
+            "ratings",
+            "of",
+            "USX",
+            "Corp",
+            "and",
+            "its",
+            "units",
+            "."
+        ],
+        [
+            "About",
+            "seven",
+            "billion",
+            "dlrs",
+            "of",
+            "securities",
+            "is",
+            "affected",
+            "."
+        ],
+        [
+            "Moody",
+            "'s",
+            "said",
+            "Marathon",
+            "Oil",
+            "Co",
+            "'s",
+            "recent",
+            "establishment",
+            "of",
+            "up",
+            "to",
+            "one",
+            "billion",
+            "dlrs",
+            "in",
+            "production",
+            "payment",
+            "facilities",
+            "on",
+            "its",
+            "prolific",
+            "Yates",
+            "Field",
+            "has",
+            "significant",
+            "negative",
+            "implications",
+            "for",
+            "USX",
+            "'s",
+            "unsecured",
+            "creditors",
+            "."
+        ],
+        [
+            "The",
+            "company",
+            "appears",
+            "to",
+            "have",
+            "positioned",
+            "its",
+            "steel",
+            "segment",
+            "for",
+            "a",
+            "return",
+            "to",
+            "profit",
+            "by",
+            "late",
+            "1987",
+            ",",
+            "Moody",
+            "'s",
+            "added",
+            "."
+        ],
+        [
+            "Ratings",
+            "lowered",
+            "include",
+            "those",
+            "on",
+            "USX",
+            "'s",
+            "senior",
+            "debt",
+            "to",
+            "BA",
+            "-",
+            "1",
+            "from",
+            "BAA",
+            "-",
+            "3."
+        ]
+    ]
+}

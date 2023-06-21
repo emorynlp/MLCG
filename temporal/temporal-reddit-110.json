@@ -1,0 +1,500 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was amazing",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Partying",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pregaming",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "having",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s until",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "decided",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were all chill with",
+                "pos": [
+                    23,
+                    27
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s just my parents",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be excluded",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be exclusive",
+                "pos": [
+                    52,
+                    54
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "kills",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-110",
+    "sents": [
+        [
+            "My",
+            "first",
+            "semester",
+            "of",
+            "college",
+            "was",
+            "amazing",
+            "."
+        ],
+        [
+            "Partying",
+            "almost",
+            "every",
+            "weekend",
+            ",",
+            "pregaming",
+            "with",
+            "all",
+            "of",
+            "my",
+            "friends",
+            "in",
+            "the",
+            "dorms",
+            "and",
+            "just",
+            "having",
+            "fun",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "never",
+            "been",
+            "happier",
+            "but",
+            "that",
+            "\u2019s",
+            "until",
+            "my",
+            "3",
+            "friends",
+            "and",
+            "roommates",
+            "decided",
+            "they",
+            "wanted",
+            "to",
+            "rush",
+            "this",
+            "specific",
+            "frat",
+            "that",
+            "were",
+            "all",
+            "chill",
+            "with",
+            "."
+        ],
+        [
+            "I",
+            "would",
+            "love",
+            "to",
+            "rush",
+            "too",
+            "it",
+            "\u2019s",
+            "just",
+            "my",
+            "parents",
+            "definitely",
+            "wo",
+            "n\u2019t",
+            "let",
+            "me",
+            "and",
+            "now",
+            "I",
+            "\u2019ll",
+            "be",
+            "excluded",
+            "from",
+            "everyone",
+            "else",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "already",
+            "begun",
+            "to",
+            "feel",
+            "left",
+            "out",
+            "these",
+            "past",
+            "couple",
+            "weeks",
+            "and",
+            "now",
+            "I",
+            "feel",
+            "it",
+            "will",
+            "get",
+            "worse",
+            "as",
+            "now",
+            "every",
+            "weekend",
+            "we",
+            "wo",
+            "n\u2019t",
+            "be",
+            "going",
+            "to",
+            "3",
+            "different",
+            "parties",
+            ",",
+            "pregaming",
+            "together",
+            "etc",
+            "bc",
+            "they",
+            "will",
+            "have",
+            "their",
+            "own",
+            "shit",
+            "to",
+            "do",
+            "in",
+            "their",
+            "fraternity",
+            "that",
+            "will",
+            "sometimes",
+            "be",
+            "exclusive",
+            "to",
+            "only",
+            "the",
+            "brothers",
+            "."
+        ],
+        [
+            "(",
+            "Such",
+            "as",
+            "mixtures",
+            ",",
+            "bonfires",
+            ",",
+            "etc",
+            ")",
+            "."
+        ],
+        [
+            "This",
+            "kills",
+            "me",
+            "to",
+            "think",
+            "about",
+            "since",
+            "nothing",
+            "will",
+            "be",
+            "the",
+            "same",
+            "and",
+            "probably",
+            "wo",
+            "n\u2019t",
+            "spend",
+            "as",
+            "much",
+            "time",
+            "together",
+            "."
+        ],
+        [
+            "Yea",
+            "it",
+            "\u2019ll",
+            "be",
+            "fun",
+            "when",
+            "their",
+            "frat",
+            "throws",
+            "but",
+            "this",
+            "obviously",
+            "wo",
+            "n\u2019t",
+            "be",
+            "nothing",
+            "like",
+            "before",
+            "."
+        ]
+    ]
+}

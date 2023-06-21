@@ -1,0 +1,260 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am talking about",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is consistently ranked",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is in",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "has",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "combined",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-126",
+    "sents": [
+        [
+            "Which",
+            "is",
+            "more",
+            "prestigious",
+            "?"
+        ],
+        [
+            "I",
+            "know",
+            "Stanford",
+            "is",
+            "the",
+            "best",
+            "tech",
+            "school",
+            "after",
+            "MIT",
+            ",",
+            "but",
+            "I",
+            "am",
+            "talking",
+            "about",
+            "the",
+            "universities",
+            "as",
+            "a",
+            "whole",
+            "."
+        ],
+        [
+            "Columbia",
+            "is",
+            "consistently",
+            "ranked",
+            "higher",
+            "and",
+            "is",
+            "in",
+            "the",
+            "top",
+            "tier",
+            "of",
+            "the",
+            "Ivy",
+            "League",
+            "and",
+            "has",
+            "great",
+            "social",
+            "sciences",
+            "and",
+            "humanities",
+            "combined",
+            "with",
+            "decent",
+            "STEM",
+            "(",
+            "without",
+            "too",
+            "much",
+            "focus",
+            "on",
+            "one",
+            "area",
+            ",",
+            "unlike",
+            "Stanford",
+            ")",
+            ",",
+            "so",
+            "IMO",
+            "Columbia",
+            "."
+        ],
+        [
+            "What",
+            "do",
+            "you",
+            "think",
+            "is",
+            "the",
+            "relative",
+            "employer",
+            "perception",
+            "and",
+            "lay",
+            "prestige",
+            "of",
+            "these",
+            "two",
+            "schools",
+            "?"
+        ],
+        [
+            "And",
+            "which",
+            "one",
+            "do",
+            "you",
+            "think",
+            "is",
+            "more",
+            "likely",
+            "to",
+            "overtake",
+            "Princeton",
+            "and",
+            "Yale",
+            "to",
+            "become",
+            "Harvard",
+            "'s",
+            "rival",
+            "in",
+            "the",
+            "future",
+            "?"
+        ]
+    ]
+}

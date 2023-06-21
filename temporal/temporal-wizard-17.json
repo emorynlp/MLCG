@@ -1,0 +1,373 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "worried",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knew",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "resolved",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bade",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "started",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gone",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "climbed",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "sat down",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a great cornfield",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "placed",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-17",
+    "sents": [
+        [
+            "This",
+            "worried",
+            "Dorothy",
+            "a",
+            "little",
+            ",",
+            "but",
+            "she",
+            "knew",
+            "that",
+            "only",
+            "the",
+            "Great",
+            "Oz",
+            "could",
+            "help",
+            "her",
+            "get",
+            "to",
+            "Kansas",
+            "again",
+            ",",
+            "so",
+            "she",
+            "bravely",
+            "resolved",
+            "not",
+            "to",
+            "turn",
+            "back",
+            "."
+        ],
+        [
+            "She",
+            "bade",
+            "her",
+            "friends",
+            "good",
+            "-",
+            "bye",
+            ",",
+            "and",
+            "again",
+            "started",
+            "along",
+            "the",
+            "road",
+            "of",
+            "yellow",
+            "brick",
+            "."
+        ],
+        [
+            "When",
+            "she",
+            "had",
+            "gone",
+            "several",
+            "miles",
+            "she",
+            "thought",
+            "she",
+            "would",
+            "stop",
+            "to",
+            "rest",
+            ",",
+            "and",
+            "so",
+            "climbed",
+            "to",
+            "the",
+            "top",
+            "of",
+            "the",
+            "fence",
+            "beside",
+            "the",
+            "road",
+            "and",
+            "sat",
+            "down",
+            "."
+        ],
+        [
+            "There",
+            "was",
+            "a",
+            "great",
+            "cornfield",
+            "beyond",
+            "the",
+            "fence",
+            ",",
+            "and",
+            "not",
+            "far",
+            "away",
+            "she",
+            "saw",
+            "a",
+            "Scarecrow",
+            ",",
+            "placed",
+            "high",
+            "on",
+            "a",
+            "pole",
+            "to",
+            "keep",
+            "the",
+            "birds",
+            "from",
+            "the",
+            "ripe",
+            "corn",
+            "."
+        ]
+    ]
+}

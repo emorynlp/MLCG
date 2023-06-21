@@ -1,0 +1,339 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "worked",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'s one of the class",
+                "pos": [
+                    3,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was very proud",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was expecting",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "cried",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "calmed down",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seems",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-103",
+    "sents": [
+        [
+            "So",
+            "I",
+            "'ve",
+            "worked",
+            "really",
+            "really",
+            "hard",
+            "on",
+            "assignment",
+            "."
+        ],
+        [
+            "Given",
+            "that",
+            "it",
+            "'s",
+            "one",
+            "of",
+            "the",
+            "class",
+            "I",
+            "have",
+            "the",
+            "most",
+            "difficulty",
+            "with",
+            ",",
+            "I",
+            "was",
+            "very",
+            "proud",
+            "of",
+            "all",
+            "my",
+            "work",
+            "and",
+            "was",
+            "expecting",
+            "an",
+            "excellent",
+            "grade",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "a",
+            "bad",
+            "grade",
+            "(",
+            "barely",
+            "passed",
+            ")",
+            "and",
+            "cried",
+            "because",
+            "of",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "'ve",
+            "calmed",
+            "down",
+            "now",
+            ",",
+            "but",
+            "I",
+            "feel",
+            "a",
+            "bit",
+            "ashamed",
+            "(",
+            "even",
+            "if",
+            "I",
+            "was",
+            "on",
+            "my",
+            "own",
+            ")",
+            "&",
+            "childish",
+            "because",
+            "it",
+            "seems",
+            "like",
+            "such",
+            "a",
+            "middle",
+            "/",
+            "high",
+            "school",
+            "thing",
+            "to",
+            "do",
+            "."
+        ],
+        [
+            "Is",
+            "it",
+            "something",
+            "you",
+            "still",
+            "do",
+            "?"
+        ],
+        [
+            "I",
+            "had",
+            "n't",
+            "done",
+            "it",
+            "in",
+            "a",
+            "very",
+            "long",
+            "time",
+            "(",
+            "maybe",
+            "not",
+            "since",
+            "my",
+            "first",
+            "year",
+            "in",
+            "college",
+            ")"
+        ]
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asked",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked at",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "answered",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-22",
+    "sents": [
+        [
+            "\"",
+            "Of",
+            "course",
+            "I",
+            "can",
+            "not",
+            "understand",
+            "it",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "If",
+            "your",
+            "heads",
+            "were",
+            "stuffed",
+            "with",
+            "straw",
+            ",",
+            "like",
+            "mine",
+            ",",
+            "you",
+            "would",
+            "probably",
+            "all",
+            "live",
+            "in",
+            "the",
+            "beautiful",
+            "places",
+            ",",
+            "and",
+            "then",
+            "Kansas",
+            "would",
+            "have",
+            "no",
+            "people",
+            "at",
+            "all",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "fortunate",
+            "for",
+            "Kansas",
+            "that",
+            "you",
+            "have",
+            "brains",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "\"",
+            "Wo",
+            "n",
+            "'",
+            "t",
+            "you",
+            "tell",
+            "me",
+            "a",
+            "story",
+            ",",
+            "while",
+            "we",
+            "are",
+            "resting",
+            "?",
+            "\"",
+            "asked",
+            "the",
+            "child",
+            "."
+        ],
+        [
+            "The",
+            "Scarecrow",
+            "looked",
+            "at",
+            "her",
+            "reproachfully",
+            ",",
+            "and",
+            "answered",
+            ":"
+        ],
+        [
+            "\"",
+            "My",
+            "life",
+            "has",
+            "been",
+            "so",
+            "short",
+            "that",
+            "I",
+            "really",
+            "know",
+            "nothing",
+            "whatever",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "only",
+            "made",
+            "day",
+            "before",
+            "yesterday",
+            "."
+        ],
+        [
+            "What",
+            "happened",
+            "in",
+            "the",
+            "world",
+            "before",
+            "that",
+            "time",
+            "is",
+            "all",
+            "unknown",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "Luckily",
+            ",",
+            "when",
+            "the",
+            "farmer",
+            "made",
+            "my",
+            "head",
+            ",",
+            "one",
+            "of",
+            "the",
+            "first",
+            "things",
+            "he",
+            "did",
+            "was",
+            "to",
+            "paint",
+            "my",
+            "ears",
+            ",",
+            "so",
+            "that",
+            "I",
+            "heard",
+            "what",
+            "was",
+            "going",
+            "on",
+            "."
+        ],
+        [
+            "There",
+            "was",
+            "another",
+            "Munchkin",
+            "with",
+            "him",
+            ",",
+            "and",
+            "the",
+            "first",
+            "thing",
+            "I",
+            "heard",
+            "was",
+            "the",
+            "farmer",
+            "saying",
+            ",",
+            "`",
+            "How",
+            "do",
+            "you",
+            "like",
+            "those",
+            "ears",
+            "?",
+            "'"
+        ]
+    ]
+}

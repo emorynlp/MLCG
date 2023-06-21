@@ -1,0 +1,171 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "pretty rippling brooks",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Quadlings",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "The Quadlings",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "themselves",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-wizard-35",
+    "sents": [
+        [
+            "The",
+            "country",
+            "of",
+            "the",
+            "Quadlings",
+            "seemed",
+            "rich",
+            "and",
+            "happy",
+            "."
+        ],
+        [
+            "There",
+            "was",
+            "field",
+            "upon",
+            "field",
+            "of",
+            "ripening",
+            "grain",
+            ",",
+            "with",
+            "well",
+            "-",
+            "paved",
+            "roads",
+            "running",
+            "between",
+            ",",
+            "and",
+            "pretty",
+            "rippling",
+            "brooks",
+            "with",
+            "strong",
+            "bridges",
+            "across",
+            "them",
+            "."
+        ],
+        [
+            "The",
+            "fences",
+            "and",
+            "houses",
+            "and",
+            "bridges",
+            "were",
+            "all",
+            "painted",
+            "bright",
+            "red",
+            ",",
+            "just",
+            "as",
+            "they",
+            "had",
+            "been",
+            "painted",
+            "yellow",
+            "in",
+            "the",
+            "country",
+            "of",
+            "the",
+            "Winkies",
+            "and",
+            "blue",
+            "in",
+            "the",
+            "country",
+            "of",
+            "the",
+            "Munchkins",
+            "."
+        ],
+        [
+            "The",
+            "Quadlings",
+            "themselves",
+            ",",
+            "who",
+            "were",
+            "short",
+            "and",
+            "fat",
+            "and",
+            "looked",
+            "chubby",
+            "and",
+            "good",
+            "-",
+            "natured",
+            ",",
+            "were",
+            "dressed",
+            "all",
+            "in",
+            "red",
+            ",",
+            "which",
+            "showed",
+            "bright",
+            "against",
+            "the",
+            "green",
+            "grass",
+            "and",
+            "the",
+            "yellowing",
+            "grain",
+            "."
+        ]
+    ]
+}

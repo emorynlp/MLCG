@@ -1,0 +1,342 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m a 4th year PhD student",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m pretty behind",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "need",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s been a few weeks",
+                "pos": [
+                    11,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "read",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m so so tired",
+                "pos": [
+                    12,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are heavy",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s hard",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m just so sleepy",
+                "pos": [
+                    10,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "need",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-094",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "a",
+            "4th",
+            "year",
+            "PhD",
+            "student",
+            "and",
+            "I",
+            "\u2019m",
+            "pretty",
+            "behind",
+            "on",
+            "the",
+            "milestones",
+            "(",
+            "according",
+            "to",
+            "the",
+            "program",
+            "anyways",
+            ")",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "need",
+            "to",
+            "read",
+            "this",
+            "one",
+            "article",
+            ",",
+            "but",
+            "it",
+            "\u2019s",
+            "been",
+            "a",
+            "few",
+            "weeks",
+            "and",
+            "I",
+            "\u2019ve",
+            "only",
+            "read",
+            "a",
+            "few",
+            "pages",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "sound",
+            "like",
+            "I",
+            "whine",
+            ",",
+            "but",
+            "I",
+            "\u2019m",
+            "so",
+            "so",
+            "tired",
+            "."
+        ],
+        [
+            "My",
+            "eyes",
+            "are",
+            "heavy",
+            "and",
+            "it",
+            "\u2019s",
+            "hard",
+            "to",
+            "make",
+            "them",
+            "focus",
+            "on",
+            "anything",
+            "."
+        ],
+        [
+            "It",
+            "\u2019s",
+            "not",
+            "that",
+            "hard",
+            "of",
+            "a",
+            "reading",
+            ",",
+            "I",
+            "\u2019m",
+            "just",
+            "so",
+            "sleepy",
+            "."
+        ],
+        [
+            "How",
+            "do",
+            "you",
+            "deal",
+            "with",
+            "this",
+            "feeling",
+            "?"
+        ],
+        [
+            "Grad",
+            "school",
+            "does",
+            "n\u2019t",
+            "care",
+            "if",
+            "I",
+            "\u2019m",
+            "sleepy",
+            "."
+        ],
+        [
+            "I",
+            "need",
+            "to",
+            "work",
+            "."
+        ]
+    ]
+}

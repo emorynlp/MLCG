@@ -1,0 +1,259 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I wanted to get some ideas",
+                "pos": [
+                    0,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "since",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I 've seen a lot of posts about quitting or not enjoying graduate school",
+                "pos": [
+                    7,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "what sort of things",
+                "pos": [
+                    4,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "cause",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you to leave a program",
+                "pos": [
+                    10,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-101",
+    "sents": [
+        [
+            "I",
+            "wanted",
+            "to",
+            "get",
+            "some",
+            "ideas",
+            "since",
+            "I",
+            "'ve",
+            "seen",
+            "a",
+            "lot",
+            "of",
+            "posts",
+            "about",
+            "quitting",
+            "or",
+            "not",
+            "enjoying",
+            "graduate",
+            "school",
+            "."
+        ],
+        [
+            "At",
+            "what",
+            "point",
+            "is",
+            "it",
+            "not",
+            "worth",
+            "it",
+            "to",
+            "you",
+            "to",
+            "continue",
+            "?"
+        ],
+        [
+            "From",
+            "my",
+            "perspective",
+            ",",
+            "I",
+            "'m",
+            "just",
+            "about",
+            "to",
+            "enter",
+            "my",
+            "third",
+            "month",
+            "of",
+            "graduate",
+            "school",
+            "and",
+            "my",
+            "mental",
+            "and",
+            "physical",
+            "health",
+            "are",
+            "not",
+            "doing",
+            "very",
+            "well",
+            ";",
+            "I",
+            "already",
+            "had",
+            "underlying",
+            "issues",
+            "and",
+            "now",
+            "they",
+            "'ve",
+            "been",
+            "brought",
+            "to",
+            "the",
+            "fore",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "curious",
+            ",",
+            "what",
+            "sort",
+            "of",
+            "things",
+            "would",
+            "cause",
+            "you",
+            "to",
+            "leave",
+            "a",
+            "program",
+            "."
+        ],
+        [
+            "Hospitalization",
+            "?"
+        ],
+        [
+            "Nervous",
+            "breakdown",
+            "?"
+        ],
+        [
+            "Update",
+            ":",
+            "Currently",
+            "sitting",
+            "in",
+            "the",
+            "ER",
+            ",",
+            "did",
+            "n't",
+            "trust",
+            "myself",
+            "to",
+            "just",
+            "sit",
+            "in",
+            "my",
+            "room",
+            "with",
+            "some",
+            "of",
+            "the",
+            "stuff",
+            "I",
+            "have",
+            "in",
+            "there",
+            "."
+        ],
+        [
+            "Not",
+            "making",
+            "any",
+            "decisions",
+            "about",
+            "my",
+            "program",
+            ",",
+            "just",
+            "trying",
+            "to",
+            "get",
+            "through",
+            "today",
+            "and",
+            "tomorrow",
+            "."
+        ]
+    ]
+}

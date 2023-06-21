@@ -1,0 +1,307 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I does n't matter",
+                "pos": [
+                    34,
+                    38
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "you get into a low ranked college",
+                "pos": [
+                    39,
+                    46
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Attempts",
+                "pos": [
+                    61,
+                    62
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    62,
+                    63
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "give off the \" did nt do anything , yet went to an IVY \" vibe",
+                "pos": [
+                    63,
+                    79
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you got a BELOW AVERAGE SAT",
+                "pos": [
+                    86,
+                    92
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if you got a BELOW AVERAGE SAT THEN",
+                "pos": [
+                    85,
+                    93
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "MAKE THE VIDEO",
+                "pos": [
+                    93,
+                    96
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Since",
+                "pos": [
+                    98,
+                    99
+                ],
+                "sent_id": 0,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "this blew up",
+                "pos": [
+                    99,
+                    102
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I think I finally have something to write under \" Honor",
+                "pos": [
+                    103,
+                    114
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-045",
+    "sents": [
+        [
+            "Here",
+            "'s",
+            "why",
+            ":",
+            "\"",
+            "My",
+            "SAT",
+            "was",
+            "kinda",
+            "low",
+            "\"",
+            "gets",
+            "1590",
+            "on",
+            "the",
+            "sat",
+            "\"",
+            "I",
+            "barely",
+            "did",
+            "anything",
+            "in",
+            "highschool",
+            "\"",
+            "has",
+            "like",
+            "10",
+            "ecs",
+            "on",
+            "one",
+            "\"",
+            "spike",
+            "\"",
+            "\"",
+            "I",
+            "does",
+            "n't",
+            "matter",
+            "if",
+            "you",
+            "get",
+            "into",
+            "a",
+            "low",
+            "ranked",
+            "college",
+            "\"",
+            "goes",
+            "to",
+            "Stanford",
+            "\"",
+            "I",
+            "do",
+            "n't",
+            "like",
+            "studying",
+            "\"",
+            "does",
+            "10",
+            "AP",
+            "'s",
+            "Attempts",
+            "to",
+            "give",
+            "off",
+            "the",
+            "\"",
+            "did",
+            "nt",
+            "do",
+            "anything",
+            ",",
+            "yet",
+            "went",
+            "to",
+            "an",
+            "IVY",
+            "\"",
+            "vibe",
+            "Poor",
+            "attempt",
+            "at",
+            "humour",
+            "Bro",
+            ",",
+            "if",
+            "you",
+            "got",
+            "a",
+            "BELOW",
+            "AVERAGE",
+            "SAT",
+            "THEN",
+            "MAKE",
+            "THE",
+            "VIDEO",
+            "Edit",
+            ":",
+            "Since",
+            "this",
+            "blew",
+            "up",
+            ",",
+            "I",
+            "think",
+            "I",
+            "finally",
+            "have",
+            "something",
+            "to",
+            "write",
+            "under",
+            "\"",
+            "Honor",
+            "\"",
+            "haha"
+        ]
+    ]
+}

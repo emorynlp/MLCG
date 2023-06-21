@@ -1,0 +1,207 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "told",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "retired",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reuters-22",
+    "sents": [
+        [
+            "A",
+            "senior",
+            "official",
+            "of",
+            "Drexel",
+            "Burnham",
+            "Lambert",
+            "Inc",
+            "and",
+            "his",
+            "father",
+            "told",
+            "the",
+            "Securities",
+            "and",
+            "Exchange",
+            "Commission",
+            "they",
+            "have",
+            "acquired",
+            "258,591",
+            "shares",
+            "of",
+            "Epsilon",
+            "Data",
+            "Management",
+            "Inc",
+            ",",
+            "or",
+            "9.4",
+            "pct",
+            "of",
+            "the",
+            "total",
+            "outstanding",
+            "."
+        ],
+        [
+            "Kenneth",
+            "Thomas",
+            ",",
+            "senior",
+            "vice",
+            "president",
+            "-",
+            "investments",
+            "at",
+            "Drexel",
+            "'s",
+            "Los",
+            "Angeles",
+            "office",
+            ",",
+            "and",
+            "his",
+            "father",
+            ",",
+            "retired",
+            "university",
+            "professor",
+            "C.A.",
+            "Thomas",
+            ",",
+            "said",
+            "they",
+            "bought",
+            "the",
+            "stake",
+            "for",
+            "2.1",
+            "mln",
+            "dlrs",
+            "primarily",
+            "for",
+            "investment",
+            "purposes",
+            "."
+        ],
+        [
+            "They",
+            "said",
+            "they",
+            "may",
+            "buy",
+            "more",
+            "stock",
+            "or",
+            "sell",
+            "some",
+            "or",
+            "all",
+            "of",
+            "their",
+            "stake",
+            ",",
+            "depending",
+            "on",
+            "market",
+            "conditions",
+            ",",
+            "but",
+            "have",
+            "no",
+            "plans",
+            "to",
+            "seek",
+            "control",
+            "of",
+            "the",
+            "company",
+            "."
+        ]
+    ]
+}

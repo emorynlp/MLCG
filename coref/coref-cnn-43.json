@@ -1,0 +1,420 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "three million prostitutes",
+                "pos": [
+                    19,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Ashwani Kumar",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Around 1.2 million children",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "40 percent",
+                "pos": [
+                    30,
+                    32
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the Central Bureau of Investigation ( CBI )",
+                "pos": [
+                    5,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "CBI",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a CBI statement",
+                "pos": [
+                    36,
+                    39
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "human trafficking",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "this trade",
+                "pos": [
+                    41,
+                    43
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "human trafficking",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "gen-entity"
+            },
+            {
+                "name": "human trafficking",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "India",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "India",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "India",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "India",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "the country",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "India",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "India",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-cnn-43",
+    "sents": [
+        [
+            "Around",
+            "1.2",
+            "million",
+            "children",
+            "are",
+            "believed",
+            "to",
+            "be",
+            "involved",
+            "in",
+            "prostitution",
+            "in",
+            "India",
+            ",",
+            "the",
+            "country",
+            "'s",
+            "federal",
+            "police",
+            "said",
+            "Monday",
+            "."
+        ],
+        [
+            "Ashwani",
+            "Kumar",
+            ",",
+            "who",
+            "heads",
+            "the",
+            "Central",
+            "Bureau",
+            "of",
+            "Investigation",
+            "(",
+            "CBI",
+            ")",
+            ",",
+            "told",
+            "a",
+            "seminar",
+            "on",
+            "human",
+            "trafficking",
+            ",",
+            "that",
+            "India",
+            "occupied",
+            "a",
+            "\"",
+            "unique",
+            "position",
+            "\"",
+            "as",
+            "what",
+            "he",
+            "called",
+            "a",
+            "source",
+            ",",
+            "transit",
+            "nation",
+            "and",
+            "destination",
+            "of",
+            "this",
+            "trade",
+            "."
+        ],
+        [
+            "India",
+            "'s",
+            "home",
+            "secretary",
+            "Madhukar",
+            "Gupta",
+            "remarked",
+            "that",
+            "at",
+            "least",
+            "100",
+            "million",
+            "people",
+            "were",
+            "involved",
+            "in",
+            "human",
+            "trafficking",
+            "in",
+            "India",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "number",
+            "of",
+            "trafficked",
+            "persons",
+            "is",
+            "difficult",
+            "to",
+            "determine",
+            "due",
+            "to",
+            "the",
+            "secrecy",
+            "and",
+            "clandestine",
+            "nature",
+            "of",
+            "the",
+            "crime",
+            ".",
+            "\""
+        ],
+        [
+            "However",
+            ",",
+            "studies",
+            "and",
+            "surveys",
+            "sponsored",
+            "by",
+            "the",
+            "ministry",
+            "of",
+            "women",
+            "and",
+            "child",
+            "development",
+            "estimate",
+            "that",
+            "there",
+            "are",
+            "about",
+            "three",
+            "million",
+            "prostitutes",
+            "in",
+            "the",
+            "country",
+            ",",
+            "of",
+            "which",
+            "an",
+            "estimated",
+            "40",
+            "percent",
+            "are",
+            "children",
+            ",",
+            "\"",
+            "a",
+            "CBI",
+            "statement",
+            "said",
+            "."
+        ],
+        [
+            "Prostitution",
+            "in",
+            "pilgrim",
+            "towns",
+            ",",
+            "exploitation",
+            "through",
+            "sex",
+            "tourism",
+            "and",
+            "pedophilia",
+            "are",
+            "some",
+            "of",
+            "the",
+            "\"",
+            "alarming",
+            "trends",
+            "\"",
+            "that",
+            "have",
+            "emerged",
+            "in",
+            "recent",
+            "years",
+            "in",
+            "India",
+            ",",
+            "it",
+            "noted",
+            "."
+        ],
+        [
+            "Authorities",
+            "believe",
+            "90",
+            "percent",
+            "of",
+            "human",
+            "trafficking",
+            "in",
+            "India",
+            "is",
+            "\"",
+            "intra-country",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

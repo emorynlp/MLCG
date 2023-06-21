@@ -1,0 +1,487 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "were many people",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "walking about",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were all dressed",
+                "pos": [
+                    17,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked at",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ran away",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hid",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stood",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saw",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was green",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were offered",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was selling",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bought",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "see",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "paid",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 15,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-45",
+    "sents": [
+        [
+            "There",
+            "were",
+            "many",
+            "people",
+            "--",
+            "men",
+            ",",
+            "women",
+            ",",
+            "and",
+            "children",
+            "--",
+            "walking",
+            "about",
+            ",",
+            "and",
+            "these",
+            "were",
+            "all",
+            "dressed",
+            "in",
+            "green",
+            "clothes",
+            "and",
+            "had",
+            "greenish",
+            "skins",
+            "."
+        ],
+        [
+            "They",
+            "looked",
+            "at",
+            "Dorothy",
+            "and",
+            "her",
+            "strangely",
+            "assorted",
+            "company",
+            "with",
+            "wondering",
+            "eyes",
+            ",",
+            "and",
+            "the",
+            "children",
+            "all",
+            "ran",
+            "away",
+            "and",
+            "hid",
+            "behind",
+            "their",
+            "mothers",
+            "when",
+            "they",
+            "saw",
+            "the",
+            "Lion",
+            ";",
+            "but",
+            "no",
+            "one",
+            "spoke",
+            "to",
+            "them",
+            "."
+        ],
+        [
+            "Many",
+            "shops",
+            "stood",
+            "in",
+            "the",
+            "street",
+            ",",
+            "and",
+            "Dorothy",
+            "saw",
+            "that",
+            "everything",
+            "in",
+            "them",
+            "was",
+            "green",
+            "."
+        ],
+        [
+            "Green",
+            "candy",
+            "and",
+            "green",
+            "pop",
+            "corn",
+            "were",
+            "offered",
+            "for",
+            "sale",
+            ",",
+            "as",
+            "well",
+            "as",
+            "green",
+            "shoes",
+            ",",
+            "green",
+            "hats",
+            ",",
+            "and",
+            "green",
+            "clothes",
+            "of",
+            "all",
+            "sorts",
+            "."
+        ],
+        [
+            "At",
+            "one",
+            "place",
+            "a",
+            "man",
+            "was",
+            "selling",
+            "green",
+            "lemonade",
+            ",",
+            "and",
+            "when",
+            "the",
+            "children",
+            "bought",
+            "it",
+            "Dorothy",
+            "could",
+            "see",
+            "that",
+            "they",
+            "paid",
+            "for",
+            "it",
+            "with",
+            "green",
+            "pennies",
+            "."
+        ]
+    ]
+}

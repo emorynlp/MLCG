@@ -1,0 +1,267 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "unit",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one warrant",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "common",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Schult Homes Corp",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "They",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one common share",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "common",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one warrant",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The warrant",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "one - half share of common",
+                "pos": [
+                    14,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "one - half common share",
+                "pos": [
+                    7,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "full share",
+                "pos": [
+                    16,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "full share",
+                "pos": [
+                    36,
+                    38
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 4,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reuters-15",
+    "sents": [
+        [
+            "Schult",
+            "Homes",
+            "Corp",
+            "announced",
+            "an",
+            "initial",
+            "public",
+            "offering",
+            "of",
+            "833",
+            ",",
+            "334",
+            "units",
+            "at",
+            "five",
+            "dlrs",
+            "per",
+            "unit",
+            ",",
+            "said",
+            "Janney",
+            "Montgomery",
+            "Scott",
+            "Inc",
+            "and",
+            "Woolcott",
+            "and",
+            "Co",
+            ",",
+            "managing",
+            "underwriters",
+            "of",
+            "the",
+            "offering",
+            "."
+        ],
+        [
+            "They",
+            "said",
+            "each",
+            "unit",
+            "consists",
+            "of",
+            "one",
+            "common",
+            "share",
+            "and",
+            "one",
+            "warrant",
+            "to",
+            "buy",
+            "one",
+            "-",
+            "half",
+            "share",
+            "of",
+            "common",
+            "."
+        ],
+        [
+            "The",
+            "warrant",
+            "will",
+            "entitle",
+            "holders",
+            "to",
+            "buy",
+            "one",
+            "-",
+            "half",
+            "common",
+            "share",
+            "at",
+            "5.50",
+            "dlrs",
+            "per",
+            "full",
+            "share",
+            "from",
+            "March",
+            "one",
+            ",",
+            "1988",
+            ",",
+            "to",
+            "September",
+            "one",
+            ",",
+            "1989",
+            ",",
+            "and",
+            "thereafter",
+            "at",
+            "6.50",
+            "dlrs",
+            "per",
+            "full",
+            "share",
+            "until",
+            "March",
+            "1991",
+            ",",
+            "they",
+            "said",
+            "."
+        ]
+    ]
+}

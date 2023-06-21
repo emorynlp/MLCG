@@ -1,0 +1,459 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "Living off",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are having",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m bridesmaid",
+                "pos": [
+                    18,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m expected",
+                "pos": [
+                    31,
+                    33
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is probably about",
+                "pos": [
+                    38,
+                    41
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m super excited",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "happy",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feeling",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is crucial",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Looks like",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s $ 250",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "takes place",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-133",
+    "sents": [
+        [
+            "Anyone",
+            "else",
+            "have",
+            "a",
+            "bunch",
+            "of",
+            "their",
+            "friends",
+            "weddings",
+            "while",
+            "you",
+            "\u2019re",
+            "a",
+            "student",
+            "?"
+        ],
+        [
+            "Living",
+            "off",
+            "of",
+            "loans",
+            "on",
+            "a",
+            "strict",
+            "budget",
+            ",",
+            "while",
+            "all",
+            "my",
+            "friends",
+            "are",
+            "having",
+            "weddings",
+            "(",
+            "I",
+            "\u2019m",
+            "bridesmaid",
+            "in",
+            "2",
+            "of",
+            "them",
+            ")",
+            "and",
+            "the",
+            "amount",
+            "of",
+            "money",
+            "I",
+            "\u2019m",
+            "expected",
+            "to",
+            "invest",
+            "in",
+            "each",
+            "wedding",
+            "is",
+            "probably",
+            "about",
+            "$",
+            "500",
+            "-",
+            "$",
+            "1000",
+            "each",
+            "!"
+        ],
+        [
+            "Holt",
+            "crap",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "super",
+            "excited",
+            "and",
+            "happy",
+            "for",
+            "my",
+            "friends",
+            ",",
+            "but",
+            "fighting",
+            "feeling",
+            "upset",
+            "about",
+            "how",
+            "much",
+            "I",
+            "need",
+            "to",
+            "spend",
+            "just",
+            "to",
+            "participate",
+            "and",
+            "be",
+            "supportive",
+            "."
+        ],
+        [
+            "As",
+            "a",
+            "student",
+            ",",
+            "that",
+            "amount",
+            "of",
+            "money",
+            "is",
+            "crucial",
+            "for",
+            "my",
+            "living",
+            "expenses",
+            "."
+        ],
+        [
+            "Looks",
+            "like",
+            "I",
+            "ca",
+            "n\u2019t",
+            "even",
+            "attend",
+            "my",
+            "best",
+            "friend",
+            "since",
+            "4th",
+            "grade",
+            "\u2019s",
+            "bachelorette",
+            "party",
+            "because",
+            "it",
+            "\u2019s",
+            "$",
+            "250",
+            "for",
+            "BnB",
+            "and",
+            "takes",
+            "place",
+            "from",
+            "Wed",
+            "-",
+            "Sat",
+            "meaning",
+            "I",
+            "\u2019d",
+            "have",
+            "to",
+            "miss",
+            "a",
+            "clinical",
+            "rotation",
+            "and",
+            "summer",
+            "classes",
+            "."
+        ],
+        [
+            "Anyone",
+            "else",
+            "dealt",
+            "with",
+            "disappointing",
+            "friends",
+            "because",
+            "you",
+            "\u2019re",
+            "a",
+            "student",
+            "and",
+            "ca",
+            "n\u2019t",
+            "afford",
+            "to",
+            "attend",
+            "or",
+            "participate",
+            "in",
+            "friends",
+            "weddings",
+            "?"
+        ],
+        [
+            "Anyone",
+            "had",
+            "luck",
+            "with",
+            "getting",
+            "time",
+            "off",
+            "from",
+            "professors",
+            "fo",
+            "attend",
+            "wedding",
+            "events",
+            "?"
+        ]
+    ]
+}

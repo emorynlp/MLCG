@@ -1,0 +1,293 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "the provision that he carried",
+                "pos": [
+                    11,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the refreshment of both man and beast",
+                "pos": [
+                    18,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he stopped",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "eat it",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-48",
+    "sents": [
+        [
+            "A",
+            "MULE",
+            ",",
+            "laden",
+            "with",
+            "choice",
+            "provision",
+            "of",
+            "several",
+            "sorts",
+            ",",
+            "was",
+            "on",
+            "his",
+            "way",
+            "to",
+            "the",
+            "field",
+            "."
+        ],
+        [
+            "His",
+            "master",
+            "and",
+            "the",
+            "reapers",
+            "were",
+            "at",
+            "work",
+            "there",
+            ",",
+            "and",
+            "the",
+            "provision",
+            "that",
+            "he",
+            "carried",
+            "was",
+            "for",
+            "the",
+            "refreshment",
+            "of",
+            "both",
+            "man",
+            "and",
+            "beast",
+            "."
+        ],
+        [
+            "Seeing",
+            "a",
+            "large",
+            ",",
+            "strong",
+            "thistle",
+            "by",
+            "the",
+            "roadside",
+            ",",
+            "he",
+            "stopped",
+            "to",
+            "eat",
+            "it",
+            "."
+        ],
+        [
+            "\u201c",
+            "Many",
+            "people",
+            "would",
+            "wonder",
+            ",",
+            "\u201d",
+            "thought",
+            "he",
+            ",",
+            "\u201c",
+            "that",
+            ",",
+            "with",
+            "such",
+            "dainty",
+            "food",
+            "upon",
+            "my",
+            "back",
+            ",",
+            "I",
+            "should",
+            "have",
+            "appetite",
+            "for",
+            "the",
+            "despised",
+            "thistle",
+            ";",
+            "but",
+            "to",
+            "me",
+            "the",
+            "bitter",
+            ",",
+            "prickly",
+            "weed",
+            "has",
+            "a",
+            "more",
+            "savory",
+            "relish",
+            "than",
+            "anything",
+            "else",
+            "in",
+            "the",
+            "world",
+            "."
+        ],
+        [
+            "Let",
+            "others",
+            "choose",
+            "what",
+            "they",
+            "will",
+            ",",
+            "but",
+            "give",
+            "me",
+            "a",
+            "fine",
+            ",",
+            "juicy",
+            "thistle",
+            "like",
+            "this",
+            ",",
+            "and",
+            "I",
+            "shall",
+            "be",
+            "content",
+            "."
+        ],
+        [
+            "Every",
+            "one",
+            "to",
+            "his",
+            "taste",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "wisely",
+            "ordered",
+            "that",
+            "what",
+            "one",
+            "rejects",
+            "should",
+            "be",
+            "the",
+            "choice",
+            "of",
+            "another",
+            "."
+        ],
+        [
+            "A",
+            "wise",
+            "man",
+            "has",
+            "said",
+            "that",
+            "a",
+            "weed",
+            "is",
+            "a",
+            "plant",
+            "that",
+            "people",
+            "have",
+            "not",
+            "yet",
+            "found",
+            "a",
+            "use",
+            "for",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

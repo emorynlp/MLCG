@@ -1,0 +1,495 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "my daughter",
+                "pos": [
+                    33,
+                    35
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "two kids",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "My undergraduate experience",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my undergraduate experience",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "was able",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "It",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-039",
+    "sents": [
+        [
+            "I",
+            "was",
+            "so",
+            "scared",
+            "to",
+            "go",
+            "into",
+            "graduate",
+            "school",
+            "."
+        ],
+        [
+            "My",
+            "undergraduate",
+            "experience",
+            "was",
+            "filled",
+            "with",
+            "mediocrity",
+            "and",
+            "trauma",
+            "and",
+            "I",
+            "finally",
+            "reached",
+            "a",
+            "point",
+            "in",
+            "my",
+            "life",
+            "where",
+            "I",
+            "realized",
+            "I",
+            "should",
+            "give",
+            "my",
+            "past",
+            "self",
+            "grace",
+            "."
+        ],
+        [
+            "-",
+            "I",
+            "'ve",
+            "came",
+            "from",
+            "a",
+            "low",
+            "income",
+            "household",
+            "-",
+            "I",
+            "was",
+            "dealing",
+            "with",
+            "housing",
+            "insecurity",
+            "-",
+            "I",
+            "'m",
+            "ADHD",
+            "and",
+            "dyslexic",
+            "and",
+            "had",
+            "no",
+            "idea",
+            "how",
+            "to",
+            "get",
+            "services",
+            "-",
+            "I",
+            "had",
+            "my",
+            "daughter",
+            "at",
+            "22",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "terrified",
+            "that",
+            "even",
+            "applying",
+            "because",
+            "I",
+            "did",
+            "n't",
+            "want",
+            "a",
+            "repeat",
+            "of",
+            "my",
+            "undergraduate",
+            "experience",
+            "."
+        ],
+        [
+            "I",
+            "now",
+            "have",
+            "two",
+            "kids",
+            ",",
+            "And",
+            "the",
+            "idea",
+            "of",
+            "getting",
+            "my",
+            "graduate",
+            "degree",
+            ",",
+            "while",
+            "potentially",
+            "teaching",
+            "from",
+            "home",
+            "(",
+            "The",
+            "whole",
+            "pandemic",
+            "and",
+            "everything",
+            ")",
+            ",",
+            "while",
+            "working",
+            "full",
+            "-",
+            "time",
+            "felt",
+            "overwhelming",
+            "."
+        ],
+        [
+            "But",
+            "this",
+            "time",
+            "around",
+            "I",
+            "was",
+            "able",
+            "to",
+            "contact",
+            "my",
+            "disability",
+            "service",
+            "office",
+            "and",
+            "get",
+            "accommodations",
+            "."
+        ],
+        [
+            "It",
+            "has",
+            "made",
+            "a",
+            "world",
+            "of",
+            "difference",
+            "."
+        ],
+        [
+            "Let",
+            "me",
+            "tell",
+            "you",
+            ",",
+            "I",
+            "cried",
+            "when",
+            "I",
+            "read",
+            "99.1",
+            "out",
+            "of",
+            "100",
+            "."
+        ],
+        [
+            "Two",
+            "semesters",
+            "in",
+            "and",
+            "I",
+            "finally",
+            "feel",
+            "like",
+            "I",
+            "belong",
+            "."
+        ]
+    ]
+}

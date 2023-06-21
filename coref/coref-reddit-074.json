@@ -1,0 +1,340 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "in person",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "My",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "feels",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "feel",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "event"
+            },
+            {
+                "name": "feel",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "event"
+            },
+            {
+                "name": "Feels",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "fake",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "fake",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-074",
+    "sents": [
+        [
+            "My",
+            "university",
+            "is",
+            "back",
+            "in",
+            "person",
+            "this",
+            "year",
+            "and",
+            "it",
+            "just",
+            "does",
+            "n't",
+            "feel",
+            "the",
+            "same",
+            "at",
+            "all",
+            "compared",
+            "to",
+            "pre-covid",
+            "."
+        ],
+        [
+            "I",
+            "can",
+            "not",
+            "take",
+            "it",
+            "seriously",
+            "at",
+            "all",
+            "anymore",
+            "."
+        ],
+        [
+            "I",
+            "barely",
+            "go",
+            "to",
+            "my",
+            "classes",
+            ",",
+            "not",
+            "as",
+            "productive",
+            "as",
+            "I",
+            "used",
+            "to",
+            "be",
+            ",",
+            "do",
+            "n't",
+            "really",
+            "feel",
+            "worried",
+            "for",
+            "midterms",
+            "even",
+            "though",
+            "I",
+            "should",
+            "be",
+            "."
+        ],
+        [
+            "It",
+            "just",
+            "all",
+            "feels",
+            "kinda",
+            "fake",
+            ",",
+            "like",
+            "a",
+            "summer",
+            "camp",
+            "or",
+            "something",
+            "."
+        ],
+        [
+            "Anyone",
+            "else",
+            "feel",
+            "this",
+            "way",
+            "?"
+        ],
+        [
+            "Not",
+            "sure",
+            "exactly",
+            "what",
+            "'s",
+            "causing",
+            "this",
+            "but",
+            "it",
+            "sucks",
+            "because",
+            "I",
+            "am",
+            "generally",
+            "a",
+            "really",
+            "productive",
+            "person",
+            "but",
+            "I",
+            "just",
+            "feel",
+            "do",
+            "not",
+            "feel",
+            "compelled",
+            "at",
+            "all",
+            "to",
+            "care",
+            "about",
+            "any",
+            "of",
+            "this",
+            "."
+        ],
+        [
+            "Feels",
+            "totally",
+            "fake"
+        ]
+    ]
+}

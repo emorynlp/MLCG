@@ -1,0 +1,381 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "some bread",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "some",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "some of it",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a pail",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the trees",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "there",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Toto",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Toto",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "fruit",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "herself",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    31,
+                    32
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 6,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-11",
+    "sents": [
+        [
+            "When",
+            "Dorothy",
+            "was",
+            "left",
+            "alone",
+            "she",
+            "began",
+            "to",
+            "feel",
+            "hungry",
+            "."
+        ],
+        [
+            "So",
+            "she",
+            "went",
+            "to",
+            "the",
+            "cupboard",
+            "and",
+            "cut",
+            "herself",
+            "some",
+            "bread",
+            ",",
+            "which",
+            "she",
+            "spread",
+            "with",
+            "butter",
+            "."
+        ],
+        [
+            "She",
+            "gave",
+            "some",
+            "to",
+            "Toto",
+            ",",
+            "and",
+            "taking",
+            "a",
+            "pail",
+            "from",
+            "the",
+            "shelf",
+            "she",
+            "carried",
+            "it",
+            "down",
+            "to",
+            "the",
+            "little",
+            "brook",
+            "and",
+            "filled",
+            "it",
+            "with",
+            "clear",
+            ",",
+            "sparkling",
+            "water",
+            "."
+        ],
+        [
+            "Toto",
+            "ran",
+            "over",
+            "to",
+            "the",
+            "trees",
+            "and",
+            "began",
+            "to",
+            "bark",
+            "at",
+            "the",
+            "birds",
+            "sitting",
+            "there",
+            "."
+        ],
+        [
+            "Dorothy",
+            "went",
+            "to",
+            "get",
+            "him",
+            ",",
+            "and",
+            "saw",
+            "such",
+            "delicious",
+            "fruit",
+            "hanging",
+            "from",
+            "the",
+            "branches",
+            "that",
+            "she",
+            "gathered",
+            "some",
+            "of",
+            "it",
+            ",",
+            "finding",
+            "it",
+            "just",
+            "what",
+            "she",
+            "wanted",
+            "to",
+            "help",
+            "out",
+            "her",
+            "breakfast",
+            "."
+        ]
+    ]
+}

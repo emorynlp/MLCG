@@ -1,0 +1,449 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m an international student",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was raised",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "drink",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "party",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "binge watch",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "are in state students",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "play",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "study",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "watch",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is going",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m small",
+                "pos": [
+                    23,
+                    25
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "skinny",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-053",
+    "sents": [
+        [
+            "How",
+            "do",
+            "you",
+            "deal",
+            "with",
+            "loneliness",
+            "at",
+            "college",
+            "?"
+        ],
+        [
+            "I",
+            "\u2019m",
+            "an",
+            "international",
+            "student",
+            "and",
+            "I",
+            "was",
+            "raised",
+            "with",
+            "a",
+            "huge",
+            "difference",
+            "in",
+            "the",
+            "environment",
+            "/",
+            "ideas",
+            "for",
+            "fun",
+            "."
+        ],
+        [
+            "I",
+            "only",
+            "have",
+            "a",
+            "few",
+            "friends",
+            "/",
+            "people",
+            "I",
+            "know",
+            "."
+        ],
+        [
+            "Most",
+            "people",
+            "here",
+            "just",
+            "drink",
+            ",",
+            "party",
+            ",",
+            "or",
+            "binge",
+            "watch",
+            "in",
+            "the",
+            "weekend",
+            "."
+        ],
+        [
+            "To",
+            "make",
+            "things",
+            "worse",
+            ",",
+            "most",
+            "people",
+            "here",
+            "are",
+            "in",
+            "state",
+            "students",
+            "and",
+            "already",
+            "know",
+            "each",
+            "other",
+            "or",
+            "have",
+            "a",
+            "lot",
+            "in",
+            "common",
+            "."
+        ],
+        [
+            "My",
+            "roommates",
+            "do",
+            "n\u2019t",
+            "do",
+            "anything",
+            "but",
+            "play",
+            "video",
+            "games",
+            ",",
+            "study",
+            ",",
+            "and",
+            "watch",
+            "stuff",
+            "online",
+            "."
+        ],
+        [
+            "The",
+            "only",
+            "thing",
+            "I",
+            "can",
+            "think",
+            "of",
+            "is",
+            "going",
+            "to",
+            "the",
+            "gym",
+            "but",
+            "I",
+            "ca",
+            "n\u2019t",
+            "get",
+            "over",
+            "my",
+            "social",
+            "fears",
+            "because",
+            "I",
+            "\u2019m",
+            "small",
+            "and",
+            "skinny",
+            "."
+        ],
+        [
+            "Thank",
+            "you",
+            "."
+        ]
+    ]
+}

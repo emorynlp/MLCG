@@ -1,0 +1,230 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "we actualle GET MONEY",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "going to UNI",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "money parents get",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "having a child",
+                "pos": [
+                    13,
+                    16
+                ],
+                "sent_id": 3,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-018",
+    "sents": [
+        [
+            "I",
+            "mean",
+            ",",
+            "I",
+            "really",
+            "do",
+            "nt",
+            "get",
+            "it",
+            "paying",
+            "12000$+",
+            "a",
+            "year",
+            "while",
+            "earning",
+            "nothing",
+            "."
+        ],
+        [
+            "(",
+            "except",
+            "if",
+            "you",
+            "have",
+            "a",
+            "job",
+            "but",
+            "that",
+            "s",
+            "really",
+            "hard",
+            "alongside",
+            "studying",
+            "imo",
+            ")",
+            "Is",
+            "there",
+            "a",
+            "way",
+            "to",
+            "get",
+            "it",
+            "for",
+            "free",
+            "except",
+            "of",
+            "scholarships",
+            "?"
+        ],
+        [
+            "I",
+            "just",
+            "started",
+            "my",
+            "physics",
+            "bachelor",
+            "here",
+            "in",
+            "germany",
+            ",",
+            "and",
+            "we",
+            "actualle",
+            "GET",
+            "MONEY",
+            "by",
+            "going",
+            "to",
+            "UNI",
+            "."
+        ],
+        [
+            "We",
+            "get",
+            "monthly",
+            "\u201e",
+            "Kindergeld",
+            "\u201c",
+            "which",
+            "is",
+            "like",
+            "money",
+            "parents",
+            "get",
+            "for",
+            "having",
+            "a",
+            "child",
+            ",",
+            "its",
+            "like",
+            "240",
+            "$",
+            "per",
+            "month",
+            ",",
+            "while",
+            "only",
+            "paying",
+            "around",
+            "500",
+            "$",
+            "for",
+            "the",
+            "UNI",
+            "per",
+            "year",
+            "."
+        ],
+        [
+            "And",
+            "this",
+            "yearly",
+            "payment",
+            "also",
+            "uncludes",
+            "full",
+            "Bus",
+            "/",
+            "-",
+            "Train",
+            "tickets",
+            "in",
+            "the",
+            "city",
+            "you",
+            "live",
+            "in",
+            "."
+        ]
+    ]
+}

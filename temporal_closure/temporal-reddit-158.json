@@ -1,0 +1,531 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "Update",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "passed",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was brutal",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "through",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "handed in",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m defending",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "go",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m worried",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "telling",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 7,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 1,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-158",
+    "sents": [
+        [
+            "Update",
+            "!!!!!"
+        ],
+        [
+            "I",
+            "passed",
+            "!"
+        ],
+        [
+            "The",
+            "closed",
+            "door",
+            "exam",
+            "was",
+            "brutal",
+            ",",
+            "but",
+            "I",
+            "made",
+            "it",
+            "through",
+            "!"
+        ],
+        [
+            "I",
+            "handed",
+            "in",
+            "my",
+            "thesis",
+            "three",
+            "weeks",
+            "ago",
+            "and",
+            "I",
+            "'m",
+            "defending",
+            "tomorrow",
+            "at",
+            "9",
+            "am",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "two",
+            "young",
+            "children",
+            "at",
+            "home",
+            "right",
+            "now",
+            ",",
+            "so",
+            "I",
+            "have",
+            "n't",
+            "been",
+            "able",
+            "to",
+            "study",
+            "at",
+            "all",
+            "."
+        ],
+        [
+            "I",
+            "still",
+            "need",
+            "to",
+            "change",
+            "a",
+            "few",
+            "slides",
+            "and",
+            "I",
+            "need",
+            "to",
+            "read",
+            "through",
+            "my",
+            "thesis",
+            "before",
+            "I",
+            "go",
+            "to",
+            "sleep",
+            "tonight",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "worried",
+            "that",
+            "I",
+            "wo",
+            "n't",
+            "pass",
+            ",",
+            "and",
+            "everyone",
+            "around",
+            "me",
+            "telling",
+            "me",
+            "that",
+            "I",
+            "should",
+            "n't",
+            "be",
+            "worried",
+            "is",
+            "not",
+            "helping",
+            "."
+        ],
+        [
+            "I",
+            "have",
+            "a",
+            "tough",
+            "committee",
+            "of",
+            "6",
+            "experts",
+            "in",
+            "my",
+            "field",
+            "and",
+            "I",
+            "really",
+            "wanted",
+            "to",
+            "read",
+            "their",
+            "latest",
+            "papers",
+            "before",
+            "my",
+            "defense",
+            "."
+        ],
+        [
+            "Is",
+            "there",
+            "anything",
+            "I",
+            "can",
+            "do",
+            "at",
+            "this",
+            "point",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "to",
+            "watch",
+            "my",
+            "kids",
+            "all",
+            "day",
+            ",",
+            "they",
+            "do",
+            "n't",
+            "go",
+            "to",
+            "bed",
+            "until",
+            "9/10",
+            "."
+        ],
+        [
+            "I",
+            "can",
+            "pull",
+            "an",
+            "all",
+            "nighter",
+            ",",
+            "but",
+            "then",
+            "I",
+            "may",
+            "be",
+            "a",
+            "zombie",
+            "tomorrow",
+            "."
+        ],
+        [
+            "Any",
+            "last",
+            "minute",
+            "advice",
+            "?"
+        ],
+        [
+            "Am",
+            "I",
+            "freaking",
+            "out",
+            "for",
+            "no",
+            "reason",
+            "?"
+        ]
+    ]
+}

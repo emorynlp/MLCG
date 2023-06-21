@@ -1,0 +1,246 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "been getting frustrated",
+                "pos": [
+                    2,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "learn",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "has",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'re expected to",
+                "pos": [
+                    23,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-089",
+    "sents": [
+        [
+            "I",
+            "'ve",
+            "been",
+            "getting",
+            "frustrated",
+            "by",
+            "a",
+            "lack",
+            "of",
+            "similarity",
+            "between",
+            "lectures",
+            "and",
+            "the",
+            "assignments",
+            "."
+        ],
+        [
+            "I",
+            "learn",
+            "by",
+            "examples",
+            "."
+        ],
+        [
+            "If",
+            "I",
+            "need",
+            "to",
+            "learn",
+            "how",
+            "to",
+            "do",
+            "something",
+            ",",
+            "like",
+            "a",
+            "certain",
+            "process",
+            "(",
+            "which",
+            "is",
+            "what",
+            "most",
+            "problems",
+            "are",
+            "in",
+            "assignments",
+            ")",
+            "then",
+            "the",
+            "best",
+            "way",
+            "for",
+            "me",
+            "to",
+            "learn",
+            "is",
+            "to",
+            "see",
+            "the",
+            "exact",
+            "same",
+            "type",
+            "of",
+            "process",
+            "being",
+            "done",
+            "."
+        ],
+        [
+            "but",
+            "in",
+            "this",
+            "one",
+            "class",
+            ",",
+            "the",
+            "professor",
+            "has",
+            "examples",
+            ",",
+            "but",
+            "not",
+            "at",
+            "all",
+            "the",
+            "same",
+            "types",
+            "of",
+            "examples",
+            "as",
+            "what",
+            "we",
+            "'re",
+            "expected",
+            "to",
+            "do",
+            "for",
+            "assignments",
+            "."
+        ],
+        [
+            "Am",
+            "I",
+            "just",
+            "being",
+            "a",
+            "whiner",
+            "?"
+        ],
+        [
+            "Or",
+            "is",
+            "there",
+            "validity",
+            "to",
+            "my",
+            "complaint",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "when",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he tried to draw out his closed fist",
+                "pos": [
+                    13,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the narrowness of the neck",
+                "pos": [
+                    22,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "prevented",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "him from doing so",
+                "pos": [
+                    28,
+                    32
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect|cause",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-36",
+    "sents": [
+        [
+            "A",
+            "BOY",
+            "once",
+            "thrust",
+            "his",
+            "hand",
+            "into",
+            "a",
+            "pitcher",
+            "nearly",
+            "filled",
+            "with",
+            "Filberts",
+            "."
+        ],
+        [
+            "He",
+            "grasped",
+            "as",
+            "many",
+            "as",
+            "his",
+            "hand",
+            "could",
+            "possibly",
+            "hold",
+            ";",
+            "but",
+            "when",
+            "he",
+            "tried",
+            "to",
+            "draw",
+            "out",
+            "his",
+            "closed",
+            "fist",
+            ",",
+            "the",
+            "narrowness",
+            "of",
+            "the",
+            "neck",
+            "prevented",
+            "him",
+            "from",
+            "doing",
+            "so",
+            "."
+        ],
+        [
+            "Unwilling",
+            "to",
+            "lose",
+            "his",
+            "nuts",
+            ",",
+            "yet",
+            "unable",
+            "to",
+            "get",
+            "them",
+            "by",
+            "drawing",
+            "out",
+            "his",
+            "hand",
+            ",",
+            "he",
+            "burst",
+            "into",
+            "tears",
+            "and",
+            "bitterly",
+            "lamented",
+            "his",
+            "hard",
+            "fortune",
+            "."
+        ],
+        [
+            "A",
+            "person",
+            "standing",
+            "by",
+            "finally",
+            "gave",
+            "him",
+            "this",
+            "wise",
+            "and",
+            "reasonable",
+            "advice",
+            ":",
+            "\u201c",
+            "Be",
+            "satisfied",
+            "to",
+            "take",
+            "half",
+            "as",
+            "many",
+            ",",
+            "my",
+            "boy",
+            ",",
+            "and",
+            "you",
+            "will",
+            "get",
+            "them",
+            "easily",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

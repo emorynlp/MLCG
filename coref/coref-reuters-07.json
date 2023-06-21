@@ -1,0 +1,206 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "1987",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "1987",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Standard Trustco",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Standard Trustco",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "1986",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "1986",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "shareholders",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "shareholders",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-07",
+    "sents": [
+        [
+            "Standard",
+            "Trustco",
+            "said",
+            "it",
+            "expects",
+            "earnings",
+            "in",
+            "1987",
+            "to",
+            "increase",
+            "at",
+            "least",
+            "15",
+            "to",
+            "20",
+            "pct",
+            "from",
+            "the",
+            "9,140,000",
+            "dlrs",
+            ",",
+            "or",
+            "2.52",
+            "dlrs",
+            "per",
+            "share",
+            ",",
+            "recorded",
+            "in",
+            "1986",
+            "."
+        ],
+        [
+            "\"",
+            "Stable",
+            "interest",
+            "rates",
+            "and",
+            "a",
+            "growing",
+            "economy",
+            "are",
+            "expected",
+            "to",
+            "provide",
+            "favorable",
+            "conditions",
+            "for",
+            "further",
+            "growth",
+            "in",
+            "1987",
+            ",",
+            "\"",
+            "president",
+            "Brian",
+            "O'Malley",
+            "told",
+            "shareholders",
+            "at",
+            "the",
+            "annual",
+            "meeting",
+            "."
+        ],
+        [
+            "Standard",
+            "Trustco",
+            "previously",
+            "reported",
+            "assets",
+            "of",
+            "1.28",
+            "billion",
+            "dlrs",
+            "in",
+            "1986",
+            ",",
+            "up",
+            "from",
+            "1.10",
+            "billion",
+            "dlrs",
+            "in",
+            "1985",
+            "."
+        ],
+        [
+            "Return",
+            "on",
+            "common",
+            "shareholders",
+            "'",
+            "equity",
+            "was",
+            "18.6",
+            "pct",
+            "last",
+            "year",
+            ",",
+            "up",
+            "from",
+            "15",
+            "pct",
+            "in",
+            "1985",
+            "."
+        ]
+    ]
+}

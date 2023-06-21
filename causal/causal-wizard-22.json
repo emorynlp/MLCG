@@ -1,0 +1,302 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "My life has been so short",
+                "pos": [
+                    1,
+                    7
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "that",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I really know nothing whatever",
+                "pos": [
+                    8,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "one of the first things he did was to paint my ears",
+                "pos": [
+                    9,
+                    21
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 9,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "I heard what was going on",
+                "pos": [
+                    24,
+                    30
+                ],
+                "sent_id": 9,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-22",
+    "sents": [
+        [
+            "\"",
+            "Of",
+            "course",
+            "I",
+            "can",
+            "not",
+            "understand",
+            "it",
+            ",",
+            "\"",
+            "he",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "If",
+            "your",
+            "heads",
+            "were",
+            "stuffed",
+            "with",
+            "straw",
+            ",",
+            "like",
+            "mine",
+            ",",
+            "you",
+            "would",
+            "probably",
+            "all",
+            "live",
+            "in",
+            "the",
+            "beautiful",
+            "places",
+            ",",
+            "and",
+            "then",
+            "Kansas",
+            "would",
+            "have",
+            "no",
+            "people",
+            "at",
+            "all",
+            "."
+        ],
+        [
+            "It",
+            "is",
+            "fortunate",
+            "for",
+            "Kansas",
+            "that",
+            "you",
+            "have",
+            "brains",
+            "."
+        ],
+        [
+            "\""
+        ],
+        [
+            "\"",
+            "Wo",
+            "n",
+            "'",
+            "t",
+            "you",
+            "tell",
+            "me",
+            "a",
+            "story",
+            ",",
+            "while",
+            "we",
+            "are",
+            "resting",
+            "?",
+            "\"",
+            "asked",
+            "the",
+            "child",
+            "."
+        ],
+        [
+            "The",
+            "Scarecrow",
+            "looked",
+            "at",
+            "her",
+            "reproachfully",
+            ",",
+            "and",
+            "answered",
+            ":"
+        ],
+        [
+            "\"",
+            "My",
+            "life",
+            "has",
+            "been",
+            "so",
+            "short",
+            "that",
+            "I",
+            "really",
+            "know",
+            "nothing",
+            "whatever",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "only",
+            "made",
+            "day",
+            "before",
+            "yesterday",
+            "."
+        ],
+        [
+            "What",
+            "happened",
+            "in",
+            "the",
+            "world",
+            "before",
+            "that",
+            "time",
+            "is",
+            "all",
+            "unknown",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "Luckily",
+            ",",
+            "when",
+            "the",
+            "farmer",
+            "made",
+            "my",
+            "head",
+            ",",
+            "one",
+            "of",
+            "the",
+            "first",
+            "things",
+            "he",
+            "did",
+            "was",
+            "to",
+            "paint",
+            "my",
+            "ears",
+            ",",
+            "so",
+            "that",
+            "I",
+            "heard",
+            "what",
+            "was",
+            "going",
+            "on",
+            "."
+        ],
+        [
+            "There",
+            "was",
+            "another",
+            "Munchkin",
+            "with",
+            "him",
+            ",",
+            "and",
+            "the",
+            "first",
+            "thing",
+            "I",
+            "heard",
+            "was",
+            "the",
+            "farmer",
+            "saying",
+            ",",
+            "`",
+            "How",
+            "do",
+            "you",
+            "like",
+            "those",
+            "ears",
+            "?",
+            "'"
+        ]
+    ]
+}

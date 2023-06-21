@@ -1,0 +1,298 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "transition into",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "event"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Master 's program for Chemistry",
+                "pos": [
+                    10,
+                    16
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "grad school",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-083",
+    "sents": [
+        [
+            "Hi",
+            "all",
+            "!"
+        ],
+        [
+            "I",
+            "just",
+            "found",
+            "out",
+            "this",
+            "week",
+            "I",
+            "was",
+            "accepted",
+            "into",
+            "a",
+            "Master",
+            "'s",
+            "program",
+            "for",
+            "Chemistry",
+            "along",
+            "with",
+            "an",
+            "assistantship",
+            "(",
+            "TA",
+            ")",
+            "!!!"
+        ],
+        [
+            "I",
+            "ca",
+            "n't",
+            "even",
+            "begin",
+            "to",
+            "describe",
+            "how",
+            "happy",
+            "I",
+            "am",
+            "."
+        ],
+        [
+            "Its",
+            "truly",
+            "a",
+            "dream",
+            "come",
+            "true",
+            "."
+        ],
+        [
+            "The",
+            "person",
+            "I",
+            "spoke",
+            "to",
+            "said",
+            "it",
+            "'s",
+            "very",
+            "easy",
+            "to",
+            "transition",
+            "into",
+            "the",
+            "PhD",
+            "program",
+            "after",
+            "a",
+            "year",
+            ",",
+            "so",
+            "I",
+            "'m",
+            "hoping",
+            "for",
+            "that",
+            "."
+        ],
+        [
+            "Anyways",
+            ",",
+            "I",
+            "'m",
+            "looking",
+            "for",
+            "advice",
+            "on",
+            "how",
+            "to",
+            "prepare",
+            "."
+        ],
+        [
+            "What",
+            "should",
+            "I",
+            "brush",
+            "up",
+            "on",
+            "?"
+        ],
+        [
+            "What",
+            "are",
+            "somethings",
+            "I",
+            "should",
+            "master",
+            "before",
+            "I",
+            "start",
+            "grad",
+            "school",
+            "?"
+        ],
+        [
+            "Any",
+            "and",
+            "all",
+            "advice",
+            "is",
+            "welcomed",
+            "."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "want",
+            "to",
+            "fuck",
+            "this",
+            "up",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "carried on",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "met",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "begged",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "replied",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 5,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-fable-38",
+    "sents": [
+        [
+            "A",
+            "CHARCOAL",
+            "Burner",
+            "carried",
+            "on",
+            "his",
+            "trade",
+            "at",
+            "his",
+            "own",
+            "house",
+            "."
+        ],
+        [
+            "One",
+            "day",
+            "he",
+            "met",
+            "a",
+            "friend",
+            "who",
+            "was",
+            "a",
+            "Fuller",
+            ",",
+            "and",
+            "begged",
+            "him",
+            "to",
+            "come",
+            "and",
+            "live",
+            "with",
+            "him",
+            "."
+        ],
+        [
+            "\u201c",
+            "We",
+            "shall",
+            "be",
+            "far",
+            "better",
+            "friends",
+            "if",
+            "we",
+            "live",
+            "together",
+            ",",
+            "\u201d",
+            "he",
+            "said",
+            ",",
+            "\u201c",
+            "and",
+            "then",
+            "our",
+            "housekeeping",
+            "expenses",
+            "will",
+            "be",
+            "greatly",
+            "lessened",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "Fuller",
+            "replied",
+            ":",
+            "\u201c",
+            "The",
+            "arrangement",
+            "would",
+            "not",
+            "suit",
+            "me",
+            "in",
+            "the",
+            "least",
+            ",",
+            "for",
+            "whatever",
+            "I",
+            "should",
+            "take",
+            "pains",
+            "to",
+            "whiten",
+            ",",
+            "your",
+            "charcoal",
+            "would",
+            "immediately",
+            "blacken",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "afraid",
+            "we",
+            "should",
+            "not",
+            "grow",
+            "better",
+            "friends",
+            "under",
+            "such",
+            "circumstances",
+            ".",
+            "\u201d"
+        ]
+    ]
+}

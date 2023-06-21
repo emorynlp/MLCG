@@ -1,0 +1,239 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a life sciences PhD",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    22,
+                    23
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-088",
+    "sents": [
+        [
+            "It",
+            "\u2019s",
+            "just",
+            "garbage",
+            "."
+        ],
+        [
+            "That",
+            "\u2019s",
+            "all",
+            "."
+        ],
+        [
+            "I",
+            "moved",
+            "to",
+            "the",
+            "other",
+            "side",
+            "of",
+            "the",
+            "country",
+            "to",
+            "start",
+            "a",
+            "life",
+            "sciences",
+            "PhD",
+            "and",
+            "i",
+            "know",
+            "I",
+            "\u2019m",
+            "lucky",
+            "to",
+            "have",
+            "funding",
+            ",",
+            "a",
+            "stipend",
+            ",",
+            "etc.",
+            "but",
+            "everything",
+            "just",
+            "really",
+            "sucks",
+            "right",
+            "now",
+            "."
+        ],
+        [
+            "I",
+            "miss",
+            "my",
+            "friends",
+            "and",
+            "it",
+            "\u2019s",
+            "so",
+            "hard",
+            "to",
+            "make",
+            "new",
+            "ones",
+            "."
+        ],
+        [
+            "I",
+            "feel",
+            "like",
+            "I",
+            "do",
+            "n\u2019t",
+            "learn",
+            "well",
+            "through",
+            "zoom",
+            "classes",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "wanted",
+            "this",
+            "for",
+            "so",
+            "long",
+            "but",
+            "now",
+            "I",
+            "\u2019m",
+            "just",
+            "unmotivated",
+            ",",
+            "stressed",
+            ",",
+            "and",
+            "questioning",
+            "every",
+            "decision",
+            "that",
+            "got",
+            "me",
+            "here",
+            "."
+        ],
+        [
+            "Just",
+            "needed",
+            "to",
+            "complain",
+            "that",
+            "\u2019s",
+            "all",
+            "."
+        ]
+    ]
+}

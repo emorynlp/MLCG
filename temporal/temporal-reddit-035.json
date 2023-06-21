@@ -1,0 +1,406 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "am currently in",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "started",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were still shut down",
+                "pos": [
+                    12,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'re all supposed",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "feel",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was wondering",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought about",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m interested in",
+                "pos": [
+                    9,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "like",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am supposed",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m feeling",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "absent minded",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 8,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-035",
+    "sents": [
+        [
+            "I",
+            "am",
+            "currently",
+            "in",
+            "my",
+            "second",
+            "year",
+            "of",
+            "a",
+            "US",
+            "Masters",
+            "program",
+            "in",
+            "counseling",
+            "psychology",
+            "."
+        ],
+        [
+            "I",
+            ",",
+            "and",
+            "other",
+            "classmates",
+            ",",
+            "feel",
+            "that",
+            "we",
+            "have",
+            "learned",
+            "nothing",
+            "."
+        ],
+        [
+            "Especially",
+            "those",
+            "who",
+            "started",
+            "in",
+            "the",
+            "fall",
+            "of",
+            "2020",
+            "(",
+            "when",
+            "things",
+            "were",
+            "still",
+            "shut",
+            "down",
+            "a",
+            "bit",
+            ")",
+            "."
+        ],
+        [
+            "We",
+            "'re",
+            "all",
+            "supposed",
+            "to",
+            "be",
+            "taking",
+            "comprehensive",
+            "exams",
+            "soon",
+            "and",
+            "feel",
+            "that",
+            "we",
+            "have",
+            "n't",
+            "learned",
+            "much",
+            "and",
+            "I",
+            "was",
+            "wondering",
+            "if",
+            "anyone",
+            "else",
+            "felt",
+            "the",
+            "same",
+            "way",
+            "lately",
+            "."
+        ],
+        [
+            "I",
+            "thought",
+            "about",
+            "reading",
+            "books",
+            "on",
+            "the",
+            "subject",
+            "I",
+            "'m",
+            "interested",
+            "in",
+            "and",
+            "the",
+            "theories",
+            "I",
+            "like",
+            ",",
+            "but",
+            "will",
+            "that",
+            "only",
+            "do",
+            "so",
+            "much",
+            "..."
+        ],
+        [
+            "I",
+            "am",
+            "supposed",
+            "to",
+            "graduate",
+            "in",
+            "the",
+            "next",
+            "year",
+            "or",
+            "so",
+            ",",
+            "and",
+            "I",
+            "'m",
+            "feeling",
+            "very",
+            "defeated",
+            "and",
+            "just",
+            "absent",
+            "minded",
+            "about",
+            "my",
+            "studies",
+            "."
+        ],
+        [
+            "Anyone",
+            "else",
+            "in",
+            "the",
+            "same",
+            "\ud83d\udef6",
+            "?"
+        ]
+    ]
+}

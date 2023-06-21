@@ -1,0 +1,447 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "We",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a lot of kids",
+                "pos": [
+                    3,
+                    7
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "their",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the process",
+                "pos": [
+                    33,
+                    35
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "this process",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "preach",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "talk",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "that",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "We",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "We",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "got into",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "this huge commitment",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "event"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-023",
+    "sents": [
+        [
+            "If",
+            "you",
+            "got",
+            "into",
+            "a",
+            "top",
+            "school",
+            "like",
+            "the",
+            "ivies",
+            "/",
+            "SM",
+            "-",
+            "please",
+            ",",
+            "please",
+            ",",
+            "please",
+            "DO",
+            "NT",
+            "preach",
+            "about",
+            "how",
+            "\u201c",
+            "where",
+            "you",
+            "go",
+            "to",
+            "college",
+            "does",
+            "n\u2019t",
+            "define",
+            "you",
+            "\u201d",
+            "."
+        ],
+        [
+            "I",
+            "\u2019ve",
+            "seen",
+            "a",
+            "lot",
+            "of",
+            "kids",
+            "do",
+            "this",
+            "on",
+            "insta",
+            "where",
+            "they",
+            "post",
+            "their",
+            "commitment",
+            "post",
+            "(",
+            "as",
+            "they",
+            "should",
+            ")",
+            "and",
+            "then",
+            "in",
+            "the",
+            "caption",
+            "talk",
+            "about",
+            "how",
+            "random",
+            "and",
+            "arbitrary",
+            "the",
+            "process",
+            "is",
+            "like",
+            "just",
+            "do",
+            "n\u2019t",
+            "do",
+            "that",
+            "please",
+            "."
+        ],
+        [
+            "We",
+            "all",
+            "understand",
+            "how",
+            "chaotic",
+            "this",
+            "process",
+            "is",
+            ",",
+            "but",
+            "it",
+            "does",
+            "n\u2019t",
+            "make",
+            "it",
+            "hurt",
+            "any",
+            "less",
+            "."
+        ],
+        [
+            "And",
+            "I",
+            "realize",
+            "that",
+            "most",
+            "kids",
+            "do",
+            "this",
+            "out",
+            "of",
+            "a",
+            "place",
+            "of",
+            "goodwill",
+            "and",
+            "to",
+            "be",
+            "thoughtful",
+            "but",
+            "it",
+            "just",
+            "ends",
+            "up",
+            "looking",
+            "really",
+            "pretentious",
+            "and",
+            "almost",
+            "hurtful",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "happy",
+            "for",
+            "all",
+            "you",
+            "have",
+            "achieved",
+            "and",
+            "you",
+            "deserve",
+            "to",
+            "be",
+            "able",
+            "to",
+            "post",
+            "that",
+            "commitment",
+            "post",
+            ",",
+            "but",
+            "just",
+            "leave",
+            "it",
+            "there",
+            "."
+        ],
+        [
+            "We",
+            "will",
+            "all",
+            "congratulate",
+            "you",
+            "on",
+            "this",
+            "huge",
+            "commitment",
+            "and",
+            "then",
+            "that",
+            "\u2019ll",
+            "be",
+            "that",
+            "."
+        ]
+    ]
+}

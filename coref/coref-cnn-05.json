@@ -1,0 +1,397 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "invited",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "Invitations",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "event"
+            },
+            {
+                "name": "This",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "India",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "its",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "India",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the South Asian Association for Regional Cooperation",
+                "pos": [
+                    11,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "SAARC",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the heads of all eight countries",
+                "pos": [
+                    4,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "all SAARC members",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the swearing - in",
+                "pos": [
+                    12,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "a swearing - in ceremony",
+                "pos": [
+                    15,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Pakistan",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Pakistan",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Syed Akbaruddin",
+                "pos": [
+                    28,
+                    30
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the invitations",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "we",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "our",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "The swearing - in",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-cnn-05",
+    "sents": [
+        [
+            "India",
+            "on",
+            "Wednesday",
+            "invited",
+            "the",
+            "Prime",
+            "Minister",
+            "of",
+            "its",
+            "archrival",
+            "Pakistan",
+            "to",
+            "the",
+            "swearing",
+            "-",
+            "in",
+            "of",
+            "its",
+            "new",
+            "leader",
+            ",",
+            "Narendra",
+            "Modi",
+            "."
+        ],
+        [
+            "Invitations",
+            "were",
+            "extended",
+            "to",
+            "the",
+            "heads",
+            "of",
+            "all",
+            "eight",
+            "countries",
+            "in",
+            "the",
+            "South",
+            "Asian",
+            "Association",
+            "for",
+            "Regional",
+            "Cooperation",
+            ",",
+            "which",
+            "includes",
+            "Pakistani",
+            "Prime",
+            "Minister",
+            "Nawaz",
+            "Sharif",
+            ",",
+            "the",
+            "Indian",
+            "external",
+            "affairs",
+            "ministry",
+            "said",
+            "."
+        ],
+        [
+            "\"",
+            "This",
+            "is",
+            "the",
+            "first",
+            "time",
+            "that",
+            "India",
+            "has",
+            "invited",
+            "all",
+            "SAARC",
+            "members",
+            "to",
+            "attend",
+            "a",
+            "swearing",
+            "-",
+            "in",
+            "ceremony",
+            "of",
+            "a",
+            "prime",
+            "minister",
+            ",",
+            "\"",
+            "ministry",
+            "spokesman",
+            "Syed",
+            "Akbaruddin",
+            "said",
+            "."
+        ],
+        [
+            "Asked",
+            "whether",
+            "the",
+            "move",
+            "marked",
+            "the",
+            "start",
+            "of",
+            "a",
+            "better",
+            "relationship",
+            "with",
+            "Pakistan",
+            ",",
+            "he",
+            "remarked",
+            ",",
+            "\"",
+            "Let",
+            "'s",
+            "take",
+            "one",
+            "step",
+            "at",
+            "a",
+            "time",
+            ".",
+            "\""
+        ],
+        [
+            "At",
+            "this",
+            "stage",
+            ",",
+            "the",
+            "invitations",
+            "have",
+            "gone",
+            "."
+        ],
+        [
+            "Let",
+            "'s",
+            "take",
+            "responses",
+            "on",
+            "this",
+            "and",
+            "we",
+            "will",
+            "take",
+            "it",
+            "from",
+            "there",
+            ",",
+            "rather",
+            "than",
+            "jump",
+            "to",
+            "conclusions",
+            "on",
+            "the",
+            "basis",
+            "of",
+            "our",
+            "first",
+            "step",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "swearing",
+            "-",
+            "in",
+            "is",
+            "set",
+            "to",
+            "take",
+            "place",
+            "Monday",
+            "."
+        ]
+    ]
+}

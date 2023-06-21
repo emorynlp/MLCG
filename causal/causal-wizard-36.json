@@ -1,0 +1,180 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "when",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy asked for something to eat",
+                "pos": [
+                    12,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "the woman gave them all a good dinner , with three kinds of cake and four kinds of cookies , and a bowl of milk for Toto",
+                "pos": [
+                    18,
+                    45
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-36",
+    "sents": [
+        [
+            "The",
+            "Monkeys",
+            "had",
+            "set",
+            "them",
+            "down",
+            "near",
+            "a",
+            "farmhouse",
+            ",",
+            "and",
+            "the",
+            "four",
+            "travelers",
+            "walked",
+            "up",
+            "to",
+            "it",
+            "and",
+            "knocked",
+            "at",
+            "the",
+            "door",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "opened",
+            "by",
+            "the",
+            "farmer",
+            "'",
+            "s",
+            "wife",
+            ",",
+            "and",
+            "when",
+            "Dorothy",
+            "asked",
+            "for",
+            "something",
+            "to",
+            "eat",
+            "the",
+            "woman",
+            "gave",
+            "them",
+            "all",
+            "a",
+            "good",
+            "dinner",
+            ",",
+            "with",
+            "three",
+            "kinds",
+            "of",
+            "cake",
+            "and",
+            "four",
+            "kinds",
+            "of",
+            "cookies",
+            ",",
+            "and",
+            "a",
+            "bowl",
+            "of",
+            "milk",
+            "for",
+            "Toto",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "far",
+            "is",
+            "it",
+            "to",
+            "the",
+            "Castle",
+            "of",
+            "Glinda",
+            "?",
+            "\"",
+            "asked",
+            "the",
+            "child",
+            "."
+        ],
+        [
+            "\"",
+            "It",
+            "is",
+            "not",
+            "a",
+            "great",
+            "way",
+            ",",
+            "\"",
+            "answered",
+            "the",
+            "farmer",
+            "'",
+            "s",
+            "wife",
+            "."
+        ],
+        [
+            "\"",
+            "Take",
+            "the",
+            "road",
+            "to",
+            "the",
+            "South",
+            "and",
+            "you",
+            "will",
+            "soon",
+            "reach",
+            "it",
+            "."
+        ]
+    ]
+}

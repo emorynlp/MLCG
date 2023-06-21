@@ -1,0 +1,340 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "lost",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "the last year",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "eats",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "this",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "you",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a meal plan",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the plan",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "myself",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-090",
+    "sents": [
+        [
+            "In",
+            "the",
+            "last",
+            "year",
+            "I",
+            "\u2019ve",
+            "lost",
+            "40",
+            "pounds",
+            ",",
+            "gotten",
+            "in",
+            "shape",
+            ",",
+            "and",
+            "feel",
+            "so",
+            "much",
+            "better",
+            "about",
+            "myself",
+            "."
+        ],
+        [
+            "I",
+            "did",
+            "this",
+            "partially",
+            "because",
+            "it",
+            "\u2019s",
+            "my",
+            "senior",
+            "year",
+            "and",
+            "I",
+            "\u2019m",
+            "going",
+            "to",
+            "college",
+            "in",
+            "the",
+            "fall",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "feel",
+            "like",
+            "everyone",
+            "eats",
+            "completely",
+            "unhealthy",
+            "in",
+            "college",
+            ",",
+            "and",
+            "you",
+            "\u2019re",
+            "surrounded",
+            "by",
+            "junk",
+            "food",
+            "."
+        ],
+        [
+            "To",
+            "make",
+            "this",
+            "even",
+            "harder",
+            ",",
+            "at",
+            "my",
+            "college",
+            "you",
+            "have",
+            "to",
+            "be",
+            "on",
+            "a",
+            "meal",
+            "plan",
+            "with",
+            "just",
+            "about",
+            "every",
+            "meal",
+            "being",
+            "on",
+            "the",
+            "plan",
+            "."
+        ],
+        [
+            "So",
+            "I",
+            "\u2019ll",
+            "be",
+            "eating",
+            "in",
+            "the",
+            "cafeteria",
+            "multiple",
+            "times",
+            "a",
+            "day",
+            "."
+        ],
+        [
+            "Do",
+            "college",
+            "cafeterias",
+            "have",
+            "healthy",
+            "eating",
+            "options",
+            "?"
+        ],
+        [
+            "I",
+            "just",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "get",
+            "out",
+            "of",
+            "shape",
+            "or",
+            "gain",
+            "the",
+            "\u201c",
+            "freshman",
+            "15",
+            "\u201d",
+            "or",
+            "anything",
+            "."
+        ],
+        [
+            "Any",
+            "comments",
+            "appreciated",
+            "."
+        ]
+    ]
+}

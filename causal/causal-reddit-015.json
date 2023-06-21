@@ -1,0 +1,307 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "somewhere",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "make",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "me happier and whatnot",
+                "pos": [
+                    10,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I just misconstrued everything",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I was just venting and letting out how I felt",
+                "pos": [
+                    5,
+                    15
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-015",
+    "sents": [
+        [
+            "Update",
+            ":",
+            "going",
+            "to",
+            "the",
+            "university",
+            "of",
+            "Delaware",
+            ":))",
+            "Hey",
+            "all",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "rejected",
+            "from",
+            "my",
+            "dream",
+            "school",
+            "(",
+            "Boston",
+            "College",
+            ")",
+            "and",
+            "I",
+            "feel",
+            "kind",
+            "of",
+            "lost",
+            "."
+        ],
+        [
+            "I",
+            "applied",
+            "ED",
+            "and",
+            "I",
+            "know",
+            "it",
+            "'s",
+            "crazy",
+            "selective",
+            "(",
+            "35,000",
+            "applicants",
+            ",",
+            "only",
+            "2,000",
+            "something",
+            "got",
+            "in",
+            ")",
+            "."
+        ],
+        [
+            "It",
+            "just",
+            "kinda",
+            "messed",
+            "with",
+            "my",
+            "confidence",
+            "."
+        ],
+        [
+            "I",
+            "'m",
+            "sure",
+            "I",
+            "'ll",
+            "go",
+            "somewhere",
+            "that",
+            "will",
+            "make",
+            "me",
+            "happier",
+            "and",
+            "whatnot",
+            "but",
+            "this",
+            "is",
+            "kinda",
+            "worse",
+            "than",
+            "a",
+            "heartbreak",
+            "lol",
+            "edit",
+            ":",
+            "wanted",
+            "to",
+            "clear",
+            "some",
+            "things",
+            "up",
+            ",",
+            "in",
+            "the",
+            "midst",
+            "of",
+            "my",
+            "sorrows",
+            "I",
+            "said",
+            "some",
+            "misinformation",
+            "that",
+            "has",
+            "become",
+            "an",
+            "area",
+            "of",
+            "contention",
+            "in",
+            "the",
+            "comments",
+            "lmao",
+            ".."
+        ],
+        [
+            "in",
+            "my",
+            "denial",
+            "letter",
+            ",",
+            "it",
+            "said",
+            "that",
+            "there",
+            "were",
+            "around",
+            "2,000",
+            "something",
+            "available",
+            "seats",
+            "that",
+            "would",
+            "be",
+            "filled",
+            "by",
+            "ED",
+            "kids",
+            "and",
+            "35K",
+            "is",
+            "the",
+            "amount",
+            "overall",
+            "that",
+            "apply",
+            "to",
+            "BC",
+            "I",
+            "believe",
+            "."
+        ],
+        [
+            "BC",
+            "does",
+            "not",
+            "have",
+            "a",
+            "6%",
+            "acceptance",
+            "rate",
+            "haha",
+            ",",
+            "it",
+            "'s",
+            "around",
+            "27%",
+            "normally",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "misconstrued",
+            "everything",
+            "because",
+            "I",
+            "was",
+            "just",
+            "venting",
+            "and",
+            "letting",
+            "out",
+            "how",
+            "I",
+            "felt",
+            "."
+        ],
+        [
+            "apologies",
+            "once",
+            "again",
+            "and",
+            "hope",
+            "this",
+            "helps",
+            "confused",
+            "folks",
+            "!"
+        ]
+    ]
+}

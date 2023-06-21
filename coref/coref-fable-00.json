@@ -1,0 +1,538 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a Lion",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "they",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a Lion",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "a Lion",
+                "pos": [
+                    20,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "a terrible creature",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "His",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the Lion",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the Lion",
+                "pos": [
+                    4,
+                    6
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the Lion",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "A LITTLE fox",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the Fox",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "the Fox",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "himself",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "the Fox",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "the Fox",
+                "pos": [
+                    17,
+                    19
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "little foxes",
+                "pos": [
+                    6,
+                    8
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this one",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 8,
+                "type": "post"
+            }
+        ],
+        [
+            {
+                "name": "our",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 8,
+                "type": "gen-entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    39,
+                    40
+                ],
+                "sent_id": 8,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "a lion",
+                "pos": [
+                    28,
+                    30
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    37,
+                    38
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "coref-fable-00",
+    "sents": [
+        [
+            "A",
+            "LITTLE",
+            "fox",
+            "was",
+            "out",
+            "playing",
+            "one",
+            "day",
+            ",",
+            "when",
+            "a",
+            "Lion",
+            "came",
+            "roaring",
+            "along",
+            "."
+        ],
+        [
+            "\u201c",
+            "Dear",
+            "me",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Fox",
+            ",",
+            "as",
+            "he",
+            "hid",
+            "behind",
+            "a",
+            "tree",
+            ",",
+            "\u201c",
+            "I",
+            "never",
+            "saw",
+            "a",
+            "Lion",
+            "before",
+            "."
+        ],
+        [
+            "What",
+            "a",
+            "terrible",
+            "creature",
+            "!"
+        ],
+        [
+            "His",
+            "voice",
+            "makes",
+            "me",
+            "tremble",
+            ".",
+            "\u201d"
+        ],
+        [
+            "The",
+            "next",
+            "time",
+            "the",
+            "Fox",
+            "met",
+            "the",
+            "Lion",
+            "he",
+            "was",
+            "not",
+            "so",
+            "much",
+            "afraid",
+            ",",
+            "but",
+            "he",
+            "kept",
+            "a",
+            "safe",
+            "distance",
+            "and",
+            "said",
+            "to",
+            "himself",
+            ",",
+            "\u201c",
+            "I",
+            "wish",
+            "he",
+            "would",
+            "not",
+            "make",
+            "such",
+            "a",
+            "noise",
+            "!",
+            "\u201d"
+        ],
+        [
+            "The",
+            "third",
+            "time",
+            "they",
+            "met",
+            ",",
+            "the",
+            "Fox",
+            "was",
+            "not",
+            "frightened",
+            "at",
+            "all",
+            "."
+        ],
+        [
+            "He",
+            "ran",
+            "up",
+            "to",
+            "the",
+            "Lion",
+            ",",
+            "and",
+            "said",
+            ",",
+            "\u201c",
+            "What",
+            "are",
+            "you",
+            "roaring",
+            "about",
+            "?",
+            "\u201d"
+        ],
+        [
+            "And",
+            "the",
+            "Lion",
+            "was",
+            "so",
+            "taken",
+            "by",
+            "surprise",
+            "that",
+            ",",
+            "without",
+            "saying",
+            "a",
+            "word",
+            ",",
+            "he",
+            "let",
+            "the",
+            "Fox",
+            "walk",
+            "away",
+            "."
+        ],
+        [
+            "It",
+            "would",
+            "not",
+            "be",
+            "safe",
+            "for",
+            "little",
+            "foxes",
+            "always",
+            "to",
+            "follow",
+            "the",
+            "example",
+            "of",
+            "this",
+            "one",
+            ";",
+            "but",
+            "it",
+            "is",
+            "often",
+            "true",
+            "that",
+            "what",
+            "our",
+            "fear",
+            "makes",
+            "seem",
+            "a",
+            "lion",
+            "in",
+            "the",
+            "way",
+            "has",
+            "no",
+            "danger",
+            "in",
+            "it",
+            "if",
+            "we",
+            "meet",
+            "it",
+            "bravely",
+            "."
+        ]
+    ]
+}

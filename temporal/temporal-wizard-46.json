@@ -1,0 +1,481 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "taking",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "followed",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was the sweetest little room",
+                "pos": [
+                    1,
+                    6
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a tiny fountain",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shot",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "fall back",
+                "pos": [
+                    24,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stood",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a shelf",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "full",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "laugh",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were so funny",
+                "pos": [
+                    22,
+                    25
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 13,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-46",
+    "sents": [
+        [
+            "So",
+            "Dorothy",
+            "said",
+            "good",
+            "-",
+            "bye",
+            "to",
+            "all",
+            "her",
+            "friends",
+            "except",
+            "Toto",
+            ",",
+            "and",
+            "taking",
+            "the",
+            "dog",
+            "in",
+            "her",
+            "arms",
+            "followed",
+            "the",
+            "green",
+            "girl",
+            "through",
+            "seven",
+            "passages",
+            "and",
+            "up",
+            "three",
+            "flights",
+            "of",
+            "stairs",
+            "until",
+            "they",
+            "came",
+            "to",
+            "a",
+            "room",
+            "at",
+            "the",
+            "front",
+            "of",
+            "the",
+            "Palace",
+            "."
+        ],
+        [
+            "It",
+            "was",
+            "the",
+            "sweetest",
+            "little",
+            "room",
+            "in",
+            "the",
+            "world",
+            ",",
+            "with",
+            "a",
+            "soft",
+            "comfortable",
+            "bed",
+            "that",
+            "had",
+            "sheets",
+            "of",
+            "green",
+            "silk",
+            "and",
+            "a",
+            "green",
+            "velvet",
+            "counterpane",
+            "."
+        ],
+        [
+            "There",
+            "was",
+            "a",
+            "tiny",
+            "fountain",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "room",
+            ",",
+            "that",
+            "shot",
+            "a",
+            "spray",
+            "of",
+            "green",
+            "perfume",
+            "into",
+            "the",
+            "air",
+            ",",
+            "to",
+            "fall",
+            "back",
+            "into",
+            "a",
+            "beautifully",
+            "carved",
+            "green",
+            "marble",
+            "basin",
+            "."
+        ],
+        [
+            "Beautiful",
+            "green",
+            "flowers",
+            "stood",
+            "in",
+            "the",
+            "windows",
+            ",",
+            "and",
+            "there",
+            "was",
+            "a",
+            "shelf",
+            "with",
+            "a",
+            "row",
+            "of",
+            "little",
+            "green",
+            "books",
+            "."
+        ],
+        [
+            "When",
+            "Dorothy",
+            "had",
+            "time",
+            "to",
+            "open",
+            "these",
+            "books",
+            "she",
+            "found",
+            "them",
+            "full",
+            "of",
+            "queer",
+            "green",
+            "pictures",
+            "that",
+            "made",
+            "her",
+            "laugh",
+            ",",
+            "they",
+            "were",
+            "so",
+            "funny",
+            "."
+        ]
+    ]
+}

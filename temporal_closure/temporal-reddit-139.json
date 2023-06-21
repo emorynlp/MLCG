@@ -1,0 +1,447 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "am working on",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "work",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am only taking",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "do",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "talked",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "said",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "started",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "am currently working",
+                "pos": [
+                    19,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-139",
+    "sents": [
+        [
+            "I",
+            "am",
+            "working",
+            "on",
+            "my",
+            "PhD",
+            "in",
+            "physics",
+            "."
+        ],
+        [
+            "I",
+            "work",
+            "a",
+            "minimum",
+            "of",
+            "50",
+            "hours",
+            "a",
+            "week",
+            "in",
+            "the",
+            "lab",
+            ",",
+            "usually",
+            "closer",
+            "to",
+            "60",
+            "."
+        ],
+        [
+            "I",
+            "am",
+            "only",
+            "taking",
+            "two",
+            "courses",
+            "each",
+            "semester",
+            "but",
+            "I",
+            "barely",
+            "have",
+            "time",
+            "to",
+            "do",
+            "the",
+            "homework",
+            ",",
+            "much",
+            "less",
+            "do",
+            "anything",
+            "fun",
+            "outside",
+            "of",
+            "work",
+            "/",
+            "school",
+            "."
+        ],
+        [
+            "I",
+            "talked",
+            "to",
+            "my",
+            "advisor",
+            "about",
+            "working",
+            "fewer",
+            "hours",
+            "and",
+            "he",
+            "basically",
+            "said",
+            "if",
+            "I",
+            "was",
+            "being",
+            "a",
+            "wimp",
+            "and",
+            "if",
+            "I",
+            "want",
+            "to",
+            "get",
+            "anywhere",
+            "in",
+            "academia",
+            "I",
+            "need",
+            "to",
+            "be",
+            "working",
+            "that",
+            "much",
+            "."
+        ],
+        [
+            "Before",
+            "I",
+            "started",
+            "this",
+            "program",
+            "I",
+            "definitely",
+            "wanted",
+            "to",
+            "get",
+            "my",
+            "PhD",
+            "and",
+            "do",
+            "research",
+            "in",
+            "the",
+            "field",
+            "I",
+            "am",
+            "currently",
+            "working",
+            "in",
+            ",",
+            "but",
+            "if",
+            "this",
+            "is",
+            "the",
+            "reality",
+            "of",
+            "that",
+            "I",
+            "am",
+            "not",
+            "sure",
+            "."
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "How",
+            "many",
+            "hours",
+            "do",
+            "y'all",
+            "work",
+            "in",
+            "the",
+            "lab",
+            "?"
+        ],
+        [
+            "Am",
+            "I",
+            "just",
+            "being",
+            "a",
+            "wimp",
+            "about",
+            "it",
+            "or",
+            "is",
+            "too",
+            "much",
+            "being",
+            "asked",
+            "of",
+            "me",
+            "?"
+        ]
+    ]
+}

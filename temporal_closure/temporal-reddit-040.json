@@ -1,0 +1,514 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "wrapped up",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found out",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "got",
+                "pos": [
+                    34,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m just so excited",
+                "pos": [
+                    1,
+                    5
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "felt",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "started off",
+                "pos": [
+                    14,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "struggling",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was dealing with",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "decided",
+                "pos": [
+                    27,
+                    28
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is questioning",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "do",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Edit",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "DCT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-040",
+    "sents": [
+        [
+            "Just",
+            "wrapped",
+            "up",
+            "my",
+            "first",
+            "semester",
+            "of",
+            "graduate",
+            "school",
+            "in",
+            "a",
+            "new",
+            "field",
+            "(",
+            "psychology",
+            "to",
+            "statistics",
+            ")",
+            "and",
+            "I",
+            "finally",
+            "got",
+            "my",
+            "grades",
+            "and",
+            "found",
+            "out",
+            "I",
+            "not",
+            "only",
+            "passed",
+            ",",
+            "but",
+            "I",
+            "got",
+            "A",
+            "\u2019s",
+            "!!"
+        ],
+        [
+            "Still",
+            "ca",
+            "n\u2019t",
+            "quite",
+            "believe",
+            "it",
+            "."
+        ],
+        [
+            "I",
+            "\u2019m",
+            "just",
+            "so",
+            "excited",
+            "and",
+            "felt",
+            "the",
+            "need",
+            "to",
+            "share",
+            ",",
+            "because",
+            "I",
+            "started",
+            "off",
+            "the",
+            "semester",
+            "seriously",
+            "struggling",
+            "."
+        ],
+        [
+            "I",
+            "was",
+            "dealing",
+            "with",
+            "really",
+            "bad",
+            "anxiety",
+            "and",
+            "imposter",
+            "syndrome",
+            "all",
+            "semester",
+            "and",
+            "thought",
+            "that",
+            "maybe",
+            "I",
+            "was",
+            "n\u2019t",
+            "cut",
+            "out",
+            "for",
+            "the",
+            "program",
+            ",",
+            "but",
+            "I",
+            "decided",
+            "I",
+            "would",
+            "stick",
+            "it",
+            "through",
+            "unless",
+            "they",
+            "failed",
+            "me",
+            "out",
+            "and",
+            "kicked",
+            "me",
+            "out",
+            ",",
+            "haha",
+            "."
+        ],
+        [
+            "To",
+            "anybody",
+            "who",
+            "is",
+            "questioning",
+            "whether",
+            "or",
+            "not",
+            "they",
+            "deserve",
+            "to",
+            "be",
+            "here",
+            ",",
+            "you",
+            "do",
+            "."
+        ],
+        [
+            "You",
+            "can",
+            "do",
+            "it",
+            "."
+        ],
+        [
+            "Cheers",
+            "and",
+            "happy",
+            "holidays",
+            "everyone",
+            "."
+        ],
+        [
+            "\u2665\ufe0f",
+            "Edit",
+            ":",
+            "spelling",
+            "error"
+        ]
+    ]
+}

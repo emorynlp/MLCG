@@ -1,0 +1,369 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "freshman activities",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "all of those things",
+                "pos": [
+                    18,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 5,
+                "type": "doc-situation"
+            }
+        ],
+        [
+            {
+                "name": "Got accepted",
+                "pos": [
+                    0,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "event"
+            },
+            {
+                "name": "got accepted",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 6,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "my dream school",
+                "pos": [
+                    3,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "a school",
+                "pos": [
+                    11,
+                    13
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "first semester",
+                "pos": [
+                    9,
+                    11
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "first semester",
+                "pos": [
+                    42,
+                    44
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-078",
+    "sents": [
+        [
+            "Got",
+            "accepted",
+            "into",
+            "my",
+            "dream",
+            "school",
+            "..."
+        ],
+        [
+            "spring",
+            "semester",
+            "???"
+        ],
+        [
+            "Do",
+            "you",
+            "think",
+            "I",
+            "should",
+            "still",
+            "go",
+            "?"
+        ],
+        [
+            "There",
+            "'s",
+            "options",
+            "to",
+            "study",
+            "abroad",
+            "which",
+            "i",
+            "'ve",
+            "always",
+            "wanted",
+            "to",
+            "do",
+            "but",
+            "I",
+            "wanted",
+            "to",
+            "wait",
+            "until",
+            "my",
+            "junior",
+            "year",
+            "."
+        ],
+        [
+            "Do",
+            "you",
+            "think",
+            "i",
+            "'ll",
+            "regret",
+            "missing",
+            "out",
+            "on",
+            "first",
+            "semester",
+            "freshman",
+            "activities",
+            "like",
+            "move",
+            "in",
+            "day",
+            "and",
+            "all",
+            "of",
+            "those",
+            "things",
+            "?"
+        ],
+        [
+            "Idrk",
+            "what",
+            "to",
+            "think",
+            "abt",
+            "this",
+            "situation",
+            "."
+        ],
+        [
+            "On",
+            "one",
+            "hand",
+            "i",
+            "'m",
+            "really",
+            "grateful",
+            "I",
+            "got",
+            "accepted",
+            "into",
+            "a",
+            "school",
+            "I",
+            "had",
+            "a",
+            "very",
+            "low",
+            "chance",
+            "at",
+            "with",
+            "my",
+            "gpa",
+            ",",
+            "but",
+            "on",
+            "the",
+            "other",
+            "hand",
+            "i",
+            "'m",
+            "a",
+            "little",
+            "sad",
+            "that",
+            "I",
+            "would",
+            "n't",
+            "be",
+            "able",
+            "to",
+            "attend",
+            "first",
+            "semester",
+            "."
+        ],
+        [
+            "Any",
+            "thoughts",
+            "and",
+            "advice",
+            "are",
+            "appreciated",
+            ":)"
+        ]
+    ]
+}

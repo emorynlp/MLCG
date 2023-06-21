@@ -1,0 +1,310 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "was thoroughly understood",
+                "pos": [
+                    6,
+                    9
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "monotonous",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knew",
+                "pos": [
+                    3,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "eaten",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "retired",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "settled",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was being \" busy",
+                "pos": [
+                    42,
+                    46
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-30",
+    "sents": [
+        [
+            "This",
+            "explanation",
+            ",",
+            "of",
+            "course",
+            ",",
+            "was",
+            "thoroughly",
+            "understood",
+            "by",
+            "every",
+            "one",
+            "present",
+            "."
+        ],
+        [
+            "The",
+            "fact",
+            "is",
+            ",",
+            "as",
+            "already",
+            "set",
+            "forth",
+            ",",
+            "when",
+            "you",
+            "live",
+            "a",
+            "life",
+            "of",
+            "intense",
+            "activity",
+            "for",
+            "six",
+            "months",
+            "in",
+            "the",
+            "year",
+            ",",
+            "and",
+            "of",
+            "comparative",
+            "or",
+            "actual",
+            "somnolence",
+            "for",
+            "the",
+            "other",
+            "six",
+            ",",
+            "during",
+            "the",
+            "latter",
+            "period",
+            "you",
+            "can",
+            "not",
+            "be",
+            "continually",
+            "pleading",
+            "sleepiness",
+            "when",
+            "there",
+            "are",
+            "people",
+            "about",
+            "or",
+            "things",
+            "to",
+            "be",
+            "done",
+            "."
+        ],
+        [
+            "The",
+            "excuse",
+            "gets",
+            "monotonous",
+            "."
+        ],
+        [
+            "The",
+            "animals",
+            "well",
+            "knew",
+            "that",
+            "Badger",
+            ",",
+            "having",
+            "eaten",
+            "a",
+            "hearty",
+            "breakfast",
+            ",",
+            "had",
+            "retired",
+            "to",
+            "his",
+            "study",
+            "and",
+            "settled",
+            "himself",
+            "in",
+            "an",
+            "arm",
+            "-",
+            "chair",
+            "with",
+            "his",
+            "legs",
+            "up",
+            "on",
+            "another",
+            "and",
+            "a",
+            "red",
+            "cotton",
+            "handkerchief",
+            "over",
+            "his",
+            "face",
+            ",",
+            "and",
+            "was",
+            "being",
+            "\"",
+            "busy",
+            "\"",
+            "in",
+            "the",
+            "usual",
+            "way",
+            "at",
+            "this",
+            "time",
+            "of",
+            "the",
+            "year",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,365 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "after",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "talking to them",
+                "pos": [
+                    8,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I like the idea",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "they 're a for - profit institution",
+                "pos": [
+                    12,
+                    19
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "nobody takes seriously in the professional world",
+                "pos": [
+                    20,
+                    27
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I will be using",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "my GI Bill",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "attend",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "thusly",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "also have the luxury of not being constrained by tuition expenses",
+                "pos": [
+                    12,
+                    23
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "cause",
+            "h": 1,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 6,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-107",
+    "sents": [
+        [
+            "Greetings",
+            "all",
+            ",",
+            "Looking",
+            "for",
+            "some",
+            "advice",
+            "and",
+            "feedback",
+            "here",
+            "."
+        ],
+        [
+            "I",
+            "really",
+            "want",
+            "to",
+            "get",
+            "into",
+            "web",
+            "development",
+            ",",
+            "and",
+            "DeVry",
+            "University",
+            "offers",
+            "the",
+            "course",
+            "and",
+            "certification",
+            "online",
+            "."
+        ],
+        [
+            "It",
+            "seems",
+            "like",
+            "a",
+            "good",
+            "program",
+            "and",
+            "after",
+            "talking",
+            "to",
+            "them",
+            "I",
+            "like",
+            "the",
+            "idea",
+            "."
+        ],
+        [
+            "Then",
+            "comes",
+            "the",
+            "internet",
+            "."
+        ],
+        [
+            "Everything",
+            "I",
+            "google",
+            "search",
+            "says",
+            "not",
+            "to",
+            "go",
+            "there",
+            ",",
+            "that",
+            "because",
+            "they",
+            "'re",
+            "a",
+            "for",
+            "-",
+            "profit",
+            "institution",
+            "that",
+            "nobody",
+            "takes",
+            "seriously",
+            "in",
+            "the",
+            "professional",
+            "world",
+            "."
+        ],
+        [
+            "I",
+            "will",
+            "be",
+            "using",
+            "my",
+            "GI",
+            "Bill",
+            "to",
+            "attend",
+            ",",
+            "and",
+            "thusly",
+            "also",
+            "have",
+            "the",
+            "luxury",
+            "of",
+            "not",
+            "being",
+            "constrained",
+            "by",
+            "tuition",
+            "expenses",
+            "."
+        ],
+        [
+            "What",
+            "I",
+            "'m",
+            "asking",
+            "here",
+            "is",
+            ":",
+            "Does",
+            "anyone",
+            "have",
+            "any",
+            "experience",
+            "in",
+            "dealing",
+            "with",
+            "DeVry",
+            "or",
+            "a",
+            "for",
+            "-",
+            "profit",
+            "institution",
+            "?"
+        ],
+        [
+            "Is",
+            "DeVry",
+            "legit",
+            "?"
+        ],
+        [
+            "Are",
+            "there",
+            "better",
+            "institutions",
+            "available",
+            "to",
+            "pursue",
+            "Web",
+            "Development",
+            "training",
+            "?"
+        ],
+        [
+            "Any",
+            "and",
+            "all",
+            "advice",
+            "is",
+            "very",
+            "valued",
+            "and",
+            "appreciated",
+            "."
+        ],
+        [
+            "Thank",
+            "you",
+            "!"
+        ]
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "I 've been getting frustrated",
+                "pos": [
+                    0,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "by",
+                "pos": [
+                    5,
+                    6
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "a lack of similarity between lectures and the assignments",
+                "pos": [
+                    6,
+                    15
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I need to learn how to do something",
+                "pos": [
+                    1,
+                    9
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "If I need to learn how to do something , like a certain process ( which is what most problems are in assignments ) then",
+                "pos": [
+                    0,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "the best way for me to learn is to see the exact same type of process being done",
+                "pos": [
+                    25,
+                    43
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-089",
+    "sents": [
+        [
+            "I",
+            "'ve",
+            "been",
+            "getting",
+            "frustrated",
+            "by",
+            "a",
+            "lack",
+            "of",
+            "similarity",
+            "between",
+            "lectures",
+            "and",
+            "the",
+            "assignments",
+            "."
+        ],
+        [
+            "I",
+            "learn",
+            "by",
+            "examples",
+            "."
+        ],
+        [
+            "If",
+            "I",
+            "need",
+            "to",
+            "learn",
+            "how",
+            "to",
+            "do",
+            "something",
+            ",",
+            "like",
+            "a",
+            "certain",
+            "process",
+            "(",
+            "which",
+            "is",
+            "what",
+            "most",
+            "problems",
+            "are",
+            "in",
+            "assignments",
+            ")",
+            "then",
+            "the",
+            "best",
+            "way",
+            "for",
+            "me",
+            "to",
+            "learn",
+            "is",
+            "to",
+            "see",
+            "the",
+            "exact",
+            "same",
+            "type",
+            "of",
+            "process",
+            "being",
+            "done",
+            "."
+        ],
+        [
+            "but",
+            "in",
+            "this",
+            "one",
+            "class",
+            ",",
+            "the",
+            "professor",
+            "has",
+            "examples",
+            ",",
+            "but",
+            "not",
+            "at",
+            "all",
+            "the",
+            "same",
+            "types",
+            "of",
+            "examples",
+            "as",
+            "what",
+            "we",
+            "'re",
+            "expected",
+            "to",
+            "do",
+            "for",
+            "assignments",
+            "."
+        ],
+        [
+            "Am",
+            "I",
+            "just",
+            "being",
+            "a",
+            "whiner",
+            "?"
+        ],
+        [
+            "Or",
+            "is",
+            "there",
+            "validity",
+            "to",
+            "my",
+            "complaint",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,526 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "more anxious",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "walked",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tired",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "ride",
+                "pos": [
+                    29,
+                    30
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thinner",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "advanced",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "came upon",
+                "pos": [
+                    19,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "flowing",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "see",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "running",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dotted",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "bordered",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "hanging",
+                "pos": [
+                    35,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were greatly pleased",
+                "pos": [
+                    1,
+                    4
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "asked",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "replied",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wizard-33",
+    "sents": [
+        [
+            "This",
+            "adventure",
+            "made",
+            "the",
+            "travelers",
+            "more",
+            "anxious",
+            "than",
+            "ever",
+            "to",
+            "get",
+            "out",
+            "of",
+            "the",
+            "forest",
+            ",",
+            "and",
+            "they",
+            "walked",
+            "so",
+            "fast",
+            "that",
+            "Dorothy",
+            "became",
+            "tired",
+            ",",
+            "and",
+            "had",
+            "to",
+            "ride",
+            "on",
+            "the",
+            "Lion",
+            "'",
+            "s",
+            "back",
+            "."
+        ],
+        [
+            "To",
+            "their",
+            "great",
+            "joy",
+            "the",
+            "trees",
+            "became",
+            "thinner",
+            "the",
+            "farther",
+            "they",
+            "advanced",
+            ",",
+            "and",
+            "in",
+            "the",
+            "afternoon",
+            "they",
+            "suddenly",
+            "came",
+            "upon",
+            "a",
+            "broad",
+            "river",
+            ",",
+            "flowing",
+            "swiftly",
+            "just",
+            "before",
+            "them",
+            "."
+        ],
+        [
+            "On",
+            "the",
+            "other",
+            "side",
+            "of",
+            "the",
+            "water",
+            "they",
+            "could",
+            "see",
+            "the",
+            "road",
+            "of",
+            "yellow",
+            "brick",
+            "running",
+            "through",
+            "a",
+            "beautiful",
+            "country",
+            ",",
+            "with",
+            "green",
+            "meadows",
+            "dotted",
+            "with",
+            "bright",
+            "flowers",
+            "and",
+            "all",
+            "the",
+            "road",
+            "bordered",
+            "with",
+            "trees",
+            "hanging",
+            "full",
+            "of",
+            "delicious",
+            "fruits",
+            "."
+        ],
+        [
+            "They",
+            "were",
+            "greatly",
+            "pleased",
+            "to",
+            "see",
+            "this",
+            "delightful",
+            "country",
+            "before",
+            "them",
+            "."
+        ],
+        [
+            "\"",
+            "How",
+            "shall",
+            "we",
+            "cross",
+            "the",
+            "river",
+            "?",
+            "\"",
+            "asked",
+            "Dorothy",
+            "."
+        ],
+        [
+            "\"",
+            "That",
+            "is",
+            "easily",
+            "done",
+            ",",
+            "\"",
+            "replied",
+            "the",
+            "Scarecrow",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "Tin",
+            "Woodman",
+            "must",
+            "build",
+            "us",
+            "a",
+            "raft",
+            ",",
+            "so",
+            "we",
+            "can",
+            "float",
+            "to",
+            "the",
+            "other",
+            "side",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

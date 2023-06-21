@@ -1,0 +1,466 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "getting",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was very valuable",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "learned",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "mature",
+                "pos": [
+                    26,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were so much easier",
+                "pos": [
+                    8,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "had",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was learning",
+                "pos": [
+                    27,
+                    29
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "found",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be easier",
+                "pos": [
+                    7,
+                    9
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "depends on",
+                "pos": [
+                    5,
+                    7
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "'m so happy",
+                "pos": [
+                    14,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "worked",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 6,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 13,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-140",
+    "sents": [
+        [
+            "For",
+            "me",
+            "personally",
+            ",",
+            "getting",
+            "two",
+            "years",
+            "of",
+            "work",
+            "experience",
+            "was",
+            "very",
+            "valuable",
+            "."
+        ],
+        [
+            "I",
+            "learned",
+            "so",
+            "much",
+            "more",
+            "about",
+            "how",
+            "a",
+            "professional",
+            "environment",
+            "functions",
+            "and",
+            "how",
+            "to",
+            "act",
+            "in",
+            "the",
+            "work",
+            "place",
+            "and",
+            "that",
+            "it",
+            "made",
+            "me",
+            "much",
+            "more",
+            "mature",
+            "."
+        ],
+        [
+            "Work",
+            "is",
+            "not",
+            "like",
+            "school",
+            "--",
+            "everyone",
+            "will",
+            "not",
+            "be",
+            "your",
+            "friend",
+            "--",
+            "but",
+            "you",
+            "have",
+            "to",
+            "act",
+            "professional",
+            "otherwise",
+            "you",
+            "could",
+            "lose",
+            "your",
+            "job",
+            "."
+        ],
+        [
+            "I",
+            "'ve",
+            "found",
+            "that",
+            "interviews",
+            "and",
+            "writing",
+            "essays",
+            "were",
+            "so",
+            "much",
+            "easier",
+            "when",
+            "I",
+            "had",
+            "actual",
+            "work",
+            "experiences",
+            "to",
+            "go",
+            "off",
+            "of",
+            "instead",
+            "of",
+            "just",
+            "what",
+            "I",
+            "was",
+            "learning",
+            "in",
+            "classes",
+            "."
+        ],
+        [
+            "Also",
+            ",",
+            "I",
+            "'ve",
+            "found",
+            "it",
+            "'ll",
+            "be",
+            "easier",
+            "to",
+            "get",
+            "more",
+            "jobs",
+            "now",
+            "with",
+            "2",
+            "years",
+            "of",
+            "experience",
+            "and",
+            "a",
+            "Masters",
+            "degree",
+            "."
+        ],
+        [
+            "Disclaimer",
+            ":",
+            "This",
+            "all",
+            "obviously",
+            "depends",
+            "on",
+            "your",
+            "career",
+            "path",
+            "but",
+            "for",
+            "me",
+            "I",
+            "'m",
+            "so",
+            "happy",
+            "I",
+            "worked",
+            "before",
+            "grad",
+            "school",
+            "."
+        ]
+    ]
+}

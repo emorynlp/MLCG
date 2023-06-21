@@ -1,0 +1,464 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "fucked",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "threatened",
+                "pos": [
+                    46,
+                    47
+                ],
+                "sent_id": 1,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "this information",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "our",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "we",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the coach",
+                "pos": [
+                    39,
+                    41
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "He",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "him",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "he",
+                "pos": [
+                    40,
+                    41
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "players",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a",
+                "pos": [
+                    42,
+                    43
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the kids",
+                "pos": [
+                    50,
+                    52
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a mom",
+                "pos": [
+                    42,
+                    45
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    55,
+                    56
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "my soccer team",
+                "pos": [
+                    18,
+                    21
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the team",
+                "pos": [
+                    36,
+                    38
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "the team",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    21,
+                    22
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "me",
+                "pos": [
+                    45,
+                    46
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    18,
+                    19
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        }
+    ],
+    "title": "coref-reddit-014",
+    "sents": [
+        [
+            "So",
+            "basically",
+            "I",
+            "want",
+            "to",
+            "say",
+            "that",
+            "I",
+            "acted",
+            "as",
+            "the",
+            "on",
+            "-",
+            "the",
+            "-",
+            "field",
+            "captain",
+            "for",
+            "my",
+            "soccer",
+            "team",
+            "my",
+            "sophomore",
+            "and",
+            "junior",
+            "year",
+            ",",
+            "but",
+            "was",
+            "not",
+            "given",
+            "the",
+            "\"",
+            "official",
+            "\"",
+            "name",
+            "of",
+            "captain",
+            "because",
+            "the",
+            "coach",
+            "really",
+            "did",
+            "not",
+            "like",
+            "me",
+            "."
+        ],
+        [
+            "(",
+            "He",
+            "would",
+            "goof",
+            "off",
+            "all",
+            "practice",
+            "and",
+            "not",
+            "help",
+            "our",
+            "team",
+            ",",
+            "we",
+            "did",
+            "poorly",
+            "and",
+            "whenever",
+            "I",
+            "would",
+            "call",
+            "him",
+            "out",
+            "he",
+            "would",
+            "get",
+            "mad",
+            ",",
+            "he",
+            "later",
+            "quit",
+            "due",
+            "to",
+            "bad",
+            "results",
+            "with",
+            "the",
+            "team",
+            "and",
+            "because",
+            "he",
+            "fucked",
+            "a",
+            "players",
+            "mom",
+            "and",
+            "threatened",
+            "to",
+            "take",
+            "away",
+            "the",
+            "kids",
+            "playing",
+            "time",
+            "if",
+            "she",
+            "did",
+            "n't",
+            "continue",
+            "...",
+            ")"
+        ],
+        [
+            "&",
+            "#x200B",
+            ";",
+            "Where",
+            ",",
+            "if",
+            "at",
+            "all",
+            ",",
+            "should",
+            "I",
+            "put",
+            "this",
+            "information",
+            "."
+        ],
+        [
+            "Because",
+            "truly",
+            "I",
+            "was",
+            "the",
+            "best",
+            "\"",
+            "Captain",
+            "\"",
+            "on",
+            "the",
+            "team",
+            ",",
+            "as",
+            "the",
+            "official",
+            "captains",
+            "would",
+            "n't",
+            "lead",
+            "for",
+            "crap",
+            "and",
+            "were",
+            "super",
+            "negative",
+            "all",
+            "the",
+            "time",
+            "."
+        ],
+        [
+            "Everyone",
+            "agreed",
+            "I",
+            "should",
+            "'ve",
+            "been",
+            "captain",
+            "lol"
+        ]
+    ]
+}

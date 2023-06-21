@@ -1,0 +1,347 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "it \u2019s really scaring me",
+                "pos": [
+                    33,
+                    38
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "because",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I feel like I should fundamentally understand what is going on in my classes , especially the ones major - related",
+                "pos": [
+                    39,
+                    60
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019ll be able to memorize and regurgitate enough relevant information",
+                "pos": [
+                    4,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "do relatively well on exams / finals",
+                "pos": [
+                    15,
+                    22
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "once",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 1,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "I \u2019m done with the class",
+                "pos": [
+                    25,
+                    31
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "you can forget anything that was taught to me",
+                "pos": [
+                    32,
+                    41
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I just feel really dumb taking all of these notes , labeling all of these diagrams",
+                "pos": [
+                    0,
+                    16
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "when",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I know for the most part I \u2019m just gon na forget it come a few months , maybe even a few weeks",
+                "pos": [
+                    18,
+                    41
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-051",
+    "sents": [
+        [
+            "Idk",
+            "why",
+            ",",
+            "but",
+            "I",
+            "just",
+            "feel",
+            "like",
+            "that",
+            "all",
+            "of",
+            "this",
+            "stuff",
+            "I",
+            "\u2019m",
+            "\u201c",
+            "learning",
+            "\u201d",
+            "in",
+            "my",
+            "classes",
+            "are",
+            "just",
+            "going",
+            "through",
+            "one",
+            "ear",
+            "and",
+            "out",
+            "the",
+            "other",
+            ",",
+            "and",
+            "it",
+            "\u2019s",
+            "really",
+            "scaring",
+            "me",
+            "because",
+            "I",
+            "feel",
+            "like",
+            "I",
+            "should",
+            "fundamentally",
+            "understand",
+            "what",
+            "is",
+            "going",
+            "on",
+            "in",
+            "my",
+            "classes",
+            ",",
+            "especially",
+            "the",
+            "ones",
+            "major",
+            "-",
+            "related",
+            "."
+        ],
+        [
+            "Like",
+            "sure",
+            ",",
+            "I",
+            "\u2019ll",
+            "be",
+            "able",
+            "to",
+            "memorize",
+            "and",
+            "regurgitate",
+            "enough",
+            "relevant",
+            "information",
+            "to",
+            "do",
+            "relatively",
+            "well",
+            "on",
+            "exams",
+            "/",
+            "finals",
+            ",",
+            "but",
+            "once",
+            "I",
+            "\u2019m",
+            "done",
+            "with",
+            "the",
+            "class",
+            ",",
+            "you",
+            "can",
+            "forget",
+            "anything",
+            "that",
+            "was",
+            "taught",
+            "to",
+            "me",
+            "."
+        ],
+        [
+            "I",
+            "just",
+            "feel",
+            "really",
+            "dumb",
+            "taking",
+            "all",
+            "of",
+            "these",
+            "notes",
+            ",",
+            "labeling",
+            "all",
+            "of",
+            "these",
+            "diagrams",
+            ",",
+            "when",
+            "I",
+            "know",
+            "for",
+            "the",
+            "most",
+            "part",
+            "I",
+            "\u2019m",
+            "just",
+            "gon",
+            "na",
+            "forget",
+            "it",
+            "come",
+            "a",
+            "few",
+            "months",
+            ",",
+            "maybe",
+            "even",
+            "a",
+            "few",
+            "weeks",
+            "."
+        ],
+        [
+            "Is",
+            "it",
+            "just",
+            "me",
+            "?"
+        ]
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "'s why",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gets",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "did",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "has",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "goes",
+                "pos": [
+                    47,
+                    48
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "does",
+                "pos": [
+                    57,
+                    58
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "Edit",
+                "pos": [
+                    96,
+                    97
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "blew up",
+                "pos": [
+                    100,
+                    102
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "think",
+                "pos": [
+                    104,
+                    105
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "have",
+                "pos": [
+                    107,
+                    108
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 7,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 7,
+            "t": 0,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-045",
+    "sents": [
+        [
+            "Here",
+            "'s",
+            "why",
+            ":",
+            "\"",
+            "My",
+            "SAT",
+            "was",
+            "kinda",
+            "low",
+            "\"",
+            "gets",
+            "1590",
+            "on",
+            "the",
+            "sat",
+            "\"",
+            "I",
+            "barely",
+            "did",
+            "anything",
+            "in",
+            "highschool",
+            "\"",
+            "has",
+            "like",
+            "10",
+            "ecs",
+            "on",
+            "one",
+            "\"",
+            "spike",
+            "\"",
+            "\"",
+            "I",
+            "does",
+            "n't",
+            "matter",
+            "if",
+            "you",
+            "get",
+            "into",
+            "a",
+            "low",
+            "ranked",
+            "college",
+            "\"",
+            "goes",
+            "to",
+            "Stanford",
+            "\"",
+            "I",
+            "do",
+            "n't",
+            "like",
+            "studying",
+            "\"",
+            "does",
+            "10",
+            "AP",
+            "'s",
+            "Attempts",
+            "to",
+            "give",
+            "off",
+            "the",
+            "\"",
+            "did",
+            "nt",
+            "do",
+            "anything",
+            ",",
+            "yet",
+            "went",
+            "to",
+            "an",
+            "IVY",
+            "\"",
+            "vibe",
+            "Poor",
+            "attempt",
+            "at",
+            "humour",
+            "Bro",
+            ",",
+            "if",
+            "you",
+            "got",
+            "a",
+            "BELOW",
+            "AVERAGE",
+            "SAT",
+            "THEN",
+            "MAKE",
+            "THE",
+            "VIDEO",
+            "Edit",
+            ":",
+            "Since",
+            "this",
+            "blew",
+            "up",
+            ",",
+            "I",
+            "think",
+            "I",
+            "finally",
+            "have",
+            "something",
+            "to",
+            "write",
+            "under",
+            "\"",
+            "Honor",
+            "\"",
+            "haha"
+        ]
+    ]
+}

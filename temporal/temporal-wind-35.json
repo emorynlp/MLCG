@@ -1,0 +1,459 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "stood",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "torn",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gathering",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "gathering",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "knew",
+                "pos": [
+                    36,
+                    37
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "stood",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "pleaded",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "whispered",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "conjured",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "claimed",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tore",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "set",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "followed",
+                "pos": [
+                    16,
+                    17
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "dogging",
+                "pos": [
+                    33,
+                    34
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reproached",
+                "pos": [
+                    38,
+                    39
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "contains",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-35",
+    "sents": [
+        [
+            "Poor",
+            "Mole",
+            "stood",
+            "alone",
+            "in",
+            "the",
+            "road",
+            ",",
+            "his",
+            "heart",
+            "torn",
+            "asunder",
+            ",",
+            "and",
+            "a",
+            "big",
+            "sob",
+            "gathering",
+            ",",
+            "gathering",
+            ",",
+            "somewhere",
+            "low",
+            "down",
+            "inside",
+            "him",
+            ",",
+            "to",
+            "leap",
+            "up",
+            "to",
+            "the",
+            "surface",
+            "presently",
+            ",",
+            "he",
+            "knew",
+            ",",
+            "in",
+            "passionate",
+            "escape",
+            "."
+        ],
+        [
+            "But",
+            "even",
+            "under",
+            "such",
+            "a",
+            "test",
+            "as",
+            "this",
+            "his",
+            "loyalty",
+            "to",
+            "his",
+            "friend",
+            "stood",
+            "firm",
+            "."
+        ],
+        [
+            "Never",
+            "for",
+            "a",
+            "moment",
+            "did",
+            "he",
+            "dream",
+            "of",
+            "abandoning",
+            "him",
+            "."
+        ],
+        [
+            "Meanwhile",
+            ",",
+            "the",
+            "wafts",
+            "from",
+            "his",
+            "old",
+            "home",
+            "pleaded",
+            ",",
+            "whispered",
+            ",",
+            "conjured",
+            ",",
+            "and",
+            "finally",
+            "claimed",
+            "him",
+            "imperiously",
+            "."
+        ],
+        [
+            "He",
+            "dared",
+            "not",
+            "tarry",
+            "longer",
+            "within",
+            "their",
+            "magic",
+            "circle",
+            "."
+        ],
+        [
+            "With",
+            "a",
+            "wrench",
+            "that",
+            "tore",
+            "his",
+            "very",
+            "heartstrings",
+            "he",
+            "set",
+            "his",
+            "face",
+            "down",
+            "the",
+            "road",
+            "and",
+            "followed",
+            "submissively",
+            "in",
+            "the",
+            "track",
+            "of",
+            "the",
+            "Rat",
+            ",",
+            "while",
+            "faint",
+            ",",
+            "thin",
+            "little",
+            "smells",
+            ",",
+            "still",
+            "dogging",
+            "his",
+            "retreating",
+            "nose",
+            ",",
+            "reproached",
+            "him",
+            "for",
+            "his",
+            "new",
+            "friendship",
+            "and",
+            "his",
+            "callous",
+            "forgetfulness",
+            "."
+        ]
+    ]
+}

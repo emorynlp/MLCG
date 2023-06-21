@@ -1,0 +1,306 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "you",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "gen-entity"
+            }
+        ],
+        [
+            {
+                "name": "poop",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 2,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "wrote",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 2,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 3,
+                "type": "event"
+            },
+            {
+                "name": "it",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "event"
+            }
+        ],
+        [
+            {
+                "name": "Princeton",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "princeton",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "this",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 5,
+                "type": "post"
+            }
+        ],
+        [
+            {
+                "name": "I",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    9,
+                    10
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "my",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "i",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "i",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reddit-056",
+    "sents": [
+        [
+            "last",
+            "minute",
+            "essay",
+            "panic",
+            "here",
+            "."
+        ],
+        [
+            "On",
+            "the",
+            "Princeton",
+            "ed",
+            "app",
+            ",",
+            "it",
+            "asks",
+            "what",
+            "you",
+            "want",
+            "to",
+            "learn",
+            "in",
+            "college",
+            "and",
+            "gives",
+            "you",
+            "50",
+            "words",
+            "."
+        ],
+        [
+            "I",
+            "tried",
+            "to",
+            "be",
+            "quirky",
+            "and",
+            "wrote",
+            "about",
+            "how",
+            "I",
+            "refuse",
+            "to",
+            "poop",
+            "in",
+            "public",
+            ",",
+            "and",
+            "I",
+            "want",
+            "to",
+            "learn",
+            "to",
+            "be",
+            "fine",
+            "with",
+            "it",
+            "."
+        ],
+        [
+            "Is",
+            "it",
+            "too",
+            "risky",
+            "?"
+        ],
+        [
+            "or",
+            "is",
+            "it",
+            "a",
+            "chance",
+            "worth",
+            "taking",
+            "given",
+            "that",
+            "princeton",
+            "is",
+            "out",
+            "of",
+            "my",
+            "league",
+            "anyways",
+            "?"
+        ],
+        [
+            "no",
+            ",",
+            "this",
+            "is",
+            "n't",
+            "a",
+            "shitpost",
+            "..."
+        ],
+        [
+            "this",
+            "is",
+            "actually",
+            "my",
+            "essay",
+            ",",
+            "seriously",
+            "&",
+            "#x200B",
+            ";",
+            "*edit",
+            ":",
+            "lmaooo",
+            "im",
+            "getting",
+            "trashed",
+            "out",
+            "here",
+            "."
+        ],
+        [
+            "dw",
+            "yall",
+            "i",
+            "had",
+            "a",
+            "backup",
+            "."
+        ],
+        [
+            "no",
+            "more",
+            "\"",
+            "dropping",
+            "coins",
+            "in",
+            "the",
+            "public",
+            "can",
+            "\"",
+            "i",
+            "guess*"
+        ]
+    ]
+}

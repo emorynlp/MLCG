@@ -1,0 +1,336 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "a student need to jump through hoops just to learn something that is a \" requirement",
+                "pos": [
+                    2,
+                    18
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 1,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "get to major specific classes",
+                "pos": [
+                    21,
+                    26
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "we need more classes",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    6,
+                    7
+                ],
+                "sent_id": 7,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "justify our damn majors",
+                "pos": [
+                    7,
+                    11
+                ],
+                "sent_id": 7,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "professors with a hard on",
+                "pos": [
+                    7,
+                    12
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "for",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 8,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "written assignments",
+                "pos": [
+                    13,
+                    15
+                ],
+                "sent_id": 8,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-reddit-052",
+    "sents": [
+        [
+            "I",
+            "convinced",
+            "college",
+            "is",
+            "a",
+            "scam",
+            "..."
+        ],
+        [
+            "why",
+            "does",
+            "a",
+            "student",
+            "need",
+            "to",
+            "jump",
+            "through",
+            "hoops",
+            "just",
+            "to",
+            "learn",
+            "something",
+            "that",
+            "is",
+            "a",
+            "\"",
+            "requirement",
+            "\"",
+            "just",
+            "to",
+            "get",
+            "to",
+            "major",
+            "specific",
+            "classes",
+            "?!?!"
+        ],
+        [
+            "I",
+            "am",
+            "currently",
+            "majoring",
+            "in",
+            "Accounting",
+            "and",
+            "Finance",
+            "."
+        ],
+        [
+            "Accounting",
+            ",",
+            "its",
+            "easy",
+            "."
+        ],
+        [
+            "Record",
+            "transaction",
+            "."
+        ],
+        [
+            "Simple",
+            ",",
+            "plus",
+            "and",
+            "minus",
+            "Finance",
+            ",",
+            "easy",
+            "."
+        ],
+        [
+            "Buy",
+            "low",
+            "and",
+            "sell",
+            "high",
+            "."
+        ],
+        [
+            "Why",
+            "do",
+            "we",
+            "need",
+            "more",
+            "classes",
+            "to",
+            "justify",
+            "our",
+            "damn",
+            "majors",
+            "?"
+        ],
+        [
+            "Not",
+            "only",
+            "that",
+            ",",
+            "what",
+            "is",
+            "with",
+            "professors",
+            "with",
+            "a",
+            "hard",
+            "on",
+            "for",
+            "written",
+            "assignments",
+            "?!?!"
+        ],
+        [
+            "I",
+            "feel",
+            "like",
+            "I",
+            "am",
+            "wasting",
+            "my",
+            "life",
+            "in",
+            "school",
+            "..."
+        ],
+        [
+            "I",
+            "honestly",
+            "have",
+            "no",
+            "choice",
+            "..."
+        ],
+        [
+            "my",
+            "parents",
+            "expect",
+            "me",
+            "to",
+            "attend",
+            "college",
+            "...."
+        ],
+        [
+            "being",
+            "raised",
+            "in",
+            "a",
+            "time",
+            "where",
+            "college",
+            "actually",
+            "meant",
+            "for",
+            "something",
+            "..."
+        ],
+        [
+            "and",
+            "was",
+            "WAY",
+            "cheaper",
+            "..."
+        ],
+        [
+            "All",
+            "I",
+            "literally",
+            "want",
+            "to",
+            "know",
+            "is",
+            "how",
+            "to",
+            "do",
+            "my",
+            "damn",
+            "taxes",
+            "...."
+        ],
+        [
+            "I",
+            "do",
+            "n't",
+            "need",
+            "any",
+            "of",
+            "these",
+            "other",
+            "classes",
+            "...."
+        ]
+    ]
+}

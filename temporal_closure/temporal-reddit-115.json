@@ -1,0 +1,607 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "been preparing",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "realized",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reacts",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019s rigorous",
+                "pos": [
+                    25,
+                    27
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "thought",
+                "pos": [
+                    43,
+                    44
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    45,
+                    46
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "been in",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "reek",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is amazing",
+                "pos": [
+                    3,
+                    5
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "is something",
+                "pos": [
+                    22,
+                    24
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "want",
+                "pos": [
+                    25,
+                    26
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 10,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 11,
+            "t": 9,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-115",
+    "sents": [
+        [
+            "I",
+            "\u2019ve",
+            "been",
+            "preparing",
+            "for",
+            "six",
+            "or",
+            "so",
+            "months",
+            "now",
+            "to",
+            "apply",
+            "to",
+            "grad",
+            "school",
+            "and",
+            "I",
+            "realized",
+            "I",
+            "have",
+            "n\u2019t",
+            "heard",
+            "a",
+            "super",
+            "positive",
+            "testimony",
+            "about",
+            "the",
+            "grad",
+            "school",
+            "experience",
+            "."
+        ],
+        [
+            "I",
+            "know",
+            "this",
+            "depends",
+            "on",
+            "a",
+            "lot",
+            "of",
+            "things",
+            ":",
+            "everyone",
+            "reacts",
+            "differently",
+            "to",
+            "major",
+            "life",
+            "changes",
+            ";",
+            "expectations",
+            "might",
+            "not",
+            "be",
+            "met",
+            ";",
+            "it",
+            "\u2019s",
+            "rigorous",
+            ";",
+            "sometimes",
+            "advisors",
+            ",",
+            "classmates",
+            ",",
+            "or",
+            "the",
+            "institution",
+            "turn",
+            "out",
+            "to",
+            "be",
+            "not",
+            "what",
+            "you",
+            "thought",
+            "or",
+            "wanted",
+            "."
+        ],
+        [
+            "But",
+            "is",
+            "it",
+            "possible",
+            "to",
+            "be",
+            "enjoyable",
+            "and",
+            "a",
+            "good",
+            "experience",
+            "?"
+        ],
+        [
+            "Do",
+            "people",
+            "find",
+            "it",
+            "fulfilling",
+            "a",
+            "good",
+            "amount",
+            "of",
+            "the",
+            "time",
+            "?"
+        ],
+        [
+            "I",
+            "have",
+            "been",
+            "in",
+            "the",
+            "workforce",
+            "for",
+            "a",
+            "time",
+            "now",
+            "and",
+            "some",
+            "of",
+            "the",
+            "grad",
+            "school",
+            "testimonies",
+            "reek",
+            "like",
+            "my",
+            "time",
+            "in",
+            "a",
+            "toxic",
+            "workplace",
+            "."
+        ],
+        [
+            "Now",
+            "my",
+            "work",
+            "is",
+            "amazing",
+            "and",
+            "I",
+            "\u2019ll",
+            "be",
+            "sad",
+            "to",
+            "leave",
+            "it",
+            "when",
+            "I",
+            "go",
+            "back",
+            "to",
+            "school",
+            "but",
+            "going",
+            "back",
+            "is",
+            "something",
+            "I",
+            "want",
+            "to",
+            "do",
+            "for",
+            "myself",
+            "."
+        ],
+        [
+            "But",
+            "I",
+            "do",
+            "n\u2019t",
+            "want",
+            "to",
+            "voluntarily",
+            "go",
+            "into",
+            "debt",
+            "to",
+            "be",
+            "in",
+            "a",
+            "toxic",
+            "workplace",
+            "!"
+        ]
+    ]
+}

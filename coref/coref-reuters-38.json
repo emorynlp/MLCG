@@ -1,0 +1,258 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "Merrill Lynch",
+                "pos": [
+                    37,
+                    39
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Merrill",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "a 150 mln dlr , seven - year revolving loan",
+                "pos": [
+                    25,
+                    35
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "the loan",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The syndicated loan",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Alaska Housing Finance Corp",
+                "pos": [
+                    0,
+                    4
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Alaska Housing Finance",
+                "pos": [
+                    0,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Alaska",
+                "pos": [
+                    12,
+                    13
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            },
+            {
+                "name": "Alaska",
+                "pos": [
+                    28,
+                    29
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [],
+    "title": "coref-reuters-38",
+    "sents": [
+        [
+            "Alaska",
+            "Housing",
+            "Finance",
+            "Corp",
+            ",",
+            "a",
+            "local",
+            "U.S.",
+            "Government",
+            "agency",
+            ",",
+            "has",
+            "become",
+            "the",
+            "first",
+            "municipal",
+            "entity",
+            "to",
+            "tap",
+            "the",
+            "syndicated",
+            "loan",
+            "market",
+            ",",
+            "receiving",
+            "a",
+            "150",
+            "mln",
+            "dlr",
+            ",",
+            "seven",
+            "-",
+            "year",
+            "revolving",
+            "loan",
+            ",",
+            "said",
+            "Merrill",
+            "Lynch",
+            "Capital",
+            "Markets",
+            "as",
+            "arranger",
+            "."
+        ],
+        [
+            "Merrill",
+            "said",
+            "the",
+            "loan",
+            "is",
+            "a",
+            "back",
+            "-",
+            "up",
+            "to",
+            "a",
+            "proposed",
+            "euro-commercial",
+            "paper",
+            "program",
+            "."
+        ],
+        [
+            "The",
+            "syndicated",
+            "loan",
+            ",",
+            "which",
+            "is",
+            "unsecured",
+            ",",
+            "carries",
+            "a",
+            "commitment",
+            "fee",
+            "of",
+            "0.10",
+            "pct",
+            "per",
+            "year",
+            "."
+        ],
+        [
+            "Advances",
+            "will",
+            "be",
+            "priced",
+            "at",
+            "31",
+            "-",
+            "1/4",
+            "basis",
+            "points",
+            "over",
+            "the",
+            "London",
+            "Interbank",
+            "Offered",
+            "Rate",
+            "while",
+            "notes",
+            ",",
+            "which",
+            "need",
+            "only",
+            "be",
+            "purchased",
+            "by",
+            "banks",
+            "if",
+            "third",
+            "party",
+            "investors",
+            "agree",
+            "to",
+            "buy",
+            "them",
+            "as",
+            "well",
+            ",",
+            "will",
+            "be",
+            "priced",
+            "at",
+            "offering",
+            "."
+        ],
+        [
+            "Alaska",
+            "Housing",
+            "Finance",
+            "was",
+            "established",
+            "by",
+            "the",
+            "legislature",
+            "of",
+            "the",
+            "state",
+            "of",
+            "Alaska",
+            "in",
+            "1971",
+            ",",
+            "and",
+            "has",
+            "so",
+            "far",
+            "acquired",
+            "6.1",
+            "billion",
+            "dlrs",
+            "of",
+            "mortgages",
+            "originated",
+            "in",
+            "Alaska",
+            "."
+        ]
+    ]
+}

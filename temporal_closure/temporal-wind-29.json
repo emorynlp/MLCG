@@ -1,0 +1,341 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "conducted",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "seemed",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "were visible",
+                "pos": [
+                    8,
+                    10
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "took up",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "looked",
+                "pos": [
+                    49,
+                    50
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was clean",
+                "pos": [
+                    63,
+                    65
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "smelt",
+                "pos": [
+                    66,
+                    67
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "shaking off",
+                "pos": [
+                    79,
+                    81
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "tumbled",
+                "pos": [
+                    88,
+                    89
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 2,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 9,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 6,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 7,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-29",
+    "sents": [
+        [
+            "He",
+            "conducted",
+            "the",
+            "two",
+            "animals",
+            "to",
+            "a",
+            "long",
+            "room",
+            "that",
+            "seemed",
+            "half",
+            "bedchamber",
+            "and",
+            "half",
+            "loft",
+            "."
+        ],
+        [
+            "The",
+            "Badger",
+            "'s",
+            "winter",
+            "stores",
+            ",",
+            "which",
+            "indeed",
+            "were",
+            "visible",
+            "everywhere",
+            ",",
+            "took",
+            "up",
+            "half",
+            "the",
+            "room",
+            "\u2014",
+            "piles",
+            "of",
+            "apples",
+            ",",
+            "turnips",
+            ",",
+            "and",
+            "potatoes",
+            ",",
+            "baskets",
+            "full",
+            "of",
+            "nuts",
+            ",",
+            "and",
+            "jars",
+            "of",
+            "honey",
+            ";",
+            "but",
+            "the",
+            "two",
+            "little",
+            "white",
+            "beds",
+            "on",
+            "the",
+            "remainder",
+            "of",
+            "the",
+            "floor",
+            "looked",
+            "soft",
+            "and",
+            "inviting",
+            ",",
+            "and",
+            "the",
+            "linen",
+            "on",
+            "them",
+            ",",
+            "though",
+            "coarse",
+            ",",
+            "was",
+            "clean",
+            "and",
+            "smelt",
+            "beautifully",
+            "of",
+            "lavender",
+            ";",
+            "and",
+            "the",
+            "Mole",
+            "and",
+            "the",
+            "Water",
+            "Rat",
+            ",",
+            "shaking",
+            "off",
+            "their",
+            "garments",
+            "in",
+            "some",
+            "thirty",
+            "seconds",
+            ",",
+            "tumbled",
+            "in",
+            "between",
+            "the",
+            "sheets",
+            "in",
+            "great",
+            "joy",
+            "and",
+            "contentment",
+            "."
+        ]
+    ]
+}

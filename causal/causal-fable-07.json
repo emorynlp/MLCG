@@ -1,0 +1,298 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "do n\u2019t kill me",
+                "pos": [
+                    11,
+                    15
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "Because",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "I like to live",
+                "pos": [
+                    2,
+                    6
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "if",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 4,
+                "type": "ENABLING"
+            }
+        ],
+        [
+            {
+                "name": "you let me go",
+                "pos": [
+                    18,
+                    22
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "I will bring some of my friends and neighbors here , and you can catch them , and that will be better than only one poor bird",
+                "pos": [
+                    23,
+                    50
+                ],
+                "sent_id": 4,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "your friends and neighbors should die",
+                "pos": [
+                    8,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "to",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 5,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "save your own life",
+                "pos": [
+                    16,
+                    20
+                ],
+                "sent_id": 5,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 5,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 6,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 8,
+            "t": 7,
+            "evidence": []
+        }
+    ],
+    "title": "causal-fable-07",
+    "sents": [
+        [
+            "A",
+            "FOWLER",
+            "caught",
+            "a",
+            "Partridge",
+            ",",
+            "and",
+            "was",
+            "just",
+            "going",
+            "to",
+            "kill",
+            "it",
+            "."
+        ],
+        [
+            "\u201c",
+            "Wait",
+            "a",
+            "moment",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Partridge",
+            ";",
+            "\u201c",
+            "do",
+            "n\u2019t",
+            "kill",
+            "me",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "Why",
+            "not",
+            "?",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Fowler",
+            "."
+        ],
+        [
+            "\u201c",
+            "Because",
+            "I",
+            "like",
+            "to",
+            "live",
+            ",",
+            "\u201d",
+            "said",
+            "the",
+            "Partridge",
+            ";",
+            "\u201c",
+            "and",
+            ",",
+            "besides",
+            ",",
+            "if",
+            "you",
+            "let",
+            "me",
+            "go",
+            ",",
+            "I",
+            "will",
+            "bring",
+            "some",
+            "of",
+            "my",
+            "friends",
+            "and",
+            "neighbors",
+            "here",
+            ",",
+            "and",
+            "you",
+            "can",
+            "catch",
+            "them",
+            ",",
+            "and",
+            "that",
+            "will",
+            "be",
+            "better",
+            "than",
+            "only",
+            "one",
+            "poor",
+            "bird",
+            ".",
+            "\u201d"
+        ],
+        [
+            "\u201c",
+            "You",
+            "are",
+            "willing",
+            ",",
+            "then",
+            ",",
+            "that",
+            "your",
+            "friends",
+            "and",
+            "neighbors",
+            "should",
+            "die",
+            ",",
+            "to",
+            "save",
+            "your",
+            "own",
+            "life",
+            "?",
+            "\u201d"
+        ],
+        [
+            "said",
+            "the",
+            "Fowler",
+            "."
+        ],
+        [
+            "\u201c",
+            "Wicked",
+            "Partridge",
+            "!"
+        ],
+        [
+            "you",
+            "have",
+            "lived",
+            "long",
+            "enough",
+            ".",
+            "\u201d"
+        ],
+        [
+            "And",
+            "he",
+            "killed",
+            "it",
+            "."
+        ]
+    ]
+}

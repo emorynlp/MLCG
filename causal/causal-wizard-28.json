@@ -1,0 +1,281 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "they could mend him",
+                "pos": [
+                    13,
+                    17
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "so",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 0,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "he would be as good as ever",
+                "pos": [
+                    18,
+                    25
+                ],
+                "sent_id": 0,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "they set to work in one of the big yellow rooms of the castle and worked for three days and four nights , hammering and twisting and bending and soldering and polishing and pounding at the legs and body and head of the Tin Woodman",
+                "pos": [
+                    1,
+                    46
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "until",
+                "pos": [
+                    47,
+                    48
+                ],
+                "sent_id": 1,
+                "type": "PREVENTING"
+            }
+        ],
+        [
+            {
+                "name": "he was straightened out into his old form , and his joints worked as well as ever",
+                "pos": [
+                    50,
+                    67
+                ],
+                "sent_id": 1,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "as",
+                "pos": [
+                    20,
+                    21
+                ],
+                "sent_id": 2,
+                "type": "CAUSING"
+            }
+        ],
+        [
+            {
+                "name": "the Woodman was not a vain man",
+                "pos": [
+                    21,
+                    28
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ],
+        [
+            {
+                "name": "he did not mind the patches at all",
+                "pos": [
+                    28,
+                    36
+                ],
+                "sent_id": 2,
+                "type": "ARGUMENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "effect",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 2,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 3,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "cause",
+            "h": 7,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "effect",
+            "h": 8,
+            "t": 6,
+            "evidence": []
+        }
+    ],
+    "title": "causal-wizard-28",
+    "sents": [
+        [
+            "The",
+            "tinsmiths",
+            "looked",
+            "the",
+            "Woodman",
+            "over",
+            "carefully",
+            "and",
+            "then",
+            "answered",
+            "that",
+            "they",
+            "thought",
+            "they",
+            "could",
+            "mend",
+            "him",
+            "so",
+            "he",
+            "would",
+            "be",
+            "as",
+            "good",
+            "as",
+            "ever",
+            "."
+        ],
+        [
+            "So",
+            "they",
+            "set",
+            "to",
+            "work",
+            "in",
+            "one",
+            "of",
+            "the",
+            "big",
+            "yellow",
+            "rooms",
+            "of",
+            "the",
+            "castle",
+            "and",
+            "worked",
+            "for",
+            "three",
+            "days",
+            "and",
+            "four",
+            "nights",
+            ",",
+            "hammering",
+            "and",
+            "twisting",
+            "and",
+            "bending",
+            "and",
+            "soldering",
+            "and",
+            "polishing",
+            "and",
+            "pounding",
+            "at",
+            "the",
+            "legs",
+            "and",
+            "body",
+            "and",
+            "head",
+            "of",
+            "the",
+            "Tin",
+            "Woodman",
+            ",",
+            "until",
+            "at",
+            "last",
+            "he",
+            "was",
+            "straightened",
+            "out",
+            "into",
+            "his",
+            "old",
+            "form",
+            ",",
+            "and",
+            "his",
+            "joints",
+            "worked",
+            "as",
+            "well",
+            "as",
+            "ever",
+            "."
+        ],
+        [
+            "To",
+            "be",
+            "sure",
+            ",",
+            "there",
+            "were",
+            "several",
+            "patches",
+            "on",
+            "him",
+            ",",
+            "but",
+            "the",
+            "tinsmiths",
+            "did",
+            "a",
+            "good",
+            "job",
+            ",",
+            "and",
+            "as",
+            "the",
+            "Woodman",
+            "was",
+            "not",
+            "a",
+            "vain",
+            "man",
+            "he",
+            "did",
+            "not",
+            "mind",
+            "the",
+            "patches",
+            "at",
+            "all",
+            "."
+        ]
+    ]
+}

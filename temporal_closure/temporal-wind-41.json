@@ -1,0 +1,577 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "fetching",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "mixed",
+                "pos": [
+                    19,
+                    20
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "heaving",
+                "pos": [
+                    32,
+                    33
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "warmed",
+                "pos": [
+                    54,
+                    55
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was planned",
+                "pos": [
+                    61,
+                    63
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was thought out",
+                "pos": [
+                    67,
+                    70
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was got",
+                "pos": [
+                    74,
+                    76
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was a wonderful find",
+                "pos": [
+                    85,
+                    89
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "a bargain",
+                "pos": [
+                    90,
+                    92
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was bought out",
+                "pos": [
+                    97,
+                    100
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "restored",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "needed",
+                "pos": [
+                    41,
+                    42
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was desperately hungry",
+                "pos": [
+                    46,
+                    49
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "strove",
+                "pos": [
+                    50,
+                    51
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "nodding",
+                "pos": [
+                    55,
+                    56
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "examining",
+                "pos": [
+                    58,
+                    59
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "saying",
+                "pos": [
+                    65,
+                    66
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "was given",
+                "pos": [
+                    84,
+                    86
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 1,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 12,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 12,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 18,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 11,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 3,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 4,
+            "t": 3,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 13,
+            "t": 12,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 14,
+            "t": 13,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 15,
+            "t": 14,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 16,
+            "t": 15,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 17,
+            "t": 16,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 18,
+            "t": 17,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 1,
+            "t": 3,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-wind-41",
+    "sents": [
+        [
+            "Then",
+            ",",
+            "while",
+            "the",
+            "Rat",
+            "busied",
+            "himself",
+            "fetching",
+            "plates",
+            ",",
+            "and",
+            "knives",
+            "and",
+            "forks",
+            ",",
+            "and",
+            "mustard",
+            "which",
+            "he",
+            "mixed",
+            "in",
+            "an",
+            "egg",
+            "-",
+            "cup",
+            ",",
+            "the",
+            "Mole",
+            ",",
+            "his",
+            "bosom",
+            "still",
+            "heaving",
+            "with",
+            "the",
+            "stress",
+            "of",
+            "his",
+            "recent",
+            "emotion",
+            ",",
+            "related",
+            "\u2014",
+            "somewhat",
+            "shyly",
+            "at",
+            "first",
+            ",",
+            "but",
+            "with",
+            "more",
+            "freedom",
+            "as",
+            "he",
+            "warmed",
+            "to",
+            "his",
+            "subject",
+            "\u2014",
+            "how",
+            "this",
+            "was",
+            "planned",
+            ",",
+            "and",
+            "how",
+            "that",
+            "was",
+            "thought",
+            "out",
+            ",",
+            "and",
+            "how",
+            "this",
+            "was",
+            "got",
+            "through",
+            "a",
+            "windfall",
+            "from",
+            "an",
+            "aunt",
+            ",",
+            "and",
+            "that",
+            "was",
+            "a",
+            "wonderful",
+            "find",
+            "and",
+            "a",
+            "bargain",
+            ",",
+            "and",
+            "this",
+            "other",
+            "thing",
+            "was",
+            "bought",
+            "out",
+            "of",
+            "laborious",
+            "savings",
+            "and",
+            "a",
+            "certain",
+            "amount",
+            "of",
+            "going",
+            "without",
+            "."
+        ],
+        [
+            "His",
+            "spirits",
+            "finally",
+            "quite",
+            "restored",
+            ",",
+            "he",
+            "must",
+            "needs",
+            "go",
+            "and",
+            "caress",
+            "his",
+            "possessions",
+            ",",
+            "and",
+            "take",
+            "a",
+            "lamp",
+            "and",
+            "show",
+            "off",
+            "their",
+            "points",
+            "to",
+            "his",
+            "visitor",
+            "and",
+            "expatiate",
+            "on",
+            "them",
+            ",",
+            "quite",
+            "forgetful",
+            "of",
+            "the",
+            "supper",
+            "they",
+            "both",
+            "so",
+            "much",
+            "needed",
+            ";",
+            "Rat",
+            ",",
+            "who",
+            "was",
+            "desperately",
+            "hungry",
+            "but",
+            "strove",
+            "to",
+            "conceal",
+            "it",
+            ",",
+            "nodding",
+            "seriously",
+            ",",
+            "examining",
+            "with",
+            "a",
+            "puckered",
+            "brow",
+            ",",
+            "and",
+            "saying",
+            ",",
+            "\"",
+            "wonderful",
+            "\"",
+            "and",
+            "\"",
+            "most",
+            "remarkable",
+            "\"",
+            "at",
+            "intervals",
+            ",",
+            "when",
+            "the",
+            "chance",
+            "for",
+            "an",
+            "observation",
+            "was",
+            "given",
+            "him",
+            "."
+        ]
+    ]
+}

@@ -1,0 +1,387 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "we",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 4,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the house",
+                "pos": [
+                    12,
+                    14
+                ],
+                "sent_id": 1,
+                "type": "entity"
+            },
+            {
+                "name": "The house",
+                "pos": [
+                    1,
+                    3
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "the little woman",
+                "pos": [
+                    10,
+                    13
+                ],
+                "sent_id": 5,
+                "type": "entity"
+            },
+            {
+                "name": "I",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "the little woman",
+                "pos": [
+                    16,
+                    19
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "her",
+                "pos": [
+                    7,
+                    8
+                ],
+                "sent_id": 3,
+                "type": "entity"
+            },
+            {
+                "name": "she",
+                "pos": [
+                    4,
+                    5
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 7,
+                "type": "entity"
+            },
+            {
+                "name": "She",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    17,
+                    18
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "all the Munchkins",
+                "pos": [
+                    4,
+                    7
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "them",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 8,
+                "type": "entity"
+            },
+            {
+                "name": "they",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ],
+        [
+            {
+                "name": "Dorothy",
+                "pos": [
+                    0,
+                    1
+                ],
+                "sent_id": 0,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "her",
+                "pos": [
+                    14,
+                    15
+                ],
+                "sent_id": 2,
+                "type": "entity"
+            },
+            {
+                "name": "Dorothy",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 6,
+                "type": "entity"
+            },
+            {
+                "name": "you",
+                "pos": [
+                    11,
+                    12
+                ],
+                "sent_id": 9,
+                "type": "entity"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "subset",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        }
+    ],
+    "title": "coref-wizard-07",
+    "sents": [
+        [
+            "Dorothy",
+            "looked",
+            ",",
+            "and",
+            "gave",
+            "a",
+            "little",
+            "cry",
+            "of",
+            "fright",
+            "."
+        ],
+        [
+            "There",
+            ",",
+            "indeed",
+            ",",
+            "just",
+            "under",
+            "the",
+            "corner",
+            "of",
+            "the",
+            "great",
+            "beam",
+            "the",
+            "house",
+            "rested",
+            "on",
+            ",",
+            "two",
+            "feet",
+            "were",
+            "sticking",
+            "out",
+            ",",
+            "shod",
+            "in",
+            "silver",
+            "shoes",
+            "with",
+            "pointed",
+            "toes",
+            "."
+        ],
+        [
+            "\"",
+            "Oh",
+            ",",
+            "dear",
+            "!",
+            "Oh",
+            ",",
+            "dear",
+            "!",
+            "\"",
+            "cried",
+            "Dorothy",
+            ",",
+            "clasping",
+            "her",
+            "hands",
+            "together",
+            "in",
+            "dismay",
+            "."
+        ],
+        [
+            "\"",
+            "The",
+            "house",
+            "must",
+            "have",
+            "fallen",
+            "on",
+            "her",
+            "."
+        ],
+        [
+            "Whatever",
+            "shall",
+            "we",
+            "do",
+            "?",
+            "\""
+        ],
+        [
+            "\"",
+            "There",
+            "is",
+            "nothing",
+            "to",
+            "be",
+            "done",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "little",
+            "woman",
+            "calmly",
+            "."
+        ],
+        [
+            "\"",
+            "But",
+            "who",
+            "was",
+            "she",
+            "?",
+            "\"",
+            "asked",
+            "Dorothy",
+            "."
+        ],
+        [
+            "\"",
+            "She",
+            "was",
+            "the",
+            "Wicked",
+            "Witch",
+            "of",
+            "the",
+            "East",
+            ",",
+            "as",
+            "I",
+            "said",
+            ",",
+            "\"",
+            "answered",
+            "the",
+            "little",
+            "woman",
+            "."
+        ],
+        [
+            "\"",
+            "She",
+            "has",
+            "held",
+            "all",
+            "the",
+            "Munchkins",
+            "in",
+            "bondage",
+            "for",
+            "many",
+            "years",
+            ",",
+            "making",
+            "them",
+            "slave",
+            "for",
+            "her",
+            "night",
+            "and",
+            "day",
+            "."
+        ],
+        [
+            "Now",
+            "they",
+            "are",
+            "all",
+            "set",
+            "free",
+            ",",
+            "and",
+            "are",
+            "grateful",
+            "to",
+            "you",
+            "for",
+            "the",
+            "favor",
+            "."
+        ],
+        [
+            "\""
+        ]
+    ]
+}

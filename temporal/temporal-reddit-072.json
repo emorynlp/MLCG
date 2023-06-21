@@ -1,0 +1,357 @@
+{
+    "vertexSet": [
+        [
+            {
+                "name": "",
+                "pos": [
+                    -1,
+                    0
+                ],
+                "sent_id": 0,
+                "type": "DCT"
+            }
+        ],
+        [
+            {
+                "name": "applied",
+                "pos": [
+                    15,
+                    16
+                ],
+                "sent_id": 0,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "in",
+                "pos": [
+                    2,
+                    3
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "be fine",
+                "pos": [
+                    10,
+                    12
+                ],
+                "sent_id": 1,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "\u2019m sad",
+                "pos": [
+                    2,
+                    4
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wanted",
+                "pos": [
+                    24,
+                    25
+                ],
+                "sent_id": 2,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "opening",
+                "pos": [
+                    23,
+                    24
+                ],
+                "sent_id": 3,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "wish",
+                "pos": [
+                    1,
+                    2
+                ],
+                "sent_id": 4,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "letting",
+                "pos": [
+                    8,
+                    9
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "know",
+                "pos": [
+                    10,
+                    11
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ],
+        [
+            {
+                "name": "rejected",
+                "pos": [
+                    13,
+                    14
+                ],
+                "sent_id": 5,
+                "type": "EVENT"
+            }
+        ]
+    ],
+    "labels": [
+        {
+            "r": "before",
+            "h": 3,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 4,
+            "t": 5,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 8,
+            "t": 9,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 9,
+            "t": 10,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "contains",
+            "h": 0,
+            "t": 7,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 1,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 6,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 2,
+            "evidence": []
+        },
+        {
+            "r": "before",
+            "h": 0,
+            "t": 8,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 5,
+            "t": 4,
+            "evidence": []
+        },
+        {
+            "r": "overlap",
+            "h": 9,
+            "t": 8,
+            "evidence": []
+        }
+    ],
+    "title": "temporal-reddit-072",
+    "sents": [
+        [
+            "I",
+            "\u2019m",
+            "not",
+            "sad",
+            "about",
+            "getting",
+            "rejected",
+            "by",
+            "13",
+            "out",
+            "of",
+            "the",
+            "16",
+            "schools",
+            "I",
+            "applied",
+            "to",
+            "."
+        ],
+        [
+            "I",
+            "got",
+            "in",
+            "to",
+            "some",
+            "decent",
+            "safeties",
+            "so",
+            "I",
+            "\u2019ll",
+            "be",
+            "fine",
+            "."
+        ],
+        [
+            "What",
+            "I",
+            "\u2019m",
+            "sad",
+            "about",
+            "is",
+            "that",
+            "I",
+            "\u2019ll",
+            "never",
+            "be",
+            "able",
+            "to",
+            "feel",
+            "the",
+            "emotion",
+            "of",
+            "getting",
+            "accepted",
+            "into",
+            "the",
+            "school",
+            "I",
+            "really",
+            "wanted",
+            "."
+        ],
+        [
+            "Instead",
+            ",",
+            "when",
+            "I",
+            "look",
+            "back",
+            "on",
+            "this",
+            "part",
+            "of",
+            "my",
+            "life",
+            ",",
+            "I",
+            "\u2019ll",
+            "only",
+            "remember",
+            "the",
+            "boring",
+            ",",
+            "dull",
+            "feeling",
+            "of",
+            "opening",
+            "all",
+            "13",
+            "rejection",
+            "letters",
+            "."
+        ],
+        [
+            "I",
+            "wish",
+            "I",
+            "could",
+            "have",
+            "felt",
+            "that",
+            "emotion",
+            ",",
+            "opening",
+            "up",
+            "a",
+            "decision",
+            "letter",
+            ",",
+            "being",
+            "surprised",
+            "about",
+            "the",
+            "result",
+            ",",
+            "crying",
+            "tears",
+            "of",
+            "joy",
+            ",",
+            "rushing",
+            "to",
+            "find",
+            "my",
+            "family",
+            "and",
+            "tell",
+            "them",
+            "\u201c",
+            "I",
+            "got",
+            "in",
+            "!!!",
+            "\u201d"
+        ],
+        [
+            ".",
+            "Instead",
+            ",",
+            "each",
+            "time",
+            "was",
+            "me",
+            "casually",
+            "letting",
+            "them",
+            "know",
+            "I",
+            "got",
+            "rejected",
+            "from",
+            "somewhere",
+            "."
+        ]
+    ]
+}
