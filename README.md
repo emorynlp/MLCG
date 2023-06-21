@@ -9,3 +9,7 @@ For instance, children's stories in the corpus exhibit a linear temporal structu
 The annotation schemes used in the MLCG corpus have been carefully adapted from existing work to suit a broad range of text types. By incorporating annotations for coreference resolution, causal relations, and temporal relations, the corpus provides valuable insights into the interplay between different forms of semantic information within and across genres.
 
 Researchers can leverage the MLCG corpus to explore the diverse textual characteristics and uncover the nuances associated with each genre. The availability of this corpus under the open-source Apache 2.0 license encourages collaboration, fosters advancements in natural language processing, and supports the development of more effective machine learning models and language understanding systems.
+
+## Contact
+
+* [Jinho D. Choi](https://www.emorynlp.org/faculty/jinho-choi)
