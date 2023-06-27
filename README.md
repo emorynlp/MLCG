@@ -10,6 +10,27 @@ The annotation schemes used in the MLCG corpus have been carefully adapted from 
 
 Researchers can leverage the MLCG corpus to explore the diverse textual characteristics and uncover the nuances associated with each genre. The availability of this corpus under the open-source Apache 2.0 license encourages collaboration, fosters advancements in natural language processing, and supports the development of more effective machine learning models and language understanding systems.
 
+## Corpus Breakdown
+
+| |Causal|Coref|Temporal|
+|---|---|---|---|
+|CNN[^1]|50|50|50|
+|Fables[^2]|50|50|50|
+|Reddit[^3]|100|100|150|
+|Reuters[^4]|50|50|50|
+|Wind in the Willows[^2]|-|-|50|
+|Wizard of Oz[^2]|50|50|50|
+|**Total**|300|300|400|
+
+All data is tokenized using the ELIT Tokenizer[^5] and filtered to a length of 100-200 tokens. Reddit posts are additionally filtered using the Profanity-Check Python module[^6].
+
 ## Contact
 
 * [Jinho D. Choi](https://www.emorynlp.org/faculty/jinho-choi)
+
+[^1]: https://huggingface.co/datasets/cnn_dailymail
+[^2]: https://www.gutenberg.org/
+[^3]: https://github.com/emorynlp/reddit-college
+[^4]: https://www.kaggle.com/datasets/nltkdata/reuters
+[^5]: https://github.com/emorynlp/elit-tokenizer
+[^6]: https://github.com/vzhou842/profanity-check
